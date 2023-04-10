@@ -10,7 +10,7 @@
      "aqueous phase": {
 
         "solutes": [
-            {"identity": ["Ammonium Nitrate", "InChI=1S/NO3.H3N/c2-1(3)4,/h,1H3/q-1,/p+1"], "concentration": {"quantity": 0.1, "unit": "M"}}],
+            {"identity": "Ammonium Nitrate", "concentration": {"quantity": 0.1, "unit": "M"}}],
     
         "pH": 4.16,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
