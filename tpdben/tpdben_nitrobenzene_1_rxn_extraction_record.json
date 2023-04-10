@@ -2,16 +2,13 @@
     "organic phase": {
         "extractants": [
             {"identity":"tpdben", "concentration": {"quantity": 0.01, "unit": "M"}}],
-
          "solvents": [
             {"identity": "NITROBENZENE", "volfraction": 1.0,"volume": {"quantity": 2.5, "unit": "milliliter"}}]
     },
     
      "aqueous phase": {
-
         "solutes": [
             {"identity": "Ammonium Nitrate", "concentration": {"quantity": 0.1, "unit": "M"}}],
-    
         "pH": 4.62,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
@@ -25,7 +22,6 @@
     "metals":[
             {"identity": "Am(III)", "isotope": 241, "initial concentration": {"quantity": 200, "unit": "kBq/ml"}, "D": 8.0e-4, "quantification method":"gamma"},
             {"identity": "Eu(III)", "isotope": 152, "initial concentration": {"quantity": 1250, "unit": "kBq/ml"}, "D": 1.4e-4, "quantification method":"gamma"}
-      
     ]
     ,
     "observations": {

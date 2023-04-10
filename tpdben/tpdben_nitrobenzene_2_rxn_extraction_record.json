@@ -8,7 +8,6 @@
     },
     
      "aqueous phase": {
-
         "solutes": [
             {"identity": "Ammonium Nitrate", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
@@ -25,7 +24,6 @@
     "metals":[
             {"identity": "Am(III)", "isotope": 241, "initial concentration": {"quantity": 200, "unit": "kBq/ml"}, "D": 3.8e-3, "quantification method":"gamma"},
             {"identity": "Eu(III)", "isotope": 152, "initial concentration": {"quantity": 1250, "unit": "kBq/ml"}, "D": 5.0e-4, "quantification method":"gamma"}
-      
     ]
     ,
     "observations": {
@@ -33,7 +31,7 @@
         "comment": "Look at table 1 on Matsumura paper, Isotopes & concentrations are stated in p. 825-826"},
     
      "provenance": {
-        "doi": "https://doi.org/10.1080/18811248.2006.9711167",		
+        "doi": "10.1080/18811248.2006.9711167",		
         "publication_url": "https://www.tandfonline.com/loi/tnst20",
         "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\MATSUMURA and TAKESHITA - 2006 - Extraction Behavior of Am(III) from Eu(III) with H.pdf"},
     
