@@ -1,0 +1,52 @@
+[{
+    "organic phase": {
+        "extractants": [
+            {"identity":["HDEHP", "InChI=1S/C16H35O3P/c1-5-9-11-15(7-3)13-19-20(17,18)14-16(8-4)12-10-6-2/h15-16H,5-14H2,1-4H3,(H,17,18)"], "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "1,4-di-isopropylbenzene", "volfraction": 1.0}],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "DTPA", "concentration": {"quantity": 0.05, "unit": "M"}}],
+    
+        "solutes": [
+            {"identity": "Citric acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
+    
+        "pH": 3.0,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "shake rate": {"quantity": 0, "unit": "RPM"},
+        "time": {"quantity": 0, "unit": "seconds"}
+    },
+    
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 0.0085, "quantification method":"gamma"},
+        {"identity": "La", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 0.7446, "quantification method":"gamma"},
+        {"identity": "Ce", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 0.8568, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 1.07e0, "quantification method":"gamma"}
+    ]
+    ,
+    "observations": {
+        "comment": "TALSPEAK is a complex extraction process for separating Trivaent Lathinides.  Acids & D values derived from p. 682, table 5 of Nilsson & Nash, 2007"
+    },
+
+     "provenance": {
+        "doi": "10.1080/07366290701634636",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Nilsson and Nash - 2007 - Review Article A Review of the Development and Op.pdf"},
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+    
+    }]
