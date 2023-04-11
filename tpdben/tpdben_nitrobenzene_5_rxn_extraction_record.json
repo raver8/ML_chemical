@@ -10,7 +10,7 @@
      "aqueous phase": {
 
         "solutes": [
-            {"identity": ["Ammonium Nitrate", "InChI=1S/NO3.H3N/c2-1(3)4,/h,1H3/q-1,/p+1"], "concentration": {"quantity": 3.0, "unit": "M"}}],
+            {"identity": "Ammonium Nitrate", "concentration": {"quantity": 3.0, "unit": "M"}}],
     
         "pH": 5.06,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
@@ -40,8 +40,7 @@
         "organization": "LANL",	
         "city": "Los Alamos, NM",	
         "experiment start": "2023-03-21:24:00:00+0",
-        "doi": "https://doi.org/10.1080/18811248.2006.9711167",	
-        "patent": "U.S.",	
+        "doi": "10.1080/18811248.2006.9711167",	
         "publication_url": "https://www.tandfonline.com/loi/tnst20",
         "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\MATSUMURA and TAKESHITA - 2006 - Extraction Behavior of Am(III) from Eu(III) with H.pdf"},
     
