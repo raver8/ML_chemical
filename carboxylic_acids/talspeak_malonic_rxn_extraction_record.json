@@ -4,8 +4,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "1,4-di-isopropylbenzene", "volfraction": 1.0}],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
+            {"identity": "1,4-di-isopropylbenzene", "volfraction": 1.0, "volume": {"quantity": 1.0, "unit": "milliliter"}}]
     },
     
      "aqueous phase": {

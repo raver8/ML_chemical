@@ -1,11 +1,10 @@
 [{
     "organic phase": {
         "extractants": [
-            {"identity":["HDEHP", "InChI=1S/C16H35O3P/c1-5-9-11-15(7-3)13-19-20(17,18)14-16(8-4)12-10-6-2/h15-16H,5-14H2,1-4H3,(H,17,18)"], "concentration": {"quantity": 0.2, "unit": "M"}}],
+            {"identity":"HDEHP", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "1,4-di-isopropylbenzene", "volfraction": 1.0}],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
+            {"identity": "1,4-di-isopropylbenzene", "volfraction": 1.0, "volume": {"quantity": 1.0, "unit": "milliliter"}}]
     },
     
      "aqueous phase": {
