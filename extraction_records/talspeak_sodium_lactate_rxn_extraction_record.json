@@ -22,7 +22,7 @@
     "reaction conditions": {
         "temperature": {"quantity": 294, "unit": "K"},
         "shake rate": {"quantity": 0, "unit": "RPM"},
-        "time": {"quantity": 172800, "unit": "seconds"}
+        "time": {"quantity": 1800, "unit": "seconds"}
     },
     
     "metals":[
@@ -42,10 +42,8 @@
         {"identity": "Yb", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 331.5657, "quantification method":"ICP-MS"},
         {"identity": "Lu", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 435.7531, "quantification method":"ICP-MS"},
         {"identity": "Y", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 486.0812, "quantification method":"ICP-MS"}
-
-
-    ]
-    ,
+]
+,
     "observations": {
         "third phase": true,
         "comment": "Simplified TALPSEAK Extraction in DTPA or TTHA.  Acids & D values derived from p. 631, figure 2A of Braley, Nilsson & Nash, 2007"
