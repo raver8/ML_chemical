@@ -1,0 +1,66 @@
+[{
+    "organic phase": {
+        "extractants": [
+            {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "Sodium Nitrate", "volfraction": 1.0,
+             "volume": {"quantity": 1.0, "unit": "milliliter"}}]
+    },
+    
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "DTPA", "concentration": {"quantity": 0.02, "unit": "M"}}],
+    
+        "solutes": [
+            {"identity": "Sodium Lactate", "concentration": {"quantity": 1.0, "unit": "M"}}],
+    
+        "pH": 3.6,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 294, "unit": "K"},
+        "shake rate": {"quantity": 0, "unit": "RPM"},
+        "time": {"quantity": 172800, "unit": "seconds"}
+    },
+    
+    "metals":[
+        {"identity": "La", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 14.18727, "quantification method":"ICP-MS"},
+        {"identity": "Ce", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 6.250087, "quantification method":"ICP-MS"},
+        {"identity": "Pr", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 2.057269, "quantification method":"ICP-MS"},
+        {"identity": "Nd", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 1.281135, "quantification method":"ICP-MS"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 0.101838, "quantification method":"gamma"},
+        {"identity": "Sm", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 2.212772, "quantification method":"ICP-MS"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 3.618631, "quantification method":"gamma"},
+        {"identity": "Gd", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 6.481998, "quantification method":"ICP-MS"},
+        {"identity": "Tb", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 20.42333, "quantification method":"ICP-MS"},
+        {"identity": "Dy", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 46.35955, "quantification method":"ICP-MS"},
+        {"identity": "Ho", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 94.33732, "quantification method":"ICP-MS"},
+        {"identity": "Er", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 185.0994, "quantification method":"ICP-MS"},
+        {"identity": "Tm", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 256.9272, "quantification method":"ICP-MS"},
+        {"identity": "Yb", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 331.5657, "quantification method":"ICP-MS"},
+        {"identity": "Lu", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 435.7531, "quantification method":"ICP-MS"},
+        {"identity": "Y", "initial concentration": {"quantity": 1.2, "unit": "M"}, "D": 486.0812, "quantification method":"ICP-MS"}
+
+
+    ]
+    ,
+    "observations": {
+        "third phase": true,
+        "comment": "Simplified TALPSEAK Extraction in DTPA or TTHA.  Acids & D values derived from p. 631, figure 2A of Braley, Nilsson & Nash, 2007"
+    },
+
+     "provenance": {
+        "doi": "10.1021/ie200285r",	
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\1-s2.0-S0304389414007882-main.pdf"},
+    
+    "record creation": {
+        "time": "2023:4:17:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+}]
