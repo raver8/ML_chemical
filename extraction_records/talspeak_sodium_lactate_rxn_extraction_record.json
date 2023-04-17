@@ -20,7 +20,7 @@
     },   
     
     "reaction conditions": {
-        "temperature": {"quantity": 298, "unit": "K"},
+        "temperature": {"quantity": 294, "unit": "K"},
         "shake rate": {"quantity": 0, "unit": "RPM"},
         "time": {"quantity": 172800, "unit": "seconds"}
     },
