@@ -201,7 +201,15 @@
 "InChI": "InChI=1S/C3H6O3.Na/c1-2(4)3(5)6;/h2,4H,1H3,(H,5,6);/q;+1/p-1",
 "PubchemCID":"23666456",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23666456"
-    
-    
+},
+{
+"names": ["150-39-0", "N-(2-Hydroxyethyl)Ethylenediaminetriacetic Acid", "HEDTA", "Heedta", "Versenol", "Detarol", "CHEL DM Acid", "Versenol 120"],
+"pure substance": true,
+"CAS": "150-39-0",
+"SMILES": "C(CN(CC(=O)O)CC(=O)O)N(CCO)CC(=O)O",
+"InChIKey": "URDCARMUOSMFFI-UHFFFAOYSA-N",
+"InChI": "InChI: InChI=1S/C10H18N2O7/c13-4-3-11(5-8(14)15)1-2-12(6-9(16)17)7-10(18)19/h13H,1-7H2,(H,14,15)(H,16,17)(H,18,19)",
+"PubchemCID": "8773",
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8773" 
 }
 ]
