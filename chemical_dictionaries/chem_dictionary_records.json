@@ -211,5 +211,16 @@
 "InChI": "InChI=1S/C10H18N2O7/c13-4-3-11(5-8(14)15)1-2-12(6-9(16)17)7-10(18)19/h13H,1-7H2,(H,14,15)(H,16,17)(H,18,19)",
 "PubchemCID": "8773",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8773" 
+},
+{
+"names": ["869-52-3", "TTHA", "Triethylenetetramine-N,N,N',N'',N''',N'''-Hexaacetic Acid", "3,6,9,12-Tetraazatetradecanedioic Acid, 3,6,9,12-Tetrakis(Carboxymethyl)-, Hexaacetic Acid", "3,6,9,12-Tetrakis(Carboxymethyl)-3,6,9,12-Tetraazatetradecane-1,14-Dioic Acid", "2-[2-[Bis(Carboxymethyl)Amino]Ethyl-[2-[2-[Bis(Carboxymethyl)Amino]Ethyl-(Carboxymethyl)Amino]Ethyl]Amino]Acetic Acid", "3,6,9,12-Tetrakis(Carboxymethyl)-3,6,9,12-Tetraazatetradecanedioic Acid"],
+"pure substance": true,
+"CAS": "869-52-3",
+"SMILES": "C(CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O)N(CCN(CC(=O)O)CC(=O)O)CC(=O)O",
+"InChIKey": "RAEOEMDZDMCHJA-UHFFFAOYSA-N",
+"InChI": "InChI=1S/C18H30N4O12/c23-13(24)7-19(3-5-21(9-15(27)28)10-16(29)30)1-2-20(8-14(25)26)4-6-22(11-17(31)32)12-18(33)34/h1-12H2,(H,23,24)(H,25,26)(H,27,28)(H,29,30)(H,31,32)(H,33,34)",
+"PubchemCID": "70088",
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70088"    
 }
+
 ]
