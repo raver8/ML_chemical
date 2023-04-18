@@ -26,22 +26,22 @@
     },
     
     "metals":[
-        {"identity": "La", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 14.18727, "quantification method":"ICP-MS"},
-        {"identity": "Ce", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 6.250087, "quantification method":"ICP-MS"},
-        {"identity": "Pr", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 2.057269, "quantification method":"ICP-MS"},
-        {"identity": "Nd", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 1.281135, "quantification method":"ICP-MS"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": 0.0625, "unit": "M"}, "D": 0.101838, "quantification method":"gamma"},
-        {"identity": "Sm", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 2.212772, "quantification method":"ICP-MS"},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 3.618631, "quantification method":"gamma"},
-        {"identity": "Gd", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 6.481998, "quantification method":"ICP-MS"},
-        {"identity": "Tb", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 20.42333, "quantification method":"ICP-MS"},
-        {"identity": "Dy", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 46.35955, "quantification method":"ICP-MS"},
-        {"identity": "Ho", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 94.33732, "quantification method":"ICP-MS"},
-        {"identity": "Er", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 185.0994, "quantification method":"ICP-MS"},
-        {"identity": "Tm", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 256.9272, "quantification method":"ICP-MS"},
-        {"identity": "Yb", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 331.5657, "quantification method":"ICP-MS"},
-        {"identity": "Lu", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 435.7531, "quantification method":"ICP-MS"},
-        {"identity": "Y", "initial concentration": {"quantity": 0.0625, "unit": "mM"}, "D": 486.0812, "quantification method":"ICP-MS"}
+        {"identity": "La", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 14.18727, "quantification method":"ICP-MS"},
+        {"identity": "Ce", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 6.250087, "quantification method":"ICP-MS"},
+        {"identity": "Pr", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 2.057269, "quantification method":"ICP-MS"},
+        {"identity": "Nd", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 1.281135, "quantification method":"ICP-MS"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.101838, "quantification method":"gamma"},
+        {"identity": "Sm", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 2.212772, "quantification method":"ICP-MS"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 3.618631, "quantification method":"gamma"},
+        {"identity": "Gd", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 6.481998, "quantification method":"ICP-MS"},
+        {"identity": "Tb", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 20.42333, "quantification method":"ICP-MS"},
+        {"identity": "Dy", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 46.35955, "quantification method":"ICP-MS"},
+        {"identity": "Ho", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 94.33732, "quantification method":"ICP-MS"},
+        {"identity": "Er", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 185.0994, "quantification method":"ICP-MS"},
+        {"identity": "Tm", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 256.9272, "quantification method":"ICP-MS"},
+        {"identity": "Yb", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 331.5657, "quantification method":"ICP-MS"},
+        {"identity": "Lu", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 435.7531, "quantification method":"ICP-MS"},
+        {"identity": "Y", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 486.0812, "quantification method":"ICP-MS"}
 ]
 ,
     "observations": {
