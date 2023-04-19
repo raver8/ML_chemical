@@ -13,7 +13,10 @@
             {"identity": "HEDTA", "concentration": {"quantity": 0.02, "unit": "M"}}],
     
         "solutes": [
-            {"identity": "Sodium Lactate", "concentration": {"quantity": 1.0, "unit": "M"}}],
+            {"identity": "Sodium Lactate", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Sodium Nitrate", "concentration": {"quantity": 1.0, "unit": "M"}}
+        ]
+            ,
     
         "pH": 3.6,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
@@ -46,7 +49,7 @@
 ,
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in 1 M of Lactate and HEDTA.  Acids & D values derived from p. 631, figure 2B of Braley, Nilsson & Nash, 2007"
+        "comment": "Simplified TALPSEAK Extraction in 1 M of Sodium Lactate, 1 M Sodium Nitrate, and HEDTA.  Acids & D values derived from p. 631, figure 2B of Braley, Grimes & Nash, 2007"
     },
 
      "provenance": {

@@ -1,0 +1,67 @@
+[{
+    "organic phase": {
+        "extractants": [
+            {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "n-dodecane", "volfraction": 1.0,
+             "volume": {"quantity": 1.0, "unit": "milliliter"}}]
+    },
+    
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "HEDTA", "concentration": {"quantity": 0.02, "unit": "M"}}],
+    
+        "solutes": [
+            {"identity": "Sodium Lactate", "concentration": {"quantity": 0.1, "unit": "M"}},
+            {"identity": "Sodium Nitrate", "concentration": {"quantity": 1.0, "unit": "M"}}
+
+        ],
+    
+        "pH": 3.6,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 294, "unit": "K"},
+        "shake rate": {"quantity": 0, "unit": "RPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+    },
+    
+    "metals":[
+        {"identity": "La", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 46.38184202, "quantification method":"ICP-MS"},
+        {"identity": "Ce", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 89.18397122, "quantification method":"ICP-MS"},
+        {"identity": "Pr", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 77.63496497, "quantification method":"ICP-MS"},
+        {"identity": "Nd", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 61.20781599, "quantification method":"ICP-MS"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.973929957, "quantification method":"gamma"},
+        {"identity": "Sm", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 174.9161171, "quantification method":"ICP-MS"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 235.4468722, "quantification method":"gamma"},
+        {"identity": "Gd", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 349.9266793, "quantification method":"ICP-MS"},
+        {"identity": "Tb", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 597.4349578, "quantification method":"ICP-MS"},
+        {"identity": "Dy", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 659.6471091, "quantification method":"ICP-MS"},
+        {"identity": "Ho", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 714.0497797, "quantification method":"ICP-MS"},
+        {"identity": "Er", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 742.9111944, "quantification method":"ICP-MS"},
+        {"identity": "Tm", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 728.3375417, "quantification method":"ICP-MS"},
+        {"identity": "Yb", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 728.3375417, "quantification method":"ICP-MS"},
+        {"identity": "Lu", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 509.8670878, "quantification method":"ICP-MS"},
+        {"identity": "Y", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 700.0422999, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "third phase": false,
+        "comment": "Simplified TALPSEAK Extraction in 0.1 M of Lactate, 1 M Sodium Nitrate, and HEDTA.  Acids & D values derived from p. 631, figure 2B of Braley, Grimes, & Nash, 2007"
+    },
+
+     "provenance": {
+        "doi": "10.1021/ie200285r",	
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\1-s2.0-S0304389414007882-main.pdf"},
+    
+    "record creation": {
+        "time": "2023:4:17:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+}]
