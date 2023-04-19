@@ -1,7 +1,7 @@
 [{
     "organic phase": {
         "extractants": [
-            {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
+            {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
             {"identity": "n-dodecane", "volfraction": 1.0,
