@@ -231,5 +231,15 @@
 "InChi": "InChI=1S/C16H35O3P/c1-5-9-11-15(7-3)13-19-20(17,18)14-16(8-4)12-10-6-2/h15-16H,5-14H2,1-4H3,(H,17,18)",
 "PubchemCID": "85771",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/85771"
+},
+{
+"names": ["DODECANE", "n-Dodecane", "112-40-3", "Dihexyl", "Bihexyl", "Adakane 12", "N-Dodecan", "93685-81-5"],
+"pure stubstance": true,
+"CAS": "112-40-3",
+"SMILES": "CCCCCCCCCCCC",
+"InChIKey": "SNRUBQQJIBEYMU-UHFFFAOYSA-N",
+"InChI": "InChI=1S/C12H26/c1-3-5-7-9-11-12-10-8-6-4-2/h3-12H2,1-2H3",
+"PubchemCID": "8182",
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8182"
 }
 ]
