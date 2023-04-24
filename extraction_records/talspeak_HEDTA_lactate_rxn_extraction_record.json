@@ -4,8 +4,8 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 1.0,
-             "volume": {"quantity": 1.0, "unit": "milliliter"}}]
+            {"identity": "n-dodecane", "volfraction": 1.0}],
+             "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
      "aqueous phase": {
@@ -14,9 +14,7 @@
     
         "solutes": [
             {"identity": "Sodium Lactate", "concentration": {"quantity": 1.0, "unit": "M"}},
-            {"identity": "Sodium Nitrate", "concentration": {"quantity": 1.0, "unit": "M"}}
-        ]
-            ,
+            {"identity": "Sodium Nitrate", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
         "pH": 3.6,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
@@ -44,9 +42,8 @@
         {"identity": "Tm", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 700.5188843, "quantification method":"ICP-MS"},
         {"identity": "Yb", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 743.3326449, "quantification method":"ICP-MS"},
         {"identity": "Lu", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 714.5088849, "quantification method":"ICP-MS"},
-        {"identity": "Y", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 728.7782785, "quantification method":"ICP-MS"}
-]
-,
+        {"identity": "Y", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 728.7782785, "quantification method":"ICP-MS"}],
+
     "observations": {
         "third phase": false,
         "comment": "Simplified TALPSEAK Extraction in 1 M of Sodium Lactate, 1 M Sodium Nitrate, and HEDTA.  Acids & D values derived from p. 631, figure 2B of Braley, Grimes & Nash, 2007"
