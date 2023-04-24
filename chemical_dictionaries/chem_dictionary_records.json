@@ -221,7 +221,7 @@
 "InChI": "InChI=1S/C18H30N4O12/c23-13(24)7-19(3-5-21(9-15(27)28)10-16(29)30)1-2-20(8-14(25)26)4-6-22(11-17(31)32)12-18(33)34/h1-12H2,(H,23,24)(H,25,26)(H,27,28)(H,29,30)(H,31,32)(H,33,34)",
 "PubchemCID": "70088",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70088"    
-}
+},
 {
 "names": ["2-ethyl-1-hexyl(2-ethyl-1-hexyl)phosphonic acid", "HEH[EHP]", "2-ethylhexylphosphonic acid mono-2-ethylhexyl ester"],
 "pure substance": true,
