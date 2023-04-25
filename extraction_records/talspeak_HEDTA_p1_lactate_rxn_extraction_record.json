@@ -4,8 +4,8 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 1.0,
-             "volume": {"quantity": 1.0, "unit": "milliliter"}}]
+            {"identity": "n-dodecane", "volfraction": 1.0}],
+             "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
      "aqueous phase": {

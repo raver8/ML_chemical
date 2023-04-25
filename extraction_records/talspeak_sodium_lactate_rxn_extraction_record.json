@@ -4,8 +4,8 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 1.0,
-             "volume": {"quantity": 1.0, "unit": "milliliter"}}]
+            {"identity": "n-dodecane", "volfraction": 1.0}],
+             "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
      "aqueous phase": {
@@ -41,9 +41,8 @@
         {"identity": "Tm", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 256.9272, "quantification method":"ICP-MS"},
         {"identity": "Yb", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 331.5657, "quantification method":"ICP-MS"},
         {"identity": "Lu", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 435.7531, "quantification method":"ICP-MS"},
-        {"identity": "Y", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 486.0812, "quantification method":"ICP-MS"}
-]
-,
+        {"identity": "Y", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 486.0812, "quantification method":"ICP-MS"}],
+        
     "observations": {
         "third phase": false,
         "comment": "Simplified TALPSEAK Extraction in DTPA or TTHA.  Acids & D values derived from p. 631, figure 2A of Braley, Grimes, & Nash, 2007"

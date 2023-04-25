@@ -1,0 +1,173 @@
+[ 
+    {
+    "names": ["La", "Lanthanum", "lantano", "lanthane", "Lanthan", "lanthanum(2+)", "Lanthanum (ingot)"], 
+    "pure substance": true,
+    "CAS": "7439-91-0",
+    "SMILES": "[La]",  
+    "InChIKey": "FZLIPJUXYLNCLC-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/La",
+    "PubchemCID": "23926",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23926"
+    },
+{
+    "names": ["Ce", "7440-45-1", "Cerium", "cerio","13550-45-3"], 
+    "pure substance": true,
+    "CAS": "7440-45-1",
+    "SMILES": "[Ce]",  
+    "InChIKey": "GWXLDORMOJMVQZ-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/Ce",
+    "PubchemCID": "23974",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23974"
+
+    },
+{
+    "names": ["Pr", "7440-10-0", "Praseodymium", "NKN7EZA750", "Praseodymium ingot"], 
+    "pure substance": true,
+    "CAS": "7440-10-0",
+    "SMILES": "[Pr]",  
+    "InChIKey": "PUDIUYLPXJFUGB-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/Pr",
+    "PubchemCID": "23942",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23942"
+},
+{
+    "names": ["Nd", "Neodymium", "neodimio", "neodyme"], 
+    "pure substance": true,
+    "CAS": "7440-00-8",
+    "SMILES": "[Nd]",  
+    "InChIKey": "QEFYFXOXNSNQGX-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/Nd",
+    "PubchemCID": "23934",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23934"
+},
+{
+    "names": ["Am(III), Am-241, Americium-241", "americio", "americium(3+)", "americium(III)"], 
+    "pure substance": true,
+    "CAS": "",
+    "SMILES": "",  
+    "InChIKey": "", 
+    "InChI": "",
+    "PubchemCID": "104726",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/104726"
+},
+{
+    "names": ["Sm", "7440-19-9", "Samarium", "samarium atom", "Samarium, elemental"], 
+    "pure substance": true,
+    "CAS": "7440-19-9",
+    "SMILES": "[Sm]",  
+    "InChIKey": "KZUNJOHGWZRPMI-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/Sm",
+    "PubchemCID": "23951",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23951"
+},
+{
+    "names": ["Eu(III), ", "Eu-154", "Europium-154", "europio", "europium(3+)", "europium(III)"], 
+    "pure substance": true,
+    "CAS": "15585-10-1",
+    "SMILES": "[154Eu]",  
+    "InChIKey": "OGPBJKLSAFTDLK-NJFSPNSNSA-N ", 
+    "InChI": "InChI=1S/Eu/i1+2",
+    "PubchemCID": "105012",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/105012"  
+},
+{
+    "names": ["Eu(III), ", "Eu-152", "Europium-152", "europio", "europium(3+)", "europium(III)"], 
+    "pure substance": true,
+    "CAS": "14683-23-9",
+    "SMILES": "[152Eu]",  
+    "InChIKey": "OGPBJKLSAFTDLK-IGMARMGPSA-N", 
+    "InChI": "InChI=1S/Eu/i1+0",
+    "PubchemCID": "104907",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/104907"    
+},
+{
+    "names": ["Gd", "7440-54-2", "Gadolinium", "GADOLINIUM ATOM", "Gadolinium, elemental"], 
+    "pure substance": true,
+    "CAS": "7440-54-2",
+    "SMILES": "[Gd]",  
+    "InChIKey": "UIWYJDYFSGRHKR-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/Gd",
+    "PubchemCID": "23982",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23982"
+},
+{
+    "names": ["Tb", "7440-27-9", "Terbium", "Terbium ingot", "Terbium foil"], 
+    "pure substance": true,
+    "CAS": "7440-27-9",
+    "SMILES": "[Tb]",  
+    "InChIKey": "GZCRRIHWUXGPOV-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/Tb",
+    "PubchemCID": "23958",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23958"
+},
+{
+    "names": ["Dy", "7429-91-6", "Dysprosium", "Dysprosium powder", "MFCD00010982"], 
+    "pure substance": true,
+    "CAS": "7429-91-6",
+    "SMILES": "[Dy]",  
+    "InChIKey": "KBQHZAAAGSGFKK-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/Dy",
+    "PubchemCID": "23912",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23912"
+},
+{
+    "names": ["Ho", "7440-60-0", "Holmium", "HOLMIUM ATOM","Holmium foil"], 
+    "pure substance": true,
+    "CAS": "7440-60-0",
+    "SMILES": "[Ho]",  
+    "InChIKey": "KJZYNXUDTRRSPN-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/Ho",
+    "PubchemCID": "23988",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23988"
+},
+{
+    "names": ["Er", "7440-52-0", "Erbium", "Erbium foil", "MFCD00010987"], 
+    "pure substance": true,
+    "CAS": "7440-52-0",
+    "SMILES": "[Er]",  
+    "InChIKey": "UYAHIZSMUZPPFV-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/Er",
+    "PubchemCID": "23980",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23980"
+},
+{
+    "names": ["Tm", "7440-30-4", "Thulium", "Thulium trihydride", "8RKC5ATI4P"], 
+    "pure substance": true,
+    "CAS": "7440-30-4",
+    "SMILES": "[Tm]",  
+    "InChIKey": "FRNOGLGSGLTDKL-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/Tm",
+    "PubchemCID": "23961",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23961"
+},
+{
+    "names": ["Yb", "7440-64-4", "Ytterbium", "Ytterbium hydride", "Ytterbium (Ii) Ion"], 
+    "pure substance": true,
+    "CAS": "7440-64-4",
+    "SMILES": "[Yb]",  
+    "InChIKey": "NAWDYIZEMPQZHO-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/Yb",
+    "PubchemCID": "23992",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23992"
+},
+{
+    "names": ["Lu", "7439-94-3", "Lutetium", "Lutetium atom", "Lutetium foil", "lutecium"],
+    "pure substance": true,
+    "CAS": "7439-94-3",
+    "SMILES": "[Lu]",  
+    "InChIKey": "OHSVLFRHMCKCQY-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/Lu",
+    "PubchemCID": "23929",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23929"
+},
+{
+    "names": ["Y", "7440-65-5", "Yttrium", "YTTRIUM ION", "ytrio"], 
+    "pure substance": true,
+    "CAS": "7440-65-5",
+    "SMILES": "[Y]",  
+    "InChIKey": "VWQVUPCCIRVNHF-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/Y",
+    "PubchemCID": "23993",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23993"
+}
+]
