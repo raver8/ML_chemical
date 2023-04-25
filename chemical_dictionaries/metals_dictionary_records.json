@@ -8,7 +8,7 @@
     "InChI": "InChI=1S/La",
     "PubchemCID": "23926",  
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23926"
-    },
+},
 {
     "names": ["Ce", "7440-45-1", "Cerium", "cerio","13550-45-3"], 
     "pure substance": true,
@@ -18,8 +18,7 @@
     "InChI": "InChI=1S/Ce",
     "PubchemCID": "23974",  
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23974"
-
-    },
+},
 {
     "names": ["Pr", "7440-10-0", "Praseodymium", "NKN7EZA750", "Praseodymium ingot"], 
     "pure substance": true,
