@@ -1,0 +1,49 @@
+[{
+    "organic phase": {
+        "extractants": [
+            {"identity":"HEH[EHP]", "concentration": {"quantity": 1.0, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "n-dodecane", "volfraction": 0.1}],
+             "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "HEDTA", "concentration": {"quantity": 0.1, "unit": "M"}}],
+    
+        "solutes": [
+            {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
+    
+        "pH": 3.6,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 294, "unit": "K"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+    },
+
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.259802, "quantification method":"gamma", "pH": 2.45},
+        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 9.132803, "quantification method":"gamma", "pH": 2.45}
+    ],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/HEDTA.  pH & D values derived from p. 632, figure 5 of Braley, Grimes, & Nash, 2007"
+    },
+
+     "provenance": {
+        "doi": "10.1021/ie200285r",	
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\1-s2.0-S0304389414007882-main.pdf"},
+    
+    "record creation": {
+        "time": "2023:4:25:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+}]
