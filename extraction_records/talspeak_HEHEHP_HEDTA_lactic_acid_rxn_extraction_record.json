@@ -10,7 +10,7 @@
     
      "aqueous phase": {
         "holdback agents": [
-            {"identity": "HEDTA", "concentration": {"quantity": 0.1, "unit": "M"}}],
+            {"identity": "HEDTA", "concentration": {"quantity": 0.2, "unit": "M"}}],
     
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
