@@ -1,7 +1,7 @@
 [{
     "organic phase": {
         "extractants": [
-            {"identity":"HEH[EHP]", "concentration": {"quantity": 1.0, "unit": "M"}}],
+            {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
             {"identity": "n-dodecane", "volfraction": 0.1}],
@@ -10,7 +10,7 @@
     
      "aqueous phase": {
         "holdback agents": [
-            {"identity": "HEDTA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            {"identity": "DTPA", "concentration": {"quantity": 0.2, "unit": "M"}}],
     
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
@@ -21,7 +21,7 @@
     
     "reaction conditions": {
         "temperature": {"quantity": 294, "unit": "K"},
-        "time": {"quantity": 1800, "unit": "seconds"}
+        "time": {"quantity": 172800, "unit": "seconds"}
     },
 
     "metals":[
