@@ -4,7 +4,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -25,13 +25,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.272311, "quantification method":"gamma", "pH": 1.90},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 14.53241, "quantification method":"gamma", "pH": 1.90}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.272311, "quantification method":"gamma", "pH": 1.90},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 14.53241, "quantification method":"gamma", "pH": 1.90}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 1 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 1 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -53,7 +53,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -74,13 +74,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.193069773, "quantification method":"gamma", "pH": 2.10},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 8.872621354, "quantification method":"gamma", "pH": 2.10}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.193069773, "quantification method":"gamma", "pH": 2.10},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 8.872621354, "quantification method":"gamma", "pH": 2.10}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 2 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 2 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -102,7 +102,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -123,13 +123,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.201927192, "quantification method":"gamma", "pH": 2.25},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 8.872621354, "quantification method":"gamma", "pH": 2.25}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.201927192, "quantification method":"gamma", "pH": 2.25},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 8.872621354, "quantification method":"gamma", "pH": 2.25}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 3 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 3 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -151,7 +151,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -172,13 +172,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.168761248, "quantification method":"gamma", "pH": 2.45},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 6.881170798, "quantification method":"gamma", "pH": 2.45}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.168761248, "quantification method":"gamma", "pH": 2.45},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 6.881170798, "quantification method":"gamma", "pH": 2.45}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 4 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 4 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -200,7 +200,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -221,13 +221,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.149735465, "quantification method":"gamma", "pH": 2.80},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 5.179474679, "quantification method":"gamma", "pH": 2.81}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.149735465, "quantification method":"gamma", "pH": 2.80},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 5.179474679, "quantification method":"gamma", "pH": 2.81}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 5 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 5 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -249,7 +249,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -270,13 +270,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.121455052, "quantification method":"gamma", "pH": 3.20},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 3.672273891, "quantification method":"gamma", "pH": 3.20}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.121455052, "quantification method":"gamma", "pH": 3.20},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 3.672273891, "quantification method":"gamma", "pH": 3.20}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 6 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 6 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -298,7 +298,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -319,13 +319,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.101506419, "quantification method":"gamma", "pH": 3.60},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 2.344929931, "quantification method":"gamma", "pH": 3.60}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.101506419, "quantification method":"gamma", "pH": 3.60},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 2.344929931, "quantification method":"gamma", "pH": 3.60}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 7 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 7 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -347,7 +347,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -368,13 +368,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.101506419, "quantification method":"gamma", "pH": 3.70},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 2.344929931, "quantification method":"gamma", "pH": 3.70}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.101506419, "quantification method":"gamma", "pH": 3.70},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 2.344929931, "quantification method":"gamma", "pH": 3.70}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 8 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 8 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -396,7 +396,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -417,13 +417,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.042012316, "quantification method":"gamma", "pH": 3.90},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.667844455, "quantification method":"gamma", "pH": 3.91}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.042012316, "quantification method":"gamma", "pH": 3.90},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.667844455, "quantification method":"gamma", "pH": 3.91}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 9 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 9 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -445,7 +445,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -466,13 +466,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.020192719, "quantification method":"gamma", "pH": 4.20},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.227584593, "quantification method":"gamma", "pH": 4.20}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.020192719, "quantification method":"gamma", "pH": 4.20},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.227584593, "quantification method":"gamma", "pH": 4.20}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 10 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top left chart, point 10 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -494,7 +494,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -515,13 +515,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.313863308, "quantification method":"gamma", "pH": 2.49},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 33.9342967, "quantification method":"gamma", "pH": 2.49}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.313863308, "quantification method":"gamma", "pH": 2.49},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 33.9342967, "quantification method":"gamma", "pH": 2.49}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 1 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 1 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -543,7 +543,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -564,13 +564,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.278348772, "quantification method":"gamma", "pH": 2.60},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 32.44009656, "quantification method":"gamma", "pH": 2.60}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.278348772, "quantification method":"gamma", "pH": 2.60},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 32.44009656, "quantification method":"gamma", "pH": 2.60}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 2 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 2 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -592,7 +592,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -613,13 +613,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.218920702, "quantification method":"gamma", "pH": 2.70},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 26.29162751, "quantification method":"gamma", "pH": 2.70}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.218920702, "quantification method":"gamma", "pH": 2.70},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 26.29162751, "quantification method":"gamma", "pH": 2.70}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 3 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 3 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -641,7 +641,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -662,13 +662,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.188407325, "quantification method":"gamma", "pH": 3.00},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 20.37023732, "quantification method":"gamma", "pH": 3.00}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.188407325, "quantification method":"gamma", "pH": 3.00},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 20.37023732, "quantification method":"gamma", "pH": 3.00}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 4 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 4 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -690,7 +690,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -711,13 +711,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.133402194, "quantification method":"gamma", "pH": 3.15},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 18.33849769, "quantification method":"gamma", "pH": 3.15}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.133402194, "quantification method":"gamma", "pH": 3.15},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 18.33849769, "quantification method":"gamma", "pH": 3.15}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 5 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 5 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -739,7 +739,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -760,13 +760,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.10181756, "quantification method":"gamma", "pH": 3.54},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 6.130327872, "quantification method":"gamma", "pH": 3.55}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.10181756, "quantification method":"gamma", "pH": 3.54},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 6.130327872, "quantification method":"gamma", "pH": 3.55}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 6 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 6 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -788,7 +788,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -809,13 +809,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.091662216, "quantification method":"gamma", "pH": 3.69},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 3.679941703, "quantification method":"gamma", "pH": 3.69}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.091662216, "quantification method":"gamma", "pH": 3.69},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 3.679941703, "quantification method":"gamma", "pH": 3.69}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 7 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 7 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -837,7 +837,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -858,13 +858,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.048797363, "quantification method":"gamma", "pH": 4.00},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 1.286819404, "quantification method":"gamma", "pH": 4.00}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.048797363, "quantification method":"gamma", "pH": 4.00},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 1.286819404, "quantification method":"gamma", "pH": 4.00}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 8 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 8 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -886,7 +886,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -907,13 +907,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.037807239, "quantification method":"gamma", "pH": 4.20},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D":0.470707348, "quantification method":"gamma", "pH": 4.20}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.037807239, "quantification method":"gamma", "pH": 4.20},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D":0.470707348, "quantification method":"gamma", "pH": 4.20}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 9 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/TTHA.  pH & D values derived from p. 632, figure 3, top right chart, point 9 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -935,7 +935,7 @@
             {"identity":"HDEHP", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -956,13 +956,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.037807239, "quantification method":"gamma", "pH": 4.20},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D":0.470707348, "quantification method":"gamma", "pH": 4.20}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.037807239, "quantification method":"gamma", "pH": 4.20},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D":0.470707348, "quantification method":"gamma", "pH": 4.20}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top right chart, point 9 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HDEHP/DTPA.  pH & D values derived from p. 632, figure 3, top right chart, point 9 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -984,7 +984,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1005,13 +1005,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.009297248, "quantification method":"gamma", "pH": 1.90},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.090301757, "quantification method":"gamma", "pH": 1.90}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.009297248, "quantification method":"gamma", "pH": 1.90},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.090301757, "quantification method":"gamma", "pH": 1.90}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 1 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 1 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1033,7 +1033,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1054,13 +1054,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.005115178, "quantification method":"gamma", "pH": 2.10},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.065532343, "quantification method":"gamma", "pH": 2.10}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.005115178, "quantification method":"gamma", "pH": 2.10},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.065532343, "quantification method":"gamma", "pH": 2.10}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 2 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 2 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1082,7 +1082,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1103,13 +1103,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.0062729, "quantification method":"gamma", "pH": 2.25},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.064584244, "quantification method":"gamma", "pH": 2.25}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.0062729, "quantification method":"gamma", "pH": 2.25},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.064584244, "quantification method":"gamma", "pH": 2.25}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 3 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 3 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1131,7 +1131,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1152,13 +1152,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.005041174, "quantification method":"gamma", "pH": 2.45},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.048963609, "quantification method":"gamma", "pH": 2.45}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.005041174, "quantification method":"gamma", "pH": 2.45},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.048963609, "quantification method":"gamma", "pH": 2.45}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/DTPA. pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 4 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/DTPA. pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 4 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1180,7 +1180,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1201,13 +1201,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.003934927, "quantification method":"gamma", "pH": 2.80},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.046190957, "quantification method":"gamma", "pH": 2.80}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.003934927, "quantification method":"gamma", "pH": 2.80},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.046190957, "quantification method":"gamma", "pH": 2.80}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 5 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 5 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1229,7 +1229,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1250,13 +1250,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.003877998, "quantification method":"gamma", "pH": 3.20},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.053437742, "quantification method":"gamma", "pH": 3.20}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.003877998, "quantification method":"gamma", "pH": 3.20},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.053437742, "quantification method":"gamma", "pH": 3.20}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 6 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 6 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1278,7 +1278,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1299,13 +1299,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.006004558, "quantification method":"gamma", "pH": 3.60},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D":0.057476944, "quantification method":"gamma", "pH": 3.60}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.006004558, "quantification method":"gamma", "pH": 3.60},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D":0.057476944, "quantification method":"gamma", "pH": 3.60}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 7 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 7 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1327,7 +1327,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1348,13 +1348,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.006946598, "quantification method":"gamma", "pH": 3.70},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.07048574, "quantification method":"gamma", "pH": 3.70}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.006946598, "quantification method":"gamma", "pH": 3.70},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.07048574, "quantification method":"gamma", "pH": 3.70}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 8 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 8 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1376,7 +1376,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1397,13 +1397,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.007363573, "quantification method":"gamma", "pH": 3.90},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.072570396, "quantification method":"gamma", "pH": 3.90}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.007363573, "quantification method":"gamma", "pH": 3.90},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.072570396, "quantification method":"gamma", "pH": 3.90}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 9 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 9 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1425,7 +1425,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1446,13 +1446,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.016898498, "quantification method":"gamma", "pH": 4.20},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.133838875, "quantification method":"gamma", "pH": 4.20}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.016898498, "quantification method":"gamma", "pH": 4.20},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.133838875, "quantification method":"gamma", "pH": 4.20}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 10 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 3, BOTTOM LEFT chart, point 10 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1474,7 +1474,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1495,13 +1495,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.02588472, "quantification method":"gamma", "pH": 2.50},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D":0.285261372, "quantification method":"gamma", "pH": 2.50}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.02588472, "quantification method":"gamma", "pH": 2.50},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D":0.285261372, "quantification method":"gamma", "pH": 2.50}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 1 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 1 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1523,7 +1523,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1544,13 +1544,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.027862032, "quantification method":"gamma", "pH": 2.60},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.281092401, "quantification method":"gamma", "pH": 2.60}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.027862032, "quantification method":"gamma", "pH": 2.60},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.281092401, "quantification method":"gamma", "pH": 2.60}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 2 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 2 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1572,7 +1572,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1593,13 +1593,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.023349976, "quantification method":"gamma", "pH": 2.70},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.253566614, "quantification method":"gamma", "pH": 2.70}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.023349976, "quantification method":"gamma", "pH": 2.70},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.253566614, "quantification method":"gamma", "pH": 2.70}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 3 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 3 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1621,7 +1621,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1642,13 +1642,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.021063445, "quantification method":"gamma", "pH": 3.00},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.239065344, "quantification method":"gamma", "pH": 3.00}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.021063445, "quantification method":"gamma", "pH": 3.00},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.239065344, "quantification method":"gamma", "pH": 3.00}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 4 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 4 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1670,7 +1670,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1691,13 +1691,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.024404394, "quantification method":"gamma", "pH": 3.15},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.232128733, "quantification method":"gamma", "pH": 3.15}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.024404394, "quantification method":"gamma", "pH": 3.15},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.232128733, "quantification method":"gamma", "pH": 3.15}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 5 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 5 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1719,7 +1719,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1740,13 +1740,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.019000822, "quantification method":"gamma", "pH": 3.55},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.249860848, "quantification method":"gamma", "pH": 3.55}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.019000822, "quantification method":"gamma", "pH": 3.55},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.249860848, "quantification method":"gamma", "pH": 3.55}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 6 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 6 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1768,7 +1768,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1789,13 +1789,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.021692876, "quantification method":"gamma", "pH": 3.69},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.249860848, "quantification method":"gamma", "pH": 3.69}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.021692876, "quantification method":"gamma", "pH": 3.69},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.249860848, "quantification method":"gamma", "pH": 3.69}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 7 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 7 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1817,7 +1817,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1838,13 +1838,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.024766344, "quantification method":"gamma", "pH": 4.00},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.285261372, "quantification method":"gamma", "pH": 4.00}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.024766344, "quantification method":"gamma", "pH": 4.00},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.285261372, "quantification method":"gamma", "pH": 4.00}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 8 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 8 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
@@ -1865,7 +1865,7 @@
             {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "n-dodecane", "volfraction": 0.9}],
+            {"identity": "n-dodecane", "volfraction": 1.0}],
              "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
     
@@ -1886,13 +1886,13 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.027862032, "quantification method":"gamma", "pH": 4.20},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 6.25e-5, "unit": "M"}, "D": 0.311606234, "quantification method":"gamma", "pH": 4.20}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.027862032, "quantification method":"gamma", "pH": 4.20},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.311606234, "quantification method":"gamma", "pH": 4.20}
     ],
 
     "observations": {
         "third phase": false,
-        "comment": "Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 9 of Braley, Grimes, & Nash, 2007"
+        "comment": "Ambiguity of initial total metal concentration (p.631). Simplified TALPSEAK Extraction in HEH[EHP]/TTHA.  pH & D values derived from p. 632, figure 3, BOTTOM RIGHT chart, point 9 of Braley, Grimes, & Nash, 2007"
     },
 
      "provenance": {
