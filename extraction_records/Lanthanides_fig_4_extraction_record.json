@@ -1,0 +1,310 @@
+[
+    {
+    "organic phase": {
+        "extractants": [
+            {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "n-dodecane", "volfraction": 1.0}],
+             "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "DTPA", "concentration": {"quantity": 20, "unit": "mM"}}],
+    
+        "solutes": [
+            {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
+    
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 294, "unit": "K"},
+        "time": {"quantity": 172800, "unit": "seconds"}
+    },
+
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.084947343, "quantification method":"ICP-MS", "pH": 2.45},
+        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.091328421, "quantification method":"ICP-MS", "pH": 2.45},
+        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 31.18366283, "quantification method":"ICP-MS", "pH": 2.45},
+        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 113.1471775, "quantification method":"ICP-MS", "pH": 2.45},
+        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.008107872, "quantification method":"ICP-MS", "pH": 2.45}
+    ],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Simplified TALPSEAK Extraction for five Lanthanide Metals, Eu, Dy, Y, Lu, La in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 4, point 1 of Braley, Grimes, & Nash, 2007"
+    },
+
+     "provenance": {
+        "doi": "10.1021/ie200285r",	
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\1-s2.0-S0304389414007882-main.pdf"},
+    
+    "record creation": {
+        "time": "2023:4:27:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    
+    "organic phase": {
+        "extractants": [
+            {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "n-dodecane", "volfraction": 1.0}],
+             "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "DTPA", "concentration": {"quantity": 20, "unit": "mM"}}],
+    
+        "solutes": [
+            {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
+    
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 294, "unit": "K"},
+        "time": {"quantity": 172800, "unit": "seconds"}
+    },
+
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.087764693, "quantification method":"ICP-MS", "pH": 2.76},
+        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.014081534, "quantification method":"ICP-MS", "pH": 2.76},
+        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 27.14591301, "quantification method":"ICP-MS", "pH": 2.76},
+        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 109.5150193, "quantification method":"ICP-MS", "pH": 2.76},
+        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.005392391, "quantification method":"ICP-MS", "pH": 2.76}
+    ],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Simplified TALPSEAK Extraction for five Lanthanide Metals, Eu, Dy, Y, Lu, La in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 4, point 2 of Braley, Grimes, & Nash, 2007"
+    },
+
+     "provenance": {
+        "doi": "10.1021/ie200285r",	
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\1-s2.0-S0304389414007882-main.pdf"},
+    
+    "record creation": {
+        "time": "2023:4:27:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "n-dodecane", "volfraction": 1.0}],
+             "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "DTPA", "concentration": {"quantity": 20, "unit": "mM"}}],
+    
+        "solutes": [
+            {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
+    
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 294, "unit": "K"},
+        "time": {"quantity": 172800, "unit": "seconds"}
+    },
+
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.087764693, "quantification method":"ICP-MS", "pH": 2.96},
+        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.100266717, "quantification method":"ICP-MS", "pH": 2.96},
+        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 29.21373228, "quantification method":"ICP-MS", "pH": 2.96},
+        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 116.8997992, "quantification method":"ICP-MS", "pH": 2.96},
+        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.007472773, "quantification method":"ICP-MS", "pH": 2.96}
+    ],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Simplified TALPSEAK Extraction for five Lanthanide Metals, Eu, Dy, Y, Lu, La in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 4, point 3 of Braley, Grimes, & Nash, 2007"
+    },
+
+     "provenance": {
+        "doi": "10.1021/ie200285r",	
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\1-s2.0-S0304389414007882-main.pdf"},
+    
+    "record creation": {
+        "time": "2023:4:27:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "n-dodecane", "volfraction": 1.0}],
+             "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "DTPA", "concentration": {"quantity": 20, "unit": "mM"}}],
+    
+        "solutes": [
+            {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
+    
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 294, "unit": "K"},
+        "time": {"quantity": 172800, "unit": "seconds"}
+    },
+
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.084947343, "quantification method":"ICP-MS", "pH": 3.38},
+        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.500076337, "quantification method":"ICP-MS", "pH": 3.38},
+        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 37.92690187, "quantification method":"ICP-MS", "pH": 3.38},
+        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 137.6144275, "quantification method":"ICP-MS", "pH": 3.38},
+        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.006775973, "quantification method":"ICP-MS", "pH": 3.38}
+    ],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Simplified TALPSEAK Extraction for five Lanthanide Metals, Eu, Dy, Y, Lu, La in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 4, point 4 of Braley, Grimes, & Nash, 2007"
+    },
+
+     "provenance": {
+        "doi": "10.1021/ie200285r",	
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\1-s2.0-S0304389414007882-main.pdf"},
+    
+    "record creation": {
+        "time": "2023:4:27:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+
+    "organic phase": {
+        "extractants": [
+            {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "n-dodecane", "volfraction": 1.0}],
+             "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "DTPA", "concentration": {"quantity": 20, "unit": "mM"}}],
+    
+        "solutes": [
+            {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
+    
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 294, "unit": "K"},
+        "time": {"quantity": 172800, "unit": "seconds"}
+    },
+
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.113941035, "quantification method":"ICP-MS", "pH": 3.99},
+        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.794934409, "quantification method":"ICP-MS", "pH": 3.99},
+        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 55.19539352, "quantification method":"ICP-MS", "pH": 3.99},
+        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 164.6642007, "quantification method":"ICP-MS", "pH": 3.99},
+        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.010023333, "quantification method":"ICP-MS", "pH": 3.99}
+    ],
+    "observations": {
+        "third phase": false,
+        "comment": "Simplified TALPSEAK Extraction for five Lanthanide Metals, Eu, Dy, Y, Lu, La in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 4, point 5 of Braley, Grimes, & Nash, 2007"
+    },
+
+     "provenance": {
+        "doi": "10.1021/ie200285r",	
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\1-s2.0-S0304389414007882-main.pdf"},
+    
+    "record creation": {
+        "time": "2023:4:27:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+
+    "organic phase": {
+        "extractants": [
+            {"identity":"HEH[EHP]", "concentration": {"quantity": 0.1, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "n-dodecane", "volfraction": 1.0}],
+             "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "DTPA", "concentration": {"quantity": 20, "unit": "mM"}}],
+    
+        "solutes": [
+            {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
+    
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 294, "unit": "K"},
+        "time": {"quantity": 172800, "unit": "seconds"}
+    },
+
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.266134523, "quantification method":"ICP-MS", "pH": 4.19},
+        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 2.07880506, "quantification method":"ICP-MS", "pH": 4.19},
+        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 33.8339129, "quantification method":"ICP-MS", "pH": 4.19},
+        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 115.0081837, "quantification method":"ICP-MS", "pH": 4.19},
+        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.012595123, "quantification method":"ICP-MS", "pH": 4.19}
+    ],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Simplified TALPSEAK Extraction for five Lanthanide Metals, Eu, Dy, Y, Lu, La in HEH[EHP]/DTPA.  pH & D values derived from p. 632, figure 4, point 6 of Braley, Grimes, & Nash, 2007"
+    },
+
+     "provenance": {
+        "doi": "10.1021/ie200285r",	
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\1-s2.0-S0304389414007882-main.pdf"},
+    
+    "record creation": {
+        "time": "2023:4:27:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+}
+] 
