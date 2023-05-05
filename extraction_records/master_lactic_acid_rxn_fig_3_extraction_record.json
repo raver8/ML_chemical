@@ -15,7 +15,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 1.90,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -25,8 +25,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.272311, "quantification method":"gamma", "pH": 1.90},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 14.53241, "quantification method":"gamma", "pH": 1.90}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.272311, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 14.53241, "quantification method":"gamma", "pH"}
     ],
 
     "observations": {
@@ -64,7 +64,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 2.10,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -74,8 +74,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.193069773, "quantification method":"gamma", "pH": 2.10},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 8.872621354, "quantification method":"gamma", "pH": 2.10}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.193069773, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 8.872621354, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -113,7 +113,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 2.25,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -123,8 +123,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.201927192, "quantification method":"gamma", "pH": 2.25},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 8.872621354, "quantification method":"gamma", "pH": 2.25}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.201927192, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 8.872621354, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -162,7 +162,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 2.45,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -172,8 +172,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.168761248, "quantification method":"gamma", "pH": 2.45},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 6.881170798, "quantification method":"gamma", "pH": 2.45}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.168761248, "quantification method":"gamma", "pH"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 6.881170798, "quantification method":"gamma", "pH"}
     ],
 
     "observations": {
@@ -211,7 +211,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 2.81,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -221,8 +221,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.149735465, "quantification method":"gamma", "pH": 2.80},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 5.179474679, "quantification method":"gamma", "pH": 2.81}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.149735465, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 5.179474679, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -260,7 +260,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 3.20
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -270,8 +270,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.121455052, "quantification method":"gamma", "pH": 3.20},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 3.672273891, "quantification method":"gamma", "pH": 3.20}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.121455052, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 3.672273891, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -319,8 +319,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.101506419, "quantification method":"gamma", "pH": 3.60},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 2.344929931, "quantification method":"gamma", "pH": 3.60}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.101506419, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 2.344929931, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -358,7 +358,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 3.7,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -368,8 +368,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.101506419, "quantification method":"gamma", "pH": 3.70},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 2.344929931, "quantification method":"gamma", "pH": 3.70}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.101506419, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 2.344929931, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -407,7 +407,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 3.90,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -417,8 +417,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.042012316, "quantification method":"gamma", "pH": 3.90},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.667844455, "quantification method":"gamma", "pH": 3.91}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.042012316, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.667844455, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -456,7 +456,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 4.20,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -466,8 +466,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.020192719, "quantification method":"gamma", "pH": 4.20},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.227584593, "quantification method":"gamma", "pH": 4.20}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.020192719, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.227584593, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -505,7 +505,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 2.49,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -515,8 +515,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.313863308, "quantification method":"gamma", "pH": 2.49},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 33.9342967, "quantification method":"gamma", "pH": 2.49}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.313863308, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 33.9342967, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -554,7 +554,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 2.60,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -564,8 +564,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.278348772, "quantification method":"gamma", "pH": 2.60},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 32.44009656, "quantification method":"gamma", "pH": 2.60}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.278348772, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 32.44009656, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -603,7 +603,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 2.70,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -613,8 +613,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.218920702, "quantification method":"gamma", "pH": 2.70},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 26.29162751, "quantification method":"gamma", "pH": 2.70}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.218920702, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 26.29162751, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -652,7 +652,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 3.00,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -662,8 +662,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.188407325, "quantification method":"gamma", "pH": 3.00},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 20.37023732, "quantification method":"gamma", "pH": 3.00}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.188407325, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 20.37023732, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -701,7 +701,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 3.15,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -711,8 +711,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.133402194, "quantification method":"gamma", "pH": 3.15},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 18.33849769, "quantification method":"gamma", "pH": 3.15}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.133402194, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 18.33849769, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -799,7 +799,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 3.69,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -809,8 +809,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.091662216, "quantification method":"gamma", "pH": 3.69},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 3.679941703, "quantification method":"gamma", "pH": 3.69}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.091662216, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 3.679941703, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -848,7 +848,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 4.00,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -858,8 +858,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.048797363, "quantification method":"gamma", "pH": 4.00},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 1.286819404, "quantification method":"gamma", "pH": 4.00}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.048797363, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 1.286819404, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -897,7 +897,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 4.20,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -907,8 +907,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.037807239, "quantification method":"gamma", "pH": 4.20},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D":0.470707348, "quantification method":"gamma", "pH": 4.20}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.037807239, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D":0.470707348, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -946,7 +946,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 4.20,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -956,8 +956,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.037807239, "quantification method":"gamma", "pH": 4.20},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D":0.470707348, "quantification method":"gamma", "pH": 4.20}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.037807239, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D":0.470707348, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1044,7 +1044,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 2.10,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1054,8 +1054,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.005115178, "quantification method":"gamma", "pH": 2.10},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.065532343, "quantification method":"gamma", "pH": 2.10}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.005115178, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.065532343, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1093,7 +1093,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 2.25,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1103,8 +1103,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.0062729, "quantification method":"gamma", "pH": 2.25},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.064584244, "quantification method":"gamma", "pH": 2.25}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.0062729, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.064584244, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1142,7 +1142,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 2.45,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1152,8 +1152,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.005041174, "quantification method":"gamma", "pH": 2.45},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.048963609, "quantification method":"gamma", "pH": 2.45}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.005041174, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.048963609, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1191,7 +1191,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 2.80,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1201,8 +1201,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.003934927, "quantification method":"gamma", "pH": 2.80},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.046190957, "quantification method":"gamma", "pH": 2.80}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.003934927, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.046190957, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1240,7 +1240,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 3.20,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1250,8 +1250,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.003877998, "quantification method":"gamma", "pH": 3.20},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.053437742, "quantification method":"gamma", "pH": 3.20}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.003877998, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.053437742, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1299,8 +1299,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.006004558, "quantification method":"gamma", "pH": 3.60},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D":0.057476944, "quantification method":"gamma", "pH": 3.60}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.006004558, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D":0.057476944, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1338,7 +1338,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 3.70,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1348,8 +1348,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.006946598, "quantification method":"gamma", "pH": 3.70},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.07048574, "quantification method":"gamma", "pH": 3.70}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.006946598, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.07048574, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1387,7 +1387,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 3.90,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1397,8 +1397,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.007363573, "quantification method":"gamma", "pH": 3.90},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.072570396, "quantification method":"gamma", "pH": 3.90}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.007363573, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.072570396, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1436,7 +1436,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 4.20,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1446,8 +1446,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.016898498, "quantification method":"gamma", "pH": 4.20},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.133838875, "quantification method":"gamma", "pH": 4.20}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.016898498, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.133838875, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1485,7 +1485,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 2.50,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1495,8 +1495,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.02588472, "quantification method":"gamma", "pH": 2.50},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D":0.285261372, "quantification method":"gamma", "pH": 2.50}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.02588472, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D":0.285261372, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1534,7 +1534,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 2.60,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1544,8 +1544,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.027862032, "quantification method":"gamma", "pH": 2.60},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.281092401, "quantification method":"gamma", "pH": 2.60}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.027862032, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.281092401, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1583,7 +1583,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 2.70,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1593,8 +1593,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.023349976, "quantification method":"gamma", "pH": 2.70},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.253566614, "quantification method":"gamma", "pH": 2.70}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.023349976, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.253566614, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1632,7 +1632,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 3.00,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1642,8 +1642,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.021063445, "quantification method":"gamma", "pH": 3.00},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.239065344, "quantification method":"gamma", "pH": 3.00}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.021063445, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.239065344, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1681,7 +1681,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 3.15,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1691,8 +1691,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.024404394, "quantification method":"gamma", "pH": 3.15},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.232128733, "quantification method":"gamma", "pH": 3.15}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.024404394, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.232128733, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1730,7 +1730,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 3.55,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1740,8 +1740,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.019000822, "quantification method":"gamma", "pH": 3.55},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.249860848, "quantification method":"gamma", "pH": 3.55}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.019000822, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.249860848, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1779,7 +1779,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 3.69,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1789,8 +1789,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.021692876, "quantification method":"gamma", "pH": 3.69},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.249860848, "quantification method":"gamma", "pH": 3.69}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.021692876, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.249860848, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1828,7 +1828,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 4.00,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1838,8 +1838,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.024766344, "quantification method":"gamma", "pH": 4.00},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.285261372, "quantification method":"gamma", "pH": 4.00}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.024766344, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.285261372, "quantification method":"gamma"}
     ],
 
     "observations": {
@@ -1876,7 +1876,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
-        "pH": 3.6,
+        "pH": 4.20,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -1886,8 +1886,8 @@
     },
 
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.027862032, "quantification method":"gamma", "pH": 4.20},
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.311606234, "quantification method":"gamma", "pH": 4.20}
+        {"identity": "Am(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.027862032, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  0.5, "unit": "mM"}, "D": 0.311606234, "quantification method":"gamma"}
     ],
 
     "observations": {
