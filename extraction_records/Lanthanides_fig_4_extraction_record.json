@@ -16,6 +16,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
+        "pH": 2.45,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -25,11 +26,11 @@
     },
 
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.084947343, "quantification method":"ICP-MS", "pH": 2.45},
-        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.091328421, "quantification method":"ICP-MS", "pH": 2.45},
-        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 31.18366283, "quantification method":"ICP-MS", "pH": 2.45},
-        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 113.1471775, "quantification method":"ICP-MS", "pH": 2.45},
-        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.008107872, "quantification method":"ICP-MS", "pH": 2.45}
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.084947343, "quantification method":"ICP-MS"},
+        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.091328421, "quantification method":"ICP-MS"},
+        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 31.18366283, "quantification method":"ICP-MS"},
+        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 113.1471775, "quantification method":"ICP-MS"},
+        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.008107872, "quantification method":"ICP-MS"}
     ],
 
     "observations": {
@@ -68,6 +69,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
+        "pH": 2.76,  
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -77,11 +79,11 @@
     },
 
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.087764693, "quantification method":"ICP-MS", "pH": 2.76},
-        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.014081534, "quantification method":"ICP-MS", "pH": 2.76},
-        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 27.14591301, "quantification method":"ICP-MS", "pH": 2.76},
-        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 109.5150193, "quantification method":"ICP-MS", "pH": 2.76},
-        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.005392391, "quantification method":"ICP-MS", "pH": 2.76}
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.087764693, "quantification method":"ICP-MS"},
+        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.014081534, "quantification method":"ICP-MS"},
+        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 27.14591301, "quantification method":"ICP-MS"},
+        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 109.5150193, "quantification method":"ICP-MS"},
+        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.005392391, "quantification method":"ICP-MS"}
     ],
 
     "observations": {
@@ -118,7 +120,8 @@
     
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
-    
+        
+        "pH": 2.96,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -128,11 +131,11 @@
     },
 
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.087764693, "quantification method":"ICP-MS", "pH": 2.96},
-        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.100266717, "quantification method":"ICP-MS", "pH": 2.96},
-        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 29.21373228, "quantification method":"ICP-MS", "pH": 2.96},
-        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 116.8997992, "quantification method":"ICP-MS", "pH": 2.96},
-        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.007472773, "quantification method":"ICP-MS", "pH": 2.96}
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.087764693, "quantification method":"ICP-MS"},
+        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.100266717, "quantification method":"ICP-MS"},
+        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 29.21373228, "quantification method":"ICP-MS"},
+        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 116.8997992, "quantification method":"ICP-MS"},
+        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.007472773, "quantification method":"ICP-MS"}
     ],
 
     "observations": {
@@ -170,6 +173,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
+        "pH": 3.38,   
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -179,11 +183,11 @@
     },
 
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.084947343, "quantification method":"ICP-MS", "pH": 3.38},
-        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.500076337, "quantification method":"ICP-MS", "pH": 3.38},
-        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 37.92690187, "quantification method":"ICP-MS", "pH": 3.38},
-        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 137.6144275, "quantification method":"ICP-MS", "pH": 3.38},
-        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.006775973, "quantification method":"ICP-MS", "pH": 3.38}
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.084947343, "quantification method":"ICP-MS"},
+        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.500076337, "quantification method":"ICP-MS"},
+        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 37.92690187, "quantification method":"ICP-MS"},
+        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 137.6144275, "quantification method":"ICP-MS"},
+        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.006775973, "quantification method":"ICP-MS"}
     ],
 
     "observations": {
@@ -222,6 +226,7 @@
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
     
+        "pH": 3.99,   
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -231,11 +236,11 @@
     },
 
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.113941035, "quantification method":"ICP-MS", "pH": 3.99},
-        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.794934409, "quantification method":"ICP-MS", "pH": 3.99},
-        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 55.19539352, "quantification method":"ICP-MS", "pH": 3.99},
-        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 164.6642007, "quantification method":"ICP-MS", "pH": 3.99},
-        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.010023333, "quantification method":"ICP-MS", "pH": 3.99}
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.113941035, "quantification method":"ICP-MS"},
+        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 1.794934409, "quantification method":"ICP-MS"},
+        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 55.19539352, "quantification method":"ICP-MS"},
+        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 164.6642007, "quantification method":"ICP-MS"},
+        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.010023333, "quantification method":"ICP-MS"}
     ],
     "observations": {
         "third phase": false,
@@ -272,7 +277,8 @@
     
         "solutes": [
             {"identity": "lactic acid", "concentration": {"quantity": 1.0, "unit": "M"}}],
-    
+        
+        "pH": 4.19,
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },   
     
@@ -282,11 +288,11 @@
     },
 
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.266134523, "quantification method":"ICP-MS", "pH": 4.19},
-        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 2.07880506, "quantification method":"ICP-MS", "pH": 4.19},
-        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 33.8339129, "quantification method":"ICP-MS", "pH": 4.19},
-        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 115.0081837, "quantification method":"ICP-MS", "pH": 4.19},
-        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.012595123, "quantification method":"ICP-MS", "pH": 4.19}
+        {"identity": "Eu(III)", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.266134523, "quantification method":"ICP-MS"},
+        {"identity": "Dy", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 2.07880506, "quantification method":"ICP-MS"},
+        {"identity": "Y" , "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 33.8339129, "quantification method":"ICP-MS"},
+        {"identity": "Lu", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 115.0081837, "quantification method":"ICP-MS"},
+        {"identity": "La", "initial concentration": {"quantity":  2e-4, "unit": "M"}, "D": 0.012595123, "quantification method":"ICP-MS"}
     ],
 
     "observations": {
