@@ -1,0 +1,53 @@
+{
+"organic phase": {
+    "extractants": [
+        {"identity": "DEHIBA", "concentration": {"quantity": 0.6, "unit": "M"}}],
+    
+    "solvents": [
+        {"identity": "hydrogen tetrapropylene", "volfraction": 1.0}],
+    
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+},
+
+ "aqueous phase": {
+    
+    /*"holdback agents": [
+        {"identity": "", "concentration": {"quantity": 0.2, "unit": "M"}}],
+  */
+        "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 0.1, "unit": "M"}}],
+
+    "pH": 3,
+    "volume": {"quantity": 10.0, "unit": "milliliter"}
+},   
+/*
+"reaction conditions": {
+    "temperature": {"quantity": 298, "unit": "K"},
+    "shake rate": {"quantity": 350, "unit": "RPM"},
+    "time": {"quantity": 1, "unit": "hours"}
+},
+*/
+
+"metals":[
+    {"identity": "U(VI)", "initial concentration": {"quantity": 0.1, "unit": "M"}, "D": 9.164E-01, "quantification method":"UV/VIS"},
+    {"identity": "Pu(IV)", "initial concentration": {"quantity": 0.1, "unit": "M"}, "D": 7.695E-03, "quantification method":"UV/VIS"}],
+
+
+"observations":{
+    "second cycle": "tbd",
+    "comment": "The shows an industrial process, not a traditional extraction.  It is an OSTI document"},
+
+ "provenance": {
+    "OSTI": "21156626",	
+    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Miguirditchian_M_ et al_Development of the GANEX process for the reprocessing of Gen IV spent nuclear fuels_Proceedings Atalante._2008.pdf"},
+
+"record creation": {
+    "time": "2023-05-09:24:00:00+0",
+    "username": "vkaramalis",	
+    "name": "Victor Karamalis",	
+    "email": "vkaramalis@fordham.edu",	
+    "orcid": "0000-0002-9596-9919", 	
+    "organization": "Fordham University"	
+}
+
+}
