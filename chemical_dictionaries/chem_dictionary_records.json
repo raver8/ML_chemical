@@ -545,14 +545,12 @@
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70700400"
 },
 {
-"names": ["So3-Ph-BTP", "sodium 3,3',3'',3'''-(pyridine-2,6-diylbis(1,2,4-triazine-3,5,6-triyl))tetrabenzenesulfinate"],
+"names": ["So3-Ph-BTP", "sodium 3,3',3'',3'''-(pyridine-2,6-diylbis(1,2,4-triazine-3,5,6-triyl))tetrabenzenesulfonate"],
 "pure substances": true,
-"SMILES": "N1=C(C=CC=C1C=1N=NC(=C(N1)C=1C=C(C=CC1)S(=O)[O-])C=1C=C(C=CC1)S(=O)[O-])C=1N=NC(=C(N1)C=1C=C(C=CC1)S(=O)[O-])C=1C=C(C=CC1)S(=O)[O-].[Na+].[Na+].[Na+].[Na+]",
-"InChIKey": "PFHGRNUWTOKMPK-UHFFFAOYSA-J",
-"InChI": "InChI=1S/C35H23N7O8S4.4Na/c43-51(44)24-10-1-6-20(16-24)30-32(22-8-3-12-26(18-22)53(47)48)39-41-34(37-30)28-14-5-15-29(36-28)35-38-31(21-7-2-11-25(17-21)52(45)46)33(40-42-35)23-9-4-13-27(19-23)54(49)50;;;;/h1-19H,(H,43,44)(H,45,46)(H,47,48)(H,49,50);;;;/q;4*+1/p-4", 
+"SMILES": "N1=C(C=CC=C1C=1N=NC(=C(N1)C=1C=C(C=CC1)S(=O)(=O)[O-])C=1C=C(C=CC1)S(=O)(=O)[O-])C=1N=NC(=C(N1)C=1C=C(C=CC1)S(=O)(=O)[O-])C=1C=C(C=CC1)S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+]",
+"InChIKey": "KOLRPKDHYCUKHT-UHFFFAOYSA-J",
+"InChI": "InChI=1S/C35H23N7O12S4.4Na/c43-55(44,45)24-10-1-6-20(16-24)30-32(22-8-3-12-26(18-22)57(49,50)51)39-41-34(37-30)28-14-5-15-29(36-28)35-38-31(21-7-2-11-25(17-21)56(46,47)48)33(40-42-35)23-9-4-13-27(19-23)58(52,53)54;;;;/h1-19H,(H,43,44,45)(H,46,47,48)(H,49,50,51)(H,52,53,54);;;;/q;4*+1/p-4", 
 "URL": "https://opsin.ch.cam.ac.uk/"
-    
-    
 }
 ]
 
