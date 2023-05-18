@@ -1,0 +1,387 @@
+[
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "dodecane", "volfraction": 1.0}],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+    
+        "kGy": 39.9
+        },
+        
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+        },
+
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 518.5053871, "quantification method":"gamma"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 968.6191958, "quantification method":"gamma"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 792.3506562, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "#1, i-Sanex experiments are discerned by test loop (open) irradiation vs static (filled) irradiation in sets of 8 (open), and 5 (filled)"
+},
+     "provenance": {
+	  "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+    
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "dodecane", "volfraction": 1.0}],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+    
+        "kGy": 126.7
+        },
+        
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+        },
+
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 542.1743567, "quantification method":"gamma"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 708.6848884, "quantification method":"gamma"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 579.7189843, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "#2, i-Sanex experiments are discerned by test loop (open) irradiation vs static (filled) irradiation in sets of 8 (open), and 5 (filled)"
+},
+     "provenance": {
+	  "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+    
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "dodecane", "volfraction": 1.0}],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+    
+        "kGy": 199.97
+        },
+        
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+        },
+
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 741.0352583, "quantification method":"gamma"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 905.8880311, "quantification method":"gamma"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 662.787978, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "#3, i-Sanex experiments are discerned by test loop (open) irradiation vs static (filled) irradiation in sets of 8 (open), and 5 (filled)"
+},
+     "provenance": {
+	  "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+    
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "dodecane", "volfraction": 1.0}],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+    
+        "kGy": 274.9026893
+        },
+        
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+        },
+
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 741.0352583, "quantification method":"gamma"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 905.8880311, "quantification method":"gamma"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 387.9236197, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "#4, i-Sanex experiments are discerned by test loop (open) irradiation vs static (filled) irradiation in sets of 8 (open), and 5 (filled)"
+},
+     "provenance": {
+	  "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+    
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "dodecane", "volfraction": 1.0}],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+    
+        "kGy": 404.3259023
+        },
+        
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+        },
+
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 1238.153304, "quantification method":"gamma"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 2956.620399, "quantification method":"gamma"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 1323.893259, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "#5, i-Sanex experiments are discerned by test loop (open) irradiation vs static (filled) irradiation in sets of 8 (open), and 5 (filled)"
+},
+     "provenance": {
+	  "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+    
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "dodecane", "volfraction": 1.0}],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+    
+        "kGy": 572.92
+        },
+        
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+        },
+
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 1012.835165, "quantification method":"gamma"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 2827.547238, "quantification method":"gamma"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 1107.414412, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "#6, i-Sanex experiments are discerned by test loop (open) irradiation vs static (filled) irradiation in sets of 8 (open), and 5 (filled)"
+},
+     "provenance": {
+	  "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+    
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "dodecane", "volfraction": 1.0}],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+    
+        "kGy": 724.48
+        },
+        
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+        },
+
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 633.8535434, "quantification method":"gamma"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 592.8029724, "quantification method":"gamma"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 677.7467947, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "#7, i-Sanex experiments are discerned by test loop (open) irradiation vs static (filled) irradiation in sets of 8 (open), and 5 (filled)"
+},
+     "provenance": {
+	  "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+    
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+         "solvents": [
+            {"identity": "dodecane", "volfraction": 1.0}],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+    
+        "kGy": 881.15
+
+        },
+        
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+        },
+
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 1353.772915, "quantification method":"gamma"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 2586.05924, "quantification method":"gamma"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 677.7467947, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "#8, i-Sanex experiments are discerned by test loop (open) irradiation vs static (filled) irradiation in sets of 8 (open), and 5 (filled)"
+},
+     "provenance": {
+	  "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+    
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+}
+]
