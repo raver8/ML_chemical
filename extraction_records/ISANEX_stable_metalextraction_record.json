@@ -1,0 +1,434 @@
+[
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 549.08
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Ru", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 724.679577, "quantification method":"ICP-MS"},
+        {"identity": "Nd", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 838.5856002, "quantification method":"ICP-MS"},
+        {"identity": "Sr", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 4.707419203, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 4- #1,i-Sanex experiment for Ru is unirradiated "
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 10.52
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Ru", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.111140299, "quantification method":"ICP-MS"},
+        {"identity": "Nd", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 887.1810002, "quantification method":"ICP-MS"},
+        {"identity": "Sr", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 4.089034691, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 4 #2, i-Sanex experiment for stable metal extraction Ru, Nd, Sr "
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 24.24
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Ru", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.212430624, "quantification method":"ICP-MS"},
+        {"identity": "Nd", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 792.6520165, "quantification method":"ICP-MS"},
+        {"identity": "Sr", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 3.357328861, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 4 #3, i-Sanex experiment for stable metal extraction Ru, Nd, Sr "
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 63.27
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Ru", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.315116358, "quantification method":"ICP-MS"},
+        {"identity": "Nd", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 815.2953863, "quantification method":"ICP-MS"},
+        {"identity": "Sr", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 2.605566373, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 4 #4, i-Sanex experiment for stable metal extraction Ru, Nd, Sr "
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 24.24
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Ru", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.212430624, "quantification method":"ICP-MS"},
+        {"identity": "Nd", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 792.6520165, "quantification method":"ICP-MS"},
+        {"identity": "Sr", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 3.357328861, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 4 #3, i-Sanex experiment for stable metal extraction Ru, Nd, Sr "
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 79.59
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Ru", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.44183482, "quantification method":"ICP-MS"},
+        {"identity": "Nd", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 938.5924668, "quantification method":"ICP-MS"},
+        {"identity": "Sr", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 1.707717001, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 4 #5, i-Sanex experiment for stable metal extraction Ru, Nd, Sr "
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 95.91
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Ru", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.585577118, "quantification method":"ICP-MS"},
+        {"identity": "Nd", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 938.5924668, "quantification method":"ICP-MS"},
+        {"identity": "Sr", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 1.119256599, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 4 #6, i-Sanex experiment for stable metal extraction Ru, Nd, Sr "
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 108.92
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Ru", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.619510868, "quantification method":"ICP-MS"},
+        {"identity": "Nd", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 938.5924668, "quantification method":"ICP-MS"},
+        {"identity": "Sr", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.602305063, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 4 #7, i-Sanex experiment for stable metal extraction Ru, Nd, Sr "
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 108.92
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Ru", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.693391627, "quantification method":"ICP-MS"},
+        {"identity": "Nd", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 992.983189, "quantification method":"ICP-MS"},
+        {"identity": "Sr", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.383793716, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 4 #8, i-Sanex experiment for stable metal extraction Ru, Nd, Sr "
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+}
+]
