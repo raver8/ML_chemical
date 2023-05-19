@@ -10,10 +10,10 @@
 },
     "aqueous phase": {
         "holdback agents": [
-            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
 
     "solutes": [
-        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+        {"identity": "HNO3", "concentration": {"quantity": 0.35, "unit": "M"}}],
 
     "kGy": 0.0
     },
@@ -58,10 +58,10 @@
 },
     "aqueous phase": {
         "holdback agents": [
-            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
 
     "solutes": [
-        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+        {"identity": "HNO3", "concentration": {"quantity": 0.35, "unit": "M"}}],
 
     "kGy": 12.16
     },
@@ -106,10 +106,10 @@
 },
     "aqueous phase": {
         "holdback agents": [
-            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
 
     "solutes": [
-        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+        {"identity": "HNO3", "concentration": {"quantity": 0.35, "unit": "M"}}],
 
     "kGy": 25.75
     },
@@ -154,10 +154,10 @@
 },
     "aqueous phase": {
         "holdback agents": [
-            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
 
     "solutes": [
-        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+        {"identity": "HNO3", "concentration": {"quantity": 0.35, "unit": "M"}}],
 
     "kGy": 64.39
     },
@@ -202,10 +202,10 @@
 },
     "aqueous phase": {
         "holdback agents": [
-            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
 
     "solutes": [
-        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+        {"identity": "HNO3", "concentration": {"quantity": 0.35, "unit": "M"}}],
 
     "kGy": 80.6
     },
@@ -250,10 +250,10 @@
 },
     "aqueous phase": {
         "holdback agents": [
-            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
 
     "solutes": [
-        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+        {"identity": "HNO3", "concentration": {"quantity": 0.35, "unit": "M"}}],
 
     "kGy": 96.71
     },
@@ -298,10 +298,10 @@
 },
     "aqueous phase": {
         "holdback agents": [
-            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
 
     "solutes": [
-        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+        {"identity": "HNO3", "concentration": {"quantity": 0.35, "unit": "M"}}],
 
     "kGy": 109.59
     },
@@ -347,10 +347,10 @@
 },
     "aqueous phase": {
         "holdback agents": [
-            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
 
     "solutes": [
-        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+        {"identity": "HNO3", "concentration": {"quantity": 0.35, "unit": "M"}}],
 
     "kGy": 174.47
     },
