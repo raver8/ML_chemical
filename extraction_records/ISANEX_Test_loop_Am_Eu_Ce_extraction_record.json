@@ -1,0 +1,387 @@
+[
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 0.0
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Am", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.035795926, "quantification method":"ICP-MS"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 2.68053733, "quantification method":"ICP-MS"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 12.27176456, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 5- #1,i-Sanex experiment for Am, Ce, Eu Test Loop irradiation Condition"
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 12.16
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Am", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.043354182, "quantification method":"ICP-MS"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 2.835905013, "quantification method":"ICP-MS"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 10.96395826, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 5- #2 ,i-Sanex experiment for Am, Ce, Eu Test Loop irradiation Condition"
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 25.75
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Am", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.046912518, "quantification method":"ICP-MS"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 3.06866464, "quantification method":"ICP-MS"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 11.73089529, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 5- #3 ,i-Sanex experiment for Am, Ce, Eu Test Loop irradiation Condition"
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 64.39
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Am", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.038733911, "quantification method":"ICP-MS"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 2.562394558, "quantification method":"ICP-MS"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 10.96395826, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 5- #4 ,i-Sanex experiment for Am, Ce, Eu Test Loop irradiation Condition"
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 80.6
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Am", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.036611838, "quantification method":"ICP-MS"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 2.966658366, "quantification method":"ICP-MS"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 11.21386444, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 5- #5 ,i-Sanex experiment for Am, Ce, Eu Test Loop irradiation Condition"
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 96.71
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Am", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.03961679, "quantification method":"ICP-MS"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 2.933415433, "quantification method":"ICP-MS"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 11.99828259, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 5- #6 ,i-Sanex experiment for Am, Ce, Eu Test Loop irradiation Condition"
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 109.59
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Am", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.045353087, "quantification method":"ICP-MS"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 3.887967942, "quantification method":"ICP-MS"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 13.27898143, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 5- #7 ,i-Sanex experiment for Am, Ce, Eu Test Loop irradiation Condition"
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+},
+{
+
+    "organic phase": {
+        "extractants": [
+        {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 1.0}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"}
+},
+    "aqueous phase": {
+        "holdback agents": [
+            {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
+
+    "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 4.5, "unit": "M"}}],
+
+    "kGy": 174.47
+    },
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "flow rate": {"quantity": 1.5, "unit": "LPM"},
+        "time": {"quantity": 1800, "unit": "seconds"}
+
+    },
+
+    "metals":[
+        {"identity": "Am", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 0.054929322, "quantification method":"ICP-MS"},
+        {"identity": "Ce", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 3.593063782, "quantification method":"ICP-MS"},
+        {"identity": "Eu", "initial concentration": {"quantity": 10, "unit": "PPM"}, "D": 13.27898143, "quantification method":"ICP-MS"}
+]
+,
+    "observations": {
+        "comment": "Figure 5- #8 ,i-Sanex experiment for Am, Ce, Eu Test Loop irradiation Condition"
+},
+    "provenance": {
+        "doi": "10.1021/acs.iecr.6b02862",	
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\Peterman et al. - 2016 - Performance of an i-SANEX System Based on a Water-.pdf"},
+
+    "record creation": {
+        "time": "2023:5:16:01:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"	
+    }
+}
+]
