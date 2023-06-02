@@ -1,0 +1,48 @@
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.205, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.60},
+            {"identity": "1-butanol", "volfraction": 0.40}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Hydorxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 4.1,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": 0., "unit": "M"}, "D":0.022429, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": 0.7, "unit": "M"}, "D": 0.53552, "quantification method":"gamma"}],
+    
+    "observations":{
+        "third phase": false,
+        "comment": "figure 1 in Kolorik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "PDF-FILESTORE-Reference"},
+    
+    "record creation": {
+        "time": "2023-03-21:24:00:00+0",
+        "username": "jschrier",	
+        "name": "Joshua Schrier",	
+        "email": "jschrier@fordham.edu",	
+        "orcid": "0000-0000-0000-0000", 	
+        "organization": "Fordham University",	
+        "details": "???"    
+    }
+    
+    }
