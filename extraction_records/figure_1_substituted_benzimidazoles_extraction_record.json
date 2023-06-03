@@ -24,14 +24,14 @@
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 0., "unit": "M"}, "D": 0.022429, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.022429, "quantification method":"gamma"},
         {"identity": "Am(III)", "initial concentration": {"quantity": 0.7, "unit": "M"}, "D": 0.53352, "quantification method":"gamma"}
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 0., "unit": "M"}, "D": 0.022235, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": 0., "unit": "M"}, "D": 0.593593, "quantification method":"gamma"}
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 0., "unit": "M"}, "D": 0.034628, "quantification method":"gamma"}
-        {"identity": "Am(III)", "initial concentration": {"quantity": 0., "unit": "M"}, "D": 0.746954, "quantification method":"gamma"}
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 0., "unit": "M"}, "D": 0.051188, "quantification method":"gamma"}
-        {"identity": "Am(III)", "initial concentration": {"quantity": 0., "unit": "M"}, "D": 0.873009, "quantification method":"gamma"}
+        {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.022235, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.593593, "quantification method":"gamma"}
+        {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.034628, "quantification method":"gamma"}
+        {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.746954, "quantification method":"gamma"}
+        {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.051188, "quantification method":"gamma"}
+        {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.873009, "quantification method":"gamma"}
 
 ],
     
