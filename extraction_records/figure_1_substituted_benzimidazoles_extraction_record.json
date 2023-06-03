@@ -31,7 +31,28 @@
         {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.034628, "quantification method":"gamma"},
         {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.746954, "quantification method":"gamma"},
         {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.051188, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.873009, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.873009, "quantification method":"gamma"}],
+    
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.205, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.60},
+            {"identity": "1-butanol", "volfraction": 0.40}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Hydorxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 4.1,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}
+    },   
+    
+    "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.499909, "quantification method":"gamma"},
         {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.796244, "quantification method":"gamma"},
         {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.525287, "quantification method":"gamma"},
@@ -39,9 +60,13 @@
         {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.551952, "quantification method":"gamma"},
         {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.717967, "quantification method":"gamma"},
         {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.742901, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.901523, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.901523, "quantification method":"gamma"}]
 
-],
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
     
     "observations":{
         "third phase": false,
