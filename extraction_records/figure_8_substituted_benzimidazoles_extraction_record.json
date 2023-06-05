@@ -1,0 +1,482 @@
+[
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.05729541843065595,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 8.5,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 6.2,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.00630856457614301,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.0197998920411018,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 8 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:04:12:19",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.1286376956509795,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 8.5,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 6.2,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.0184109765894367,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.072417081115514,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 8 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:04:12:19",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.17231425256572802,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 8.5,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 6.2,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.0265899904578724,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.131062089839502,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 8 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:04:12:19",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.22987429730937547,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 8.5,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 6.2,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.0426612286828115,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.233656410186266,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 8 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:04:12:19",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.28738659970990654,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 8.5,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 6.2,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.0653351500528182,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.391655294553075,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 8 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:04:12:19",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    }
+]
