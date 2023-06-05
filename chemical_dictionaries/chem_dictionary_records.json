@@ -546,11 +546,41 @@
 },
 {
 "names": ["So3-Ph-BTP", "sodium 3,3',3'',3'''-(pyridine-2,6-diylbis(1,2,4-triazine-3,5,6-triyl))tetrabenzenesulfonate"],
-"pure substances": true,
+"pure substance": true,
 "SMILES": "N1=C(C=CC=C1C=1N=NC(=C(N1)C=1C=C(C=CC1)S(=O)(=O)[O-])C=1C=C(C=CC1)S(=O)(=O)[O-])C=1N=NC(=C(N1)C=1C=C(C=CC1)S(=O)(=O)[O-])C=1C=C(C=CC1)S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+]",
 "InChIKey": "KOLRPKDHYCUKHT-UHFFFAOYSA-J",
 "InChI": "InChI=1S/C35H23N7O12S4.4Na/c43-55(44,45)24-10-1-6-20(16-24)30-32(22-8-3-12-26(18-22)57(49,50)51)39-41-34(37-30)28-14-5-15-29(36-28)35-38-31(21-7-2-11-25(17-21)56(46,47)48)33(40-42-35)23-9-4-13-27(19-23)58(52,53)54;;;;/h1-19H,(H,43,44,45)(H,46,47,48)(H,49,50,51)(H,52,53,54);;;;/q;4*+1/p-4", 
 "URL": "https://opsin.ch.cam.ac.uk/"
+},
+{
+"names": ["CHLOROBENZENE", "Monochlorobenzene", "Phenyl chloride", "Benzene chloride"],
+"pure substance": "true",
+"CAS": "25053-25-2",
+"SMILES": "C1=CC=C(C=C1)Cl",
+"InChIKey": "MVPPADPHJFYWMZ-UHFFFAOYSA-N",  
+"InChI": "InChI=1S/C6H5Cl/c7-6-4-2-1-3-5-6/h1-5H",  
+"pubchemCID": "7964",
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/7964"
+},
+{
+"Names": ["2-(2-Pyridyl)benzimidazole", "1137-68-4", "2-(pyridin-2-yl)-1H-benzo[d]imidazole", "2-pyridin-2-yl-1H-benzimidazole", "1H-Benzimidazole, 2-(2-pyridinyl)-"],
+"pure substance": "true",
+"CAS": "1137-68-4",
+"SMILES": "C1=CC=C2C(=C1)NC(=N2)C3=CC=CC=N3",  
+"InChIKey": "YNFBMDWHEHETJW-UHFFFAOYSA-N",  
+"InChI": "InChI=1S/C12H9N3/c1-2-6-10-9(5-1)14-12(15-10)11-7-3-4-8-13-11/h1-8H,(H,14,15)",  
+"pubchemCID": "70821",
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70821"
+},
+{
+"Names":["2-(6-Methyl-2-pyridyl)benzimidazole", "6504-09-2", "2-(6-methylpyridin-2-yl)-1H-benzimidazole", "Benzimidazole", "2-(6-methyl-2-pyridyl)-", "NSC-8812"], 
+"pure substance": "true",
+"CAS": "6504-09-2",
+"SMILES": "CC1=NC(=CC=C1)C2=NC3=CC=CC=C3N2",
+"InChIKey": "XTCNWAFKRSFAFZ-UHFFFAOYSA-N", 
+"InChI": "InChI=1S/C13H11N3/c1-9-5-4-8-12(14-9)13-15-10-6-2-3-7-11(10)16-13/h2-8H,1H3,(H,15,16)", 
+"pubchemCID": "96733",
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/96733"
 }
 ]
 
