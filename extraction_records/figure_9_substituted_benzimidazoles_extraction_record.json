@@ -5,17 +5,16 @@
             "phase modifier": ["identity": "thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"],       
 
             "solvents": [
-            {"identity": "chlorobenzene", "volfraction": 0.50},
-            {"identity": "1-butanol", "volfraction": 0.50}],
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
         "volume": {"quantity": 10.0, "unit": "milliliter"}
       },
     
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NH4NO3", "concentration": {"quantity": "missing", "unit": "M"}},
-            {"identity": "Hydroxylammonium", "concentration": {"quantity": 0.2, "unit": "M"}}],
-        "pH": 5.2,
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
         "volume": {"quantity": 15.0, "unit": "milliliter"}
     },   
     
