@@ -13,7 +13,7 @@
        
         "solutes": [
             {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
-            {"identity": "Hydorxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            {"identity": "Formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
         "pH": 4.03,
         "volume": {"quantity": 15.0, "unit": "milliliter"}
     },   
@@ -24,8 +24,8 @@
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.022429, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": 0.7, "unit": "M"}, "D": 0.53352, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.022429, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.53352, "quantification method":"gamma"}]
 
       
     "observations":{
@@ -58,7 +58,7 @@
        
         "solutes": [
             {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
-            {"identity": "Hydorxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            {"identity": "Formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
         "pH": 4.12,
         "volume": {"quantity": 15.0, "unit": "milliliter"}
     },   
@@ -69,8 +69,8 @@
     },  
 
     "metals":[       
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.022235, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.593593, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.022235, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.593593, "quantification method":"gamma"}]
   
     "observations":{
         "third phase": false,
@@ -103,7 +103,7 @@
        
         "solutes": [
             {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
-            {"identity": "Hydorxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            {"identity": "Formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
         "pH": 4.40,
         "volume": {"quantity": 15.0, "unit": "milliliter"}
     },   
@@ -114,8 +114,8 @@
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.034628, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.746954, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.034628, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.746954, "quantification method":"gamma"}]
 
   
     "observations":{
@@ -148,7 +148,7 @@
        
         "solutes": [
             {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
-            {"identity": "Hydorxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            {"identity": "Formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
         "pH": 4.78,
         "volume": {"quantity": 15.0, "unit": "milliliter"}
     },   
@@ -159,8 +159,8 @@
     },
     
 "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.051188, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.873009, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.051188, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.873009, "quantification method":"gamma"}]
     
   
     "observations":{
@@ -204,8 +204,8 @@
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.499909, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.796244, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.499909, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.796244, "quantification method":"gamma"}]
     
            
     "observations":{
@@ -249,8 +249,8 @@
     },
     
     "metals": [ 
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.525287, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.804527, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.525287, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.804527, "quantification method":"gamma"}]
               
   
     "observations":{
@@ -294,8 +294,8 @@
     },
 
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.551952, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.717967, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.551952, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.717967, "quantification method":"gamma"}]
 
   
     "observations":{
@@ -339,8 +339,8 @@
     },
 
     "metals":[       
-        {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.742901, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.901523, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.742901, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.901523, "quantification method":"gamma"}]
 
   
   
