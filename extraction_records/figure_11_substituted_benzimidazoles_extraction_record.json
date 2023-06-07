@@ -1,7 +1,7 @@
 [{
     "organic phase": {
         "extractants": [
-            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
 
             "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.50},
@@ -46,7 +46,7 @@
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
 
             "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.50},
@@ -90,7 +90,7 @@
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
 
             "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.50},
@@ -134,7 +134,7 @@
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
 
             "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.50},
@@ -179,7 +179,7 @@
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
 
             "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.50},
