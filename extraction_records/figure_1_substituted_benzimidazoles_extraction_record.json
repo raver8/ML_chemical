@@ -27,6 +27,22 @@
         {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.022429, "quantification method":"gamma"},
         {"identity": "Am(III)", "initial concentration": {"quantity": 0.7, "unit": "M"}, "D": 0.53352, "quantification method":"gamma"}]
 
+      
+    "observations":{
+        "third phase": false,
+        "comment": "figure 1 in Kolorik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+            
 {
     "organic phase": {
         "extractants": [
@@ -55,7 +71,22 @@
     "metals": [       
         {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.022235, "quantification method":"gamma"},
         {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.593593, "quantification method":"gamma"}]
-
+  
+    "observations":{
+        "third phase": false,
+        "comment": "figure 1 in Kolorik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+            
 
 {
     "organic phase": {
@@ -86,6 +117,22 @@
         {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.034628, "quantification method":"gamma"},
         {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.746954, "quantification method":"gamma"}]
 
+  
+    "observations":{
+        "third phase": false,
+        "comment": "figure 1 in Kolorik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+            
 {
     "organic phase": {
         "extractants": [
@@ -110,11 +157,28 @@
         "temperature": {"quantity": 296, "unit": "K"},
         "time": {"quantity": 15, "unit": "minutes"}
     },
+    
 "metals:[
         {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.051188, "quantification method":"gamma"},
         {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.873009, "quantification method":"gamma"}]
     
-
+  
+    "observations":{
+        "third phase": false,
+        "comment": "figure 1 in Kolorik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+            
+        
 {
     "organic phase": {
         "extractants": [
@@ -142,7 +206,23 @@
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.499909, "quantification method":"gamma"},
         {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.796244, "quantification method":"gamma"]
-        
+    
+           
+    "observations":{
+        "third phase": false,
+        "comment": "figure 1 in Kolorik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+            
 {
     "organic phase": {
         "extractants": [
@@ -171,9 +251,23 @@
     "metals": [ 
         {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.525287, "quantification method":"gamma"},
         {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.804527, "quantification method":"gamma"]
-         
-        
-
+              
+  
+    "observations":{
+        "third phase": false,
+        "comment": "figure 1 in Kolorik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+            
 {
     "organic phase": {
         "extractants": [
@@ -203,6 +297,21 @@
         {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.551952, "quantification method":"gamma"},
         {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.717967, "quantification method":"gamma"}]
 
+  
+    "observations":{
+        "third phase": false,
+        "comment": "figure 1 in Kolorik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	           
 
 {
     "organic phase": {
@@ -233,7 +342,7 @@
         {"identity": "Eu(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.742901, "quantification method":"gamma"},
         {"identity": "Am(III)", "initial concentration": {"quantity": 0, "unit": "M"}, "D": 0.901523, "quantification method":"gamma"}]
 
-    
+  
   
     "observations":{
         "third phase": false,
@@ -248,8 +357,6 @@
         "username": "caitlinr77",	
         "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University",	
-            
-    }
+        "organization": "Fordham University"}
     
-    }
+
