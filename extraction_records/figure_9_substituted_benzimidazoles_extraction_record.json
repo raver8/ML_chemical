@@ -1,8 +1,8 @@
 {
     "organic phase": {
         "extractants": [
-            {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
-            "phase modifier": ["identity": "thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"],       
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"],       
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
@@ -23,5 +23,229 @@
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.019176, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.127216, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.20, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.30, "quantification method":"gamma"}]
+
+        {
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+      },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.20, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.30, "quantification method":"gamma"}]
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+      },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.75, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.70, "quantification method":"gamma"}]
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+      },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.95, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.20, "quantification method":"gamma"}]
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+      },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.30, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.90, "quantification method":"gamma"}]
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+      },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.55, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.95, "quantification method":"gamma"}]
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+      },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.90, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.80, "quantification method":"gamma"}]
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+      },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.50, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 10.40, "quantification method":"gamma"}]
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+      },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.50, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 10.65, "quantification method":"gamma"}]
