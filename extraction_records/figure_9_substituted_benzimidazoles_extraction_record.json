@@ -7,8 +7,7 @@
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30}],
-        "volume": {"quantity": 10.0, "unit": "milliliter"}
-      },
+        "volume": {"quantity": 10.0, "unit": "milliliter"},
     
      "aqueous phase": {
        
@@ -36,7 +35,7 @@
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30}],
         "volume": {"quantity": 10.0, "unit": "milliliter"}
-      },
+   
     
      "aqueous phase": {
        
