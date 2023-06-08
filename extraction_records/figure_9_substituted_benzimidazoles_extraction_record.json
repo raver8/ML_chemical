@@ -2,7 +2,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
-            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"]       
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
@@ -30,7 +30,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
-            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"]       
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
@@ -58,7 +58,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
-            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"]      
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]      
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
@@ -86,7 +86,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
-            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"]       
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
@@ -114,7 +114,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
-            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"]       
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
@@ -142,7 +142,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
-            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"]       
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
@@ -170,7 +170,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
-            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"]       
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
@@ -198,7 +198,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
-            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"]       
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
@@ -226,7 +226,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
-            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"]       
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
