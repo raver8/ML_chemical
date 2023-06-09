@@ -21,7 +21,8 @@
     "reaction conditions": {
         "temperature": {"quantity": 298, "unit": "K"},
         "flow rate": {"quantity": 1.5, "unit": "LPM"},
-        "time": {"quantity": 1800, "unit": "seconds"}
+        "time": {"quantity": 1800, "unit": "seconds"},
+        "accumulated dose" : {"quantity": 39.9, "unit": "kGy"}
 
         },
 
