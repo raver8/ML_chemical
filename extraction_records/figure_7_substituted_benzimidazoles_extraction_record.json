@@ -139,8 +139,8 @@
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": "missing", "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": "missing", "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.022751, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.135528, "quantification method":"gamma"}]
 
 {
     "organic phase": {
@@ -167,8 +167,8 @@
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": "missing", "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": "missing", "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.086245, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.531965, "quantification method":"gamma"}]
 
 {
     "organic phase": {
@@ -195,8 +195,8 @@
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": "missing", "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": "missing", "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.461453, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.988829, "quantification method":"gamma"}]
 
 {
     "organic phase": {
@@ -225,8 +225,8 @@
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": "missing", "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": "missing", "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.009949, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.063246, "quantification method":"gamma"}]
       
 {
     "organic phase": {
@@ -243,7 +243,7 @@
        
         "solutes": [
             {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}}
-            {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}},
+            {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}]
 ,
         "pH": 4.85,
         "volume": {"quantity": 15.0, "unit": "milliliter"}
@@ -255,8 +255,8 @@
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": "missing", "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": "missing", "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.009076, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.054061, "quantification method":"gamma"}]
 
 
 {
@@ -273,7 +273,8 @@
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "KI", "concentration": {"quantity": 0.04, "unit": "M"}},
+            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}}
+            {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}]
 ,
         "pH": 4.85,
         "volume": {"quantity": 15.0, "unit": "milliliter"}
@@ -285,8 +286,8 @@
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": "missing", "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": "missing", "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.004662, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.019278, "quantification method":"gamma"}]
 
 {
     "organic phase": {
@@ -302,7 +303,7 @@
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "KI", "concentration": {"quantity": 0.04, "unit": "M"}},
+            {"identity": "KI", "concentration": {"quantity": "missing", "unit": "M"}},
 ,
         "pH": 4.85,
         "volume": {"quantity": 15.0, "unit": "milliliter"}
@@ -314,5 +315,35 @@
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": "missing", "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": "missing", "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.001411, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.005137, "quantification method":"gamma"}]
+
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": 0.191, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "KI", "concentration": {"quantity": "missing", "unit": "M"}},
+        "pH": 4.85,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.001959, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.010525, "quantification method":"gamma"}]
+
