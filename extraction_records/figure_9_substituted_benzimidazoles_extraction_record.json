@@ -6,7 +6,7 @@
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
         "volume": {"quantity": 10.0, "unit": "milliliter"},
     
      "aqueous phase": {
@@ -49,7 +49,7 @@
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
         "volume": {"quantity": 10.0, "unit": "milliliter"},
     
      "aqueous phase": {
@@ -92,7 +92,7 @@
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
         "volume": {"quantity": 10.0, "unit": "milliliter"},
 
      "aqueous phase": {
@@ -134,7 +134,7 @@
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}],
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
         "volume": {"quantity": 10.0, "unit": "milliliter"},
     
      "aqueous phase": {
@@ -177,7 +177,7 @@
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}],
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
         "volume": {"quantity": 10.0, "unit": "milliliter"},
 
 
@@ -221,7 +221,7 @@
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}],
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
         "volume": {"quantity": 10.0, "unit": "milliliter"},
 
 
@@ -265,7 +265,7 @@
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}],
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
         "volume": {"quantity": 10.0, "unit": "milliliter"},
     
      "aqueous phase": {
@@ -308,7 +308,7 @@
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}],
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
         "volume": {"quantity": 10.0, "unit": "milliliter"},
 
     
@@ -352,7 +352,7 @@
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}],
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
         "volume": {"quantity": 10.0, "unit": "milliliter"},
 
 
