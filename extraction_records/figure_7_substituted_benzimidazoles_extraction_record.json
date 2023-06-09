@@ -30,7 +30,7 @@
     
       "observations":{
         "third phase": false,
-        "comment": "First pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372"},
+        "comment": "First pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372, beginning with the points on the right labeled 'Nitrates'"},
     
      "provenance": {
         "doi": "10.1080/07366299708934483",
@@ -209,7 +209,8 @@
 
       "observations":{
         "third phase": false,
-        "comment": "Fifth pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372"},
+        "comment": "Fifth pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372", 
+      "These points are on the left curve in the graph, with these points being labeled as 'Perchlorates' to indicate the use of NaClO4 for the extraction},
     
      "provenance": {
         "doi": "10.1080/07366299708934483",
