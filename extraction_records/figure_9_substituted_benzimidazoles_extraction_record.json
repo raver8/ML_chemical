@@ -1,0 +1,391 @@
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"},
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.20, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.30, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "First pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+        {
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+   
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.20, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.30, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Second pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]      
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.75, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.70, "quantification method":"gamma"}]
+
+      "observations":{
+        "third phase": false,
+        "comment": "Third pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+   
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.95, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.20, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Fourth pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+ 
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.30, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.90, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Fifth pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.55, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.95, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Sixth pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.90, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.80, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Seventh pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.50, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 10.40, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Eighth pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            "phase modifier": ["identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}]       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+   
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.50, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 10.65, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Ninth pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
