@@ -131,7 +131,7 @@
             {"identity": "NaClO4", "concentration": {"quantity": "missing", "unit": "M"}},
         "pH": 4.85,
         "volume": {"quantity": 15.0, "unit": "milliliter"}
-    },   
+ 
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
