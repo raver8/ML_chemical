@@ -15,7 +15,7 @@
             {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
             {"identity": "Formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
         "pH": 4.03,
-        "volume": {"quantity": 15.0, "unit": "milliliter"}
+        "volume": {"quantity": "missing", "unit": "milliliter"}
     },   
     
     "reaction conditions": {
@@ -30,7 +30,7 @@
       
     "observations":{
         "third phase": false,
-        "comment": "First pair of Eu(III) and Am(III) D values in figure 1 in Kolorik Paper, page 365"},
+        "comment": "First pair of Eu(III) and Am(III) D values in figure 1 in Kolarik Paper, page 365"},
     
      "provenance": {
         "doi": "10.1080/07366299708934483",
@@ -60,7 +60,7 @@
             {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
             {"identity": "Formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
         "pH": 4.12,
-        "volume": {"quantity": 15.0, "unit": "milliliter"}
+        "volume": {"quantity": "missing", "unit": "milliliter"}
     },   
     
     "reaction conditions": {
@@ -105,7 +105,7 @@
             {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
             {"identity": "Formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
         "pH": 4.40,
-        "volume": {"quantity": 15.0, "unit": "milliliter"}
+        "volume": {"quantity": "missing", "unit": "milliliter"}
     },   
     
     "reaction conditions": {
@@ -150,7 +150,7 @@
             {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
             {"identity": "Formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
         "pH": 4.78,
-        "volume": {"quantity": 15.0, "unit": "milliliter"}
+        "volume": {"quantity": "missing", "unit": "milliliter"}
     },   
     
     "reaction conditions": {
@@ -165,7 +165,7 @@
   
     "observations":{
         "third phase": false,
-        "comment": "First pair of Eu(III) and Am(III) D values in figure 1 in Kolorik Paper, page 365"},
+        "comment": "Fourth pair of Eu(III) and Am(III) D values in figure 1 in Kolorik Paper, page 365"},
     
      "provenance": {
         "doi": "10.1080/07366299708934483",
@@ -194,9 +194,9 @@
        
         "solutes": [
             {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
-            {"identity": "Hydorxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            {"identity": "Hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
         "pH": 5.16,
-        "volume": {"quantity": 15.0, "unit": "milliliter"}
+        "volume": {"quantity": "missing", "unit": "milliliter"}
     },   
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -238,9 +238,9 @@
        
         "solutes": [
             {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
-            {"identity": "Hydorxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            {"identity": "Hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
         "pH": 5.28,
-        "volume": {"quantity": 15.0, "unit": "milliliter"}
+        "volume": {"quantity": "missing", "unit": "milliliter"}
     },   
 
     "reaction conditions": {
@@ -283,9 +283,9 @@
        
         "solutes": [
             {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
-            {"identity": "Hydorxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            {"identity": "Hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
         "pH": 5.43,
-        "volume": {"quantity": 15.0, "unit": "milliliter"}
+        "volume": {"quantity": "missing", "unit": "milliliter"}
     },   
     
     "reaction conditions": {
@@ -328,9 +328,9 @@
        
         "solutes": [
             {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
-            {"identity": "Hydorxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            {"identity": "Hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
         "pH": 5.73,
-        "volume": {"quantity": 15.0, "unit": "milliliter"}
+        "volume": {"quantity": "missing", "unit": "milliliter"}
     },   
   
     "reaction conditions": {
@@ -342,8 +342,7 @@
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.742901, "quantification method":"gamma"},
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.901523, "quantification method":"gamma"}]
 
-  
-  
+ 
     "observations":{
         "third phase": false,
         "comment": "Eighth pair of Eu(III) and Am(III) D values in figure 1 in Kolorik Paper, page 365"},
