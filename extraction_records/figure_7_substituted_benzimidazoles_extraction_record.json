@@ -158,8 +158,7 @@
         "solutes": [
             {"identity": "NaClO4", "concentration": {"quantity": "missing", "unit": "M"}},
         "pH": 4.85,
-        "volume": {"quantity": 15.0, "unit": "milliliter"}
-    },   
+        "volume": {"quantity": 15.0, "unit": "milliliter"} 
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -186,8 +185,7 @@
         "solutes": [
             {"identity": "NaClO4", "concentration": {"quantity": "missing", "unit": "M"}},
         "pH": 4.85,
-        "volume": {"quantity": 15.0, "unit": "milliliter"}
-    },   
+        "volume": {"quantity": 15.0, "unit": "milliliter"}]  
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -213,8 +211,8 @@
        
         "solutes": [
             {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}}
-            {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}},
-,
+            {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}]
+
         "pH": 4.85,
         "volume": {"quantity": 15.0, "unit": "milliliter"}
     },   
@@ -244,10 +242,9 @@
         "solutes": [
             {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}}
             {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}]
-,
+
         "pH": 4.85,
-        "volume": {"quantity": 15.0, "unit": "milliliter"}
-    },   
+        "volume": {"quantity": 15.0, "unit": "milliliter"}]  
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -277,8 +274,7 @@
             {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}]
 ,
         "pH": 4.85,
-        "volume": {"quantity": 15.0, "unit": "milliliter"}
-    },   
+        "volume": {"quantity": 15.0, "unit": "milliliter"}] 
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -311,8 +307,7 @@
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
-        "time": {"quantity": 15, "unit": "minutes"}
-    },
+        "time": {"quantity": 15, "unit": "minutes"}]
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.001411, "quantification method":"gamma"},
@@ -340,8 +335,7 @@
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
-        "time": {"quantity": 15, "unit": "minutes"}
-    },
+        "time": {"quantity": 15, "unit": "minutes"}]
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.001959, "quantification method":"gamma"},
