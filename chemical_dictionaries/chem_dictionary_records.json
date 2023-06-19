@@ -584,3 +584,354 @@
 }
 ]
 
+
+{"names": ["2-thenoyltrifluoroacetone", "326-91-0", "4,4,4-trifluoro-1-thiophen-2-ylbutane-1,3-dione", "Thenoyltrifluoroacetone", "Trifluorothienylacetone", "TTFA cpd", "1,3-Butanedione, 4,4,4-trifluoro-1-(2-thienyl)-"],
+"pure substance": true,
+"CAS": "326-91-0",
+"SMILES": "O=C(CC(C(F)(F)F)=O)C1=CC=CS1",  
+"InChIKey": "TXBBUSUXYMIVOS-UHFFFAOYSA-N", 
+"InChI": "InChI=1S/C8H5F3O2S/c9-8(10,11)7(13)4-5(12)6-2-1-3-14-6/h1-3H,4H2",
+"PubchemCID": "5601",  
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5601"}
+
+
+{"names": ["2-Bromodecanoic acid", "2623-95-2", "Decanoic acid, 2-bromo-", "2-Bromocapric acid", "2-bromo-decanoic acid"],
+"pure substance": true,
+"CAS": "2623-95-2",
+"SMILES": "BrC(C(=O)O)CCCCCCCC",  
+"InChIKey": "KNLOTZNPRIFUAR-UHFFFAOYSA-N", 
+"InChI": "InChI=1S/C10H19BrO2/c1-2-3-4-5-6-7-8-9(11)10(12)13/h9H,2-8H2,1H3,(H,12,13)",
+"PubchemCID": "98310",  
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/98310"}
+
+
+
+{"names": ["2,6-bis((dioctylphosphoryl)methyl)pyridine 1-oxide", "2,6-Bis(dioctylphosphinylmethyl)pyridine 1-oxide"],
+"pure substance": true,
+"CAS": "missing",
+"SMILES": "O=P(CC1=CC=CC(CP(CCCCCCCC)(CCCCCCCC)=O)=[N+]1[O-])(CCCCCCCC)CCCCCCCC",  
+"InChIKey": "KUPKEWFKAPZRSE-UHFFFAOYSA-N", 
+"InChI": "InChI=1S/C39H75NO3P2/c1-5-9-13-17-21-25-32-44(42,33-26-22-18-14-10-6-2)36-38-30-29-31-39(40(38)41)37-45(43,34-27-23-19-15-11-7-3)35-28-24-20-16-12-8-4/h29-31H,5-28,32-37H2,1-4H3",
+"PubchemCID": "101123153",  
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/101123153"}
+
+
+
+{"names": ["N,N,N',N'-Tetrabutylmalonamide", "14287-98-0", "N1,N1,N3,N3-tetrabutylmalonamide", "N,N,N',N'-tetrabutylpropanediamide", "N,N,N,N-Tetrabutylmalonamide"],
+    "pure substance": true,
+    "CAS": "14287-98-0",
+    "InChIKey": "QTVRIQFMPJRJAK-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C19H38N2O2/c1-5-9-13-20(14-10-6-2)18(22)17-19(23)21(15-11-7-3)16-12-8-4/h5-17H2,1-4H3",
+    "SMILES": "O=C(CC(N(CCCC)CCCC)=O)N(CCCC)CCCC",
+    "PubchemCID": "3494509",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3494509"
+}
+
+
+{"names": ["N1,N1,N3,N3-tetrahexylmalonamide"],
+"pure substance": true,
+"CAS": "missing",
+"SMILES": "O=C(CC(N(CCCCCC)CCCCCC)=O)N(CCCCCC)CCCCCC",  
+"InChIKey": "NJIIDYSZCQGUKI-UHFFFAOYSA-N", 
+"InChI": "InChI=1S/C27H54N2O2/c1-5-9-13-17-21-28(22-18-14-10-6-2)26(30)25-27(31)29(23-19-15-11-7-3)24-20-16-12-8-4/h5-25H2,1-4H3",
+"PubchemCID": "missing",  
+"URL": "missing"}
+
+
+{"names": [" N1,N1,N3,N3-tetraoctylmalonamide", "N,N,N',N'-tetraoctylpropanediamide", "419568-17-5","N~1~,N~1~,N~3~,N~3~-Tetraoctylpropanediamide",
+           "N,N,N',N'-Tetraoctylmalonamide",
+           "DTXSID00785547", "SCHEMBL23748010"],
+    "pure substance": true,
+    "CAS": "419568-17-5",
+    "InChIKey": "GAJFDARXKQIKEX-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C35H70N2O2/c1-5-9-13-17-21-25-29-36(30-26-22-18-14-10-6-2)34(38)33-35(39)37(31-27-23-19-15-11-7-3)32-28-24-20-16-12-8-4/h5-33H2,1-4H3",
+    "SMILES": "O=C(CC(N(CCCCCCCC)CCCCCCCC)=O)N(CCCCCCCC)CCCCCCCC",
+    "PubchemCID": "71361897",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/71361897"}
+
+
+
+{"names": ["N1,N3-di(hexa-1,3,5-triyn-1-yl)-N1,N3-dimethylmalonamide--dihydrogen (1/10)"],
+"pure substance": true,
+"CAS": "missing",
+"SMILES": "CN(C#CC#CC#C)C(CC(N(C#CC#CC#C)C)=O)=O.[HH].[HH].[HH].[HH].[HH].[HH].[HH].[HH].[HH].[HH]",  
+"InChIKey": "TYNJUWGQVWVVPE-UHFFFAOYSA-N", 
+"InChI": "InChI=1S/C17H10N2O2/c1-5-7-9-11-13-18(3)16(20)15-17(21)19(4)14-12-10-8-6-2/h1-2H,15H2,3-4H3",
+"PubchemCID": "missing",  
+"URL": "missing"}
+
+KINDA DONE 
+
+{"names": ["N1,N3-dihexyl-N1,N3-dimethylmalonamide"],
+"pure substance": true,
+"CAS": "missing",
+"SMILES": "CN(CCCCCC)C(CC(N(CCCCCC)C)=O)=O",  
+"InChIKey": "JNQPKASLXOHIRC-UHFFFAOYSA-N", 
+"InChI": "InChI=1S/C17H34N2O2/c1-5-7-9-11-13-18(3)16(20)15-17(21)19(4)14-12-10-8-6-2/h5-15H2,1-4H3",
+"PubchemCID": "missing",  
+"URL": "missing"}
+
+
+{"names": ["N1,N3-dimethyl-N1,N3-dioctylmalonamide"],
+"pure substance": true,
+"CAS": "missing",
+"SMILES": "CN(CCCCCCCC)C(CC(N(CCCCCCCC)C)=O)=O",  
+"InChIKey": "UBGCCBQQNSSDHM-UHFFFAOYSA-N", 
+"InChI": "InChI=1S/C21H42N2O2/c1-5-7-9-11-13-15-17-22(3)20(24)19-21(25)23(4)18-16-14-12-10-8-6-2/h5-19H2,1-4H3",
+"PubchemCID": "missing",  
+"URL": "missing"}
+
+
+{"names": ["2-hexyl-N1,N3-dimethyl-N1,N3-dioctylmalonamide"],
+"pure substance": true,
+"CAS": "missing",
+"SMILES": "CN(CCCCCCCC)C(C(CCCCCC)C(N(CCCCCCCC)C)=O)=O",  
+"InChIKey": "BKLYPTAJJXPCPT-UHFFFAOYSA-N", 
+"InChI": "InChI=1S/C27H54N2O2/c1-6-9-12-15-17-20-23-28(4)26(30)25(22-19-14-11-8-3)27(31)29(5)24-21-18-16-13-10-7-2/h25H,6-24H2,1-5H3",
+"PubchemCID": "missing",  
+"URL": "missing"}
+
+{
+    "names": [
+           "Propanediamide, 2-[2-(hexyloxy)ethyl]-N,N'-dimethyl-N,N'-dioctyl",
+           "2-[2-(Hexyloxy)ethyl]-N~1~,N~3~-dimethyl-N~1~,N~3~-dioctylpropanediamide",
+           "107513-23-5",
+           "SCHEMBL16741947",
+           "DTXSID80552274",
+           "2-(2-hexoxyethyl)-N,N'-dimethyl-N,N'-dioctylpropanediamide"
+    ],
+    "pure substance": true,
+    "CAS": "107513-23-5",
+    "InChIKey": "QEHSHNRQHFAQEH-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C29H58N2O3/c1-6-9-12-15-17-19-23-30(4)28(32)27(22-26-34-25-21-14-11-8-3)29(33)31(5)24-20-18-16-13-10-7-2/h27H,6-26H2,1-5H3",
+    "SMILES": "CN(CCCCCCCC)C(C(CCOCCCCCC)C(N(CCCCCCCC)C)=O)=O",
+    "PubchemCID": "13906811",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/13906811"
+}
+DONE
+
+{
+    "names": ["N,N′-dimethyl-N,N′-didodecyldiglycolamide"],
+    "pure substance": true,
+    "CAS": "missing",
+    "InChIKey": "QOSVWXLGCCSHBA-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C30H60N2O3/c1-5-7-9-11-13-15-17-19-21-23-25-31(3)29(33)27-35-28-30(34)32(4)26-24-22-20-18-16-14-12-10-8-6-2/h5-28H2,1-4H3",
+    "SMILES": "CN(CCCCCCCCCCCC)C(COCC(N(CCCCCCCCCCCC)C)=O)=O",
+    "PubchemCID": "missing",
+    "URL": "missing"
+}
+KINDA DONE
+
+{
+    "names": ["N,N′-diethyl-N,N′-didodecyldiglycolamide"],
+    "pure substance": true,
+    "CAS": "missing",
+    "InChIKey": "OLQMYKBKECJKTP-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C32H64N2O3/c1-5-9-11-13-15-17-19-21-23-25-27-33(7-3)31(35)29-37-30-32(36)34(8-4)28-26-24-22-20-18-16-14-12-10-6-2/h5-30H2,1-4H3",
+    "SMILES": "O=C(COCC(N(CCCCCCCCCCCC)CC)=O)N(CCCCCCCCCCCC)CC",
+    "PubchemCID": "missing",
+    "URL": "missing"
+}
+
+{
+    "names": ["N,N′-dipropyl-N,N′-didodecyldiglycolamide"],
+    "pure substance": true,
+    "CAS": "missing",
+    "InChIKey": "CZCFTFYJYZCYPE-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C34H68N2O3/c1-5-9-11-13-15-17-19-21-23-25-29-35(27-7-3)33(37)31-39-32-34(38)36(28-8-4)30-26-24-22-20-18-16-14-12-10-6-2/h5-32H2,1-4H3",
+    "SMILES": "O=C(COCC(N(CCCCCCCCCCCC)CCC)=O)N(CCCCCCCCCCCC)CCC",
+    "PubchemCID": "missing",
+    "URL": "missing"
+}
+
+{
+    "names": ["N,N′-dibutyl- N,N′-didodecyldiglycolamide"],
+    "pure substance": true,
+    "CAS": "missing",
+    "InChIKey": "LNWHXYZFXWHCGB-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C36H72N2O3/c1-5-9-13-15-17-19-21-23-25-27-31-37(29-11-7-3)35(39)33-41-34-36(40)38(30-12-8-4)32-28-26-24-22-20-18-16-14-10-6-2/h5-34H2,1-4H3",
+    "SMILES": "O=C(COCC(N(CCCCCCCCCCCC)CCCC)=O)N(CCCCCCCCCCCC)CCCC",
+    "PubchemCID": "missing",
+    "URL": "missing"
+}
+
+{
+    "names": [" N,N,N',N'-Tetrabutylmalonamide", "N,N,N',N'-tetrabutylpropanediamide", "N1,N1,N3,N3-Tetrabutylmalonamide", "N,N,N,N-Tetrabutylmalonamide"   "14287-98-0"],
+    "pure substance": true,
+    "CAS": "14287-98-0",
+    "InChIKey": "QTVRIQFMPJRJAK-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C19H38N2O2/c1-5-9-13-20(14-10-6-2)18(22)17-19(23)21(15-11-7-3)16-12-8-4/h5-17H2,1-4H3    ",
+    "SMILES": "CCCCN(CCCC)C(=O)CC(=O)N(CCCC)CCCC",
+    "PubchemCID": "3494509",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3494509"
+}
+
+{
+    "names": ["N,N,N′,N′,N′′,N′′-hexabutylmethanetricarboxamide"],
+    "pure substance": true,
+    "CAS": "missing",
+    "InChIKey": "IDVUBVZIHRRKKV-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C28H55N3O3/c1-7-13-19-29(20-14-8-2)26(32)25(27(33)30(21-15-9-3)22-16-10-4)28(34)31(23-17-11-5)24-18-12-6/h25H,7-24H2,1-6H3",
+    "SMILES": "CCCCN(CCCC)C(=O)C(C(=O)N(CCCC)CCCC)C(=O)N(CCCC)CCCC",
+    "PubchemCID": "missing",
+    "URL": "missing"
+}
+
+{
+    "names": ["N,N,N′,N′,N′′,N′′-hexabutylethane-1,1,2-tricarboxamide"],
+    "pure substance": true,
+    "CAS": "missing",
+    "InChIKey": "OUSLWALYNJCXMU-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C29H57N3O3/c1-7-13-19-30(20-14-8-2)27(33)25-26(28(34)31(21-15-9-3)22-16-10-4)29(35)32(23-17-11-5)24-18-12-6/h26H,7-25H2,1-6H3",
+    "SMILES": "CCCCN(CCCC)C(=O)CC(C(=O)N(CCCC)CCCC)C(=O)N(CCCC)CCCC",
+    "PubchemCID": "missing",
+    "URL": "missing"
+}
+
+{
+    "names": ["2,2′-(1,2-phenylenebis(methylene))bis(N,N,N′,N′- tetrabutylmalonamide)"],
+    "pure substance": true,
+    "CAS": "missing",
+    "InChIKey": "COGREDJWOATUMB-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C46H82N4O4/c1-9-17-29-47(30-18-10-2)43(51)41(44(52)48(31-19-11-3)32-20-12-4)37-39-27-25-26-28-40(39)38-42(45(53)49(33-21-13-5)34-22-14-6)46(54)50(35-23-15-7)36-24-16-8/h25-28,41-42H,9-24,29-38H2,1-8H3",
+    "SMILES": "CCCCN(CCCC)C(=O)C(CC1=CC=CC=C1CC(C(=O)N(CCCC)CCCC)C(=O)N(CCCC)CCCC)C(=O)N(CCCC)CCCC",
+    "PubchemCID": "missing",
+    "URL": "missing"
+}
+
+{
+    "names": ["N,N,N',N'Tetra (2Ethylhexyl) Diglycolamide","TEHDGA","Tetra-bis(2-ethylhexyl)- diglycolamide" ],
+    "pure substance": true,
+    "CAS": "669087-46-1",
+    "InChIKey": "VPFLXOBLAVYUSW-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C36H72N2O3/c1-9-17-21-29(13-5)25-35(33(37)39,26-30(14-6)22-18-10-2)41-36(34(38)40,27-31(15-7)23-19-11-3)28-32(16-8)24-20-12-4/h29-32H,9-28H2,1-8H3,(H2,37,39)(H2,38,40)",
+    "SMILES": "O=C(COCC(N(CC(CC)CCCC)CC(CC)CCCC)=O)N(CC(CC)CCCC)CC(CC)CCCC",
+    "PubchemCID": "missing",
+    "URL": "missing"
+}
+
+{
+    "names": ["Bis(2-ethylhexyl) hydrogen phosphate","298-07-7", "BIS(2-ETHYLHEXYL) PHOSPHATE","Hdehp", "Di(2-ethylhexyl) phosphate"
+    ],
+    "pure substance": true,
+    "CAS": "298-07-7",
+    "InChIKey": "SEGLCEQVOFDUPX-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C16H35O4P/c1-5-9-11-15(7-3)13-19-21(17,18)20-14-16(8-4)12-10-6-2/h15-16H,5-14H2,1-4H3,(H,17,18)",
+    "SMILES": "CCCCC(CC)COP(=O)(O)OCC(CC)CCCC",
+    "PubchemCID": "9275",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/9275"
+}
+
+
+{
+    "names": ["tetraethyl (1,10-phenanthroline-2,9-diyl)phosphonate", "(1,10-phenanthrolin-2,9-diyl) phosphonate", ""],
+    "pure substance": true,
+    "CAS": "missing",
+    "InChIKey": "DOCWBIUEXDRWEJ-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C20H26N2O6P2/c1-5-25-29(23,26-6-2)17-13-11-15-9-10-16-12-14-18(22-20(16)19(15)21-17)30(24,27-7-3)28-8-4/h9-14H,5-8H2,1-4H3",
+    "SMILES": "O=P(C1=NC2=C3N=C(P(OCC)(OCC)=O)C=CC3=CC=C2C=C1)(OCC)OCC",
+    "PubchemCID": "missing",
+    "URL": "missing"
+}
+
+    {
+        "names": [
+               "Dicyclohexano-18-crown-6",
+               "16069-36-6",
+               "Dicyclohexyl-18-crown-6",
+               "cis-Dicyclohexano-18-crown-6",
+               "Icosahydrodibenzo[b,k][1,4,7,10,13,16]hexaoxacyclooctadecine",
+               "2,5,8,15,18,21-hexaoxatricyclo[20.4.0.09,14]hexacosane"
+        ],
+        "pure substance": true,
+        "CAS": "16069-36-6",
+        "InChIKey": "BBGKDYHZQOSNMU-UHFFFAOYSA-N",
+        "InChI": "InChI=1S/C20H36O6/c1-2-6-18-17(5-1)23-13-9-21-11-15-25-19-7-3-4-8-20(19)26-16-12-22-10-14-24-18/h17-20H,1-16H2",
+        "SMILES": "C1CCC2C(C1)OCCOCCOC3CCCCC3OCCOCCO2",
+        "PubchemCID": "85955",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/85955"
+ }
+
+ {
+    "names": [
+           "2,9-bis(butylphenylphosphine oxide)-1,10-phenanthroline"
+    ],
+    "pure substance": true,
+    "CAS": "missing",
+    "InChIKey": "missing",
+    "InChI": " FIX InChI=1S/C20H36O6/c1-2-6-18-17(5-1)23-13-9-21-11-15-25-19-7-3-4-8-20(19)26-16-12-22-10-14-24-18/h17-20H,1-16H2",
+    "SMILES": "O=P(C1=CC=CC=C1)(CCCC)C2=NC(C(N=C(P(C3=CC=CC=C3)(CCCC)=O)C=C4)=C4C=C5)=C5C=C2",
+    "PubchemCID": "MISSING",
+    "URL": ""
+}
+MISSING
+
+{
+    "names": [
+           "2-(butylphenylphosphine oxide)-1,10-phenanthroline"    ],
+    "pure substance": true,
+    "CAS": "missing",
+    "InChIKey": "missing",
+    "InChI": " FIX InChI=1S/C20H36O6/c1-2-6-18-17(5-1)23-13-9-21-11-15-25-19-7-3-4-8-20(19)26-16-12-22-10-14-24-18/h17-20H,1-16H2",
+    "SMILES": "O=P(C1=CC=CC=C1)(CCCC)C(C=C2)=NC3=C2C=CC4=C3N=CC=C4",
+    "PubchemCID": "MISSING",
+    "URL": ""
+}
+
+MISSING
+
+
+
+{
+    "names": [
+           "6,19-dihexyl-7,8,17,18-tetraphenyl-3,6,19,22-tetrazapentacyclo[12.8.0.0^2,11.0^4,9.0^16,21]docosa-1(22),2,4(9),7,10,12,14,16(21),17-nonaene-5,20-dione"],
+    "pure substance": true,
+    "CAS": "missing",
+    "InChIKey": "QSFRTQJEHPGZSO-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C54H50N4O2/c1-3-5-7-21-33-57-51(39-27-17-11-18-28-39)45(37-23-13-9-14-24-37)43-35-41-31-32-42-36-44-46(38-25-15-10-16-26-38)52(40-29-19-12-20-30-40)58(34-22-8-6-4-2)54(60)50(44)56-48(42)47(41)55-49(43)53(57)59/h9-20,23-32,35-36H,3-8,21-22,33-34H2,1-2H3",
+    "SMILES": "CCCCCCN1C(C2=CC=CC=C2)=C(C3=CC=CC=C3)C4=CC5=C(C(N=C(C(N(CCCCCC)C(C6=CC=CC=C6)=C7C8=CC=CC=C8)=O)C7=C9)=C9C=C5)N=C4C1=O",
+    "PubchemCID": "missing",
+    "URL": "missing"
+}
+
+
+{
+    "names": [
+           "(1S,2R,19R,20R,23R,24R)-11,25-dihexyl-11,18,25-triazaoctacyclo[25.2.1.0^2,26.0^3,23.0^4,19.0^6,17.0^9,14.0^20,24]triaconta-3(23),4(19),5,7,9(14),15,17-heptaene-10,26-dione"],
+    "pure substance": true,
+    "CAS": "missing",
+    "InChIKey": "QSFRTQJEHPGZSO-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C54H50N4O2/c1-3-5-7-21-33-57-51(39-27-17-11-18-28-39)45(37-23-13-9-14-24-37)43-35-41-31-32-42-36-44-46(38-25-15-10-16-26-38)52(40-29-19-12-20-30-40)58(34-22-8-6-4-2)54(60)50(44)56-48(42)47(41)55-49(43)53(57)59/h9-20,23-32,35-36H,3-8,21-22,33-34H2,1-2H3",
+    "SMILES": "CCCCCCN1C(C2=CC=CC=C2)=C(C3=CC=CC=C3)C4=CC5=C(C(N=C(C(N(CCCCCC)C(C6=CC=CC=C6)=C7C8=CC=CC=C8)=O)C7=C9)=C9C=C5)N=C4C1=O",
+    "PubchemCID": "MISSING",
+    "URL": "missing"
+}
+
+MISSING
+
+{
+    "names": ["N,N'-diethyl-N,N'-ditolyl-2,9-dicarboxamide-1,10-phenanthroline"],
+    "pure substance": true,
+    "CAS": "missing",
+    "InChIKey": "FSGXOTSTBMUIOR-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C32H30N4O2/c1-5-35(25-15-7-21(3)8-16-25)31(37)27-19-13-23-11-12-24-14-20-28(34-30(24)29(23)33-27)32(38)36(6-2)26-17-9-22(4)10-18-26/h7-20H,5-6H2,1-4H3",
+    "SMILES": "CC1=CC=C(N(C(C2=NC3=C4N=C(C(N(C(C=C5)=CC=C5C)CC)=O)C=CC4=CC=C3C=C2)=O)CC)C=C1",
+    "PubchemCID": "MISSING",
+    "URL": "missing"
+}
+
+MISSING
+
+{
+    "names": ["N,N,N',N'-tetra-n-pentyldiglycolamide", "2,2'-Oxybis(N,N-dipentylacetamide)", "SCHEMBL23039655"],
+    "pure substance": true,
+    "CAS": "missing",
+    "InChIKey": "HNFBDIODCWGCDE-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C24H48N2O3/c1-5-9-13-17-25(18-14-10-6-2)23(27)21-29-22-24(28)26(19-15-11-7-3)20-16-12-8-4/h5-22H2,1-4H3",
+    "SMILES": "O=C(N(CCCCC)CCCCC)COCC(N(CCCCC)CCCCC)=O",
+    "PubchemCID": "102105691",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/102105691"
+}
+
+
+
