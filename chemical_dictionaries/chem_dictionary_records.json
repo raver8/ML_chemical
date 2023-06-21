@@ -853,7 +853,7 @@
 
  {
     "names": [
-           "2,9-bis(butylphenylphosphine oxide)-1,10-phenanthroline", "1,10-phenanthroline-2,8-diyl)bis(butyl(phenyl)phosphine oxide"],
+           "tridentate 2,9-bis(butylphenylphosphine oxide)-1,10-phenanthroline", "1,10-phenanthroline-2,8-diyl)bis(butyl(phenyl)phosphine oxide"],
     "pure substance": true,
     "CAS": "missing",
     "InChIKey": "missing",
@@ -865,17 +865,16 @@
 
 {
     "names": [
-           "2-(butylphenylphosphine oxide)-1,10-phenanthroline"    ],
+           "tridentate 2-(butylphenylphosphine oxide)-1,10-phenanthroline", "butyl(1,10-phenanthrolin-2-yl)(phenyl)phosphine oxide"],
     "pure substance": true,
     "CAS": "missing",
-    "InChIKey": "missing",
-    "InChI": " FIX InChI=1S/C20H36O6/c1-2-6-18-17(5-1)23-13-9-21-11-15-25-19-7-3-4-8-20(19)26-16-12-22-10-14-24-18/h17-20H,1-16H2",
-    "SMILES": "O=P(C1=CC=CC=C1)(CCCC)C(C=C2)=NC3=C2C=CC4=C3N=CC=C4",
+    "InChIKey": "MWJGSZMYRGBVAT-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C22H21N2OP/c1-2-3-16-26(25,19-9-5-4-6-10-19)20-14-13-18-12-11-17-8-7-15-23-21(17)22(18)24-20/h4-15H,2-3,16H2,1H3",
+    "SMILES": "O=P(CCCC)(C1=CC=CC=C1)C(C=C2)=NC3=C2C=CC4=CC=CN=C43",
     "PubchemCID": "MISSING",
     "URL": ""
 }
 
-MISSING
 
 
 
@@ -912,12 +911,12 @@ MISSING
     "CAS": "missing",
     "InChIKey": "FSGXOTSTBMUIOR-UHFFFAOYSA-N",
     "InChI": "InChI=1S/C32H30N4O2/c1-5-35(25-15-7-21(3)8-16-25)31(37)27-19-13-23-11-12-24-14-20-28(34-30(24)29(23)33-27)32(38)36(6-2)26-17-9-22(4)10-18-26/h7-20H,5-6H2,1-4H3",
-    "SMILES": "CC1=CC=C(N(C(C2=NC3=C4N=C(C(N(C(C=C5)=CC=C5C)CC)=O)C=CC4=CC=C3C=C2)=O)CC)C=C1",
-    "PubchemCID": "MISSING",
+    "SMILES": "O=C(N(C1=CC=C(C)C=C1)CC)C(C=C2)=NC3=C2C=CC4=C3N=C(C(N(C5=CC=C(C)C=C5)CC)=O)C=C4",
+    "PubchemCID": "missing",
     "URL": "missing"
 }
 
-MISSING
+
 
 {
     "names": ["N,N,N',N'-tetra-n-pentyldiglycolamide", "2,2'-Oxybis(N,N-dipentylacetamide)", "SCHEMBL23039655"],
