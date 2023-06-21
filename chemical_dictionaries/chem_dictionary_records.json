@@ -660,7 +660,6 @@
 "PubchemCID": "missing",  
 "URL": "missing"}
 
-KINDA DONE 
 
 {"names": ["N1,N3-dihexyl-N1,N3-dimethylmalonamide"],
 "pure substance": true,
@@ -708,7 +707,7 @@ KINDA DONE
     "PubchemCID": "13906811",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/13906811"
 }
-DONE
+
 
 {
     "names": ["N,N′-dimethyl-N,N′-didodecyldiglycolamide"],
@@ -720,7 +719,6 @@ DONE
     "PubchemCID": "missing",
     "URL": "missing"
 }
-KINDA DONE
 
 {
     "names": ["N,N′-diethyl-N,N′-didodecyldiglycolamide"],
@@ -860,7 +858,7 @@ KINDA DONE
     "CAS": "missing",
     "InChIKey": "missing",
     "InChI": "missing",
-    "SMILES": "O=P(C1=CC=CC=C1)(CCCC)C2=NC(C(N=C(P(C3=CC=CC=C3)(CCCC)=O)C=C4)=C4C=C5)=C5C=C2",
+    "SMILES": "CCCCP(C1=CC=CC=C1)(C2=CN=C(C(N=C(P(CCCC)(/C(C)=C/C=C)=O)C=C3)=C3C=C4)C4=C2)=O",
     "PubchemCID": "missing",
     "URL": "missing"
 }
