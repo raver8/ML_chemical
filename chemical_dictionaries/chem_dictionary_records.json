@@ -891,19 +891,6 @@
 }
 
 
-{
-    "names": [
-           "(1S,2R,19R,20R,23R,24R)-11,25-dihexyl-11,18,25-triazaoctacyclo[25.2.1.0^2,26.0^3,23.0^4,19.0^6,17.0^9,14.0^20,24]triaconta-3(23),4(19),5,7,9(14),15,17-heptaene-10,26-dione"],
-    "pure substance": true,
-    "CAS": "missing",
-    "InChIKey": "QSFRTQJEHPGZSO-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C54H50N4O2/c1-3-5-7-21-33-57-51(39-27-17-11-18-28-39)45(37-23-13-9-14-24-37)43-35-41-31-32-42-36-44-46(38-25-15-10-16-26-38)52(40-29-19-12-20-30-40)58(34-22-8-6-4-2)54(60)50(44)56-48(42)47(41)55-49(43)53(57)59/h9-20,23-32,35-36H,3-8,21-22,33-34H2,1-2H3",
-    "SMILES": "CCCCCCN1C(C2=CC=CC=C2)=C(C3=CC=CC=C3)C4=CC5=C(C(N=C(C(N(CCCCCC)C(C6=CC=CC=C6)=C7C8=CC=CC=C8)=O)C7=C9)=C9C=C5)N=C4C1=O",
-    "PubchemCID": "MISSING",
-    "URL": "missing"
-}
-
-MISSING
 
 {
     "names": ["N,N'-diethyl-N,N'-ditolyl-2,9-dicarboxamide-1,10-phenanthroline"],
