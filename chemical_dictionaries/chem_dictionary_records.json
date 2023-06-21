@@ -852,19 +852,18 @@ KINDA DONE
         "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/85955"
  }
 
+
  {
     "names": [
-           "2,9-bis(butylphenylphosphine oxide)-1,10-phenanthroline"
-    ],
+           "2,9-bis(butylphenylphosphine oxide)-1,10-phenanthroline", "1,10-phenanthroline-2,8-diyl)bis(butyl(phenyl)phosphine oxide"],
     "pure substance": true,
     "CAS": "missing",
     "InChIKey": "missing",
-    "InChI": " FIX InChI=1S/C20H36O6/c1-2-6-18-17(5-1)23-13-9-21-11-15-25-19-7-3-4-8-20(19)26-16-12-22-10-14-24-18/h17-20H,1-16H2",
+    "InChI": "missing",
     "SMILES": "O=P(C1=CC=CC=C1)(CCCC)C2=NC(C(N=C(P(C3=CC=CC=C3)(CCCC)=O)C=C4)=C4C=C5)=C5C=C2",
-    "PubchemCID": "MISSING",
-    "URL": ""
+    "PubchemCID": "missing",
+    "URL": "missing"
 }
-MISSING
 
 {
     "names": [
