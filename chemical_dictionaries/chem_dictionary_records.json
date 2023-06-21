@@ -930,4 +930,182 @@ MISSING
 }
 
 
+{
+       "names": ["2,2'-oxybis(N-methyl-N-octylacetamide)", "Acetamide,2,2'-oxybis[N-methyl-N-octyl-N-methyl-2-[2-[methyl(octyl)amino]-2-oxoethoxy]-N-octylacetamide"],
+       "pure substance": false,
+       "CAS": "missing",
+       "InChIKey": "BQZNDIBVRLFRSD-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C22H44N2O3/c1-5-7-9-11-13-15-17-23(3)21(25)19-27-20-22(26)24(4)18-16-14-12-10-8-6-2/h5-20H2,1-4H3",
+       "SMILES": "O=C(COCC(N(C)CCCCCCCC)=O)N(CCCCCCCC)C",
+       "PubchemCID": "87287946",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/87287946"
+}
 
+
+
+{
+       "names": ["Dihexyl hydrogen phosphate", "dihexyl phosphate", "Phosphoric acid", "dihexyl ester"],
+       "pure substance": false,
+       "CAS": "3900-13-8",
+       "InChIKey": "HUDSKKNIXMSHSZ-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C12H27O4P/c1-3-5-7-9-11-15-17(13,14)16-12-10-8-6-4-2/h3-12H2,1-2H3,(H,13,14)",
+       "SMILES": "CCCCCCOP(=O)(O)OCCCCCC",
+       "PubchemCID": "77505",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/77505#section=Molecular-Formula"
+}
+
+
+
+{
+       "names": ["2,2'-oxybis(N,N-didecylacetamide)", "N,N,N',N'-tetradecyl-3-oxapentanediamide"],
+       "pure substance": false,
+       "CAS": "199805-27-1",
+       "InChIKey": "LYKKRABYZCPCGV-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C44H88N2O3/c1-5-9-13-17-21-25-29-33-37-45(38-34-30-26-22-18-14-10-6-2)43(47)41-49-42-44(48)46(39-35-31-27-23-19-15-11-7-3)40-36-32-28-24-20-16-12-8-4/h5-42H2,1-4H3",
+       "SMILES": "O=C(COCC(N(CCCCCCCCCC)CCCCCCCCCC)=O)N(CCCCCCCCCC)CCCCCCCCCC",
+       "PubchemCID": "71346769",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/71346769#section=Molecular-Formula"
+}
+
+
+
+{
+       "names": ["N6,N6'-bis(3,5-dimethylphenyl)-N6,N6'-diethyl-[2,2'-bipyridine]-6,6'-dicarboxamide", "N-(3,5-dimethylphenyl)-6-[6-[(3,5-dimethylphenyl)-ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide"],
+       "pure substance": false,
+       "CAS": "missing",
+       "InChIKey": "ASKISMLRZRPEPD-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C32H34N4O2/c1-7-35(25-17-21(3)15-22(4)18-25)31(37)29-13-9-11-27(33-29)28-12-10-14-30(34-28)32(38)36(8-2)26-19-23(5)16-24(6)20-26/h9-20H,7-8H2,1-6H3",
+       "SMILES": "O=C(N(C1=CC(C)=CC(C)=C1)CC)C2=NC(C3=CC=CC(C(N(CC)C4=CC(C)=CC(C)=C4)=O)=N3)=CC=C2",
+       "PubchemCID": "139173623",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/139173623#section=3D-Conformer"
+}
+
+
+
+{
+       "names": ["N6,N6'-bis(2,5-dimethylphenyl)-N6,N6'-diethyl-[2,2'-bipyridine]-6,6'-dicarboxamide", "N-(2,5-dimethylphenyl)-6-[6-[(2,5-dimethylphenyl)-ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide"],
+       "pure substance": false,
+       "CAS": "missing",
+       "InChIKey": "BNKPOTVRINVBDS-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C32H34N4O2/c1-7-35(29-19-21(3)15-17-23(29)5)31(37)27-13-9-11-25(33-27)26-12-10-14-28(34-26)32(38)36(8-2)30-20-22(4)16-18-24(30)6/h9-20H,7-8H2,1-6H3",
+       "SMILES": "O=C(N(C1=CC(C)=CC=C1C)CC)C2=NC(C3=CC=CC(C(N(CC)C4=CC(C)=CC=C4C)=O)=N3)=CC=C2",
+       "PubchemCID": "139173618",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/139173618"
+}
+
+
+
+{
+       "names": ["N6,N6'-bis(2,4-dimethylphenyl)-N6,N6'-diethyl-[2,2'-bipyridine]-6,6'-dicarboxamide", "N-(2,4-dimethylphenyl)-6-[6-[(2,4-dimethylphenyl)-ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide"],
+       "pure substance": false,
+       "CAS": "missing",
+       "InChIKey": "DLAHYUGMODAYOU-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C32H34N4O2/c1-7-35(29-17-15-21(3)19-23(29)5)31(37)27-13-9-11-25(33-27)26-12-10-14-28(34-26)32(38)36(8-2)30-18-16-22(4)20-24(30)6/h9-20H,7-8H2,1-6H3",
+       "SMILES": "O=C(N(C1=CC=C(C)C=C1C)CC)C2=NC(C3=CC=CC(C(N(CC)C4=CC=C(C)C=C4C)=O)=N3)=CC=C2",
+       "PubchemCID": "139173620",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/139173620"
+}
+
+
+
+{
+       "names": ["2,2’-bipyridine", "2,2'-Dipyridyl", "2,2'-Bipyridyl", "Bipyridine"],
+       "pure substance": false,
+       "CAS": "366-18-7",
+       "InChIKey": "ROFVEXUMMXZLPA-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C10H8N2/c1-3-7-11-9(5-1)10-6-2-4-8-12-10/h1-8H",
+       "SMILES": "N1=C(C=CC=C1)C1=NC=CC=C1",
+       "PubchemCID": "1474",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1474#section=Molecular-Formula"
+}
+
+
+
+{
+       "names": ["pyridine ", "Azabenzene ", "Azine ", "Pyridin"],
+       "pure substance": false,
+       "CAS": "110-86-1",
+       "InChIKey": "JUJWROOIHBZHMG-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C5H5N/c1-2-4-6-5-3-1/h1-5H",
+       "SMILES": "N1=CC=CC=C1",
+       "PubchemCID": "1049",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1049#section=Molecular-Formula"
+}
+
+
+
+{
+       "names": ["(4,7-Dichloro-9-(pyrrolidin-1-ylcarbonyl)-1,10- phenanthrolin-2-yl)(pyrrolidin-1-yl)-methanone"],
+       "pure substance": false,
+       "CAS": "missing",
+       "InChIKey": "QZPYPWVEZGKIRO-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C22H20Cl2N4O2/c23-15-11-17(21(29)27-7-1-2-8-27)25-19-13(15)5-6-14-16(24)12-18(26-20(14)19)22(30)28-9-3-4-10-28/h5-6,11-12H,1-4,7-10H2",
+       "SMILES": "ClC1=CC(=NC2=C3N=C(C=C(C3=CC=C12)Cl)C(=O)N1CCCC1)C(=O)N1CCCC1",
+       "PubchemCID": "166611244",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/166611244"
+}
+
+
+
+{
+       "names": ["tributylamine", "Tri-n-butylamine", "N,N-dibutylbutan-1-amine", "1-Butanamine, N,N-dibutyl-"],
+       "pure substance": false,
+       "CAS": "102-82-9",
+       "InChIKey": "IMFACGCPASFAPR-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C12H27N/c1-4-7-10-13(11-8-5-2)12-9-6-3/h4-12H2,1-3H3",
+       "SMILES": "C(CCC)N(CCCC)CCCC",
+       "PubchemCID": "7622",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/7622#section=Molecular-Formula"
+}
+
+
+
+{
+       "names": ["tri-n-octylphosphine oxide", "Tri-n-octylphosphine oxide", "TOPTO", "trioctylphosphine oxide"],
+       "pure substance": false,
+       "CAS": "78-50-2",
+       "InChIKey": "ZMBHCYHQLYEYDV-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C24H51OP/c1-4-7-10-13-16-19-22-26(25,23-20-17-14-11-8-5-2)24-21-18-15-12-9-6-3/h4-24H2,1-3H3",
+       "SMILES": "C(CCCCCCC)P(CCCCCCCC)(CCCCCCCC)=O",
+       "PubchemCID": "65577",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/65577#section=Molecular-Formula"
+}
+
+
+
+{
+       "names": ["tri-n-butylphosphate", "TRIBUTYL PHOSPHATE", "Butyl phosphate"],
+       "pure substance": false,
+       "CAS": "126-73-8",
+       "InChIKey": "STCOOQWBFONSKY-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C12H27O4P/c1-4-7-10-14-17(13,15-11-8-5-2)16-12-9-6-3/h4-12H2,1-3H3",
+       "SMILES": "CCCCOP(=O)(OCCCC)OCCCC",
+       "PubchemCID": "31357",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/31357"
+}
+
+
+
+{
+       "names": ["dimethylsulfoxide", "Methyl sulfoxide", "DMSO", "Methylsulfinylmethane"],
+       "pure substance": false,
+       "CAS": "67-68-5",
+       "InChIKey": "STCOOQWBFONSKY-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C12H27O4P/c1-4-7-10-14-17(13,15-11-8-5-2)16-12-9-6-3/h4-12H2,1-3H3",
+       "SMILES": "CCCCOP(=O)(OCCCC)OCCCC",
+       "PubchemCID": "31357",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/679#section=Molecular-Formula"
+}
+
+
+
+{
+       "names": ["18-Crown-6", "potassium acetate 18-Crown-6"],
+       "pure substance": false,
+       "CAS": "missing",
+       "InChIKey": "NMOKUKCMLBSZCA-UHFFFAOYSA-M",
+       "InChI": "InChI=1S/C12H24O6.C2H4O2.K/c1-2-14-5-6-16-9-10-18-12-11-17-8-7-15-4-3-13-1;1-2(3)4;/h1-12H2;1H3,(H,3,4);/q;;+1/p-1",
+       "SMILES": "CC(=O)[O-].C1COCCOCCOCCOCCOCCO1.[K+]",
+       "PubchemCID": "86740129",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/86740129"
+}
