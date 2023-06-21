@@ -1,0 +1,447 @@
+[{
+    "names": [
+           "3-Nitrobenzotrifluoride   ",
+           "1-Nitro-3-(trifluoromethyl)benzene",
+           "m-Nitrobenzotrifluoride"
+    ],
+    "pure substance": true,
+    "CAS": "98-46-4",
+    "InChIKey": "WHNAMGUAXHGCHH-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C7H4F3NO2/c8-7(9,10)5-2-1-3-6(4-5)11(12)13/h1-4H",
+    "SMILES": "C1=CC(=CC(=C1)[N+](=O)[O-])C(F)(F)F",
+    "PubchemCID": "7386",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3-Nitrobenzotrifluoride#section=IUPAC-Name"
+},
+    {
+    "names": [
+           "SODIUM BICARBONATE  ",
+           "Sodium hydrogen carbonate",
+           "Baking soda"
+    ],
+    "pure substance": true,
+    "CAS": "144-55-8",
+    "InChIKey": "UIIMBOGNXHQVGW-UHFFFAOYSA-M",
+    "InChI": "InChI=1S/CH2O3.Na/c2-1(3)4;/h(H2,2,3,4);/q;+1/p-1",
+    "SMILES": "UIIMBOGNXHQVGW-UHFFFAOYSA-M",
+    "PubchemCID": "516892",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-Bicarbonate#section=InChI"
+},
+    {
+    "names": [
+           "citric acid   ",
+           "Citric acid, anhydrous",
+           "2-hydroxypropane-1,2,3-tricarboxylic acid"
+    ],
+    "pure substance": true,
+    "CAS": "77-92-9",
+    "InChIKey": "KRKNYBCHXYNGOX-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)",
+    "SMILES": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "PubchemCID": "311",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Citric-Acid#section=InChI"
+},
+    {
+    "names": [
+           "THIONYL CHLORIDE   ",
+           "Thionyl dichloride",
+           "Sulfinyl chloride"
+    ],
+    "pure substance": true,
+    "CAS": "7719-09-7",
+    "InChIKey": "FYSNRJHAOHDILO-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/Cl2OS/c1-4(2)3",
+    "SMILES": "O=S(Cl)Cl",
+    "PubchemCID": "24386",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Thionyl-chloride#section=InChI"
+},
+    {
+    "names": [
+           "1,2-dichloroethane   ",
+           "Ethylene dichloride",
+           "Ethylene chloride"
+    ],
+    "pure substance": true,
+    "CAS": "107-06-2",
+    "InChIKey": "WSLDOOZREJYCGB-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C2H4Cl2/c3-1-2-4/h1-2H2",
+    "SMILES": "C(CCl)Cl",
+    "PubchemCID": "11",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1_2-Dichloroethane#section=InChI"
+},
+    {
+    "names": [
+           "1-DODECANOL  ",
+           "Dodecan-1-ol",
+           "Dodecyl alcohol",
+           " Dodecanol"
+    ],
+    "pure substance": true,
+    "CAS": "112-53-8",
+    "InChIKey": "LQZZUXJYWNFBMV-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C12H26O/c1-2-3-4-5-6-7-8-9-10-11-12-13/h13H,2-12H2,1H3",
+    "SMILES": "CCCCCCCCCCCCO",
+    "PubchemCID": "8193",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1-Dodecanol#section=Molecular-Formula"
+},
+    {
+    "names": [
+           "1-DECANOL  ",
+           "Decan-1-ol",
+           " Decyl alcohol"
+    ],
+    "pure substance": true,
+    "CAS": "112-30-1",
+    "InChIKey": "MWKFXSUHUHTGQN-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C10H22O/c1-2-3-4-5-6-7-8-9-10-11/h11H,2-10H2,1H3",
+    "SMILES": "CCCCCCCCCCO",
+    "PubchemCID": "8174",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1-Decanol#section=InChIKey"
+},
+    {
+    "names": [
+           "2-Ethylhexan-1-ol   ",
+           "2-ETHYL-1-HEXANOL",
+           "2-Ethylhexanol"
+    ],
+    "pure substance": true,
+    "CAS": "104-76-7",
+    "InChIKey": "YIWUKEYIRIRTPP-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C8H18O/c1-3-5-6-8(4-2)7-9/h8-9H,3-7H2,1-2H3",
+    "SMILES": "CCCCC(CC)CO",
+    "PubchemCID": "7720",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Ethylhexan-1-ol#section=IUPAC-Name"
+},
+    {
+    "names": [
+           "1-Hexanol  ",
+           "Hexan-1-ol",
+           "Hexyl alcohol"
+    ],
+    "pure substance": true,
+    "CAS": "111-27-3",
+    "InChIKey": "ZSIAUFGUXNUGDI-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C6H14O/c1-2-3-4-5-6-7/h7H,2-6H2,1H3",
+    "SMILES": "CCCCCCO",
+    "PubchemCID": "8103",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1-Hexanol#section=InChI"
+},
+    {
+    "names": [
+           "Lithium nitrate   ",
+           "Nitric acid, lithium salt",
+           "lithium;nitrate"
+    ],
+    "pure substance": true,
+    "CAS": "7790-69-4",
+    "InChIKey": "IIPYXGDZVMZOAP-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/Li.NO3/c;2-1(3)4/q+1;-1",
+    "SMILES": "[Li+].[N+](=O)([O-])[O-]",
+    "PubchemCID": "10129889",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lithium-nitrate"
+},
+    {
+    "names": [
+           "CARBON TETRACHLORIDE ",
+           " Tetrachloromethane",
+           "Perchloromethane"
+    ],
+    "pure substance": true,
+    "CAS": "56-23-5",
+    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/CCl4/c2-1(3,4)5",
+    "SMILES": "C(Cl)(Cl)(Cl)Cl",
+    "PubchemCID": "5943",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Carbon-Tetrachloride#section=InChI"
+},
+    {
+    "names": [
+           "DODECANE ",
+           " n-Dodecane",
+           "Dihexyl"
+    ],
+    "pure substance": true,
+    "CAS": "112-40-3",
+    "InChIKey": "SNRUBQQJIBEYMU-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C12H26/c1-3-5-7-9-11-12-10-8-6-4-2/h3-12H2,1-2H3",
+    "SMILES": "CCCCCCCCCCCC",
+    "PubchemCID": "8182",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dodecane#section=InChI"
+},
+    {
+    "names": [
+           "HEPTANE   ",
+           "n-Heptane",
+           "Heptan"
+    ],
+    "pure substance": true,
+    "CAS": "142-82-5",
+    "InChIKey": "IMNFDUFMRHMDMM-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C7H16/c1-3-5-7-6-4-2/h3-7H2,1-2H3",
+    "SMILES": "CCCCCCC",
+    "PubchemCID": "8900",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Heptane#section=InChI"
+},
+    {
+    "names": [
+           "HEXANE  ",
+           "n-Hexane",
+           "Esani"
+    ],
+    "pure substance": true,
+    "CAS": "110-54-3",
+    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C6H14/c1-3-5-6-4-2/h3-6H2,1-2H3",
+    "SMILES": "CCCCCC",
+    "PubchemCID": "8058",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/n-HEXANE#section=InChI"
+},
+    {
+    "names": [
+           "benzene   ",
+           "benzol",
+           "Cyclohexatriene"
+    ],
+    "pure substance": true,
+    "CAS": "71-43-2",
+    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H",
+    "SMILES": "C1=CC=CC=C1",
+    "PubchemCID": "241",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzene#section=InChI"
+},
+    {
+
+    "names": [
+           "TRIBUTYL PHOSPHATE   ",
+           "Tri-n-butyl phosphate",
+           "Tributylphosphate"
+    ],
+    "pure substance": true,
+    "CAS": "126-73-8",
+    "InChIKey": "STCOOQWBFONSKY-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C12H27O4P/c1-4-7-10-14-17(13,15-11-8-5-2)16-12-9-6-3/h4-12H2,1-3H3",
+    "SMILES": "CCCCOP(=O)(OCCCC)OCCCC",
+    "PubchemCID": "31357",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/31357#section=InChIKey"
+},
+    {
+    "names": ["HDEHP", "Bis(2-Ethylhexyl) Hydrogen Phosphate", "298-07-7", "BIS(2-ETHYLHEXYL) PHOSPHATE", "Hdehp", "Bis(2-Ethylhexyl)Phosphate", "Di(2-Ethylhexyl) Phosphate", "Di(2-Ethylhexyl)Phosphoric Acid", "Escaid 100"],
+    "pure substance": true,
+    "CAS":  "298-07-7",
+    "SMILES": "CCCCC(CC)COP(=O)(O)OCC(CC)CCCC",  
+    "InChIKey": "SEGLCEQVOFDUPX-UHFFFAOYSA-N",  
+    "InChI": "InChI=1S/C16H35O4P/c1-5-9-11-15(7-3)13-19-21(17,18)20-14-16(8-4)12-10-6-2/h15-16H,5-14H2,1-4H3,(H,17,18)",  
+    "PubchemCID": "9275",  
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/9275"
+        },
+    {
+    "names": [
+         "CHLOROFORM  ",
+           "Trichloromethane",
+           "Trichlormethan"
+    ],
+    "pure substance": true,
+    "CAS": "67-66-3",
+    "InChIKey": "HEDRZPFGACZZDS-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/CHCl3/c2-1(3)4/h1H",
+    "SMILES": "C(Cl)(Cl)Cl",
+    "PubchemCID": "6212",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chloroform#section=InChI"
+},
+    {
+    "names": [
+           "ACETONITRILE   ",
+           "Cyanomethane",
+           "Methyl cyanide"
+    ],
+    "pure substance": true,
+    "CAS": "75-05-8",
+    "InChIKey": "WEVYAHXRMPXWCK-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C2H3N/c1-2-3/h1H3",
+    "SMILES": "CC#N",
+    "PubchemCID": "6342",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Acetonitrile#section=InChI"
+},
+    {
+    "names": [
+           "1-octanol   ",
+           "Octan-1-ol",
+           "octanol",
+           "111-87-5"
+    ],
+    "pure substance": true,
+    "CAS": "111-87-5",
+    "InChIKey": "KBPLFHHGFOOTCA-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C8H18O/c1-2-3-4-5-6-7-8-9/h9H,2-8H2,1H3",
+    "SMILES": "CCCCCCCCO",
+    "PubchemCID": "957",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/957#section=Molecular-Formula"
+},
+    {
+    "names": [
+           "octane   ",
+           "n-octane",
+           "111-65-9",
+           "Oktan"
+    ],
+    "pure substance": true,
+    "CAS": "111-65-9",
+    "InChIKey": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C8H18/c1-3-5-7-8-6-4-2/h3-8H2,1-2H3",
+    "SMILES": "CCCCCCCC",
+    "PubchemCID": "356",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/356#section=Canonical-SMILES"
+},
+    {
+    "names": [
+           "DODECANE   ",
+           "n-Dodecane",
+           "112-40-3",
+           "Dihexyl"
+    ],
+    "pure substance": true,
+    "CAS": "112-40-3",
+    "InChIKey": "SNRUBQQJIBEYMU-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C12H26/c1-3-5-7-9-11-12-10-8-6-4-2/h3-12H2,1-2H3",
+    "SMILES": "CCCCCCCCCCCC",
+    "PubchemCID": "8182",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8182#section=Molecular-Formula"
+},
+    {
+    "names": [
+           "SODIUM HYDROXIDE   ",
+           "Caustic soda",
+           "1310-73-2",
+           "Sodium hydrate"
+    ],
+    "pure substance": true,
+    "CAS": "1310-73-2",
+    "InChIKey": "HEMHJVSKTPXQMS-UHFFFAOYSA-M",
+    "InChI": "InChI=1S/Na.H2O/h;1H2/q+1;/p-1",
+    "SMILES": "[OH-].[Na+]",
+    "PubchemCID": "14798",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/14798#section=Molecular-Formula"
+},
+    
+    {
+    "names": [
+           "Butylamine   ",
+           "butan-1-amine",
+           "N-BUTYLAMINE",
+           "109-73-9"
+    ],
+    "pure substance": true,
+    "CAS": "109-73-9",
+    "InChIKey": "HQABUPZFAYXKJW-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C4H11N/c1-2-3-4-5/h2-5H2,1H3",
+    "SMILES": "CCCCN",
+    "PubchemCID": "8007",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butylamine#section=Other-Identifiers"
+},
+    {
+       "names": [
+              "2-Bromooctane  ",
+              "557-35-7",
+              " Octane, 2-bromo-",
+              "2-Octyl bromide"
+       ],
+       "pure substance": true,
+       "CAS": "557-35-7",
+       "InChIKey": "FTJHYGJLHCGQHQ-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C8H17Br/c1-3-4-5-6-7-8(2)9/h8H,3-7H2,1-2H3",
+       "SMILES": "CCCCCCC(C)Br",
+       "PubchemCID": "79046",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Bromooctane#section=Other-Identifiers"
+},
+    
+    {
+    "names": [
+           "PHOSPHORUS TRIBROMIDE   ",
+           "7789-60-8",
+           "Tribromophosphine",
+           "Phosphorus(III) bromide"
+    ],
+    "pure substance": true,
+    "CAS": "7789-60-8",
+    "InChIKey": "IPNPIHIZVLFAFP-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/Br3P/c1-4(2)3",
+    "SMILES": "P(Br)(Br)Br",
+    "PubchemCID": "24614",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/24614#section=Molecular-Formula"
+},
+    
+    {
+    "names": [
+           "toluene  ",
+           "methylbenzene",
+           " toluol",
+           "108-88-3"
+    ],
+    "pure substance": true,
+    "CAS": "108-88-3",
+    "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C7H8/c1-7-5-3-2-4-6-7/h2-6H,1H3",
+    "SMILES": "CC1=CC=CC=C1",
+    "PubchemCID": "1140",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1140#section=Molecular-Formula"
+},
+    
+    {   "names": ["KNO3", "potassium nitrate"],
+    "pure substance": true,
+    "CAS": "7757-79-1",
+    "InChIKey": "FGIUAXJPYTZDNR-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/K.NO3/c;2-1(3)4/q+1;-1",
+    "SMILES": "[K+].[O-][N+]([O-])=O",
+    "PubchemCID": "24434",
+    "wikidata": "https://www.wikidata.org/wiki/Q177836"
+},
+
+{   "names": ["kerosene"],
+    "pure substance": false,
+    "CAS": "8008-20-6",
+    "wikidata": "https://www.wikidata.org/wiki/Q76904"
+},
+
+{   "names": ["Am(III) thiocyanate"],
+    "pure substance": true,
+    "InChIKey": "GFSAKAMJYCWZRI-UHFFFAOYSA-K",
+    "InChI": "InChI=1S/3CHNS.Am/c3*2-1-3;/h3*3H;/p-3",
+    "SMILES": "C(#N)[S-].C(#N)[S-].C(#N)[S-].[Am]",
+    "PubchemCID": "129694041",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/129694041"
+},
+{
+    "names": [
+           "NITRIC ACID   ",
+           "7697-37-2",
+           "Azotic acid",
+           "Salpetersaeure"
+    ],
+    "pure substance": true,
+    "CAS": "7697-37-2",
+    "InChIKey": "GRYLNZFGIOXLOG-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/HNO3/c2-1(3)4/h(H,2,3,4)",
+    "SMILES": "[N+](=O)(O)[O-]",
+    "PubchemCID": "944",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Nitric-Acid#section=Other-Identifiers"
+},
+
+{   "names": ["2-(2-Pyridyl)benzimidazole", "1137-68-4", "2-(pyridin-2-yl)-1H-benzo[d]imidazole" , "2-pyridin-2-yl-1H-benzimidazole "],
+    "pure substance": true,
+    "CAS": "1137-68-4",
+    "InChIKey": "YNFBMDWHEHETJW-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C12H9N3/c1-2-6-10-9(5-1)14-12(15-10)11-7-3-4-8-13-11/h1-8H,(H,14,15)",
+    "SMILES": "C1=CC=C2C(=C1)NC(=N2)C3=CC=CC=N3",
+    "PubchemCID": "70821",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70821"
+},
+{   "names": ["1-butanol" , "butanol" , "Butan-1-ol" , "n-butanol" , "Butyl alcohol"],
+    "pure substance": true,
+    "CAS": "71-36-3",
+    "InChIKey": "LRHPLDYGYMQRHN-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C4H10O/c1-2-3-4-5/h5H,2-4H2,1H3",
+    "SMILES": "CCCCO",
+    "PubchemCID": "263",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/263#section=Other-Identifiers"
+}
+]
