@@ -993,18 +993,27 @@ MISSING
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/139173618"
 }
 
-
-
 {
-       "names": ["N6,N6'-bis(2,4-dimethylphenyl)-N6,N6'-diethyl-[2,2'-bipyridine]-6,6'-dicarboxamide", "N-(2,4-dimethylphenyl)-6-[6-[(2,4-dimethylphenyl)-ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide"],
+       "names": ["N6,N6'-bis(2,4-dimethylphenyl)-N6,N6'-diethyl-[2,2'-bipyridine]-6,6'-dicarboxamide", "N-(2,5-dimethylphenyl)-6-[6-[(2,5-dimethylphenyl)-ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide"],
        "pure substance": false,
        "CAS": "missing",
-       "InChIKey": "DLAHYUGMODAYOU-UHFFFAOYSA-N",
-       "InChI": "InChI=1S/C32H34N4O2/c1-7-35(29-17-15-21(3)19-23(29)5)31(37)27-13-9-11-25(33-27)26-12-10-14-28(34-26)32(38)36(8-2)30-18-16-22(4)20-24(30)6/h9-20H,7-8H2,1-6H3",
-       "SMILES": "O=C(N(C1=CC=C(C)C=C1C)CC)C2=NC(C3=CC=CC(C(N(CC)C4=CC=C(C)C=C4C)=O)=N3)=CC=C2",
-       "PubchemCID": "139173620",
-       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/139173620"
+       "InChIKey": "BNKPOTVRINVBDS-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C32H34N4O2/c1-7-35(29-19-21(3)15-17-23(29)5)31(37)27-13-9-11-25(33-27)26-12-10-14-28(34-26)32(38)36(8-2)30-20-22(4)16-18-24(30)6/h9-20H,7-8H2,1-6H3",
+       "SMILES": "O=C(N(C1=CC(C)=CC=C1C)CC)C2=NC(C3=CC=CC(C(N(CC)C4=CC(C)=CC=C4C)=O)=N3)=CC=C2",
+       "PubchemCID": "139173618",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/139173618"
+
+{
+       "names": ["N6,N6'-bis(3,4-dimethylphenyl)-N6,N6'-diethyl-[2,2'-bipyridine]-6,6'-dicarboxamide", "N-(3,4-dimethylphenyl)-6-[6-[(3,4-dimethylphenyl)-ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide"],
+       "pure substance": false,
+       "CAS": "missing",
+       "InChIKey": "PCMASWOFFDVTRX-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C32H34N4O2/c1-7-35(25-17-15-21(3)23(5)19-25)31(37)29-13-9-11-27(33-29)28-12-10-14-30(34-28)32(38)36(8-2)26-18-16-22(4)24(6)20-26/h9-20H,7-8H2,1-6H3",
+       "SMILES": "O=C(N(C1=CC=C(C)C(C)=C1)CC)C2=NC(C3=CC=CC(C(N(C4=CC=C(C)C(C)=C4)CC)=O)=N3)=CC=C2",
+       "PubchemCID": "missing",
+       "URL": "missing"
 }
+
 
 
 
