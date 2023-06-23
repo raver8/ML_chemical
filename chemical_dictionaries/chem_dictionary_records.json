@@ -891,19 +891,6 @@
 }
 
 
-{
-    "names": [
-           "(1S,2R,19R,20R,23R,24R)-11,25-dihexyl-11,18,25-triazaoctacyclo[25.2.1.0^2,26.0^3,23.0^4,19.0^6,17.0^9,14.0^20,24]triaconta-3(23),4(19),5,7,9(14),15,17-heptaene-10,26-dione"],
-    "pure substance": true,
-    "CAS": "missing",
-    "InChIKey": "QSFRTQJEHPGZSO-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C54H50N4O2/c1-3-5-7-21-33-57-51(39-27-17-11-18-28-39)45(37-23-13-9-14-24-37)43-35-41-31-32-42-36-44-46(38-25-15-10-16-26-38)52(40-29-19-12-20-30-40)58(34-22-8-6-4-2)54(60)50(44)56-48(42)47(41)55-49(43)53(57)59/h9-20,23-32,35-36H,3-8,21-22,33-34H2,1-2H3",
-    "SMILES": "CCCCCCN1C(C2=CC=CC=C2)=C(C3=CC=CC=C3)C4=CC5=C(C(N=C(C(N(CCCCCC)C(C6=CC=CC=C6)=C7C8=CC=CC=C8)=O)C7=C9)=C9C=C5)N=C4C1=O",
-    "PubchemCID": "MISSING",
-    "URL": "missing"
-}
-
-MISSING
 
 {
     "names": ["N,N'-diethyl-N,N'-ditolyl-2,9-dicarboxamide-1,10-phenanthroline"],
@@ -993,18 +980,27 @@ MISSING
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/139173618"
 }
 
-
-
 {
-       "names": ["N6,N6'-bis(2,4-dimethylphenyl)-N6,N6'-diethyl-[2,2'-bipyridine]-6,6'-dicarboxamide", "N-(2,4-dimethylphenyl)-6-[6-[(2,4-dimethylphenyl)-ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide"],
+       "names": ["N6,N6'-bis(2,4-dimethylphenyl)-N6,N6'-diethyl-[2,2'-bipyridine]-6,6'-dicarboxamide", "N-(2,5-dimethylphenyl)-6-[6-[(2,5-dimethylphenyl)-ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide"],
        "pure substance": false,
        "CAS": "missing",
-       "InChIKey": "DLAHYUGMODAYOU-UHFFFAOYSA-N",
-       "InChI": "InChI=1S/C32H34N4O2/c1-7-35(29-17-15-21(3)19-23(29)5)31(37)27-13-9-11-25(33-27)26-12-10-14-28(34-26)32(38)36(8-2)30-18-16-22(4)20-24(30)6/h9-20H,7-8H2,1-6H3",
-       "SMILES": "O=C(N(C1=CC=C(C)C=C1C)CC)C2=NC(C3=CC=CC(C(N(CC)C4=CC=C(C)C=C4C)=O)=N3)=CC=C2",
-       "PubchemCID": "139173620",
-       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/139173620"
+       "InChIKey": "BNKPOTVRINVBDS-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C32H34N4O2/c1-7-35(29-19-21(3)15-17-23(29)5)31(37)27-13-9-11-25(33-27)26-12-10-14-28(34-26)32(38)36(8-2)30-20-22(4)16-18-24(30)6/h9-20H,7-8H2,1-6H3",
+       "SMILES": "O=C(N(C1=CC(C)=CC=C1C)CC)C2=NC(C3=CC=CC(C(N(CC)C4=CC(C)=CC=C4C)=O)=N3)=CC=C2",
+       "PubchemCID": "139173618",
+       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/139173618"
+
+{
+       "names": ["N6,N6'-bis(3,4-dimethylphenyl)-N6,N6'-diethyl-[2,2'-bipyridine]-6,6'-dicarboxamide", "N-(3,4-dimethylphenyl)-6-[6-[(3,4-dimethylphenyl)-ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide"],
+       "pure substance": false,
+       "CAS": "missing",
+       "InChIKey": "PCMASWOFFDVTRX-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C32H34N4O2/c1-7-35(25-17-15-21(3)23(5)19-25)31(37)29-13-9-11-27(33-29)28-12-10-14-30(34-28)32(38)36(8-2)26-18-16-22(4)24(6)20-26/h9-20H,7-8H2,1-6H3",
+       "SMILES": "O=C(N(C1=CC=C(C)C(C)=C1)CC)C2=NC(C3=CC=CC(C(N(C4=CC=C(C)C(C)=C4)CC)=O)=N3)=CC=C2",
+       "PubchemCID": "missing",
+       "URL": "missing"
 }
+
 
 
 
@@ -1109,3 +1105,13 @@ MISSING
        "PubchemCID": "86740129",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/86740129"
 }
+
+{
+       "names": ["N,N'-dibutyl-N,N'-di(1-methylheptyl)-diglycolamide", "2,2’-oxybis(N-butyl-N-(heptan-2-yl)acetamide)"],
+       "pure substance": true,
+       "CAS": "missing",
+       "InChIKey": "WONNWUJJRMCQDT-UHFFFAOYSA-N",
+       "InChI": "InChI=1S/C26H52N2O3/c1-7-11-15-17-23(5)27(19-13-9-3)25(29)21-31-22-26(30)28(20-14-10-4)24(6)18-16-12-8-2/h23-24H,7-22H2,1-6H3",
+       "SMILES": "CCCCCC(N(C(COCC(N(C(CCCCC)C)CCCC)=O)=O)CCCC)C",
+       "PubchemCID": "missing",
+       "URL": "missing"
