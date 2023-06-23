@@ -1846,7 +1846,7 @@ FIGURE 7
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.002388, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.008532, "quantification method":"gamma"}],
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.017532, "quantification method":"gamma"}],
 
     "observations":{
         "third phase": false,
