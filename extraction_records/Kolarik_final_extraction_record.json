@@ -257,7 +257,7 @@ FIGURE ONE
   
     "observations":{
         "third phase": false,
-        "comment": Point 6 Eu(III) and Am(III) D values in Figure 1 in Kolarik Paper, page 365"},
+        "comment": "Point 6 Eu(III) and Am(III) D values in Figure 1 in Kolarik Paper, page 365"},
     
      "provenance": {
         "doi": "10.1080/07366299708934483",
@@ -302,7 +302,7 @@ FIGURE ONE
   
     "observations":{
         "third phase": false,
-        "comment": Point 7 Eu(III) and Am(III) D values in Figure 1 in Kolarik Paper, page 365"},
+        "comment": "Point 7 Eu(III) and Am(III) D values in Figure 1 in Kolarik Paper, page 365"},
     
      "provenance": {
         "doi": "10.1080/07366299708934483",
@@ -347,7 +347,7 @@ FIGURE ONE
  
     "observations":{
         "third phase": false,
-        "comment": "Point 9 Eu(III) and Am(III) D values in Figure 1 in Kolarik Paper, page 365"},
+        "comment": "Point 8 Eu(III) and Am(III) D values in Figure 1 in Kolarik Paper, page 365"},
     
      "provenance": {
         "doi": "10.1080/07366299708934483",
