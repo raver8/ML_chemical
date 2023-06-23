@@ -2451,7 +2451,7 @@ FIGURE 7
             {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}]
 
         "pH": 4.85,
-        "volume": {"quantity": "missing", "unit": "milliliter"}]  
+        "volume": {"quantity": "missing", "unit": "milliliter"}
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -2496,7 +2496,7 @@ FIGURE 7
             {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}]
 ,
         "pH": 4.85,
-        "volume": {"quantity": "missing", "unit": "milliliter"}] 
+        "volume": {"quantity": "missing", "unit": "milliliter"}
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -2540,12 +2540,11 @@ FIGURE 7
             {"identity": "KI", "concentration": {"quantity": "missing", "unit": "M"}},
 ,
         "pH": 4.85,
-        "volume": {"quantity": "missing", "unit": "milliliter"}
-    },   
+        "volume": {"quantity": "missing", "unit": "milliliter"}]  
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
-        "time": {"quantity": 15, "unit": "minutes"}]
+        "time": {"quantity": 15, "unit": "minutes"}
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.001411, "quantification method":"gamma"},
@@ -2584,12 +2583,11 @@ FIGURE 7
         "solutes": [
             {"identity": "KI", "concentration": {"quantity": "missing", "unit": "M"}},
         "pH": 4.85,
-        "volume": {"quantity": "missing", "unit": "milliliter"}
-    },   
+        "volume": {"quantity": "missing", "unit": "milliliter"}] 
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
-        "time": {"quantity": 15, "unit": "minutes"}]
+        "time": {"quantity": 15, "unit": "minutes"}
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.001959, "quantification method":"gamma"},
