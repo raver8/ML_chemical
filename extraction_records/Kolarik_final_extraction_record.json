@@ -1324,7 +1324,7 @@ FIGURE FIVE
 {
     "organic phase": {
         "extractants": [
-            {"identity": " 2-(6-methyl-2-pyridyl)- benzimidazole ", "concentration": {"quantity": “?”, "unit": "M"}}
+            {"identity": " 2-(6-methyl-2-pyridyl)- benzimidazole ", "concentration": {"quantity": “missing”, "unit": "M"}}
             ],
          "solvents": [
             {"identity": "Xylene", "volfraction": 0.70},
@@ -1348,8 +1348,8 @@ FIGURE FIVE
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "?", "unit": "M"}, "D": 0.002120696275, "quantification method":"gamma"} ,
-        {"identity": "Am(III)", "initial concentration": {"quantity": "?", "unit": "M", "D": 0.01666560001}, "quantification method":"gamma"}],
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.002120696275, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.01666560001}, "quantification method":"gamma"}],
     
     "observations":{
         "third phase": false,
@@ -1397,8 +1397,8 @@ FIGURE FIVE
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "?", "unit": "M"}, "D": 0.002724611789, "quantification method":"gamma"} ,
-        {"identity": "Am(III)", "initial concentration": {"quantity": "?", "unit": "M", "D": 0.02569173351}, "quantification method":"gamma"}],
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.002724611789, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.02569173351}, "quantification method":"gamma"}],
     
     "observations":{
         "third phase": false,
