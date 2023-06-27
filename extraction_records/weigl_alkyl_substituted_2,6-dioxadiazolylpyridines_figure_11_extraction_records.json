@@ -6,21 +6,21 @@
 
             "solvents": [
             {"identity": "2-bromohexanoic acid", {"concentration": 1, "unit": "M"}},
-            {"identity": "tert-butylbenzene", "concentration": "missing}],
+            {"identity": "tert-butylbenzene", "concentration": "missing"}],
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },
 
          "aqueous phase": {
        
         "solutes": [
-            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+            {"identity": "HNO3", {"concentration": "missing", "unit": "mM"}}],
         "pH": 1.13,
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },   
     
     "reaction conditions": {
         "temperature": {"quantity": 293, "unit": "K"},
-        "shake time": {"quantity": 45, "unit": "minutes"},
+        "time": {"quantity": 45, "unit": "minutes"},
   
     },
     
@@ -33,8 +33,8 @@
         "comment": "First Am(III) D value in figure 11 of Weigl Paper, page 410"}
     
      "provenance": {
-        "doi": "10.1080/07366299708934483",
-        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+        "doi": "10.1023/A:10245312283303",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"},
     
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
