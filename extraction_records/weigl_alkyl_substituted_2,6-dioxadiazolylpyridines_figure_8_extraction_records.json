@@ -58,10 +58,10 @@
        
         "solutes": [
             {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"}
-            {"identity": "toluene", "concentration": {"quantity": "missing", "unit": "mM"}],
+            {"identity": "toluene", "concentration": {"quantity": "missing", "unit": "M"}],
         "pH": 1.90,
         "volume": {"quantity": "1.5", "unit": "milliliter"}
-    },   
+    ,   
     
     "reaction conditions": {
         "temperature": {"quantity": 293, "unit": "K"},
@@ -93,12 +93,12 @@
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}}],       
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}],       
 
             "solvents": [
             {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
         "volume": {"quantity": "1.5", "unit": "milliliter"}
-    },
+    ,
 
          "aqueous phase": {
        
