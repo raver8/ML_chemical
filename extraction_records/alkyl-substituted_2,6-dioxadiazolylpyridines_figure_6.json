@@ -1,0 +1,145 @@
+{
+    "organic phase": {
+        "extractants":[
+        {"identity": "2,6-di(5-methyl-1,2,4-oxadiazol-3-yl) pyridine",{"concentration": "0.0202", "unit":"M"}}],
+    "solvents": [
+        {"identity": "tert.-butylbenzene", "volfraction": 1.0}
+        {"identity": "2-bromohexanoic acid",{"concentration": "1,0", "unit":"M"}}],
+        "volume": {"quantity":1.5, "unit": "milliliter"}
+    },
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "nitric acid", {"concentration": 1.0, "unit": "mM"}}],
+        "pH": 1.87,
+        "volume": {"quantity": 1.5, "unit": "milliliter"}
+    },
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": 45, "unit": "minutes"}
+    },
+    "metals":[
+     {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.10535, "quantification method": "gamma"}],
+    "observations": {
+        "third phase": "false",
+        "comment": "Point 1 on Weigl Figure 6"},
+        "provenance": {
+            "doi": "10.1023/A:10245312283303",
+            "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"
+        },        
+        "record creation" {
+            "time": "2023-06-23:16:00:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+    }
+}
+{
+"organic phase": {
+    "extractants":[
+    {"identity": "2,6-di(5-methyl-1,2,4-oxadiazol-3-yl) pyridine",{"concentration": "0.0202", "unit":"M"}}],
+"solvents": [
+    {"identity": "tert.-butylbenzene", "volfraction": 1.0}
+    {"identity": "2-bromohexanoic acid"{"concentration": "1,0", "unit":"M"}}],
+    "volume": {"quantity":1.5, "unit": "milliliter"}
+},
+"aqueous phase": {
+    "solutes": [
+        {"identity": "nitric acid", {"concentration": 1.0, "unit": "mM"}}],
+    "pH": 1.87,
+    "volume": {"quantity": 1.5, "unit": "milliliter"}
+},
+"reaction conditions": {
+    "temperature": {"quantity:": 293, "unit": "K"},
+    "time": {"quantity": 45, "unit": "minutes"}
+},
+"metals":[
+ {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.123222, "quantification method": "gamma"}],
+"observations": {
+    "third phase": "false",
+    "comment": "Point 2 on Weigl Figure 6"},
+    "provenance": {
+        "doi": "10.1023/A:10245312283303",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"
+    },        
+    "record creation" {
+        "time": "2023-06-26:09:01:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+    }
+}
+{
+    "organic phase": {
+        "extractants":[
+        {"identity": "2,6-di(5-methyl-1,2,4-oxadiazol-3-yl) pyridine",{"concentration": "0.0202", "unit":"M"}}],
+    "solvents": [
+        {"identity": "tert.-butylbenzene", "volfraction": 1.0}
+        {"identity": "2-bromohexanoic acid"{"concentration": "1,0", "unit":"M"}}
+    ],
+        "volume": {"quantity":1.5, "unit": "milliliter"}
+    },
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "nitric acid", {"concentration": 1.0, "unit": "mM"}}],
+        "pH": 1.87,
+        "volume": {"quantity": 1.5, "unit": "milliliter"}
+    },
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": 45, "unit": "minutes"}
+    },
+    "metals":[
+     {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.096701, "quantification method": "gamma"}],
+    "observations": {
+        "third phase": "false",
+        "comment": "Point 3 on Weigl Figure 6"},
+        "provenance": {
+            "doi": "10.1023/A:10245312283303",
+            "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"
+        },        
+        "record creation" {
+            "time": "2023-06-26:09:02:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+        }
+    }
+    {
+        "organic phase": {
+            "extractants":[
+            {"identity": "2,6-di(5-methyl-1,2,4-oxadiazol-3-yl) pyridine",{"concentration": "0.0202", "unit":"M"}}],
+        "solvents": [
+            {"identity": "tert-butylbenzene", "volfraction": 1.0}
+            {"identity": "2-bromohexanoic acid"{"concentration": "1,0", "unit":"M"}}],
+            "volume": {"quantity":1.5, "unit": "milliliter"}
+        },
+        "aqueous phase": {
+            "solutes": [
+                {"identity": "nitric acid", {"concentration": 1.0, "unit": "mM"}}],
+            "pH": 1.87,
+            "volume": {"quantity": 1.5, "unit": "milliliter"}
+        },
+        "reaction conditions": {
+            "temperature": {"quantity:": 293, "unit": "K"},
+            "time": {"quantity": 45, "unit": "minutes"}
+        },
+        "metals":[
+         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.097778, "quantification method": "gamma"}],
+        "observations": {
+            "third phase": "false",
+            "comment": "Point 4 on Weigl Figure 6"},
+            "provenance": {
+                "doi": "10.1023/A:10245312283303",
+                "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"
+            },        
+            "record creation" {
+                "time": "2023-06-26:09:03:00",
+                "username": "oliviavanden",
+                "name": "Olivia Vanden Assem",
+                "email": "ovandenassem@fordham.edu",
+                "organization": "Fordham University"
+            }
+        }
