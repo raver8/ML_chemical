@@ -1,10 +1,10 @@
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}}],       
 
             "solvents": [
-            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit"" "M"}},
+            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },
 
@@ -30,11 +30,11 @@
 
       "observations":{
         "third phase": "false",
-        "comment": "First pair of Am(III) and D values in figure 8 of Weigl Paper, page 409},
+        "comment": "First pair of Am(III) and D values in figure 8 of Weigl Paper, page 409"},
     
      "provenance": {
-        "doi": "10.1080/07366299708934483",
-        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+        "doi": "10.1023/A:10245312283303",
+           "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"},
     
 
     "record creation": {
@@ -47,7 +47,7 @@
    {
     "organic phase": {
         "extractants": [
-            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}}],       
 
             "solvents": [
             {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit"" "M"}},
@@ -75,7 +75,7 @@
 
         "observations":{
         "third phase": false,
-        "comment": "Second pair Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"
+        "comment": "Second pair Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"}
     
      "provenance": {
         "doi": "10.1080/07366299708934483",
@@ -93,7 +93,7 @@
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}}],       
 
             "solvents": [
             {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
@@ -121,11 +121,11 @@
     
       "observations":{
         "third phase": "false",
-        "comment": "Third pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"
+        "comment": "Third pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"}
     
-     "provenance": {
-        "doi": "10.1080/07366299708934483",
-        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+"provenance": {
+        "doi": "10.1023/A:10245312283303",
+           "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"},
     
 
     "record creation": {
@@ -138,7 +138,7 @@
     {
     "organic phase": {
         "extractants": [
-            {"identity": "2,6-di(5-ethyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}}],       
 
             "solvents": [
             {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
@@ -167,12 +167,14 @@
     
       "observations":{
         "third phase": "false",
-        "comment": "Fourth pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409},
+        "comment": "Fourth pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"},
     
-     "provenance": {
-        "doi": "10.1080/07366299708934483",
-        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
-        "record creation": {
+ "provenance": {
+        "doi": "10.1023/A:10245312283303",
+           "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"},
+    
+    
+    "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
         "name": "Caitlin Reed"	
@@ -182,10 +184,10 @@
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2,6-di(5-ethyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}}],       
 
             "solvents": [
-            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit"" "M"}},
+            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },
 
@@ -210,11 +212,11 @@
     
       "observations":{
         "third phase": "false",
-        "comment": "Fifth pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409",
+        "comment": "Fifth pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"},
     
-     "provenance": {
-        "doi": "10.1080/07366299708934483",
-        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+  "provenance": {
+        "doi": "10.1023/A:10245312283303",
+           "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"},
     
 
     "record creation": {
@@ -227,7 +229,7 @@
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2,6-di(5-ethyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}}],       
 
             "solvents": [
             {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
@@ -257,10 +259,11 @@
       "observations":{
         "third phase": "false",
         "comment": "Sixth pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"}
-    
-     "provenance": {
-        "doi": "10.1080/07366299708934483",
-        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+
+
+"provenance": {
+        "doi": "10.1023/A:10245312283303",
+           "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"},
     
 
     "record creation": {
