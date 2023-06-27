@@ -5,7 +5,7 @@
             {"identity": "2,6-di(5-methyl-1,2,4-oxadiazol-3-yl)pyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
 
             "solvents": [
-            {"identity": "2-bromohexanoic acid", "volfraction": "missing},
+            {"identity": "2-bromohexanoic acid", "volfraction": "missing, "concentration": {"quantity": 1, "unit": "M"}},
             {"identity": "tert-butylbenzene", "volfraction": "missing}],
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },
@@ -20,7 +20,7 @@
     
     "reaction conditions": {
         "temperature": {"quantity": 293, "unit": "K"},
-        "time": {"quantity": 45, "unit": "minutes"},
+        "shake time": {"quantity": 45, "unit": "minutes"},
   
     },
     
@@ -49,7 +49,7 @@
             {"identity": "2,6-di(5-methyl-1,2,4-oxadiazol-3-yl)pyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
 
             "solvents": [
-            {"identity": "2-bromohexanoic acid", "volfraction": "missing},
+            {"identity": "2-bromohexanoic acid", "volfraction": "missing, "concentration": {"quantity": 1, "unit": "M"}},
             {"identity": "tert-butylbenzene", "volfraction": "missing}],
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },
@@ -93,7 +93,7 @@
             {"identity": "2,6-di(5-methyl-1,2,4-oxadiazol-3-yl)pyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
 
             "solvents": [
-            {"identity": "2-bromohexanoic acid", "volfraction": "missing},
+            {"identity": "2-bromohexanoic acid", "volfraction": "missing, "concentration": {"quantity": 1, "unit": "M"} },
             {"identity": "tert-butylbenzene", "volfraction": "missing}],
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },
@@ -137,7 +137,7 @@
             {"identity": "2,6-di(5-methyl-1,2,4-oxadiazol-3-yl)pyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
 
             "solvents": [
-            {"identity": "bromohexanoic acid", "volfraction": "missing},
+            {"identity": "2-bromohexanoic acid", "volfraction": "missing, "concentration": {"quantity": 1, "unit": "M"} },
             {"identity": "tert-butylbenzene", "volfraction": "missing}],
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },
@@ -182,7 +182,7 @@
             {"identity": "2,6-di(5-methyl-1,2,4-oxadiazol-3-yl)pyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
 
             "solvents": [
-            {"identity": "bromohexanoic acid", "volfraction": "missing},
+            {"identity": "2-bromohexanoic acid", "volfraction": "missing, "concentration": {"quantity": 1, "unit": "M"} },
             {"identity": "tert-butylbenzene", "volfraction": "missing}],
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },
