@@ -58,7 +58,7 @@
        
         "solutes": [
             {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"}
-            {"identity": "toluene", "concentration": {"quantity": "missing", "unit": "M"}],
+            {"identity": "toluene", "concentration": {"quantity": "missing", "unit": "M"}}],
         "pH": 1.90,
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     ,   
@@ -104,7 +104,7 @@
        
         "solutes": [
             {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"}, 
-            {"identity": "tert-butyl benzene", "concentration": {"quantity": "missing", "unit": "M"}],
+            {"identity": "tert-butyl benzene", "concentration": {"quantity": "missing", "unit": "M"}}],
         "pH": 1.90,
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },   
