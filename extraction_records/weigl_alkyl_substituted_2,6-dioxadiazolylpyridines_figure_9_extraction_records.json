@@ -3,7 +3,7 @@
         "extractants": [
             {"identity": "2,6-di(5-methyl-1,2,4-oxadiazol-3-yl)pyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
 
-            "solvents": [
+            "solvents":[
             {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}
             {"identity": "chlorobenzene", "concentration": {"quantity": "missing", "unit": "M"}} 
             ],
