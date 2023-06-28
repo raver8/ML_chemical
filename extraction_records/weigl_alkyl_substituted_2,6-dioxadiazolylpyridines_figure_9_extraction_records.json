@@ -5,8 +5,9 @@
 
             "solvents": [
             {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}
-            {"identity": "chlorobenzene", "concentration": {"quantity": "missing", "unit": "M"}}],
-,
+            {"identity": "chlorobenzene", "concentration": {"quantity": "missing", "unit": "M"}} 
+            ],
+
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },
 
