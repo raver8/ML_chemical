@@ -101,8 +101,7 @@
             "solvents": [
             {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}}
             {"identity": "tert-butyl benzene", "concentration": {"quantity": "missing", "unit": "M"}},
-        "volume": {"quantity": "1.5", "unit": "milliliter"}
-    },
+        "volume": {"quantity": "1.5", "unit": "milliliter"},
 
          "aqueous phase": {
        
