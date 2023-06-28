@@ -514,7 +514,7 @@
             {"identity": "2,6-di(5-tert-butyl-1,2,4-oxadiazol-3-yl)pyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
 
             "solvents": [
-            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit"" "M"}},
+            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
         "volume": {"quantity": "1.5", "unit": "milliliter"},
 
          "aqueous phase": {
@@ -531,7 +531,7 @@
 ,
     
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0045, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0045, "quantification method":"gamma"},
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0025, "quantification method":"gamma"}]
 
       "observations":{
