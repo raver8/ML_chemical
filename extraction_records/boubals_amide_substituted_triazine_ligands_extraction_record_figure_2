@@ -1,0 +1,185 @@
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "4-amino-bis(2,6-(2-pyridyl))-1,3,5-triazine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "α-bromodecanoic acid", {"concentration": 1, "unit": "M"}}
+            {"identity": "tetrapropene", {"concentration": "missing", "unit": "M"},
+        "volume": {"quantity": 0.0008, "unit": "liter"}
+    },
+
+         "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "HNO3", {"concentration": 0.03, "unit": "M"}}],
+        "pH": "missing",
+        "volume": {"quantity": 0.0008, "unit": "liter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": "missing", "unit": "K"},
+        "time": {"quantity": 30, "unit": "minutes"},
+  
+    },
+    
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 45, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 4.6, "quantification method":"gamma"}]
+
+  
+      "observations":{
+        "third phase": false,
+        "comment": "First pair of Am(III) and Eu D values in figure 2 of Boubals Paper, page 57"}
+    
+     "provenance": {
+        "doi": "missing",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals%20et%20al.%20-%202002%20-%20Americium(III)%20and%20europium(III)%20solvent%20extraction.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "4-amino-bis(2,6-(2-pyridyl))-1,3,5-triazine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "α-bromodecanoic acid", {"concentration": 1, "unit": "M"}}
+            {"identity": "tetrapropene", {"concentration": "missing", "unit": "M"},
+        "volume": {"quantity": 0.0008, "unit": "liter"}
+    },
+
+         "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "HNO3", {"concentration": 0.05, "unit": "M"}}],
+        "pH": "missing",
+        "volume": {"quantity": 0.0008, "unit": "liter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": "missing", "unit": "K"},
+        "time": {"quantity": 30, "unit": "minutes"},
+  
+    },
+    
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.5, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.5, "quantification method":"gamma"}]
+
+  
+      "observations":{
+        "third phase": false,
+        "comment": "Second pair of Am(III) and Eu D values in figure 2 of Boubals Paper, page 57"}
+    
+     "provenance": {
+        "doi": "missing",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals%20et%20al.%20-%202002%20-%20Americium(III)%20and%20europium(III)%20solvent%20extraction.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+
+  {
+    "organic phase": {
+        "extractants": [
+            {"identity": "4-amino-bis(2,6-(2-pyridyl))-1,3,5-triazine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "α-bromodecanoic acid", {"concentration": 1, "unit": "M"}}
+            {"identity": "tetrapropene", {"concentration": "missing", "unit": "M"},
+        "volume": {"quantity": 0.0008, "unit": "liter"}
+    },
+
+         "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "HNO3", {"concentration": 0.08, "unit": "M"}}],
+        "pH": "missing",
+        "volume": {"quantity": 0.0008, "unit": "liter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": "missing", "unit": "K"},
+        "time": {"quantity": 30, "unit": "minutes"},
+  
+    },
+    
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.7, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.08, "quantification method":"gamma"}]
+
+  
+      "observations":{
+        "third phase": false,
+        "comment": "Third pair of Am(III) and Eu D values in figure 2 of Boubals Paper, page 57"}
+    
+     "provenance": {
+        "doi": "missing",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals%20et%20al.%20-%202002%20-%20Americium(III)%20and%20europium(III)%20solvent%20extraction.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "4-amino-bis(2,6-(2-pyridyl))-1,3,5-triazine", "concentration": {"quantity": 0.02, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "α-bromodecanoic acid", {"concentration": 1, "unit": "M"}}
+            {"identity": "tetrapropene", {"concentration": "missing", "unit": "M"},
+        "volume": {"quantity": 0.0008, "unit": "liter"}
+    },
+
+         "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "HNO3", {"concentration": 0.11, "unit": "M"}}],
+        "pH": "missing",
+        "volume": {"quantity": 0.0008, "unit": "liter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": "missing", "unit": "K"},
+        "time": {"quantity": 30, "unit": "minutes"},
+  
+    },
+    
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.2, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.02, "quantification method":"gamma"}]
+
+  
+      "observations":{
+        "third phase": false,
+        "comment": "Fourh pair of Am(III) and Eu D values in figure 2 of Boubals Paper, page 57"}
+    
+     "provenance": {
+        "doi": "missing",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals%20et%20al.%20-%202002%20-%20Americium(III)%20and%20europium(III)%20solvent%20extraction.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+Ligand 5 (second ligand in figure 2)= 3,5,5-trimethylhexanoylamino-bis(2,6-
+(2-pyridyl)-1,3,5-triazine)
