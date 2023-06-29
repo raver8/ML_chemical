@@ -1,0 +1,237 @@
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "4-Cyclohexanoylamino-bis(2,6-(2-pyridyl))-1,3,5-triazine", {"concentration": 0.02, "unit": "M"}}],
+        "solvents": [
+            {"identity": "α-bromo-decanoic acid", "volfraction": 0.5},
+            {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5}],
+        "volume": {"quantity": 800, "unit": "μL"}
+        },
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.03, "unit": "M"}}
+        ],
+        "pH": "missing",
+        "volume": {"quantity": 800, "unit": "μL"}
+    },
+    "reaction conditions": {
+        "temperture": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 30, "unit": "minutes"}
+    },
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.2, "quanitification method": "gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 24, "quantification method": "gamma"}],
+
+    "observations": {
+        "third phase": false,
+        "comment": "First L7 in figure 3 for Eu (III) and Am (III) in the Boubals et al. article."},
+    "provenance": {
+         "doi": "10.1039/b104181a",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"
+        },
+    "reacord creation": {
+        "time": "2023-06-29:12:30:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+        }
+    }
+
+ {
+     "organic phase": {
+        "extractants": [
+            {"identity": "4-Cyclohexanoylamino-bis(2,6-(2-pyridyl))-1,3,5-triazine", {"concentration": 0.02, "unit": "M"}}],
+        "solvents": [
+            {"identity": "α-bromo-decanoic acid", "volfraction": 0.5},
+            {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5}],
+        "volume": {"quantity": 800, "unit": "μL"}
+            },
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.05, "unit": "M"}}
+            ],
+        "pH": "missing",
+        "volume": {"quantity": 800, "unit": "μL"}
+        },
+    "reaction conditions": {
+         "temperture": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 30, "unit": "minutes"}
+        },
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.24, "quanitification method": "gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.8, "quantification method": "gamma"}],
+    
+     "observations": {
+        "third phase": false,
+        "comment": "Second L7 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article."},
+     "provenance": {
+        "doi": "10.1039/b104181a",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"
+            },
+     "reacord creation": {
+        "time": "2023-06-29:12:31:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+            }
+        }
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "4-Cyclohexanoylamino-bis(2,6-(2-pyridyl))-1,3,5-triazine", {"concentration": 0.02, "unit": "M"}}],
+        "solvents": [
+            {"identity": "α-bromo-decanoic acid", "volfraction": 0.5},
+            {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5}],
+        "volume": {"quantity": 800, "unit": "μL"}
+                },
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.10, "unit": "M"}}
+                ],
+        "pH": "missing",
+        "volume": {"quantity": 800, "unit": "μL"}
+            },
+    "reaction conditions": {
+        "temperture": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 30, "unit": "minutes"}
+            },
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.04, "quanitification method": "gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.4, "quantification method": "gamma"}],
+        
+    "observations": {
+        "third phase": false,
+        "comment": "Third L7 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article."},
+    "provenance": {
+        "doi": "10.1039/b104181a",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"
+                },
+    "reacord creation": {
+        "time": "2023-06-29:12:36:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+                }
+            }
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "4-Octanoylamino-bis(2,6-(2-pyridyl))-1,3,5-triazine", {"concentration": 0.02, "unit": "M"}}],
+        "solvents": [
+            {"identity": "α-bromo-decanoic acid", "volfraction": 0.5},
+            {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5}],
+        "volume": {"quantity": 800, "unit": "μL"}
+                    },
+        "aqueous phase": {
+            "solutes": [
+                {"identity": "HNO3", "concentration": {"quantity": 0.03, "unit": "M"}}
+                    ],
+            "pH": "missing",
+            "volume": {"quantity": 800, "unit": "μL"}
+                },
+        "reaction conditions": {
+            "temperture": {"quantity": 293, "unit": "K"},
+            "time": {"quantity": 30, "unit": "minutes"}
+                },  
+        "metals": [
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.4, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 19, "quantification method": "gamma"}],
+            
+        "observations": {
+            "third phase": false,
+            "comment": "First L8 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article."},
+        "provenance": {
+            "doi": "10.1039/b104181a",
+            "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"
+                    },
+        "reacord creation": {
+            "time": "2023-06-29:12:49:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+                    }
+                }
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "4-Octanoylamino-bis(2,6-(2-pyridyl))-1,3,5-triazine", {"concentration": 0.02, "unit": "M"}}],
+        "solvents": [
+            {"identity": "α-bromo-decanoic acid", "volfraction": 0.5},
+            {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5}],
+        "volume": {"quantity": 800, "unit": "μL"}
+                        },
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.06, "unit": "M"}}
+                        ],
+        "pH": "missing",
+        "volume": {"quantity": 800, "unit": "μL"}
+                    },
+    "reaction conditions": {
+        "temperture": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 30, "unit": "minutes"}
+                    },  
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.3, "quanitification method": "gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 3.5, "quantification method": "gamma"}],
+                
+    "observations": {
+        "third phase": false,
+        "comment": "Second L8 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article."},
+    "provenance": {
+        "doi": "10.1039/b104181a",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"
+                        },
+    "reacord creation": {
+        "time": "2023-06-29:12:49:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+                        }
+ }
+ 
+    {
+        "organic phase": {
+            "extractants": [
+                {"identity": "4-Octanoylamino-bis(2,6-(2-pyridyl))-1,3,5-triazine", {"concentration": 0.02, "unit": "M"}}],
+            "solvents": [
+                {"identity": "α-bromo-decanoic acid", "volfraction": 0.5},
+                {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5}],
+            "volume": {"quantity": 800, "unit": "μL"}
+            },
+        "aqueous phase": {
+            "solutes": [
+                {"identity": "HNO3", "concentration": {"quantity": 0.10, "unit": "M"}}
+            ],
+            "pH": "missing",
+            "volume": {"quantity": 800, "unit": "μL"}
+        },
+        "reaction conditions": {
+            "temperture": {"quantity": 293, "unit": "K"},
+            "time": {"quantity": 30, "unit": "minutes"}
+        },  
+        "metals": [
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.03, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.4, "quantification method": "gamma"}],
+    
+        "observations": {
+            "third phase": false,
+            "comment": "Third L8 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article."},
+        "provenance": {
+             "doi": "10.1039/b104181a",
+            "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"
+            },
+        "reacord creation": {
+            "time": "2023-06-29:12:52:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+            }
+        }
+                
