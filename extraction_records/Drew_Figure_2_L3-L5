@@ -6,8 +6,8 @@
             {"identity": "1-hexyl-2-[6-(1-hexylbenzimidazol-2-yl)pyridin-2-yl]benzimidazole", "concentration": {"quantity": 0.04, "unit": "mol/dm^3"}}],
 
             "solvents": [
-            {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-            {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+            {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+            {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
 
         "volume": {"quantity": 700, "unit": "microliter"}
     },
@@ -17,7 +17,7 @@
             {"identity": "HNO3", "concentration": {"quantity": 0.020, "unit": "mol/dm^3"}}
            ],
 
-            "pH": MISSING,
+            "pH": "MISSING",
         "volume": {"quantity": 700, "unit": "microliter"}
     },   
     
@@ -27,8 +27,8 @@
     },
     
     "metals":[
-        {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0005, "quantification method":"MoK(alpha)"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0037, "quantification method":"MoK(alpha)"} ],
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0005, "quantification method":"MoK(alpha)"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0037, "quantification method":"MoK(alpha)"} ],
     
     "observations":{
         "third phase": false,
@@ -58,8 +58,8 @@
                {"identity": "1-hexyl-2-[6-(1-hexylbenzimidazol-2-yl)pyridin-2-yl]benzimidazole", "concentration": {"quantity": 0.04, "unit": "mol/dm^3"}}],
    
                "solvents": [
-               {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-               {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+               {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+               {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
    
            "volume": {"quantity": 700, "unit": "microliter"}
        },
@@ -69,7 +69,7 @@
                {"identity": "HNO3", "concentration": {"quantity": 0.039, "unit": "mol/dm^3"}}
               ],
    
-               "pH": MISSING,
+               "pH": "MISSING",
            "volume": {"quantity": 700, "unit": "microliter"}
        },   
        
@@ -79,8 +79,8 @@
        },
        
        "metals":[
-           {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0002, "quantification method":"MoK(alpha)"},
-           {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0010, "quantification method":"MoK(alpha)"} ],
+           {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0002, "quantification method":"MoK(alpha)"},
+           {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0010, "quantification method":"MoK(alpha)"} ],
        
        "observations":{
            "third phase": false,
@@ -109,8 +109,8 @@
                {"identity": "1-hexyl-2-[6-(1-hexylbenzimidazol-2-yl)pyridin-2-yl]benzimidazole", "concentration": {"quantity": 0.04, "unit": "mol/dm^3"}}],
    
                "solvents": [
-               {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-               {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+               {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+               {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
    
            "volume": {"quantity": 700, "unit": "microliter"}
        },
@@ -120,7 +120,7 @@
                {"identity": "HNO3", "concentration": {"quantity": 0.056, "unit": "mol/dm^3"}}
               ],
    
-               "pH": MISSING,
+               "pH": "MISSING",
            "volume": {"quantity": 700, "unit": "microliter"}
        },   
        
@@ -130,8 +130,8 @@
        },
        
        "metals":[
-           {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0001, "quantification method":"MoK(alpha)"},
-           {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0006, "quantification method":"MoK(alpha)"} ],
+           {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0001, "quantification method":"MoK(alpha)"},
+           {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0006, "quantification method":"MoK(alpha)"} ],
        
        "observations":{
            "third phase": false,
@@ -161,8 +161,8 @@
                   {"identity": "1-hexyl-2-[6-(1-hexylbenzimidazol-2-yl)pyridin-2-yl]benzimidazole", "concentration": {"quantity": 0.014, "unit": "mol/dm^3"}}],
       
                   "solvents": [
-                  {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-                  {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+                  {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                  {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
       
               "volume": {"quantity": 700, "unit": "microliter"}
           },
@@ -172,7 +172,7 @@
                   {"identity": "HNO3", "concentration": {"quantity": 0.022, "unit": "mol/dm^3"}}
                  ],
       
-                  "pH": MISSING,
+                  "pH": "MISSING",
               "volume": {"quantity": 700, "unit": "microliter"}
           },   
           
@@ -182,8 +182,8 @@
           },
           
           "metals":[
-              {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.016, "quantification method":"MoK(alpha)"},
-              {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.031, "quantification method":"MoK(alpha)"} ],
+              {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.016, "quantification method":"MoK(alpha)"},
+              {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.031, "quantification method":"MoK(alpha)"} ],
           
           "observations":{
               "third phase": false,
@@ -213,8 +213,8 @@
                    {"identity": "1-hexyl-2-[6-(1-hexylbenzimidazol-2-yl)pyridin-2-yl]benzimidazole", "concentration": {"quantity": 0.014, "unit": "mol/dm^3"}}],
        
                    "solvents": [
-                   {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-                   {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+                   {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                   {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
        
                "volume": {"quantity": 700, "unit": "microliter"}
            },
@@ -224,7 +224,7 @@
                    {"identity": "HNO3", "concentration": {"quantity": 0.042, "unit": "mol/dm^3"}}
                   ],
        
-                   "pH": MISSING,
+                   "pH": "MISSING",
                "volume": {"quantity": 700, "unit": "microliter"}
            },   
            
@@ -234,8 +234,8 @@
            },
            
            "metals":[
-               {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0015, "quantification method":"MoK(alpha)"},
-               {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.007, "quantification method":"MoK(alpha)"} ],
+               {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0015, "quantification method":"MoK(alpha)"},
+               {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.007, "quantification method":"MoK(alpha)"} ],
            
            "observations":{
                "third phase": false,
@@ -265,8 +265,8 @@
                       {"identity": "1-hexyl-2-[6-(1-hexylbenzimidazol-2-yl)pyridin-2-yl]benzimidazole", "concentration": {"quantity": 0.014, "unit": "mol/dm^3"}}],
           
                       "solvents": [
-                      {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-                      {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+                      {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                      {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
           
                   "volume": {"quantity": 700, "unit": "microliter"}
               },
@@ -276,7 +276,7 @@
                       {"identity": "HNO3", "concentration": {"quantity": 0.062, "unit": "mol/dm^3"}}
                      ],
           
-                      "pH": MISSING,
+                      "pH": "MISSING",
                   "volume": {"quantity": 700, "unit": "microliter"}
               },   
               
@@ -286,8 +286,8 @@
               },
               
               "metals":[
-                  {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0006, "quantification method":"MoK(alpha)"},
-                  {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0023, "quantification method":"MoK(alpha)"} ],
+                  {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0006, "quantification method":"MoK(alpha)"},
+                  {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0023, "quantification method":"MoK(alpha)"} ],
               
               "observations":{
                   "third phase": false,
@@ -319,8 +319,8 @@
                       {"identity": "2-[6-(1H-benzimidazol-2-yl)pyridin-2-yl]-1-hexylbenzimidazole", "concentration": {"quantity": 0.04, "unit": "mol/dm^3"}}],
           
                       "solvents": [
-                      {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-                      {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+                      {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                      {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
           
                   "volume": {"quantity": 700, "unit": "microliter"}
               },
@@ -330,7 +330,7 @@
                       {"identity": "HNO3", "concentration": {"quantity": 0.020, "unit": "mol/dm^3"}}
                      ],
           
-                      "pH": MISSING,
+                      "pH": "MISSING",
                   "volume": {"quantity": 700, "unit": "microliter"}
               },   
               
@@ -340,8 +340,8 @@
               },
               
               "metals":[
-                  {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.001, "quantification method":"MoK(alpha)"},
-                  {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0058, "quantification method":"MoK(alpha)"} ],
+                  {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.001, "quantification method":"MoK(alpha)"},
+                  {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0058, "quantification method":"MoK(alpha)"} ],
               
               "observations":{
                   "third phase": false,
@@ -368,8 +368,8 @@
                        {"identity": "2-[6-(1H-benzimidazol-2-yl)pyridin-2-yl]-1-hexylbenzimidazole", "concentration": {"quantity": 0.04, "unit": "mol/dm^3"}}],
            
                        "solvents": [
-                       {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-                       {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+                       {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                       {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
            
                    "volume": {"quantity": 700, "unit": "microliter"}
                },
@@ -379,7 +379,7 @@
                        {"identity": "HNO3", "concentration": {"quantity": 0.038, "unit": "mol/dm^3"}}
                       ],
            
-                       "pH": MISSING,
+                       "pH": "MISSING",
                    "volume": {"quantity": 700, "unit": "microliter"}
                },   
                
@@ -389,8 +389,8 @@
                },
                
                "metals":[
-                   {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0002, "quantification method":"MoK(alpha)"},
-                   {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0018, "quantification method":"MoK(alpha)"} ],
+                   {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0002, "quantification method":"MoK(alpha)"},
+                   {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0018, "quantification method":"MoK(alpha)"} ],
                
                "observations":{
                    "third phase": false,
@@ -419,8 +419,8 @@
                        {"identity": "2-[6-(1H-benzimidazol-2-yl)pyridin-2-yl]-1-hexylbenzimidazole", "concentration": {"quantity": 0.04, "unit": "mol/dm^3"}}],
            
                        "solvents": [
-                       {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-                       {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+                       {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                       {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
            
                    "volume": {"quantity": 700, "unit": "microliter"}
                },
@@ -430,7 +430,7 @@
                        {"identity": "HNO3", "concentration": {"quantity": 0.053, "unit": "mol/dm^3"}}
                       ],
            
-                       "pH": MISSING,
+                       "pH": "MISSING",
                    "volume": {"quantity": 700, "unit": "microliter"}
                },   
                
@@ -440,8 +440,8 @@
                },
                
                "metals":[
-                   {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.00012, "quantification method":"MoK(alpha)"},
-                   {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.00061, "quantification method":"MoK(alpha)"} ],
+                   {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.00012, "quantification method":"MoK(alpha)"},
+                   {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.00061, "quantification method":"MoK(alpha)"} ],
                
                "observations":{
                    "third phase": false,
@@ -474,8 +474,8 @@
                         {"identity": "2,2'-(4-(dodecyloxy)pyridine-2,6-diyl)bis(1H-benzo[d]imidazole)", "concentration": {"quantity": 0.04, "unit": "mol/dm^3"}}],
             
                         "solvents": [
-                        {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-                        {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+                        {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                        {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
             
                     "volume": {"quantity": 700, "unit": "microliter"}
                 },
@@ -485,7 +485,7 @@
                         {"identity": "HNO3", "concentration": {"quantity": 0.020, "unit": "mol/dm^3"}}
                        ],
             
-                        "pH": MISSING,
+                        "pH": "MISSING",
                     "volume": {"quantity": 700, "unit": "microliter"}
                 },   
                 
@@ -495,8 +495,8 @@
                 },
                 
                 "metals":[
-                    {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0003, "quantification method":"MoK(alpha)"},
-                    {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0025, "quantification method":"MoK(alpha)"} ],
+                    {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0003, "quantification method":"MoK(alpha)"},
+                    {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0025, "quantification method":"MoK(alpha)"} ],
                 
                 "observations":{
                     "third phase": false,
@@ -522,8 +522,8 @@
                            {"identity": "2,2'-(4-(dodecyloxy)pyridine-2,6-diyl)bis(1H-benzo[d]imidazole)", "concentration": {"quantity": 0.04, "unit": "mol/dm^3"}}],
                
                            "solvents": [
-                           {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+                           {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
                
                        "volume": {"quantity": 700, "unit": "microliter"}
                    },
@@ -533,7 +533,7 @@
                            {"identity": "HNO3", "concentration": {"quantity": 0.039, "unit": "mol/dm^3"}}
                           ],
                
-                           "pH": MISSING,
+                           "pH": "MISSING",
                        "volume": {"quantity": 700, "unit": "microliter"}
                    },   
                    
@@ -543,8 +543,8 @@
                    },
                    
                    "metals":[
-                       {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0001, "quantification method":"MoK(alpha)"},
-                       {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.001, "quantification method":"MoK(alpha)"} ],
+                       {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0001, "quantification method":"MoK(alpha)"},
+                       {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.001, "quantification method":"MoK(alpha)"} ],
                    
                    "observations":{
                        "third phase": false,
@@ -570,8 +570,8 @@
                            {"identity": "2,2'-(4-(dodecyloxy)pyridine-2,6-diyl)bis(1H-benzo[d]imidazole)", "concentration": {"quantity": 0.04, "unit": "mol/dm^3"}}],
                
                            "solvents": [
-                           {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+                           {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
                
                        "volume": {"quantity": 700, "unit": "microliter"}
                    },
@@ -581,7 +581,7 @@
                            {"identity": "HNO3", "concentration": {"quantity": 0.082, "unit": "mol/dm^3"}}
                           ],
                
-                           "pH": MISSING,
+                           "pH": "MISSING",
                        "volume": {"quantity": 700, "unit": "microliter"}
                    },   
                    
@@ -591,8 +591,8 @@
                    },
                    
                    "metals":[
-                       {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0005, "quantification method":"MoK(alpha)"},
-                       {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.001, "quantification method":"MoK(alpha)"} ],
+                       {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0005, "quantification method":"MoK(alpha)"},
+                       {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.001, "quantification method":"MoK(alpha)"} ],
                    
                    "observations":{
                        "third phase": false,
@@ -623,8 +623,8 @@
                            {"identity": "2,2'-(4-(dodecyloxy)pyridine-2,6-diyl)bis(benzo[d]thiazole)", "concentration": {"quantity": 0.02, "unit": "mol/dm^3"}}],
                
                            "solvents": [
-                           {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+                           {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
                
                        "volume": {"quantity": 700, "unit": "microliter"}
                    },
@@ -634,7 +634,7 @@
                            {"identity": "HNO3", "concentration": {"quantity": 0.026, "unit": "mol/dm^3"}}
                           ],
                
-                           "pH": MISSING,
+                           "pH": "MISSING",
                        "volume": {"quantity": 700, "unit": "microliter"}
                    },   
                    
@@ -644,8 +644,8 @@
                    },
                    
                    "metals":[
-                       {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.004, "quantification method":"MoK(alpha)"},
-                       {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.014, "quantification method":"MoK(alpha)"} ],
+                       {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.004, "quantification method":"MoK(alpha)"},
+                       {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.014, "quantification method":"MoK(alpha)"} ],
                    
                    "observations":{
                        "third phase": false,
@@ -672,8 +672,8 @@
                            {"identity": "2,2'-(4-(dodecyloxy)pyridine-2,6-diyl)bis(benzo[d]thiazole)", "concentration": {"quantity": 0.02, "unit": "mol/dm^3"}}],
                
                            "solvents": [
-                           {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+                           {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
                
                        "volume": {"quantity": 700, "unit": "microliter"}
                    },
@@ -683,7 +683,7 @@
                            {"identity": "HNO3", "concentration": {"quantity": 0.045, "unit": "mol/dm^3"}}
                           ],
                
-                           "pH": MISSING,
+                           "pH": "MISSING",
                        "volume": {"quantity": 700, "unit": "microliter"}
                    },   
                    
@@ -693,8 +693,8 @@
                    },
                    
                    "metals":[
-                       {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.002, "quantification method":"MoK(alpha)"},
-                       {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.008, "quantification method":"MoK(alpha)"} ],
+                       {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.002, "quantification method":"MoK(alpha)"},
+                       {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.008, "quantification method":"MoK(alpha)"} ],
                    
                    "observations":{
                        "third phase": false,
@@ -721,8 +721,8 @@
                            {"identity": "2,2'-(4-(dodecyloxy)pyridine-2,6-diyl)bis(benzo[d]thiazole)", "concentration": {"quantity": 0.02, "unit": "mol/dm^3"}}],
                
                            "solvents": [
-                           {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+                           {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
                
                        "volume": {"quantity": 700, "unit": "microliter"}
                    },
@@ -732,7 +732,7 @@
                            {"identity": "HNO3", "concentration": {"quantity": 0.065, "unit": "mol/dm^3"}}
                           ],
                
-                           "pH": MISSING,
+                           "pH": "MISSING",
                        "volume": {"quantity": 700, "unit": "microliter"}
                    },   
                    
@@ -742,8 +742,8 @@
                    },
                    
                    "metals":[
-                       {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0008, "quantification method":"MoK(alpha)"},
-                       {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.003, "quantification method":"MoK(alpha)"} ],
+                       {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0008, "quantification method":"MoK(alpha)"},
+                       {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.003, "quantification method":"MoK(alpha)"} ],
                    
                    "observations":{
                        "third phase": false,
@@ -770,8 +770,8 @@
                            {"identity": "2,2'-(4-(dodecyloxy)pyridine-2,6-diyl)bis(benzo[d]thiazole)", "concentration": {"quantity": 0.02, "unit": "mol/dm^3"}}],
                
                            "solvents": [
-                           {"identity": "alpha-bromodecanoic acid", "volfraction": MISSING},
-                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": MISSING }],
+                           {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
                
                        "volume": {"quantity": 700, "unit": "microliter"}
                    },
@@ -781,7 +781,7 @@
                            {"identity": "HNO3", "concentration": {"quantity": 0.082, "unit": "mol/dm^3"}}
                           ],
                
-                           "pH": MISSING,
+                           "pH": "MISSING",
                        "volume": {"quantity": 700, "unit": "microliter"}
                    },   
                    
@@ -791,8 +791,8 @@
                    },
                    
                    "metals":[
-                       {"identity": "Eu(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.0005, "quantification method":"MoK(alpha)"},
-                       {"identity": "Am(III)", "initial concentration": {"quantity": MISSING, "unit": "M"}, "D": 0.001, "quantification method":"MoK(alpha)"} ],
+                       {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0005, "quantification method":"MoK(alpha)"},
+                       {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.001, "quantification method":"MoK(alpha)"} ],
                    
                    "observations":{
                        "third phase": false,
