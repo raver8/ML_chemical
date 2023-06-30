@@ -29,11 +29,11 @@
 
   
       "observations":{
-        "third phase": false,
+        "third phase": "false",
         "comment": "First pair of Am(III) and Eu D values with ligand 4 in figure 2 of Boubals Paper, page 57"}
     
      "provenance": {
-        "doi": "missing",
+        "doi": "10.1039/b104181a",
         "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals%20et%20al.%20-%202002%20-%20Americium(III)%20and%20europium(III)%20solvent%20extraction.pdf"},
     
     "record creation": {
@@ -75,11 +75,11 @@
 
   
       "observations":{
-        "third phase": false,
+        "third phase": "false",
         "comment": "Second pair of Am(III) and Eu D values with ligand 4 in figure 2 of Boubals Paper, page 57"}
     
      "provenance": {
-        "doi": "missing",
+        "doi": "10.1039/b104181a",
         "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals%20et%20al.%20-%202002%20-%20Americium(III)%20and%20europium(III)%20solvent%20extraction.pdf"},
     
     "record creation": {
@@ -121,11 +121,11 @@
 
   
       "observations":{
-        "third phase": false,
+        "third phase": "false",
         "comment": "Third pair of Am(III) and Eu(III) D values with ligand 4 in figure 2 of Boubals Paper, page 57"}
     
      "provenance": {
-        "doi": "missing",
+        "doi": "10.1039/b104181a",
         "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals%20et%20al.%20-%202002%20-%20Americium(III)%20and%20europium(III)%20solvent%20extraction.pdf"},
     
     "record creation": {
@@ -167,11 +167,11 @@
 
   
       "observations":{
-        "third phase": false,
+        "third phase": "false",
         "comment": "Fourth pair of Am(III) and Eu(III) D values with ligand 4 in figure 2 of Boubals Paper, page 57"}
     
      "provenance": {
-        "doi": "missing",
+        "doi": "10.1039/b104181a",
         "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals%20et%20al.%20-%202002%20-%20Americium(III)%20and%20europium(III)%20solvent%20extraction.pdf"},
     
     "record creation": {
@@ -214,11 +214,11 @@
 
   
       "observations":{
-        "third phase": false,
+        "third phase": "false",
         "comment": "First pair of Am(III) and Eu D values with ligand 5 in figure 2 of Boubals Paper, page 57"}
     
      "provenance": {
-        "doi": "missing",
+        "doi": "10.1039/b104181a",
         "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals%20et%20al.%20-%202002%20-%20Americium(III)%20and%20europium(III)%20solvent%20extraction.pdf"},
     
     "record creation": {
@@ -260,11 +260,11 @@
 
   
       "observations":{
-        "third phase": false,
+        "third phase": "false",
         "comment": "Second pair of Am(III) and Eu D values with ligand 5 in figure 2 of Boubals Paper, page 57"}
     
      "provenance": {
-        "doi": "missing",
+        "doi": "10.1039/b104181a",
         "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals%20et%20al.%20-%202002%20-%20Americium(III)%20and%20europium(III)%20solvent%20extraction.pdf"},
     
     "record creation": {
@@ -307,11 +307,11 @@
 
   
       "observations":{
-        "third phase": false,
-        "comment": "Third pair of Am(III) and Eu D values with ligand 5 in figure 2 of Boubals Paper, page 57"}
+        "third phase": "false",
+        "comment": "Third pair of Am(III) and Eu(III) D values with ligand 5 in figure 2 of Boubals Paper, page 57"}
     
      "provenance": {
-        "doi": "missing",
+        "doi": "10.1039/b104181a",
         "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals%20et%20al.%20-%202002%20-%20Americium(III)%20and%20europium(III)%20solvent%20extraction.pdf"},
     
     "record creation": {
@@ -350,15 +350,15 @@
     
     {"metals":[
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.39, "quantification method":"gamma"}]
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.21, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.04, "quantification method":"gamma"}]
 
   
       "observations":{
-        "third phase": false,
+        "third phase": "false",
         "comment": "Fourth pair of Am(III) and Eu D values with ligand 5 in figure 2 of Boubals Paper, page 57"}
     
      "provenance": {
-        "doi": "missing",
+        "doi": "10.1039/b104181a",
         "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals%20et%20al.%20-%202002%20-%20Americium(III)%20and%20europium(III)%20solvent%20extraction.pdf"},
     
     "record creation": {
@@ -367,8 +367,6 @@
         "name": "Caitlin Reed"	
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
-
-
 
 
 {
@@ -403,11 +401,11 @@
 
   
       "observations":{
-        "third phase": false,
+        "third phase": "false",
         "comment": "Fifth pair of Am(III) and Eu D values with ligand 5 in figure 2 of Boubals Paper, page 57"}
     
      "provenance": {
-        "doi": "missing",
+        "doi": "10.1039/b104181a",
         "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals%20et%20al.%20-%202002%20-%20Americium(III)%20and%20europium(III)%20solvent%20extraction.pdf"},
     
     "record creation": {
