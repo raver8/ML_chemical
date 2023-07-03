@@ -1,0 +1,198 @@
+
+[
+                   {
+        
+                    "organic phase": {
+                       "extractants": [
+                           {"identity": "2,2'-(4-(dodecyloxy)pyridine-2,6-diyl)bis(benzo[d]thiazole)", "concentration": {"quantity": 0.02, "unit": "mol/dm^3"}}],
+               
+                           "solvents": [
+                           {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
+               
+                       "volume": {"quantity": 700, "unit": "microliter"}
+                   },
+                   
+                    "aqueous phase": {
+                       "solutes": [
+                           {"identity": "HNO3", "concentration": {"quantity": 0.026, "unit": "mol/dm^3"}}
+                          ],
+               
+                           "pH": "MISSING",
+                       "volume": {"quantity": 700, "unit": "microliter"}
+                   },   
+                   
+                   "reaction conditions": {
+                       "temperature": {"quantity": 298, "unit": "K"},
+                       "time": {"quantity": 60, "unit": "minutes"}
+                   },
+                   
+                   "metals":[
+                       {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.004, "quantification method":"MoK(alpha)"},
+                       {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.014, "quantification method":"MoK(alpha)"} ],
+                   
+                   "observations":{
+                       "third phase": false,
+                       "comment": "Figure 2, L11, point 1, of Drew et Al Paper, Page 465"},
+                   
+                    "provenance": {
+                       "doi": "10.1039/B314321J",	
+                       "attached_file": "//Drew%20et%20al.%20-%202004%20-%20Separation%20of%20lanthanides%20and%20actinides(III)%20using.pdf"},
+                   
+                   "record creation": {
+                       "time": "2023-06-26:17:00:00+0",
+                       "username": "Ranulph694",	
+                       "name": "Ranulph Mayas",	
+                       "email": "rmayas@fordham.edu",	
+                       "organization": "Fordham University"	
+                   }
+               
+                   },
+
+                   {
+        
+                    "organic phase": {
+                       "extractants": [
+                           {"identity": "2,2'-(4-(dodecyloxy)pyridine-2,6-diyl)bis(benzo[d]thiazole)", "concentration": {"quantity": 0.02, "unit": "mol/dm^3"}}],
+               
+                           "solvents": [
+                           {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
+               
+                       "volume": {"quantity": 700, "unit": "microliter"}
+                   },
+                   
+                    "aqueous phase": {
+                       "solutes": [
+                           {"identity": "HNO3", "concentration": {"quantity": 0.045, "unit": "mol/dm^3"}}
+                          ],
+               
+                           "pH": "MISSING",
+                       "volume": {"quantity": 700, "unit": "microliter"}
+                   },   
+                   
+                   "reaction conditions": {
+                       "temperature": {"quantity": 298, "unit": "K"},
+                       "time": {"quantity": 60, "unit": "minutes"}
+                   },
+                   
+                   "metals":[
+                       {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.002, "quantification method":"MoK(alpha)"},
+                       {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.008, "quantification method":"MoK(alpha)"} ],
+                   
+                   "observations":{
+                       "third phase": false,
+                       "comment": "Figure 2, L11, point 2, of Drew et Al Paper, Page 465"},
+                   
+                    "provenance": {
+                       "doi": "10.1039/B314321J",	
+                       "attached_file": "//Drew%20et%20al.%20-%202004%20-%20Separation%20of%20lanthanides%20and%20actinides(III)%20using.pdf"},
+                   
+                   "record creation": {
+                       "time": "2023-06-26:17:00:00+0",
+                       "username": "Ranulph694",	
+                       "name": "Ranulph Mayas",	
+                       "email": "rmayas@fordham.edu",	
+                       "organization": "Fordham University"	
+                   }
+               
+                   },
+
+                   {
+        
+                    "organic phase": {
+                       "extractants": [
+                           {"identity": "2,2'-(4-(dodecyloxy)pyridine-2,6-diyl)bis(benzo[d]thiazole)", "concentration": {"quantity": 0.02, "unit": "mol/dm^3"}}],
+               
+                           "solvents": [
+                           {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
+               
+                       "volume": {"quantity": 700, "unit": "microliter"}
+                   },
+                   
+                    "aqueous phase": {
+                       "solutes": [
+                           {"identity": "HNO3", "concentration": {"quantity": 0.065, "unit": "mol/dm^3"}}
+                          ],
+               
+                           "pH": "MISSING",
+                       "volume": {"quantity": 700, "unit": "microliter"}
+                   },   
+                   
+                   "reaction conditions": {
+                       "temperature": {"quantity": 298, "unit": "K"},
+                       "time": {"quantity": 60, "unit": "minutes"}
+                   },
+                   
+                   "metals":[
+                       {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0008, "quantification method":"MoK(alpha)"},
+                       {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.003, "quantification method":"MoK(alpha)"} ],
+                   
+                   "observations":{
+                       "third phase": false,
+                       "comment": "Figure 2, L11, point 3, of Drew et Al Paper, Page 465"},
+                   
+                    "provenance": {
+                       "doi": "10.1039/B314321J",	
+                       "attached_file": "//Drew%20et%20al.%20-%202004%20-%20Separation%20of%20lanthanides%20and%20actinides(III)%20using.pdf"},
+                   
+                   "record creation": {
+                       "time": "2023-06-26:17:00:00+0",
+                       "username": "Ranulph694",	
+                       "name": "Ranulph Mayas",	
+                       "email": "rmayas@fordham.edu",	
+                       "organization": "Fordham University"	
+                   }
+               
+                   },
+
+                   {
+        
+                    "organic phase": {
+                       "extractants": [
+                           {"identity": "2,2'-(4-(dodecyloxy)pyridine-2,6-diyl)bis(benzo[d]thiazole)", "concentration": {"quantity": 0.02, "unit": "mol/dm^3"}}],
+               
+                           "solvents": [
+                           {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                           {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
+               
+                       "volume": {"quantity": 700, "unit": "microliter"}
+                   },
+                   
+                    "aqueous phase": {
+                       "solutes": [
+                           {"identity": "HNO3", "concentration": {"quantity": 0.082, "unit": "mol/dm^3"}}
+                          ],
+               
+                           "pH": "MISSING",
+                       "volume": {"quantity": 700, "unit": "microliter"}
+                   },   
+                   
+                   "reaction conditions": {
+                       "temperature": {"quantity": 298, "unit": "K"},
+                       "time": {"quantity": 60, "unit": "minutes"}
+                   },
+                   
+                   "metals":[
+                       {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0005, "quantification method":"MoK(alpha)"},
+                       {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.001, "quantification method":"MoK(alpha)"} ],
+                   
+                   "observations":{
+                       "third phase": false,
+                       "comment": "Figure 2, L11, point 4, of Drew et Al Paper, Page 465"},
+                   
+                    "provenance": {
+                       "doi": "10.1039/B314321J",	
+                       "attached_file": "//Drew%20et%20al.%20-%202004%20-%20Separation%20of%20lanthanides%20and%20actinides(III)%20using.pdf"},
+                   
+                   "record creation": {
+                       "time": "2023-06-26:17:00:00+0",
+                       "username": "Ranulph694",	
+                       "name": "Ranulph Mayas",	
+                       "email": "rmayas@fordham.edu",	
+                       "organization": "Fordham University"	
+                   }
+               
+                   }
+                ]
