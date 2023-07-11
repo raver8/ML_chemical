@@ -1903,8 +1903,6 @@
 
 
 
-FIGURE SIX 
-
 {
     "organic phase":{
         "extractants": [
@@ -2069,7 +2067,6 @@ FIGURE SIX
     "organization": "Fordham University"
 }
 
-FIGURE 7 
 
     {
     "organic phase": {
@@ -2606,8 +2603,6 @@ FIGURE 7
 
 
 
-FIGURE EIGHT
-
 [
     {
         "organic phase": {
@@ -3092,8 +3087,6 @@ FIGURE EIGHT
 ]
     
     
-    
-        FIGURE 9 
 
 {
     "organic phase": {
@@ -3485,8 +3478,6 @@ FIGURE EIGHT
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
 
-
-FIGURE TEN
 
 [
     {
@@ -4550,8 +4541,6 @@ FIGURE TEN
 
 
 
-    FIGURE 11
-
     [{
     "organic phase": {
         "extractants": [
@@ -4775,7 +4764,6 @@ FIGURE TEN
         "organization": "Fordham University"}	
 }
     
-FIGURE TWELVE 
 
 {
     "organic phase": {
