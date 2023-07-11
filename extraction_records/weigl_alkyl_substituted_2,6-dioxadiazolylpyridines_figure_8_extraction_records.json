@@ -229,12 +229,12 @@
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}}],       
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}],       
 
             "solvents": [
             {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
         "volume": {"quantity": "1.5", "unit": "milliliter"}
-    },
+
 
          "aqueous phase": {
        
