@@ -149,7 +149,7 @@
        
         "solutes": [
             {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"},
-            {"identity": "chlorobenzene", "concentration": {"quantity": "missing", "unit": "mM"}],
+            "identity": "chlorobenzene", "concentration": {"quantity": "missing", "unit": "mM"}}],
         "pH": 1.90,
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },   
