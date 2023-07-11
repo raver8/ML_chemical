@@ -209,7 +209,7 @@
 
     
     {"metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 14, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 14, "quantification method":"gamma"}
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.2, "quantification method":"gamma"}]
 
   
