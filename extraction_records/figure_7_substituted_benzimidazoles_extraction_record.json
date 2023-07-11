@@ -372,7 +372,7 @@
             {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}]
 
         "pH": 4.85,
-        "volume": {"quantity": "missing", "unit": "milliliter"}]  
+        "volume": {"quantity": "missing", "unit": "milliliter"}  
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
