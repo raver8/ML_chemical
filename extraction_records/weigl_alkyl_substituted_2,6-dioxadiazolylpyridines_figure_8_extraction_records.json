@@ -57,8 +57,8 @@
          "aqueous phase": {
        
         "solutes": [
-            {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"}
-            {"identity": "toluene", "concentration": {"quantity": "missing", "unit": "M"}],
+            {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"},
+            "identity": "toluene", "concentration": {"quantity": "missing", "unit": "M"}}],
         "pH": 1.90,
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     ,   
