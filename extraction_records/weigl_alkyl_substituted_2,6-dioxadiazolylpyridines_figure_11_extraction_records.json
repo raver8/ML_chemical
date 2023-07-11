@@ -13,7 +13,7 @@
          "aqueous phase": {
        
         "solutes": [
-            {"identity": "HNO3", {"concentration": "missing", "unit": "mM"}}],
+            {"identity": "HNO3", {"concentration": "missing", "unit": "M"}}],
         "pH": 1.13,
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },   
@@ -57,7 +57,7 @@
          "aqueous phase": {
        
         "solutes": [
-            {"identity": "HNO3", {"concentration": "missing", "unit": "mM"}}],
+            {"identity": "HNO3", {"concentration": "missing", "unit": "M"}}],
         "pH": 1.13,
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },   
@@ -101,7 +101,7 @@
          "aqueous phase": {
        
         "solutes": [
-            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "mM"}}],
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
         "pH": 1.47,
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },   
@@ -145,7 +145,7 @@
          "aqueous phase": {
        
         "solutes": [
-            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "mM"}}],
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
         "pH": 1.68,
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },   
