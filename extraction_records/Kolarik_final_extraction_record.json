@@ -1368,7 +1368,7 @@
 {
     "organic phase": {
         "extractants": [
-            {"identity": " 2-(6-methyl-2-pyridyl)- benzimidazole ", "concentration": {"quantity": "missing”,"unit": "M"}}
+            {"identity": " 2-(6-methyl-2-pyridyl)- benzimidazole ", "concentration": {"quantity": "missing","unit": "M"}}
             ],
          "solvents": [
             {"identity": "Xylene", "volfraction": 0.70},
