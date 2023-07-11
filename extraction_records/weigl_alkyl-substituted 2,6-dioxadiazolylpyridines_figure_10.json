@@ -9,7 +9,7 @@
     },
     "aqueous phase": {
         "solutes": [
-            {"identity": "nitric acid", {"concentration": 0.001, "unit": "M"}}],
+            {"identity": "nitric acid", {"concentration": 1, "unit": "mM"}}],
         "pH": 2.00,
         "volume": {"quantity": 1.5, "unit": "milliliter"}
 },
@@ -45,7 +45,7 @@
     },
     "aqueous phase": {
         "solutes": [
-            {"identity": "nitric acid", {"concentration": 0.001, "unit": "M"}}],
+            {"identity": "nitric acid", {"concentration": 1, "unit": "mM"}}],
         "pH": 2.00,
         "volume": {"quantity": 1.5, "unit": "milliliter"}
 },
@@ -82,7 +82,7 @@
     },
     "aqueous phase": {
         "solutes": [
-            {"identity": "nitric acid", {"concentration": 0.001, "unit": "M"}}],
+            {"identity": "nitric acid", {"concentration": 1, "unit": "mM"}}],
         "pH": 2.00,
         "volume": {"quantity": 1.5, "unit": "milliliter"}
 },
@@ -118,7 +118,7 @@
     },
     "aqueous phase": {
         "solutes": [
-            {"identity": "nitric acid", {"concentration": 0.001, "unit": "M"}}],
+            {"identity": "nitric acid", {"concentration": 1, "unit": "mM"}}],
         "pH": 2.00,
         "volume": {"quantity": 1.5, "unit": "milliliter"}
 },
