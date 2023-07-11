@@ -209,8 +209,7 @@
 
       "observations":{
         "third phase": false,
-        "comment": "Fifth pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372", 
-      "These points are on the left curve in the graph, with these points being labeled as 'Perchlorates' to indicate the use of NaClO4 for the extraction},
+        "comment": "Fifth pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372. These points are on the left curve in the graph, with these points being labeled as 'Perchlorates' to indicate the use of NaClO4 for the extraction"},
     
      "provenance": {
         "doi": "10.1080/07366299708934483",
@@ -324,7 +323,7 @@
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}}
+            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"},
             {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}]
 
         "pH": 4.85,
@@ -370,7 +369,7 @@
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}}
+            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"},
             {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}]
 
         "pH": 4.85,
@@ -378,8 +377,7 @@
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
-        "time": {"quantity": 15, "unit": "minutes"}
-    },
+        "time": {"quantity": 15, "unit": "minutes"},
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.009076, "quantification method":"gamma"},
@@ -415,7 +413,7 @@
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}}
+            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"},
             {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}]
 ,
         "pH": 4.85,
@@ -463,8 +461,7 @@
             {"identity": "KI", "concentration": {"quantity": "missing", "unit": "M"}},
 ,
         "pH": 4.85,
-        "volume": {"quantity": "missing", "unit": "milliliter"}
-    },   
+        "volume": {"quantity": "missing", "unit": "milliliter"} ,   
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -508,7 +505,7 @@
             {"identity": "KI", "concentration": {"quantity": "missing", "unit": "M"}},
         "pH": 4.85,
         "volume": {"quantity": "missing", "unit": "milliliter"}
-    },   
+   
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
