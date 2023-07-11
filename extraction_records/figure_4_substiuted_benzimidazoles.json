@@ -115,8 +115,8 @@
 },
 
 "metals": [
-    {"identity": "Eu(III)", "initial concentration": {"quantity": , "unit": "M"}, "D": 0.01067, "quantification method": "gamma"},
-    {"identity": "Am(III)", "initial concentration": {"quantity": , "unit": "M"}, "D": 0.060687, "quantification method": "gamma"}],
+    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.01067, "quantification method": "gamma"},
+    {"identity": "Am(III)", "initial concentration": {"quantity": "missing" , "unit": "M"}, "D": 0.060687, "quantification method": "gamma"}],
 
 "observations": {
     "third phase": false,
