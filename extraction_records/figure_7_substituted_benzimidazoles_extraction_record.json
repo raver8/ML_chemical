@@ -368,7 +368,7 @@
      "aqueous phase": {
        
         "solutes": [
-            {{"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"},
+            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}},
             {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}]
 
         "pH": 4.85,
