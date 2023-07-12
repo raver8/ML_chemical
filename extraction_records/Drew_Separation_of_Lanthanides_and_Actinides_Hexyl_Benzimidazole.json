@@ -17,7 +17,7 @@
             {"identity": "HNO3", "concentration": {"quantity": 0.020, "unit": "mol/dm^3"}}
            ],
 
-            "pH": "MISSING",
+            "pH": 1.70,
         "volume": {"quantity": 700, "unit": "microliter"}
     },   
     
@@ -32,7 +32,7 @@
     
     "observations":{
         "third phase": false,
-        "comment": "Figure 2, L3, point 1, of Drew et Al Paper, Page 465"},
+        "comment": "Figure 2, L3, point 1, of Drew et Al Paper, Page 465, pH calculated based on nitric acid concentration"},
     
      "provenance": {
         "doi": "10.1039/B314321J",	
@@ -69,7 +69,7 @@
                {"identity": "HNO3", "concentration": {"quantity": 0.039, "unit": "mol/dm^3"}}
               ],
    
-               "pH": "MISSING",
+               "pH": 1.41,
            "volume": {"quantity": 700, "unit": "microliter"}
        },   
        
@@ -84,7 +84,7 @@
        
        "observations":{
            "third phase": false,
-           "comment": "Figure 2, L3, point 2, of Drew et Al Paper, Page 465"},
+           "comment": "Figure 2, L3, point 2, of Drew et Al Paper, Page 465, pH calculated based on nitric acid concentration"},
        
         "provenance": {
            "doi": "10.1039/B314321J",	
@@ -120,7 +120,7 @@
                {"identity": "HNO3", "concentration": {"quantity": 0.056, "unit": "mol/dm^3"}}
               ],
    
-               "pH": "MISSING",
+               "pH": 1.25,
            "volume": {"quantity": 700, "unit": "microliter"}
        },   
        
@@ -135,7 +135,7 @@
        
        "observations":{
            "third phase": false,
-           "comment": "Figure 2, L3, point 3, of Drew et Al Paper, Page 465"},
+           "comment": "Figure 2, L3, point 3, of Drew et Al Paper, Page 465, pH calculated based on nitric acid concentration"},
        
         "provenance": {
            "doi": "10.1039/B314321J",	
@@ -172,7 +172,7 @@
                   {"identity": "HNO3", "concentration": {"quantity": 0.022, "unit": "mol/dm^3"}}
                  ],
       
-                  "pH": "MISSING",
+                  "pH": 1.66,
               "volume": {"quantity": 700, "unit": "microliter"}
           },   
           
@@ -187,7 +187,7 @@
           
           "observations":{
               "third phase": false,
-              "comment": "Figure 2, L3, point 4, of Drew et Al Paper, Page 465"},
+              "comment": "Figure 2, L3, point 4, of Drew et Al Paper, Page 465, pH calculated based on nitric acid concentration"},
           
            "provenance": {
               "doi": "10.1039/B314321J",	
@@ -224,7 +224,7 @@
                    {"identity": "HNO3", "concentration": {"quantity": 0.042, "unit": "mol/dm^3"}}
                   ],
        
-                   "pH": "MISSING",
+                   "pH": 1.38,
                "volume": {"quantity": 700, "unit": "microliter"}
            },   
            
@@ -239,7 +239,7 @@
            
            "observations":{
                "third phase": false,
-               "comment": "Figure 2, L3, point 5, of Drew et Al Paper, Page 465"},
+               "comment": "Figure 2, L3, point 5, of Drew et Al Paper, Page 465, pH calculated based on nitric acid concentration"},
            
             "provenance": {
                "doi": "10.1039/B314321J",	
@@ -276,7 +276,7 @@
                       {"identity": "HNO3", "concentration": {"quantity": 0.062, "unit": "mol/dm^3"}}
                      ],
           
-                      "pH": "MISSING",
+                      "pH": 1.21,
                   "volume": {"quantity": 700, "unit": "microliter"}
               },   
               
@@ -291,7 +291,7 @@
               
               "observations":{
                   "third phase": false,
-                  "comment": "Figure 2, L3, point 6, of Drew et Al Paper, Page 465"},
+                  "comment": "Figure 2, L3, point 6, of Drew et Al Paper, Page 465, pH calculated based on nitric acid concentration"},
               
                "provenance": {
                   "doi": "10.1039/B314321J",	
