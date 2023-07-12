@@ -19,7 +19,7 @@
            {"identity": "HNO3", "concentration": {"quantity": 0.020, "unit": "mol/dm^3"}}
           ],
 
-           "pH": "MISSING",
+           "pH": 1.70,
        "volume": {"quantity": 700, "unit": "microliter"}
    },   
    
@@ -34,7 +34,7 @@
    
    "observations":{
        "third phase": false,
-       "comment": "Figure 2, L5, point 1, of Drew et Al Paper, Page 465"},
+       "comment": "Figure 2, L5, point 1, of Drew et Al Paper, Page 465, pH values calculated from the concentrations of nitric acid"},
    
     "provenance": {
        "doi": "10.1039/B314321J",	
@@ -67,7 +67,7 @@
               {"identity": "HNO3", "concentration": {"quantity": 0.039, "unit": "mol/dm^3"}}
              ],
   
-              "pH": "MISSING",
+              "pH": 1.41,
           "volume": {"quantity": 700, "unit": "microliter"}
       },   
       
@@ -82,7 +82,7 @@
       
       "observations":{
           "third phase": false,
-          "comment": "Figure 2, L5, point 2, of Drew et Al Paper, Page 465"},
+          "comment": "Figure 2, L5, point 2, of Drew et Al Paper, Page 465, pH values calculated from the concentrations of nitric acid"},
       
        "provenance": {
           "doi": "10.1039/B314321J",	
@@ -115,7 +115,7 @@
               {"identity": "HNO3", "concentration": {"quantity": 0.082, "unit": "mol/dm^3"}}
              ],
   
-              "pH": "MISSING",
+              "pH": 1.086,
           "volume": {"quantity": 700, "unit": "microliter"}
       },   
       
@@ -130,7 +130,7 @@
       
       "observations":{
           "third phase": false,
-          "comment": "Figure 2, L5, point 3, of Drew et Al Paper, Page 465"},
+          "comment": "Figure 2, L5, point 3, of Drew et Al Paper, Page 465, pH values calculated from the concentrations of nitric acid"},
       
        "provenance": {
           "doi": "10.1039/B314321J",	
