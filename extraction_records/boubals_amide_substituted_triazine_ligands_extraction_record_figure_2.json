@@ -13,7 +13,7 @@
        
         "solutes": [
             {"identity": "HNO3", {"concentration": 0.03, "unit": "M"}}],
-        "pH": "missing",
+        "pH": 1.52,
         "volume": {"quantity": 0.0008, "unit": "liter"}
     },   
     
@@ -59,7 +59,7 @@
        
         "solutes": [
             {"identity": "HNO3", {"concentration": 0.05, "unit": "M"}}],
-        "pH": "missing",
+        "pH": 1.30,
         "volume": {"quantity": 0.0008, "unit": "liter"}
     },   
     
@@ -105,7 +105,7 @@
        
         "solutes": [
             {"identity": "HNO3", {"concentration": 0.08, "unit": "M"}}],
-        "pH": "missing",
+        "pH": 1.10,
         "volume": {"quantity": 0.0008, "unit": "liter"}
     },   
     
@@ -151,7 +151,7 @@
        
         "solutes": [
             {"identity": "HNO3", {"concentration": 0.11, "unit": "M"}}],
-        "pH": "missing",
+        "pH": 0.959,
         "volume": {"quantity": 0.0008, "unit": "liter"}
     },   
     
@@ -197,7 +197,7 @@
        
         "solutes": [
             {"identity": "HNO3", {"concentration": 0.02, "unit": "M"}}],
-        "pH": "missing",
+        "pH": 1.70,
         "volume": {"quantity": 0.0008, "unit": "liter"}
     },   
     
@@ -243,7 +243,7 @@
        
         "solutes": [
             {"identity": "HNO3", {"concentration": 0.04, "unit": "M"}}],
-        "pH": "missing",
+        "pH": 1.40,
         "volume": {"quantity": 0.0008, "unit": "liter"}
     },   
     
@@ -290,7 +290,7 @@
        
         "solutes": [
             {"identity": "HNO3", {"concentration": 0.06, "unit": "M"}}],
-        "pH": "missing",
+        "pH": 1.22,
         "volume": {"quantity": 0.0008, "unit": "liter"}
     },   
     
@@ -337,7 +337,7 @@
        
         "solutes": [
             {"identity": "HNO3", {"concentration": 0.09, "unit": "M"}}],
-        "pH": "missing",
+        "pH": 1.05,
         "volume": {"quantity": 0.0008, "unit": "liter"}
     },   
     
@@ -384,7 +384,7 @@
        
         "solutes": [
             {"identity": "HNO3", {"concentration": 0.13, "unit": "M"}}],
-        "pH": "missing",
+        "pH": 0.89,
         "volume": {"quantity": 0.0008, "unit": "liter"}
     },   
     
