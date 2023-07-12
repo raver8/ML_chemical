@@ -11,7 +11,7 @@
         "solutes": [
             {"identity": "HNO3", "concentration": {"quantity": 0.03, "unit": "M"}}
         ],
-        "pH": "missing",
+        "pH": 1.52,
         "volume": {"quantity": 800, "unit": "μL"}
     },
     "reaction conditions": {
@@ -24,7 +24,7 @@
 
     "observations": {
         "third phase": false,
-        "comment": "First L7 in figure 3 for Eu (III) and Am (III) in the Boubals et al. article."},
+        "comment": "First L7 in figure 3 for Eu (III) and Am (III) in the Boubals et al. article, pH calculated based on nitric acid concentration."},
     "provenance": {
          "doi": "10.1039/b104181a",
         "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"
@@ -51,7 +51,7 @@
         "solutes": [
             {"identity": "HNO3", "concentration": {"quantity": 0.05, "unit": "M"}}
             ],
-        "pH": "missing",
+        "pH": 1.30,
         "volume": {"quantity": 800, "unit": "μL"}
         },
     "reaction conditions": {
@@ -64,7 +64,7 @@
     
      "observations": {
         "third phase": false,
-        "comment": "Second L7 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article."},
+        "comment": "Second L7 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article, pH calculated based on nitric acid concentration."},
      "provenance": {
         "doi": "10.1039/b104181a",
         "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"
@@ -90,7 +90,7 @@
         "solutes": [
             {"identity": "HNO3", "concentration": {"quantity": 0.10, "unit": "M"}}
                 ],
-        "pH": "missing",
+        "pH": 1.0,
         "volume": {"quantity": 800, "unit": "μL"}
             },
     "reaction conditions": {
@@ -103,7 +103,7 @@
         
     "observations": {
         "third phase": false,
-        "comment": "Third L7 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article."},
+        "comment": "Third L7 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article, pH calculated based on nitric acid concentration."},
     "provenance": {
         "doi": "10.1039/b104181a",
         "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"
@@ -129,7 +129,7 @@
             "solutes": [
                 {"identity": "HNO3", "concentration": {"quantity": 0.03, "unit": "M"}}
                     ],
-            "pH": "missing",
+            "pH": 1.52,
             "volume": {"quantity": 800, "unit": "μL"}
                 },
         "reaction conditions": {
@@ -142,7 +142,7 @@
             
         "observations": {
             "third phase": false,
-            "comment": "First L8 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article."},
+            "comment": "First L8 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article, pH calculated based on nitric acid concentration."},
         "provenance": {
             "doi": "10.1039/b104181a",
             "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"
@@ -168,7 +168,7 @@
         "solutes": [
             {"identity": "HNO3", "concentration": {"quantity": 0.06, "unit": "M"}}
                         ],
-        "pH": "missing",
+        "pH": 1.22,
         "volume": {"quantity": 800, "unit": "μL"}
                     },
     "reaction conditions": {
@@ -181,7 +181,7 @@
                 
     "observations": {
         "third phase": false,
-        "comment": "Second L8 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article."},
+        "comment": "Second L8 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article, pH calculated based on nitric acid concentration."},
     "provenance": {
         "doi": "10.1039/b104181a",
         "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"
@@ -208,7 +208,7 @@
             "solutes": [
                 {"identity": "HNO3", "concentration": {"quantity": 0.10, "unit": "M"}}
             ],
-            "pH": "missing",
+            "pH": 1,
             "volume": {"quantity": 800, "unit": "μL"}
         },
         "reaction conditions": {
@@ -221,7 +221,7 @@
     
         "observations": {
             "third phase": false,
-            "comment": "Third L8 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article."},
+            "comment": "Third L8 points in figure 3 for Eu (III) and Am (III) in the Boubals et al. article, pH calculated based on nitric acid concentration."},
         "provenance": {
              "doi": "10.1039/b104181a",
             "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"
