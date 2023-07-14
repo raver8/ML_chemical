@@ -285,26 +285,6 @@
 
 
 {
-"names": ["a-Hydroxyisobutyric acid, 2-HYDROXYISOBUTYRIC ACID", "594-61-6", "2-Methyllactic Acid", "2-Hydroxy-2-Methylpropanoic Acid", "Acetonic Acid", "Alpha-Hydroxyisobutyric Acid", "2-Hydroxy-2-Methylpropionic Acid", "Hydroxydimethylacetic Acid"], 
-"pure substance": true,
-"CAS": "594-61-6",
-"SMILES": "CC(C)(C(=O)O)O",
-"InChIKey": "BWLBGMIXKSTLSX-UHFFFAOYSA-N", 
-"InChI": "InChI=1S/C4H8O3/c1-4(2,7)3(5)6/h7H,1-2H3,(H,5,6)",
-"PubchemCID": 11671,  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/11671"
-    },
-{
-"names": ["Glycine", "2-Aminoacetic Acid", "56-40-6", "Aminoacetic Acid", "Glycocoll", "Aminoethanoic Acid", "Glycolixir", "H-Gly-OH"],
-"pure substance": false,
-"CAS":"56-40-6",
-"SMILES": "C(C(=O)O)N",  
-"InChIKey": "DHMQDGOQFOQNFH-UHFFFAOYSA-N",  
-"InChI": "InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)",  
-"PubchemCID": 750,  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/750"
-    },
-{
 "names": ["1-Octanol","Octan-1-Ol", "Octanol", "111-87-5", "N-Octanol", "Octyl Alcohol", "Caprylic Alcohol", "Capryl"],
 "pure substance": true,
 "CAS": "111-87-5",
