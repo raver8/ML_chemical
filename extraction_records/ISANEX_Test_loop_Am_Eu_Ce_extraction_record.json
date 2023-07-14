@@ -6,8 +6,8 @@
 
     "solvents": [
         {"identity": "dodecane", "volfraction": 0.95},
-        "identity": "1-octanol", "volfraction": 0.05}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"},
+        "identity": "1-octanol", "volfraction": 0.05},
+    "volume": {"quantity": 1.0, "unit": "milliliter"}],
 
     "aqueous phase": {
         "holdback agents": [
