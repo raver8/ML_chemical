@@ -535,9 +535,9 @@
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/24268"
 },
 {
-"names": ["2,2'-Oxybis(N,N-dioctylacetamide)", "342794-43-8", "Acetamide", "2,2'-oxybis[N,N-dioctyl-2-[2-(dioctylamino)-2-oxoethoxy]-N,N-dioctylacetamide", "MFCD23135286"],
+"names": ["2,2'-Oxybis(N,N-dioctylacetamide)", "342794-43-8", "Acetamide, 2,2'-oxybis[N,N-dioctyl-2-[2-(dioctylamino)-2-oxoethoxy]-N,N-dioctylacetamide", "MFCD23135286", "N,N,N’,N’-tetraoctyl-diglycolamide", "TODGA", "2,2'-Oxybis(N,N-dioctylacetamide)", "Acetamide,2,2'-oxybis[N,N-dioctyl-", "2-[2-(dioctylamino)-2-oxoethoxy]-N,N-dioctylacetamide"],
 "pure substance": true,
-"CAS": "112724-95-5",
+"CAS": "342794-43-8",
 "SMILES": "CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC",
 "InChIKey": "VRZYWIAVUGQHKB-UHFFFAOYSA-N",
 "InChI": "InChI=1S/C36H72N2O3/c1-5-9-13-17-21-25-29-37(30-26-22-18-14-10-6-2)35(39)33-41-34-36(40)38(31-27-23-19-15-11-7-3)32-28-24-20-16-12-8-4/h5-34H2,1-4H3",
@@ -796,16 +796,7 @@
     "URL": "missing"
 },
 
-{
-    "names": ["N,N,N',N'Tetra (2Ethylhexyl) Diglycolamide","TEHDGA","Tetra-bis(2-ethylhexyl)- diglycolamide" ],
-    "pure substance": true,
-    "CAS": "669087-46-1",
-    "InChIKey": "VPFLXOBLAVYUSW-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C36H72N2O3/c1-9-17-21-29(13-5)25-35(33(37)39,26-30(14-6)22-18-10-2)41-36(34(38)40,27-31(15-7)23-19-11-3)28-32(16-8)24-20-12-4/h29-32H,9-28H2,1-8H3,(H2,37,39)(H2,38,40)",
-    "SMILES": "O=C(COCC(N(CC(CC)CCCC)CC(CC)CCCC)=O)N(CC(CC)CCCC)CC(CC)CCCC",
-    "PubchemCID": "missing",
-    "URL": "missing"
-},
+
 
 {
     "names": ["Bis(2-ethylhexyl) hydrogen phosphate","298-07-7", "BIS(2-ETHYLHEXYL) PHOSPHATE","Hdehp", "Di(2-ethylhexyl) phosphate"
@@ -831,23 +822,7 @@
     "URL": "missing"
 },
 
-    {
-        "names": [
-               "Dicyclohexano-18-crown-6",
-               "16069-36-6",
-               "Dicyclohexyl-18-crown-6",
-               "cis-Dicyclohexano-18-crown-6",
-               "Icosahydrodibenzo[b,k][1,4,7,10,13,16]hexaoxacyclooctadecine",
-               "2,5,8,15,18,21-hexaoxatricyclo[20.4.0.09,14]hexacosane"
-        ],
-        "pure substance": true,
-        "CAS": "16069-36-6",
-        "InChIKey": "BBGKDYHZQOSNMU-UHFFFAOYSA-N",
-        "InChI": "InChI=1S/C20H36O6/c1-2-6-18-17(5-1)23-13-9-21-11-15-25-19-7-3-4-8-20(19)26-16-12-22-10-14-24-18/h17-20H,1-16H2",
-        "SMILES": "C1CCC2C(C1)OCCOCCOC3CCCCC3OCCOCCO2",
-        "PubchemCID": "85955",
-        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/85955"
- },
+
 
 
  {
@@ -1095,7 +1070,7 @@
 
 
 {
-       "names": ["18-Crown-6", "potassium acetate 18-Crown-6"],
+       "names": [ "potassium acetate 18-Crown-6"],
        "pure substance": false,
        "CAS": "missing",
        "InChIKey": "NMOKUKCMLBSZCA-UHFFFAOYSA-M",
@@ -1411,20 +1386,7 @@
     "PubchemCID": "356",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/356#section=Canonical-SMILES"
 },
-{
-    "names": [
-           "N,N,N',N' -tetrabutyl-3-oxa-diglycolamide",
-            "(TBDGA)",
-           "2,2'-oxybis(N,N-dibutylacetamide)"
-    ],
-    "pure substance": true,
-    "CAS": "MISSING",
-    "InChIKey": "MISSING",
-    "InChI": "MISSING",
-    "SMILES": "O(CC(=O)N(CCCC)CCCC)CC(=O)N(CCCC)CCCC",
-    "PubchemCID": "MISSING",
-    "URL": "MISSING"
-},
+
 
 {
     "names": [
@@ -1819,24 +1781,10 @@
 
 
 
+
     {
     "names": [
-           "DODECANE   ",
-           "n-Dodecane",
-           "112-40-3",
-           "Dihexyl"
-    ],
-    "pure substance": true,
-    "CAS": "112-40-3",
-    "InChIKey": "SNRUBQQJIBEYMU-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C12H26/c1-3-5-7-9-11-12-10-8-6-4-2/h3-12H2,1-2H3",
-    "SMILES": "CCCCCCCCCCCC",
-    "PubchemCID": "8182",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8182#section=Molecular-Formula"
-},
-    {
-    "names": [
-           "SODIUM HYDROXIDE   ",
+           "SODIUM HYDROXIDE",
            "Caustic soda",
            "1310-73-2",
            "Sodium hydrate"
@@ -1852,7 +1800,7 @@
     
     {
     "names": [
-           "Butylamine   ",
+           "Butylamine",
            "butan-1-amine",
            "N-BUTYLAMINE",
            "109-73-9"
@@ -1867,7 +1815,7 @@
 },
     {
        "names": [
-              "2-Bromooctane  ",
+              "2-Bromooctane",
               "557-35-7",
               " Octane, 2-bromo-",
               "2-Octyl bromide"
@@ -1883,7 +1831,7 @@
     
     {
     "names": [
-           "PHOSPHORUS TRIBROMIDE   ",
+           "PHOSPHORUS TRIBROMIDE",
            "7789-60-8",
            "Tribromophosphine",
            "Phosphorus(III) bromide"
@@ -1899,9 +1847,9 @@
     
     {
     "names": [
-           "toluene  ",
+           "toluene",
            "methylbenzene",
-           " toluol",
+           "toluol",
            "108-88-3"
     ],
     "pure substance": true,
@@ -1939,7 +1887,7 @@
 },
 {
     "names": [
-           "NITRIC ACID   ",
+           "NITRIC ACID",
            "7697-37-2",
            "Azotic acid",
            "Salpetersaeure"
@@ -1953,15 +1901,7 @@
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Nitric-Acid#section=Other-Identifiers"
 },
 
-{   "names": ["2-(2-Pyridyl)benzimidazole", "1137-68-4", "2-(pyridin-2-yl)-1H-benzo[d]imidazole" , "2-pyridin-2-yl-1H-benzimidazole "],
-    "pure substance": true,
-    "CAS": "1137-68-4",
-    "InChIKey": "YNFBMDWHEHETJW-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C12H9N3/c1-2-6-10-9(5-1)14-12(15-10)11-7-3-4-8-13-11/h1-8H,(H,14,15)",
-    "SMILES": "C1=CC=C2C(=C1)NC(=N2)C3=CC=CC=N3",
-    "PubchemCID": "70821",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70821"
-},
+
 {   "names": ["1-butanol" , "butanol" , "Butan-1-ol" , "n-butanol" , "Butyl alcohol"],
     "pure substance": true,
     "CAS": "71-36-3",
@@ -2042,7 +1982,8 @@
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/26541" 
 },
     {
-     "names": ["Dicyclohexano-18-crown-6", "DCH18C6", "16069-36-6", "Dicyclohexyl-18-crown-6", "cis-Dicyclohexano-18-crown-6"],
+     "names": ["Dicyclohexano-18-crown-6", "DCH18C6", "16069-36-6", "Dicyclohexyl-18-crown-6", "cis-Dicyclohexano-18-crown-6", "Icosahydrodibenzo[b,k][1,4,7,10,13,16]hexaoxacyclooctadecine",
+     "2,5,8,15,18,21-hexaoxatricyclo[20.4.0.09,14]hexacosane"],
     "pure substance": true,
     "CAS": "16069-36-6",
     "InChIKey": "BBGKDYHZQOSNMU-UHFFFAOYSA-N",
@@ -2081,16 +2022,7 @@
     "PubchemCID": "66808829",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/66808829"
     },
-    {
-    "names": ["N,N,N’,N’-tetraoctyl-diglycolamide", "TODGA", "2,2'-Oxybis(N,N-dioctylacetamide)", "342794-43-8", "Acetamide"],
-    "pure substance": true,
-    "CAS": "342794-43-8",
-    "InChIKey": "VRZYWIAVUGQHKB-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C36H72N2O3/c1-5-9-13-17-21-25-29-37(30-26-22-18-14-10-6-2)35(39)33-41-34-36(40)38(31-27-23-19-15-11-7-3)32-28-24-20-16-12-8-4/h5-34H2,1-4H3",
-    "SMILES": "CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC",
-    "PubchemCID": "70700400",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70700400"
-    },
+    
     {
     "names": ["N,N'-dimethyl-N,N'-diphenyl-malonamide", "MA", "N,N'-dimethyl-N,N'-diphenylpropanediamide", "36949-57-2"],
     "pure substance": true,
@@ -2132,7 +2064,7 @@
     "URL": "https://opsin.ch.cam.ac.uk"
  },
  {
-    "names": ["2,2'-oxybis(N-methyl-N-phenylacetamide)", "N,N'-dimethyl-N,N'-diphenyl-3-oxapentanediamide", "150369-70-3", "2,2'-Oxybis(N-methyl-N-phenylacetamide)", "DTXSID50680492"],
+    "names": ["2,2'-oxybis(N-methyl-N-phenylacetamide)", "N,N'-dimethyl-N,N'-diphenyl-3-oxapentanediamide", "150369-70-3", "DTXSID50680492"],
     "pure substance": true,
     "CAS": "150369-70-3",
     "InChIKey": "HIELYQQIYOVIAZ-UHFFFAOYSA-N",
@@ -2142,7 +2074,7 @@
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/52558674"
 },
 {
-    "names": [" 2,2'-oxybis(N,N-dibutylacetamide)", "82846-38-6", "N,N-dibutyl-2-[2-(dibutylamino)-2-oxoethoxy]acetamide", "Acetamide", "2,2'-oxybis[N,N-dibutyl-"],
+    "names": [" 2,2'-oxybis(N,N-dibutylacetamide)", "82846-38-6", "N,N-dibutyl-2-[2-(dibutylamino)-2-oxoethoxy]acetamide", "Acetamide,2,2'-oxybis[N,N-dibutyl-"],
     "pure substance": true,
     "CAS": "82846-38-6",
     "InChIKey": "YFMTUEQOIRXZOE-UHFFFAOYSA-N",
@@ -2161,18 +2093,9 @@
     "PubchemCID": "85786941",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/85786941"
 },
+
 {
-    "names": ["2,2'-Oxybis(N,N-dioctylacetamide)", "342794-43-8", "Acetamide", "2,2'-oxybis[N,N-dioctyl-", "2-[2-(dioctylamino)-2-oxoethoxy]-N,N-dioctylacetamide"],
-    "pure substance": true,
-    "CAS": "342794-43-8",
-    "InChIKey": "VRZYWIAVUGQHKB-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C36H72N2O3/c1-5-9-13-17-21-25-29-37(30-26-22-18-14-10-6-2)35(39)33-41-34-36(40)38(31-27-23-19-15-11-7-3)32-28-24-20-16-12-8-4/h5-34H2,1-4H3",
-    "SMILES": "CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC",
-    "PubchemCID": "70700400",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70700400"
-},
-{
-    "names": ["850718-54-6", "2,2'-Oxybis(N,N-didodecylacetamide", "2-[2-(didodecylamino)-2-oxoethoxy]-N,N-didodecylacetamide", "2,2'-oxybis[N,N-didodecylacetamide", "Acetamide"],
+    "names": ["850718-54-6", "2,2'-Oxybis(N,N-didodecylacetamide", "2-[2-(didodecylamino)-2-oxoethoxy]-N,N-didodecylacetamide", "2,2'-oxybis[N,N-didodecylacetamide"],
     "pure substance": true,
     "CAS": "850718-54-6",
     "InChIKey": "RENCWBGDPNGEFY-UHFFFAOYSA-N",
@@ -2192,7 +2115,7 @@
     "URL": "https://opsin.ch.cam.ac.uk"
 },
 {
-    "names": ["2,2'-oxybis(N,N-bis(2-ethylhexyl)acetamide)", "669087-46-1" , "Acetamide", "2,2'-oxybis[N,N-bis(2-ethylhexyl)-",  "2-[2-[bis(2-ethylhexyl)amino]-2-oxoethoxy]-N,N-bis(2-ethylhexyl)acetamide"],
+    "names": ["2,2'-oxybis(N,N-bis(2-ethylhexyl)acetamide)", "669087-46-1" , "Acetamide,2,2'-oxybis[N,N-bis(2-ethylhexyl)-",  "2-[2-[bis(2-ethylhexyl)amino]-2-oxoethoxy]-N,N-bis(2-ethylhexyl)acetamide", "N,N,N',N'Tetra (2Ethylhexyl) Diglycolamide","TEHDGA","Tetra-bis(2-ethylhexyl)- diglycolamide" ],
     "pure substance": true,
     "CAS": "669087-46-1",
     "InChIKey": "MJJHOBMBUANRML-UHFFFAOYSA-N",
@@ -2202,7 +2125,7 @@
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/20752250"
 },
 {
-    "names": [ "N,N-dioctyl-1,10-phenanthroline-2-carboxamide, N,N-dioctyl1,10-phenanthroline-2-carboxamide"],
+    "names": [ "N,N-dioctyl-1,10-phenanthroline-2-carboxamide", "N,N-dioctyl1,10-phenanthroline-2-carboxamide"],
     "pure substance":true,
     "CAS": "missing",
     "InChIKey": "missing", 
@@ -2212,7 +2135,7 @@
     "URL":"missing"
 },
 {
-    "names": ["N-octyl-N-phenyl-1,10-phenanthroline-2-carboxamide, N-octyl-N-phenyl1,10-phenanthroline-2-carboxamide"],
+    "names": ["N-octyl-N-phenyl-1,10-phenanthroline-2-carboxamide", "N-octyl-N-phenyl1,10-phenanthroline-2-carboxamide"],
     "pure substance":true,
     "CAS": "missing",
     "InChIKey":"missing", 
@@ -2222,7 +2145,7 @@
     "URL":"missing"
 },
 {
-    "names": ["N-(4-methylphenyl)-N-octyl-1,10-phenanthroline-2-carboxamide, N-(4-methylphenyl)-N-octyl1,10-phenanthroline-2-carboxamide"],
+    "names": ["N-(4-methylphenyl)-N-octyl-1,10-phenanthroline-2-carboxamide", "N-(4-methylphenyl)-N-octyl1,10-phenanthroline-2-carboxamide"],
     "pure substance":true,
     "CAS": "missing",
     "InChIKey": "missing", 
@@ -2232,7 +2155,7 @@
     "URL":"missing"
 },
 {
-    "names": ["N-(2-ethylhexyl)-N-(4-methylphenyl)-1,10-phenanthroline-2-carboxamide, N-(2-ethylhexyl)-N-(4-methylphenyl)1,10-phenanthroline-2-carboxamide"],
+    "names": ["N-(2-ethylhexyl)-N-(4-methylphenyl)-1,10-phenanthroline-2-carboxamide", "N-(2-ethylhexyl)-N-(4-methylphenyl)1,10-phenanthroline-2-carboxamide"],
     "pure substance":true,
     "CAS": "missing",
     "InChIKey": "missing", 
@@ -2242,7 +2165,7 @@
     "URL":"missing"
 },
 {
-    "names": ["2-N,9-N-bis(4-methylphenyl)-2-N,9-N-dioctyl-1,10-phenanthroline-2,9-dicarboxamide, 2-N,9-N-di(4-methylphenyl)-2-N,9-N-dioctyl-1,10-phenanthroline-2,9-dicarboxamide"],
+    "names": ["2-N,9-N-bis(4-methylphenyl)-2-N,9-N-dioctyl-1,10-phenanthroline-2,9-dicarboxamide", "2-N,9-N-di(4-methylphenyl)-2-N,9-N-dioctyl-1,10-phenanthroline-2,9-dicarboxamide"],
     "pure substance":true,
     "CAS": "missing",
     "InChIKey": "missing", 
@@ -2252,7 +2175,7 @@
     "URL":"missing"
 },
 {
-    "names": ["N-(3,5-dimethylphenyl)-N-octyl-1,10-phenanthroline-2-carboxamide, N-(3,5-dimethylphenyl)-N-octyl1,10-phenanthroline-2-carboxamide"],
+    "names": ["N-(3,5-dimethylphenyl)-N-octyl-1,10-phenanthroline-2-carboxamide", "N-(3,5-dimethylphenyl)-N-octyl1,10-phenanthroline-2-carboxamide"],
     "pure substance":true,
     "CAS": "missing",
     "InChIKey": "missiing", 
@@ -2272,7 +2195,7 @@
     "URL":"missing"
 },
 {
-    "names": ["N-(3,4,5-trimethylphenyl)-1,10-phenanthroline-2-carboxamide, N-(3,4,5-trimethylphenyl)1,10-phenanthroline-2-carboxamide"],
+    "names": ["N-(3,4,5-trimethylphenyl)-1,10-phenanthroline-2-carboxamide", "N-(3,4,5-trimethylphenyl)1,10-phenanthroline-2-carboxamide"],
     "pure substance":true,
     "CAS": "missing",
     "InChIKey": "missing", 
