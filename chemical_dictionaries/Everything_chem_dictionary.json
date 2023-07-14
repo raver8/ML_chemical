@@ -2311,16 +2311,7 @@
     "PubchemCID": "missing",
     "URL":"missing" 
 },
-{
-    "names": ["tetraethyl (1,10-phenanthrolin-2,9-diyl)phosphonate"],
-    "pure substance":true,
-    "CAS": "missing",
-    "InChIKey":"missing", 
-    "InChI": "missing",
-    "SMILES": "O=C(N(C1=CC=C(C)C=C1)CC)C2=NC(C(N=C(C(N(C3=CC=C(C)C=C3)CC)=O)C=C4)=C4C=C5)=C5C=C2",
-    "PubchemCID": "missing",
-    "URL":"missing"
-},
+
 {
     "names": ["Bis-2,6-(5,6,7,8-tetrahydro-5,9,9-trimethyl-5,8-methano-1,2,4-benzotriazin- 3-yl)pyridine", "CA-BTP"],
     "pure substance":true,
