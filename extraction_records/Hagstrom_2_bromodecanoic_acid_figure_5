@@ -27,7 +27,7 @@
         },
     "metals":[
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 48.114, "quantification method":"gamma"},
-       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": , "quantification method":"gamma"}
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.570 , "quantification method":"gamma"}
     ]
 ,
     "observations": {
@@ -72,7 +72,7 @@
         },
     "metals":[
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 9.923, "quantification method":"gamma"},
-       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": , "quantification method":"gamma"}
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.064, "quantification method":"gamma"}
     ]
 ,
     "observations": {
@@ -116,7 +116,7 @@
         },
     "metals":[
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.9475, "quantification method":"gamma"},
-       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": , "quantification method":"gamma"}
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.1185 , "quantification method":"gamma"}
     ]
 ,
     "observations": {
@@ -161,7 +161,7 @@
         },
     "metals":[
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.2984, "quantification method":"gamma"},
-       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": , "quantification method":"gamma"}
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0403, "quantification method":"gamma"}
     ]
 ,
     "observations": {
@@ -206,7 +206,7 @@
         },
     "metals":[
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.1055, "quantification method":"gamma"},
-       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": , "quantification method":"gamma"}
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0127, "quantification method":"gamma"}
     ]
 ,
     "observations": {
@@ -251,7 +251,7 @@
         },
     "metals":[
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0507, "quantification method":"gamma"},
-       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": , "quantification method":"gamma"}
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00588, "quantification method":"gamma"}
     ]
 ,
     "observations": {
@@ -295,7 +295,7 @@
         },
     "metals":[
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0235, "quantification method":"gamma"},
-       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": , "quantification method":"gamma"}
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00283, "quantification method":"gamma"}
     ]
 ,
     "observations": {
