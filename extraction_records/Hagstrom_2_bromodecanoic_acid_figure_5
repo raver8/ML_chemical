@@ -41,7 +41,7 @@
         "username": "caitlinr77",	
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University"	
+        "organization": "Fordham University"}	
 
 [
 {
@@ -310,3 +310,269 @@
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
         "organization": "Fordham University"}
+
+
+[
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "2,4,6-tri-(2-pyridyl)-1,3,5-triazine , "quantity": 0.1 , "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
+,
+],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.0256, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 44.548, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 4.254 , "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "2,4,6-tri-(2-pyridyl)-1,3,5-triazine , "quantity": 0.1 , "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
+,
+],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.0287, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 21.434, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.210 , "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "2,4,6-tri-(2-pyridyl)-1,3,5-triazine , "quantity": 0.1 , "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
+,
+],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.0469, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.157, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.4559 , "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "2,4,6-tri-(2-pyridyl)-1,3,5-triazine , "quantity": 0.1 , "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
+,
+],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.0505, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 3.0078, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.2985 , "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "2,4,6-tri-(2-pyridyl)-1,3,5-triazine , "quantity": 0.1 , "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
+,
+],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.0925, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.512, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0569 , "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "2,4,6-tri-(2-pyridyl)-1,3,5-triazine , "quantity": 0.1 , "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
+,
+],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.0925, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.4738, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0489 , "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
