@@ -1,0 +1,42 @@
+[
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+],
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.02971, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 26.793, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 3.352, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"	
