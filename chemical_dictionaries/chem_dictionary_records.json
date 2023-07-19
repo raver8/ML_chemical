@@ -581,8 +581,7 @@
 "InChI": "InChI=1S/C13H11N3/c1-9-5-4-8-12(14-9)13-15-10-6-2-3-7-11(10)16-13/h2-8H,1H3,(H,15,16)", 
 "pubchemCID": "96733",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/96733"
-}
-]
+},
 
 
 {"names": ["2-thenoyltrifluoroacetone", "326-91-0", "4,4,4-trifluoro-1-thiophen-2-ylbutane-1,3-dione", "Thenoyltrifluoroacetone", "Trifluorothienylacetone", "TTFA cpd", "1,3-Butanedione, 4,4,4-trifluoro-1-(2-thienyl)-"],
@@ -592,7 +591,7 @@
 "InChIKey": "TXBBUSUXYMIVOS-UHFFFAOYSA-N", 
 "InChI": "InChI=1S/C8H5F3O2S/c9-8(10,11)7(13)4-5(12)6-2-1-3-14-6/h1-3H,4H2",
 "PubchemCID": "5601",  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5601"}
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5601"},
 
 
 {"names": ["2-Bromodecanoic acid", "2623-95-2", "Decanoic acid, 2-bromo-", "2-Bromocapric acid", "2-bromo-decanoic acid"],
@@ -602,7 +601,7 @@
 "InChIKey": "KNLOTZNPRIFUAR-UHFFFAOYSA-N", 
 "InChI": "InChI=1S/C10H19BrO2/c1-2-3-4-5-6-7-8-9(11)10(12)13/h9H,2-8H2,1H3,(H,12,13)",
 "PubchemCID": "98310",  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/98310"}
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/98310"},
 
 
 
@@ -613,7 +612,7 @@
 "InChIKey": "KUPKEWFKAPZRSE-UHFFFAOYSA-N", 
 "InChI": "InChI=1S/C39H75NO3P2/c1-5-9-13-17-21-25-32-44(42,33-26-22-18-14-10-6-2)36-38-30-29-31-39(40(38)41)37-45(43,34-27-23-19-15-11-7-3)35-28-24-20-16-12-8-4/h29-31H,5-28,32-37H2,1-4H3",
 "PubchemCID": "101123153",  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/101123153"}
+"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/101123153"},
 
 
 
@@ -625,7 +624,7 @@
     "SMILES": "O=C(CC(N(CCCC)CCCC)=O)N(CCCC)CCCC",
     "PubchemCID": "3494509",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3494509"
-}
+},
 
 
 {"names": ["N1,N1,N3,N3-tetrahexylmalonamide"],
@@ -635,7 +634,7 @@
 "InChIKey": "NJIIDYSZCQGUKI-UHFFFAOYSA-N", 
 "InChI": "InChI=1S/C27H54N2O2/c1-5-9-13-17-21-28(22-18-14-10-6-2)26(30)25-27(31)29(23-19-15-11-7-3)24-20-16-12-8-4/h5-25H2,1-4H3",
 "PubchemCID": "missing",  
-"URL": "missing"}
+"URL": "missing"},
 
 
 {"names": [" N1,N1,N3,N3-tetraoctylmalonamide", "N,N,N',N'-tetraoctylpropanediamide", "419568-17-5","N~1~,N~1~,N~3~,N~3~-Tetraoctylpropanediamide",
@@ -647,7 +646,7 @@
     "InChI": "InChI=1S/C35H70N2O2/c1-5-9-13-17-21-25-29-36(30-26-22-18-14-10-6-2)34(38)33-35(39)37(31-27-23-19-15-11-7-3)32-28-24-20-16-12-8-4/h5-33H2,1-4H3",
     "SMILES": "O=C(CC(N(CCCCCCCC)CCCCCCCC)=O)N(CCCCCCCC)CCCCCCCC",
     "PubchemCID": "71361897",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/71361897"}
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/71361897"},
 
 
 
@@ -658,7 +657,7 @@
 "InChIKey": "TYNJUWGQVWVVPE-UHFFFAOYSA-N", 
 "InChI": "InChI=1S/C17H10N2O2/c1-5-7-9-11-13-18(3)16(20)15-17(21)19(4)14-12-10-8-6-2/h1-2H,15H2,3-4H3",
 "PubchemCID": "missing",  
-"URL": "missing"}
+"URL": "missing"},
 
 
 {"names": ["N1,N3-dihexyl-N1,N3-dimethylmalonamide"],
@@ -668,7 +667,7 @@
 "InChIKey": "JNQPKASLXOHIRC-UHFFFAOYSA-N", 
 "InChI": "InChI=1S/C17H34N2O2/c1-5-7-9-11-13-18(3)16(20)15-17(21)19(4)14-12-10-8-6-2/h5-15H2,1-4H3",
 "PubchemCID": "missing",  
-"URL": "missing"}
+"URL": "missing"},
 
 
 {"names": ["N1,N3-dimethyl-N1,N3-dioctylmalonamide"],
@@ -678,7 +677,7 @@
 "InChIKey": "UBGCCBQQNSSDHM-UHFFFAOYSA-N", 
 "InChI": "InChI=1S/C21H42N2O2/c1-5-7-9-11-13-15-17-22(3)20(24)19-21(25)23(4)18-16-14-12-10-8-6-2/h5-19H2,1-4H3",
 "PubchemCID": "missing",  
-"URL": "missing"}
+"URL": "missing"},
 
 
 {"names": ["2-hexyl-N1,N3-dimethyl-N1,N3-dioctylmalonamide"],
@@ -688,7 +687,7 @@
 "InChIKey": "BKLYPTAJJXPCPT-UHFFFAOYSA-N", 
 "InChI": "InChI=1S/C27H54N2O2/c1-6-9-12-15-17-20-23-28(4)26(30)25(22-19-14-11-8-3)27(31)29(5)24-21-18-16-13-10-7-2/h25H,6-24H2,1-5H3",
 "PubchemCID": "missing",  
-"URL": "missing"}
+"URL": "missing"},
 
 {
     "names": [
@@ -706,7 +705,7 @@
     "SMILES": "CN(CCCCCCCC)C(C(CCOCCCCCC)C(N(CCCCCCCC)C)=O)=O",
     "PubchemCID": "13906811",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/13906811"
-}
+},
 
 
 {
@@ -718,7 +717,7 @@
     "SMILES": "CN(CCCCCCCCCCCC)C(COCC(N(CCCCCCCCCCCC)C)=O)=O",
     "PubchemCID": "missing",
     "URL": "missing"
-}
+},
 
 {
     "names": ["N,N′-diethyl-N,N′-didodecyldiglycolamide"],
@@ -729,7 +728,7 @@
     "SMILES": "O=C(COCC(N(CCCCCCCCCCCC)CC)=O)N(CCCCCCCCCCCC)CC",
     "PubchemCID": "missing",
     "URL": "missing"
-}
+},
 
 {
     "names": ["N,N′-dipropyl-N,N′-didodecyldiglycolamide"],
@@ -740,7 +739,7 @@
     "SMILES": "O=C(COCC(N(CCCCCCCCCCCC)CCC)=O)N(CCCCCCCCCCCC)CCC",
     "PubchemCID": "missing",
     "URL": "missing"
-}
+},
 
 {
     "names": ["N,N′-dibutyl- N,N′-didodecyldiglycolamide"],
@@ -751,18 +750,20 @@
     "SMILES": "O=C(COCC(N(CCCCCCCCCCCC)CCCC)=O)N(CCCCCCCCCCCC)CCCC",
     "PubchemCID": "missing",
     "URL": "missing"
-}
+},
 
 {
-    "names": [" N,N,N',N'-Tetrabutylmalonamide", "N,N,N',N'-tetrabutylpropanediamide", "N1,N1,N3,N3-Tetrabutylmalonamide", "N,N,N,N-Tetrabutylmalonamide"   "14287-98-0"],
+    "names": [" N,N,N',N'-Tetrabutylmalonamide", "N,N,N',N'-tetrabutylpropanediamide", "N1,N1,N3,N3-Tetrabutylmalonamide", "N,N,N,N-Tetrabutylmalonamide", "14287-98-0"],
     "pure substance": true,
     "CAS": "14287-98-0",
     "InChIKey": "QTVRIQFMPJRJAK-UHFFFAOYSA-N",
+
+    
     "InChI": "InChI=1S/C19H38N2O2/c1-5-9-13-20(14-10-6-2)18(22)17-19(23)21(15-11-7-3)16-12-8-4/h5-17H2,1-4H3    ",
     "SMILES": "CCCCN(CCCC)C(=O)CC(=O)N(CCCC)CCCC",
     "PubchemCID": "3494509",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3494509"
-}
+},
 
 {
     "names": ["N,N,N′,N′,N′′,N′′-hexabutylmethanetricarboxamide"],
@@ -773,7 +774,7 @@
     "SMILES": "CCCCN(CCCC)C(=O)C(C(=O)N(CCCC)CCCC)C(=O)N(CCCC)CCCC",
     "PubchemCID": "missing",
     "URL": "missing"
-}
+},
 
 {
     "names": ["N,N,N′,N′,N′′,N′′-hexabutylethane-1,1,2-tricarboxamide"],
@@ -784,7 +785,7 @@
     "SMILES": "CCCCN(CCCC)C(=O)CC(C(=O)N(CCCC)CCCC)C(=O)N(CCCC)CCCC",
     "PubchemCID": "missing",
     "URL": "missing"
-}
+},
 
 {
     "names": ["2,2′-(1,2-phenylenebis(methylene))bis(N,N,N′,N′- tetrabutylmalonamide)"],
@@ -795,7 +796,7 @@
     "SMILES": "CCCCN(CCCC)C(=O)C(CC1=CC=CC=C1CC(C(=O)N(CCCC)CCCC)C(=O)N(CCCC)CCCC)C(=O)N(CCCC)CCCC",
     "PubchemCID": "missing",
     "URL": "missing"
-}
+},
 
 {
     "names": ["N,N,N',N'Tetra (2Ethylhexyl) Diglycolamide","TEHDGA","Tetra-bis(2-ethylhexyl)- diglycolamide" ],
@@ -806,7 +807,7 @@
     "SMILES": "O=C(COCC(N(CC(CC)CCCC)CC(CC)CCCC)=O)N(CC(CC)CCCC)CC(CC)CCCC",
     "PubchemCID": "missing",
     "URL": "missing"
-}
+},
 
 {
     "names": ["Bis(2-ethylhexyl) hydrogen phosphate","298-07-7", "BIS(2-ETHYLHEXYL) PHOSPHATE","Hdehp", "Di(2-ethylhexyl) phosphate"
@@ -818,7 +819,7 @@
     "SMILES": "CCCCC(CC)COP(=O)(O)OCC(CC)CCCC",
     "PubchemCID": "9275",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/9275"
-}
+},
 
 
 {
@@ -830,7 +831,7 @@
     "SMILES": "O=P(C1=NC2=C3N=C(P(OCC)(OCC)=O)C=CC3=CC=C2C=C1)(OCC)OCC",
     "PubchemCID": "missing",
     "URL": "missing"
-}
+},
 
     {
         "names": [
@@ -848,7 +849,7 @@
         "SMILES": "C1CCC2C(C1)OCCOCCOC3CCCCC3OCCOCCO2",
         "PubchemCID": "85955",
         "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/85955"
- }
+ },
 
 
  {
@@ -861,7 +862,7 @@
     "SMILES": "CCCCP(C1=CC=CC=C1)(C2=CN=C(C(N=C(P(CCCC)(/C(C)=C/C=C)=O)C=C3)=C3C=C4)C4=C2)=O",
     "PubchemCID": "missing",
     "URL": "missing"
-}
+},
 
 {
     "names": [
@@ -873,7 +874,7 @@
     "SMILES": "O=P(CCCC)(C1=CC=CC=C1)C(C=C2)=NC3=C2C=CC4=CC=CN=C43",
     "PubchemCID": "MISSING",
     "URL": ""
-}
+},
 
 
 
@@ -888,7 +889,7 @@
     "SMILES": "CCCCCCN1C(C2=CC=CC=C2)=C(C3=CC=CC=C3)C4=CC5=C(C(N=C(C(N(CCCCCC)C(C6=CC=CC=C6)=C7C8=CC=CC=C8)=O)C7=C9)=C9C=C5)N=C4C1=O",
     "PubchemCID": "missing",
     "URL": "missing"
-}
+},
 
 
 
@@ -901,7 +902,7 @@
     "SMILES": "O=C(N(C1=CC=C(C)C=C1)CC)C(C=C2)=NC3=C2C=CC4=C3N=C(C(N(C5=CC=C(C)C=C5)CC)=O)C=C4",
     "PubchemCID": "missing",
     "URL": "missing"
-}
+},
 
 
 
@@ -914,7 +915,7 @@
     "SMILES": "O=C(N(CCCCC)CCCCC)COCC(N(CCCCC)CCCCC)=O",
     "PubchemCID": "102105691",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/102105691"
-}
+},
 
 
 {
@@ -926,7 +927,7 @@
        "SMILES": "O=C(COCC(N(C)CCCCCCCC)=O)N(CCCCCCCC)C",
        "PubchemCID": "87287946",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/87287946"
-}
+},
 
 
 
@@ -939,7 +940,7 @@
        "SMILES": "CCCCCCOP(=O)(O)OCCCCCC",
        "PubchemCID": "77505",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/77505#section=Molecular-Formula"
-}
+},
 
 
 
@@ -952,7 +953,7 @@
        "SMILES": "O=C(COCC(N(CCCCCCCCCC)CCCCCCCCCC)=O)N(CCCCCCCCCC)CCCCCCCCCC",
        "PubchemCID": "71346769",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/71346769#section=Molecular-Formula"
-}
+},
 
 
 
@@ -965,7 +966,7 @@
        "SMILES": "O=C(N(C1=CC(C)=CC(C)=C1)CC)C2=NC(C3=CC=CC(C(N(CC)C4=CC(C)=CC(C)=C4)=O)=N3)=CC=C2",
        "PubchemCID": "139173623",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/139173623#section=3D-Conformer"
-}
+},
 
 
 
@@ -978,7 +979,7 @@
        "SMILES": "O=C(N(C1=CC(C)=CC=C1C)CC)C2=NC(C3=CC=CC(C(N(CC)C4=CC(C)=CC=C4C)=O)=N3)=CC=C2",
        "PubchemCID": "139173618",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/139173618"
-}
+},
 
 {
        "names": ["N6,N6'-bis(2,4-dimethylphenyl)-N6,N6'-diethyl-[2,2'-bipyridine]-6,6'-dicarboxamide", "N-(2,5-dimethylphenyl)-6-[6-[(2,5-dimethylphenyl)-ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide"],
@@ -990,6 +991,10 @@
        "PubchemCID": "139173618",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/139173618"
 
+},
+
+
+
 {
        "names": ["N6,N6'-bis(3,4-dimethylphenyl)-N6,N6'-diethyl-[2,2'-bipyridine]-6,6'-dicarboxamide", "N-(3,4-dimethylphenyl)-6-[6-[(3,4-dimethylphenyl)-ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide"],
        "pure substance": false,
@@ -999,7 +1004,7 @@
        "SMILES": "O=C(N(C1=CC=C(C)C(C)=C1)CC)C2=NC(C3=CC=CC(C(N(C4=CC=C(C)C(C)=C4)CC)=O)=N3)=CC=C2",
        "PubchemCID": "missing",
        "URL": "missing"
-}
+},
 
 
 
@@ -1013,7 +1018,7 @@
        "SMILES": "N1=C(C=CC=C1)C1=NC=CC=C1",
        "PubchemCID": "1474",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1474#section=Molecular-Formula"
-}
+},
 
 
 
@@ -1026,7 +1031,7 @@
        "SMILES": "N1=CC=CC=C1",
        "PubchemCID": "1049",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1049#section=Molecular-Formula"
-}
+},
 
 
 
@@ -1039,7 +1044,7 @@
        "SMILES": "ClC1=CC(=NC2=C3N=C(C=C(C3=CC=C12)Cl)C(=O)N1CCCC1)C(=O)N1CCCC1",
        "PubchemCID": "166611244",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/166611244"
-}
+},
 
 
 
@@ -1052,7 +1057,7 @@
        "SMILES": "C(CCC)N(CCCC)CCCC",
        "PubchemCID": "7622",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/7622#section=Molecular-Formula"
-}
+},
 
 
 
@@ -1065,7 +1070,7 @@
        "SMILES": "C(CCCCCCC)P(CCCCCCCC)(CCCCCCCC)=O",
        "PubchemCID": "65577",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/65577#section=Molecular-Formula"
-}
+},
 
 
 
@@ -1078,7 +1083,7 @@
        "SMILES": "CCCCOP(=O)(OCCCC)OCCCC",
        "PubchemCID": "31357",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/31357"
-}
+},
 
 
 
@@ -1091,7 +1096,7 @@
        "SMILES": "CCCCOP(=O)(OCCCC)OCCCC",
        "PubchemCID": "31357",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/679#section=Molecular-Formula"
-}
+},
 
 
 
@@ -1104,7 +1109,7 @@
        "SMILES": "CC(=O)[O-].C1COCCOCCOCCOCCOCCO1.[K+]",
        "PubchemCID": "86740129",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/86740129"
-}
+},
 
 {
        "names": ["N,N'-dibutyl-N,N'-di(1-methylheptyl)-diglycolamide", "2,2’-oxybis(N-butyl-N-(heptan-2-yl)acetamide)"],
@@ -1115,3 +1120,5 @@
        "SMILES": "CCCCCC(N(C(COCC(N(C(CCCCC)C)CCCC)=O)=O)CCCC)C",
        "PubchemCID": "missing",
        "URL": "missing"
+}
+]
