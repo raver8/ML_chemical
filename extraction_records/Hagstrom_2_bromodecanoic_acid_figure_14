@@ -544,3 +544,752 @@
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
         "organization": "Fordham University"
+
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.11596, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0000132, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"	
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.1029, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0000176, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"	
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.20572, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0000209, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"	
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.49785, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00000835, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"	
+
+
+    "organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.3088, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00002214, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
+
+
+    "organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 1.0193, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00001399, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
+
+   "organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.4861, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00002785, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
+
+   "organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 2.0376, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00007385, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
+
+  "organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.94881, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00002785, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
+
+
+   "organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 2.986, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0003098, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
+
+"organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 1.8967, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00010418, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
+
+"organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 5.0503, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.002740, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
+
+"organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 2.8467, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.000519, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
+
+"organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 7.4011, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0054532, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
+
+"organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 4.9311, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.005149, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
+
+"organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 7.4011, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00863, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
+
+"organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 9.625, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.003072, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
+
+"organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 10.096, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.003446, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
+
+"organic phase": {
+        "extractants": [
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA), "quantity": 0.10, "unit": "M"},
+],
+
+         "solvents": [
+            {"identity": "tert-butyl benzene, "volfraction": "missing" , "unit": "M"},
+],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 11.377, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.002056, "quantification method":"gamma"},
+    ]
+,
+    "observations": {
+        "comment": ""
+},
+     "provenance": {
+	  "doi": "10.1080/07366299908934610",	
+    
+    "record creation": {
+        "time": "2023:3:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"
