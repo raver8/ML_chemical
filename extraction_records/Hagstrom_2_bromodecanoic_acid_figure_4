@@ -3,11 +3,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -28,10 +28,10 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 3.352, "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
-},
-     "provenance": {
+ "observations": {
+        "comment": "First pair of Am and Eu D values in TBB for figure 4 in Hagstrom et. al paper"
+},     
+"provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
     "record creation": {
@@ -46,11 +46,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -71,9 +71,9 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.342, "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
-},
+ "observations": {
+        "comment": "Second pair of Am and Eu D values in TBB for figure 4 in Hagstrom et. al paper"
+},     
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
@@ -87,11 +87,11 @@
 {"organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -112,9 +112,9 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.579, "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
-},
+ "observations": {
+        "comment": "Third pair of Am and Eu D values in TBB for figure 4 in Hagstrom et. al paper"
+},     
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
@@ -129,11 +129,11 @@
 {"organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -154,9 +154,9 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.2539, "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
-},
+ "observations": {
+        "comment": "Fourth pair of Am and Eu D values in TBB for figure 4 in Hagstrom et. al paper"
+},     
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
@@ -170,11 +170,11 @@
 {"organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -195,9 +195,9 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.1537, "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
-},
+ "observations": {
+        "comment": "Fifth pair of Am and Eu D values in TBB for figure 4 in Hagstrom et. al paper"
+},     
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
@@ -212,7 +212,7 @@
 {"organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
@@ -237,9 +237,9 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 3.234, "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
-},
+ "observations": {
+        "comment": "First pair of Am and Eu D values in TPH for figure 4 in Hagstrom et. al paper"
+},     
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
@@ -253,7 +253,7 @@
 {"organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
@@ -278,9 +278,9 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.186, "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
-},
+ "observations": {
+        "comment": "Second pair of Am and Eu D values in TPH for figure 4 in Hagstrom et. al paper"
+},     
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
@@ -295,7 +295,7 @@
 {"organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
@@ -320,9 +320,9 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.8284, "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
-},
+ "observations": {
+        "comment": "Third pair of Am and Eu D values in TPH for figure 4 in Hagstrom et. al paper"
+},     
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
@@ -336,7 +336,7 @@
 {"organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
@@ -361,9 +361,9 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.3382, "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
-},
+ "observations": {
+        "comment": "Fourth pair of Am and Eu D values in TPH for figure 4 in Hagstrom et. al paper"
+},     
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
@@ -377,7 +377,7 @@
 {"organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
@@ -402,9 +402,9 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.1712, "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
-},
+ "observations": {
+        "comment": "Fifth pair of Am and Eu D values in TPH for figure 4 in Hagstrom et. al paper"
+},     
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
@@ -418,7 +418,7 @@
 {"organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
@@ -443,9 +443,9 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.1483, "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
-},
+ "observations": {
+        "comment": "Sixth pair of Am and Eu D values in TPH for figure 4 in Hagstrom et. al paper"
+},     
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
