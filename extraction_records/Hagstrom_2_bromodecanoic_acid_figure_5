@@ -3,11 +3,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -31,7 +31,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "First pair of Am and Eu D values with terpyridine for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -48,11 +48,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -76,7 +76,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Second pair of Am and Eu D values with terpyridine for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -92,11 +92,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -120,7 +120,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Third pair of Am and Eu D values with terpyridine for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -137,11 +137,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -165,7 +165,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Fourth pair of Am and Eu D values with terpyridine for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -182,11 +182,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -210,7 +210,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Fifth pair of Am and Eu D values with terpyridine for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -227,11 +227,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -255,7 +255,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Sixth pair of Am and Eu D values with terpyridine for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -271,11 +271,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -299,7 +299,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Seventh pair of Am and Eu D values with terpyridine for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -321,7 +321,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -345,7 +345,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "First pair of Am and Eu D values with TPTZ for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -365,7 +365,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -389,7 +389,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Second pair of Am and Eu D values with TPTZ for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -409,7 +409,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -433,7 +433,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Third pair of Am and Eu D values with TPTZ for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -453,7 +453,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -477,7 +477,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Fourth pair of Am and Eu D values with TPTZ for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -497,7 +497,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -521,7 +521,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Fifth pair of Am and Eu D values with TPTZ for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -541,7 +541,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -565,7 +565,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Sixth pair of Am and Eu D values with TPTZ for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -585,7 +585,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -609,7 +609,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Seventh pair of Am and Eu D values with TPTZ for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -629,7 +629,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -653,7 +653,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Eighth pair of Am and Eu D values with TPTZ for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -674,7 +674,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
             {"identity": "hydrogenated tetrapropene, "volfraction": 1.0 , "unit": "M"},
 ,
 ],
@@ -698,7 +698,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Ninth pair of Am and Eu D values with TPTZ for figure 5 in Hagstrom et. al paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
