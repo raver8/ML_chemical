@@ -3,11 +3,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1 , "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -29,7 +29,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "First pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -46,11 +46,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -72,7 +72,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Second pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -89,11 +89,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -115,7 +115,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Third pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -132,11 +132,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -156,9 +156,8 @@
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 105.99, "quantification method":"gamma"},
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 35.38, "quantification method":"gamma"}
     ]
-,
     "observations": {
-        "comment": ""
+        "comment": "Fourth pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -174,11 +173,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -216,11 +215,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -258,11 +257,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -300,11 +299,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -342,11 +341,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -384,11 +383,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -426,11 +425,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -468,11 +467,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -509,11 +508,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -550,11 +549,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -591,11 +590,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -632,11 +631,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.1, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1, "unit": "M"},
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
