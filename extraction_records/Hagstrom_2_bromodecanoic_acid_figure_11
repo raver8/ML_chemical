@@ -3,7 +3,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.000497, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.000497, "unit": "M"},
 ],
 
          "solvents": [
@@ -30,7 +30,8 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "First pair of Am and Eu D values in figure 11 of Hagstrom et al. paper, 
+pH may be describing the buffer solution that extractant was in, but not actual solvent extraction pH"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -47,7 +48,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.000995, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.000995, "unit": "M"},
 ],
 
          "solvents": [
@@ -74,8 +75,9 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Second pair of Am and Eu D values in figure 11 of Hagstrom et al. paper"
 },
+
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
@@ -90,7 +92,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.002498, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.002498, "unit": "M"},
 ],
 
          "solvents": [
@@ -117,8 +119,9 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Third pair of Am and Eu D values in figure 11 of Hagstrom et al. paper"
 },
+
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
@@ -133,7 +136,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.004998, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.004998, "unit": "M"},
 ],
 
          "solvents": [
@@ -160,7 +163,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Fourth pair of Am and Eu D values in figure 11 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -177,7 +180,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpypyridine, "quantity": 0.01011, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.01011, "unit": "M"},
 ],
 
          "solvents": [
@@ -204,7 +207,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Fifth pair of Am and Eu D values in figure 11 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
