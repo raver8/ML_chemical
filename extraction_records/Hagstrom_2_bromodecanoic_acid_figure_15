@@ -7,7 +7,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene", "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene", "volfraction": 1.0 , "unit": "M"},
 ,
 ],
 
@@ -31,7 +31,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "First pair of Am and Eu D values using DMDCHTDMA in figure 15 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -52,7 +52,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene", "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene", "volfraction": 1.0 , "unit": "M"},
 ,
 ],
 
@@ -76,7 +76,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Second pair of Am and Eu D values using DMDCHTDMA in figure 15 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -96,7 +96,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene", "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene", "volfraction": 1.0 , "unit": "M"},
 ,
 ],
 
@@ -119,8 +119,8 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00331 , "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
+   "observations": {
+        "comment": "Third pair of Am and Eu D values using DMDCHTDMA in figure 15 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -140,7 +140,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene", "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene", "volfraction": 1.0 , "unit": "M"},
 ,
 ],
 
@@ -163,8 +163,8 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.01255 , "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
+   "observations": {
+        "comment": "Fourth pair of Am and Eu D values using DMDCHTDMA in figure 15 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -207,8 +207,8 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.04182 , "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
+   "observations": {
+        "comment": "Fifth pair of Am and Eu D values using DMDCHTDMA in figure 15 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -251,8 +251,8 @@
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.1278 , "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
+   "observations": {
+        "comment": "Sixth pair of Am and Eu D values using DMDCHTDMA in figure 15 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -294,9 +294,8 @@
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.8116, "quantification method":"gamma"},
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.2051 , "quantification method":"gamma"}
     ]
-,
-    "observations": {
-        "comment": ""
+,   "observations": {
+        "comment": "Seventh pair of Am and Eu D values using DMDCHTDMA in figure 15 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -339,8 +338,8 @@
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.5512 , "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
+   "observations": {
+        "comment": "Eighth pair of Am and Eu D values using DMDCHTDMA in figure 15 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -383,8 +382,8 @@
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.35936 , "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
+   "observations": {
+        "comment": "Ninth pair of Am and Eu D values using DMDCHTDMA in figure 15 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -427,9 +426,10 @@
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 3.4995 , "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
+   "observations": {
+        "comment": "Tenth pair of Am and Eu D values using DMDCHTDMA in figure 15 of Hagstrom et al. paper"
 },
+
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
@@ -472,9 +472,10 @@
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0000293 , "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
+   "observations": {
+        "comment": "First pair of Am and Eu D values with only 2-bromodecanoic acid in figure 15 of Hagstrom et al. paper"
 },
+
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
@@ -515,8 +516,8 @@
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.000286 , "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
+   "observations": {
+        "comment": "Second pair of Am and Eu D values with only 2-bromodecanoic acid in figure 15 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -558,9 +559,10 @@
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0005216 , "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
+   "observations": {
+        "comment": "Third pair of Am and Eu D values with only 2-bromodecanoic acid in figure 15 of Hagstrom et al. paper"
 },
+
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
     
@@ -602,7 +604,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Fourth pair of Am and Eu D values with only 2-bromodecanoic acid in figure 15 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -644,8 +646,8 @@
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00555 , "quantification method":"gamma"}
     ]
 ,
-    "observations": {
-        "comment": ""
+   "observations": {
+        "comment": "Fifth pair of Am and Eu D values with only 2-bromodecanoic acid in figure 15 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
