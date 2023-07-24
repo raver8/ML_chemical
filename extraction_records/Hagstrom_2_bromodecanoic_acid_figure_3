@@ -131,7 +131,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
