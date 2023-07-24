@@ -7,7 +7,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -29,7 +29,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "First pair of Am and Eu D values in Figure 16 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -50,7 +50,7 @@
 ],
 
          "solvents": [
-            {"identity": "tert-butyl benzene, "volfraction": 1.0 , "unit": "M"},
+            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
 ],
         "volume": {"quantity": 1.0, "unit": "milliliter"}
     },
@@ -72,7 +72,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Second pair of Am and Eu D values in Figure 16 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -115,7 +115,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Third pair of Am and Eu D values in Figure 16 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -155,8 +155,8 @@
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0829, "quantification method":"gamma"},
     ]
 ,
-    "observations": {
-        "comment": ""
+     "observations": {
+        "comment": "Fourth Am D value in Figure 16 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
@@ -198,7 +198,7 @@
     ]
 ,
     "observations": {
-        "comment": ""
+        "comment": "Fifth Am D value, and fourth Eu D value in Figure 16 of Hagstrom et al. paper"
 },
      "provenance": {
 	  "doi": "10.1080/07366299908934610",	
