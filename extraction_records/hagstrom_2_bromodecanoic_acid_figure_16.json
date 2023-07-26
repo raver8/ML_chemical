@@ -1,0 +1,204 @@
+[
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA)", "quantity": 0.01017, "unit": "M"}],
+
+         "solvents": [
+            {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.01, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.1143, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.06259, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "First pair of Am and Eu D values in Figure 16 of Hagstrom et al. paper"
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA)", "quantity": 0.02072, "unit": "M"}],
+
+"solvents": [
+    {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+"volume": {"quantity": "missing", "unit": "milliliter"}
+},
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.01, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.2218, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.1076, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Second pair of Am and Eu D values in Figure 16 of Hagstrom et al. paper"
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA)", "quantity": 0.1034, "unit": "M"}],
+
+
+"solvents": [
+    {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+"volume": {"quantity": "missing", "unit": "milliliter"}
+},
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.01, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.3891, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.13697, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Third pair of Am and Eu D values in Figure 16 of Hagstrom et al. paper"
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA)", "quantity": 0.41563, "unit": "M"}],
+
+
+"solvents": [
+    {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+"volume": {"quantity": "missing", "unit": "milliliter"}
+},
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.01, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0829, "quantification method":"gamma"}],
+     "observations": {
+        "comment": "Fourth Am D value in Figure 16 of Hagstrom et al. paper"
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA)", "quantity": 0.8334, "unit": "M"}],
+
+"solvents": [
+    {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+"volume": {"quantity": "missing", "unit": "milliliter"}
+},
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.01, "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0105, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00451, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Fifth Am D value, and fourth Eu D value in Figure 16 of Hagstrom et al. paper"
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	}]
