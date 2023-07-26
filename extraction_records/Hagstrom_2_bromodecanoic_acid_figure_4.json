@@ -3,13 +3,11 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
-],
+            {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
 
          "solvents": [
-            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
-],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
+            {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
     },
      "aqueous phase": {
     
@@ -32,28 +30,28 @@
         "comment": "First pair of Am and Eu D values in TBB for figure 4 in Hagstrom et. al paper"
 },     
 "provenance": {
-	  "doi": "10.1080/07366299908934610",	
-    
+    "doi": "10.1080/07366299908934610", 
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+  ,
     "record creation": {
-        "time": "2023:3:31:01:00:00:00+0",
+        "time": "2023:07:24:01:00:00:00+0",
         "username": "caitlinr77",	
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University"	
+        "organization": "Fordham University"	}},
 
-[
-{
-    "organic phase": {
-        "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
-],
 
-         "solvents": [
-            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
-],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+    {
+        "organic phase": {
+            "extractants": [
+                {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+    
+             "solvents": [
+                {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+            "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+
      "aqueous phase": {
     
         "solutes": [
@@ -74,27 +72,28 @@
  "observations": {
         "comment": "Second pair of Am and Eu D values in TBB for figure 4 in Hagstrom et. al paper"
 },     
-     "provenance": {
-	  "doi": "10.1080/07366299908934610",	
-    
+"provenance": {
+    "doi": "10.1080/07366299908934610", 
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+  ,
     "record creation": {
-        "time": "2023:3:31:01:00:00:00+0",
+        "time": "2023:07:24:01:00:00:00+0",
         "username": "caitlinr77",	
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University"	
+        "organization": "Fordham University" }},	
 
-{"organic phase": {
-        "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
-],
 
-         "solvents": [
-            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
-],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+     {   "organic phase": {
+            "extractants": [
+                {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+    
+             "solvents": [
+                {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+            "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+
      "aqueous phase": {
     
         "solutes": [
@@ -115,28 +114,28 @@
  "observations": {
         "comment": "Third pair of Am and Eu D values in TBB for figure 4 in Hagstrom et. al paper"
 },     
-     "provenance": {
-	  "doi": "10.1080/07366299908934610",	
-    
+"provenance": {
+    "doi": "10.1080/07366299908934610", 
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+  ,
     "record creation": {
-        "time": "2023:3:31:01:00:00:00+0",
+        "time": "2023:07:24:01:00:00:00+0",
         "username": "caitlinr77",	
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University"	
+        "organization": "Fordham University" }},
 
 
-{"organic phase": {
-        "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
-],
 
-         "solvents": [
-            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
-],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+    {   "organic phase": {
+            "extractants": [
+                {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+    
+             "solvents": [
+                {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+            "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
      "aqueous phase": {
     
         "solutes": [
@@ -156,28 +155,29 @@
 ,
  "observations": {
         "comment": "Fourth pair of Am and Eu D values in TBB for figure 4 in Hagstrom et. al paper"
-},     
-     "provenance": {
-	  "doi": "10.1080/07366299908934610",	
-    
+},    
+
+"provenance": {
+    "doi": "10.1080/07366299908934610", 
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+  ,
     "record creation": {
-        "time": "2023:3:31:01:00:00:00+0",
+        "time": "2023:07:24:01:00:00:00+0",
         "username": "caitlinr77",	
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University"	
+        "organization": "Fordham University" }},
 
-{"organic phase": {
-        "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
-],
 
-         "solvents": [
-            {"identity": "tert-butylbenzene, "volfraction": 1.0 , "unit": "M"},
-],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+   {   "organic phase": {
+            "extractants": [
+                {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+    
+             "solvents": [
+                {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+            "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
      "aqueous phase": {
     
         "solutes": [
@@ -198,28 +198,28 @@
  "observations": {
         "comment": "Fifth pair of Am and Eu D values in TBB for figure 4 in Hagstrom et. al paper"
 },     
-     "provenance": {
-	  "doi": "10.1080/07366299908934610",	
-    
+"provenance": {
+    "doi": "10.1080/07366299908934610", 
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+  ,
     "record creation": {
-        "time": "2023:3:31:01:00:00:00+0",
+        "time": "2023:07:24:01:00:00:00+0",
         "username": "caitlinr77",	
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University"	
+        "organization": "Fordham University" }},
 
 
-{"organic phase": {
-        "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
-],
 
-         "solvents": [
-            {"identity": "hydrogenated tetrapropene", "volfraction": 1.0 , "unit": "M"},
-],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+        {   "organic phase": {
+            "extractants": [
+                {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+    
+             "solvents": [
+                {"identity": "hydrogenated tetrapropene", "volfraction": "missing" , "unit": "M"}],
+            "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
      "aqueous phase": {
     
         "solutes": [
@@ -239,28 +239,31 @@
 ,
  "observations": {
         "comment": "First pair of Am and Eu D values in TPH for figure 4 in Hagstrom et. al paper"
-},     
-     "provenance": {
-	  "doi": "10.1080/07366299908934610",	
-    
+},    
+
+"provenance": {
+    "doi": "10.1080/07366299908934610", 
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+  ,
     "record creation": {
-        "time": "2023:3:31:01:00:00:00+0",
+        "time": "2023:07:24:01:00:00:00+0",
         "username": "caitlinr77",	
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University"	
+        "organization": "Fordham University" }},
 
-{"organic phase": {
-        "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
-],
 
-         "solvents": [
-            {"identity": "hydrogenated tetrapropene", "volfraction": 1.0 , "unit": "M"},
-],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+
+
+        {   "organic phase": {
+            "extractants": [
+                {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+    
+             "solvents": [
+                {"identity": "hydrogenated tetrapropene", "volfraction": "missing" , "unit": "M"}],
+            "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
      "aqueous phase": {
     
         "solutes": [
@@ -281,28 +284,28 @@
  "observations": {
         "comment": "Second pair of Am and Eu D values in TPH for figure 4 in Hagstrom et. al paper"
 },     
-     "provenance": {
-	  "doi": "10.1080/07366299908934610",	
-    
+"provenance": {
+    "doi": "10.1080/07366299908934610", 
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+  ,
     "record creation": {
-        "time": "2023:3:31:01:00:00:00+0",
+        "time": "2023:07:24:01:00:00:00+0",
         "username": "caitlinr77",	
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University"	
+        "organization": "Fordham University" }},
 
 
-{"organic phase": {
-        "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
-],
 
-         "solvents": [
-            {"identity": "hydrogenated tetrapropene", "volfraction": 1.0 , "unit": "M"},
-],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+        {   "organic phase": {
+            "extractants": [
+                {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+    
+             "solvents": [
+                {"identity": "hydrogenated tetrapropene", "volfraction": "missing" , "unit": "M"}],
+            "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
      "aqueous phase": {
     
         "solutes": [
@@ -323,27 +326,27 @@
  "observations": {
         "comment": "Third pair of Am and Eu D values in TPH for figure 4 in Hagstrom et. al paper"
 },     
-     "provenance": {
-	  "doi": "10.1080/07366299908934610",	
-    
+"provenance": {
+    "doi": "10.1080/07366299908934610", 
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+  ,
     "record creation": {
-        "time": "2023:3:31:01:00:00:00+0",
+        "time": "2023:07:24:01:00:00:00+0",
         "username": "caitlinr77",	
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University"	
+        "organization": "Fordham University" }},
 
-{"organic phase": {
-        "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
-],
 
-         "solvents": [
-            {"identity": "hydrogenated tetrapropene", "volfraction": 1.0 , "unit": "M"},
-],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+        {   "organic phase": {
+            "extractants": [
+                {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+    
+             "solvents": [
+                {"identity": "hydrogenated tetrapropene", "volfraction": "missing" , "unit": "M"}],
+            "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
      "aqueous phase": {
     
         "solutes": [
@@ -364,27 +367,27 @@
  "observations": {
         "comment": "Fourth pair of Am and Eu D values in TPH for figure 4 in Hagstrom et. al paper"
 },     
-     "provenance": {
-	  "doi": "10.1080/07366299908934610",	
-    
+"provenance": {
+    "doi": "10.1080/07366299908934610", 
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+  ,
     "record creation": {
-        "time": "2023:3:31:01:00:00:00+0",
+        "time": "2023:07:24:01:00:00:00+0",
         "username": "caitlinr77",	
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University"	
+        "organization": "Fordham University" }},
 
-{"organic phase": {
-        "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
-],
 
-         "solvents": [
-            {"identity": "hydrogenated tetrapropene", "volfraction": 1.0 , "unit": "M"},
-],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+        {   "organic phase": {
+            "extractants": [
+                {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+    
+             "solvents": [
+                {"identity": "hydrogenated tetrapropene", "volfraction": "missing" , "unit": "M"}],
+            "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
      "aqueous phase": {
     
         "solutes": [
@@ -405,27 +408,27 @@
  "observations": {
         "comment": "Fifth pair of Am and Eu D values in TPH for figure 4 in Hagstrom et. al paper"
 },     
-     "provenance": {
-	  "doi": "10.1080/07366299908934610",	
-    
+"provenance": {
+    "doi": "10.1080/07366299908934610", 
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+  ,
     "record creation": {
-        "time": "2023:3:31:01:00:00:00+0",
+        "time": "2023:07:24:01:00:00:00+0",
         "username": "caitlinr77",	
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University"	}
+        "organization": "Fordham University" }},
 
-{"organic phase": {
-        "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "2,2:6',2'' terpyridine, "quantity": 0.1 , "unit": "M"},
-],
 
-         "solvents": [
-            {"identity": "hydrogenated tetrapropene", "volfraction": 1.0 , "unit": "M"},
-],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+        {   "organic phase": {
+            "extractants": [
+                {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+    
+             "solvents": [
+                {"identity": "hydrogenated tetrapropene", "volfraction": "missing" , "unit": "M"}],
+            "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
      "aqueous phase": {
     
         "solutes": [
@@ -446,12 +449,14 @@
  "observations": {
         "comment": "Sixth pair of Am and Eu D values in TPH for figure 4 in Hagstrom et. al paper"
 },     
-     "provenance": {
-	  "doi": "10.1080/07366299908934610",	
-    
+"provenance": {
+    "doi": "10.1080/07366299908934610", 
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+  ,
     "record creation": {
-        "time": "2023:3:31:01:00:00:00+0",
+        "time": "2023:07:24:01:00:00:00+0",
         "username": "caitlinr77",	
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University"	
+        "organization": "Fordham University" }}
+    ]
