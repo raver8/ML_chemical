@@ -3,7 +3,7 @@
     "organic phase": {
         "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "4'-(4-Nitrophenyl)-2,2':6',2-terpyridine", "quantity": 0.02 , "unit": "M"}],
+            {"identity": "2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
 
          "solvents": [
             {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
@@ -42,7 +42,7 @@
                 "organic phase": {
                     "extractants": [
                         {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-                        {"identity": "4'-(4-Nitrophenyl)-2,2':6',2-terpyridine", "quantity": 0.02 , "unit": "M"}],
+                        {"identity": "2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
             
                      "solvents": [
                         {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
@@ -82,7 +82,7 @@
         "organic phase": {
             "extractants": [
             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-            {"identity": "4'-(4-Nitrophenyl)-2,2':6',2-terpyridine", "quantity": 0.02 , "unit": "M"}],
+            {"identity": "2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
                     
             "solvents": [
             {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
@@ -122,7 +122,7 @@
                 "organic phase": {
                     "extractants": [
                     {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-                    {"identity": "4'-(4-Nitrophenyl)-2,2':6',2-terpyridine", "quantity": 0.02 , "unit": "M"}],
+                    {"identity": "2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
                             
                     "solvents": [
                     {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
@@ -162,7 +162,7 @@
                         "organic phase": {
                             "extractants": [
                             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
-                            {"identity": "4'-(4-Nitrophenyl)-2,2':6',2-terpyridine", "quantity": 0.02 , "unit": "M"}],
+                            {"identity": "2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
                                     
                             "solvents": [
                             {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
