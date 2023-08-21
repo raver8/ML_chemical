@@ -1,0 +1,160 @@
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-alkyl-1,2,4-triazol-3-yl)pyridine","concentration": {"quantity": 0.0186, "unit": "M"}}],
+        
+        "solvents": [
+            {"identitiy": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5},
+            {"identitiy":"2-bromohexanoic acid", "volfraction": 0.5}
+        ],
+        "volume": {"quantity": "missing", "unit": "milliliters"}
+    },
+    "aqueous phase": {
+        "solutes": [
+            {"identitiy": "HNO3", {"concentration": 0.05, "unit": "M"},
+            {"identitiy": "NH4NO3", {"concentration": 1.0, "unit": "M"}},
+        }],
+        "pH": "missing",
+        "volume": {"quantity": "missing", "unit": "milliliters"}},
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": "missing", "unit": "minutes"}},
+
+        "metals":[
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0661, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 10.3, "quantification method": "gamma"}],
+           "observations": {
+               "third phase": "false",
+               "comment": "Point 1 on Kolarik et al 1999 figure 3, butyl is substituent for alkyl group"},
+               "provenance": {
+                   "doi": "10.1080/07360299908934598",
+                   "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
+            
+         "record creation" {
+            "time": "2023-08-16:10:34:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+         }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-alkyl-1,2,4-triazol-3-yl)pyridine","concentration": {"quantity": 0.045, "unit": "M"}}],
+        
+        "solvents": [
+            {"identitiy": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5},
+            {"identitiy":"2-bromohexanoic acid", "volfraction": 0.5}
+        ],
+        "volume": {"quantity": "missing", "unit": "milliliters"}
+    },
+    "aqueous phase": {
+        "solutes": [
+            {"identitiy": "HNO3", {"concentration": 0.05, "unit": "M"},
+            {"identitiy": "NH4NO3", {"concentration": 1.0, "unit": "M"}},
+        }],
+        "pH": "missing",
+        "volume": {"quantity": "missing", "unit": "milliliters"}},
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": "missing", "unit": "minutes"}},
+
+        "metals":[
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.218, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 35.4, "quantification method": "gamma"}],
+           "observations": {
+               "third phase": "false",
+               "comment": "Point 2 on Kolarik et al 1999 figure 3, butyl is substituent for alkyl group"},
+               "provenance": {
+                   "doi": "10.1080/07360299908934598",
+                   "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
+            
+         "record creation" {
+            "time": "2023-08-16:10:34:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+         }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-alkyl-1,2,4-triazol-3-yl)pyridine","concentration": {"quantity": 0.065, "unit": "M"}}],
+        
+        "solvents": [
+            {"identitiy": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5},
+            {"identitiy":"2-bromohexanoic acid", "volfraction": 0.5}
+        ],
+        "volume": {"quantity": "missing", "unit": "milliliters"}
+    },
+    "aqueous phase": {
+        "solutes": [
+            {"identitiy": "HNO3", {"concentration": 0.05, "unit": "M"},
+            {"identitiy": "NH4NO3", {"concentration": 1.0, "unit": "M"}},
+        }],
+        "pH": "missing",
+        "volume": {"quantity": "missing", "unit": "milliliters"}},
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": "missing", "unit": "minutes"}},
+
+        "metals":[
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.365, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 59.1, "quantification method": "gamma"}],
+           "observations": {
+               "third phase": "false",
+               "comment": "Point 3 on Kolarik et al 1999 figure 3, butyl is substituent for alkyl group"},
+               "provenance": {
+                   "doi": "10.1080/07360299908934598",
+                   "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
+            
+         "record creation" {
+            "time": "2023-08-16:10:34:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+         }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-alkyl-1,2,4-triazol-3-yl)pyridine","concentration": {"quantity": 0.0852, "unit": "M"}}],
+        
+        "solvents": [
+            {"identitiy": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5},
+            {"identitiy":"2-bromohexanoic acid", "volfraction": 0.5}
+        ],
+        "volume": {"quantity": "missing", "unit": "milliliters"}
+    },
+    "aqueous phase": {
+        "solutes": [
+            {"identitiy": "HNO3", {"concentration": 0.05, "unit": "M"},
+            {"identitiy": "NH4NO3", {"concentration": 1.0, "unit": "M"}},
+        }],
+        "pH": "missing",
+        "volume": {"quantity": "missing", "unit": "milliliters"}},
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": "missing", "unit": "minutes"}},
+
+        "metals":[
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.513, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 83, "quantification method": "gamma"}],
+           "observations": {
+               "third phase": "false",
+               "comment": "Point 4 on Kolarik et al 1999 figure 3, butyl is substituent for alkyl group"},
+               "provenance": {
+                   "doi": "10.1080/07360299908934598",
+                   "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
+            
+         "record creation" {
+            "time": "2023-08-16:10:34:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+         }
+},

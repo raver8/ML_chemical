@@ -1,0 +1,119 @@
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}]},
+        
+        "solvents": [
+                {"identitiy": "xylene", "volfraction": 0.7},
+                {"identitiy":"1-butanol", "vol fraction": 0.3}
+        ],
+        "volume": {"quantity": "missing", "unit": "milliliters"}
+    ,
+    "aqueous phase": {
+        "solutes": [
+            {"identitiy": "HNO3", {"concentration": "missing", "unit": "M"},
+        }],
+        "pH": "2.41",
+        "volume": {"quantity": "missing", "unit": "milliliters"}},
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": "missing", "unit": "minutes"}},
+
+        "metals":[
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0382, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.658, "quantification method": "gamma"}],
+           "observations": {
+               "third phase": "false",
+               "comment": "Point 1 on Kolarik et al 1999 figure 2"},
+               "provenance": {
+                   "doi": "10.1080/07360299908934598",
+                   "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
+            
+         "record creation" {
+            "time": "2023-08-17:14:00:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+         }
+}
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}]},
+        
+        "solvents": [
+                {"identitiy": "xylene", "volfraction": 0.7},
+                {"identitiy":"1-butanol", "vol fraction": 0.3}
+        ],
+        "volume": {"quantity": "missing", "unit": "milliliters"}
+    ,
+    "aqueous phase": {
+        "solutes": [
+            {"identitiy": "HNO3", {"concentration": "missing", "unit": "M"},
+        }],
+        "pH": "2.51",
+        "volume": {"quantity": "missing", "unit": "milliliters"}},
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": "missing", "unit": "minutes"}},
+
+        "metals":[
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0784, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.39, "quantification method": "gamma"}],
+           "observations": {
+               "third phase": "false",
+               "comment": "Point 2 on Kolarik et al 1999 figure 2"},
+               "provenance": {
+                   "doi": "10.1080/07360299908934598",
+                   "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
+            
+         "record creation" {
+            "time": "2023-08-17:14:00:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+         }
+}
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}]},
+        
+        "solvents": [
+                {"identitiy": "xylene", "volfraction": 0.7},
+                {"identitiy":"1-butanol", "vol fraction": 0.3}
+        ],
+        "volume": {"quantity": "missing", "unit": "milliliters"}
+    ,
+    "aqueous phase": {
+        "solutes": [
+            {"identitiy": "HNO3", {"concentration": "missing", "unit": "M"},
+        }],
+        "pH": "2.66",
+        "volume": {"quantity": "missing", "unit": "milliliters"}},
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": "missing", "unit": "minutes"}},
+
+        "metals":[
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.159, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.65, "quantification method": "gamma"}],
+           "observations": {
+               "third phase": "false",
+               "comment": "Point 3 on Kolarik et al 1999 figure 2"},
+               "provenance": {
+                   "doi": "10.1080/07360299908934598",
+                   "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
+            
+         "record creation" {
+            "time": "2023-08-17:14:20:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+         }
+}
+
+
