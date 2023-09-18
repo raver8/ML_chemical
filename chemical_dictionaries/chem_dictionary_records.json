@@ -243,15 +243,6 @@
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8182"
 },
 {
-"names": ["NaNO3", "NNaO3", "sodium nitrate", "7631-99-4", "Chile saltpeter", "Nitratine", "cubic niter", "Soda nite"],
-"pure substance": true, 
-"CAS": "7631-99-4",
-"InChiKey": "VWDWKYIASSYTQR-UHFFFAOYSA-N",
-"InChI": "InChI=1S/NO3.Na/c2-1(3)4;/q-1;+1",
-"PubchemCID": "24268",
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/24268"
-},
-{
 "names": ["dehiba", "N,N-bis(2-ethylhexyl)-2-methylpropanamide", "112724-95-5", "Propanamide", "N,N-bis(2-ethylhexyl)-2-methyl-", "N,N-Di(2-ethylhexyl)isobutyramide", "N,N-Bis(2-ethylhexyl)isobutyramide", "SCHEMBL2028287", "DTXSID40336370", "AKOS037645934", "AS-64866", "D94104"], 
 "pure substance": true,
 "CAS": "112724-95-5",
@@ -529,7 +520,8 @@
 "names": ["NaNO3", "NNaO3", "sodium nitrate", "7631-99-4", "Chile saltpeter", "Nitratine", "cubic niter", "Soda nite"],
 "pure substance": true, 
 "CAS": "7631-99-4",
-"InChiKey": "VWDWKYIASSYTQR-UHFFFAOYSA-N",
+"SMILES":"O=[N+]([O-])[O-].[Na+]",
+"InChIKey": "VWDWKYIASSYTQR-UHFFFAOYSA-N",
 "InChI": "InChI=1S/NO3.Na/c2-1(3)4;/q-1;+1",
 "PubchemCID": "24268",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/24268"
