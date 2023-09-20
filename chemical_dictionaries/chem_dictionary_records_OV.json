@@ -33,7 +33,7 @@
     "pure substance": true,
     "CAS": "17455-13-9",
     "InChIKey": "XEZNGIUYQVAUSS-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C12H24O6/c1-2-14-5-6-16-9-10-18-12-11-17-8-7-15-4-3-13-1/h1-12H2",
+    "InChI": "InChI=1S/C11H7N7/c1-2-8(9-3-6-13-17-15-9)11(12-5-1)10-4-7-14-18-16-10/h1-7H",
     "SMILES": "C1COCCOCCOCCOCCOCCO1",
     "PubchemCID": "28557",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/28557"
@@ -44,7 +44,7 @@
     "CAS": "missing",
     "InChIKey": "XKYZSRCYRUIYJS-UHFFFAOYSA-N",
     "InChI": "InChI=1S/C11H7N7/c1-2-8(9-3-6-13-17-15-9)11(12-5-1)10-4-7-14-18-16-10/h1-7H",
-    "SMILES": "1=CC(=C(N=C1)C2=NN=NC=C2)C3=NN=NC=C3",
+    "SMILES": "c1([H])c([H])nc(-c2c([H])c([H])nnn2)c(-c2c([H])c([H])nnn2)c1[H]",
     "PubchemCID": "66808829",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/66808829"
     },
