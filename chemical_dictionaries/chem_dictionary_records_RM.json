@@ -22,7 +22,7 @@
     "CAS": "144-55-8",
     "InChIKey": "UIIMBOGNXHQVGW-UHFFFAOYSA-M",
     "InChI": "InChI=1S/CH2O3.Na/c2-1(3)4;/h(H2,2,3,4);/q;+1/p-1",
-    "SMILES": "UIIMBOGNXHQVGW-UHFFFAOYSA-M",
+    "SMILES": "O=C([O-])O[H].[Na+]",
     "PubchemCID": "516892",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-Bicarbonate#section=InChI"
 },
