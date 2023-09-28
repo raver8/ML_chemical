@@ -246,7 +246,7 @@
 "names": ["NaNO3", "NNaO3", "sodium nitrate", "7631-99-4", "Chile saltpeter", "Nitratine", "cubic niter", "Soda nite"],
 "pure substance": true, 
 "CAS": "7631-99-4",
-"InChiKey": "VWDWKYIASSYTQR-UHFFFAOYSA-N",
+"InChIKey": "VWDWKYIASSYTQR-UHFFFAOYSA-N",
 "InChI": "InChI=1S/NO3.Na/c2-1(3)4;/q-1;+1",
 "PubchemCID": "24268",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/24268"
