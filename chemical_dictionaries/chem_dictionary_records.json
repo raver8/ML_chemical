@@ -436,9 +436,9 @@
 "names": ["AMMONIUM NITRATE", "6484-52-2", "Norway Saltpeter", "Ammonium Nitricum","Ammonium Saltpeter", "Nitrate Of Ammonia", "Nitric Acid Ammonium Salt", "Azanium Nitrate"], 
 "pure substance": true,
 "CAS": "6484-52-2",
-"SMILES": "[NH4+].[N+](=O)([O-])[O-]",
+"SMILES": "[O=[N+]([O-])[O-].[N+]([H])([H])([H])[H]",
 "InChIKey": "DVARTQFDIMZBAA-UHFFFAOYSA-O" ,
-"InChI": "InChI=1S/NO3.H3N/c2-1(3)4,/h,1H3/q-1,/p+1",
+"InChI": "InChI=1S/NO3.H3N/c2-1(3)4;/h;1H3/q-1;/p+1",
 "PubchemCID": "22985",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/22985"
 	},
