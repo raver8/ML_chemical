@@ -247,6 +247,7 @@
 "pure substance": true, 
 "CAS": "7631-99-4",
 "InChIKey": "VWDWKYIASSYTQR-UHFFFAOYSA-N",
+"SMILES":"O=[N+]([O-])[O-].[Na+]",
 "InChI": "InChI=1/NO3.Na/c2-1(3)4;/q-1;+1",
 "PubchemCID": "24268",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/24268"
