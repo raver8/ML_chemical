@@ -182,18 +182,18 @@
     "names": ["N-octyl-N-phenyl-1,10-phenanthroline-2-carboxamide, N-octyl-N-phenyl1,10-phenanthroline-2-carboxamide"],
     "pure substance":true,
     "CAS": "missing",
-    "InChIKey":"missing", 
-    "InChI": "missing",
+    "InChIKey":"WXNGCLBDJACUQG-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/C27H29N3O/c1-2-3-4-5-6-10-20-30(23-13-8-7-9-14-23)27(31)24-18-17-22-16-15-21-12-11-19-28-25(21)26(22)29-24/h7-9,11-19H,2-6,10,20H2,1H3",
     "SMILES": "O=C(N(C1=CC=CC=C1)CCCCCCCC)C2=NC(C(N=CC=C3)=C3C=C4)=C4C=C2",
-    "PubchemCID": "missing",
-    "URL":"missing"
+    "PubchemCID": "102164738 ",
+    "URL":"https://pubchem.ncbi.nlm.nih.gov/substance/275267345"
 },
 {
     "names": ["N-(4-methylphenyl)-N-octyl-1,10-phenanthroline-2-carboxamide, N-(4-methylphenyl)-N-octyl1,10-phenanthroline-2-carboxamide"],
     "pure substance":true,
     "CAS": "missing",
-    "InChIKey": "missing", 
-    "InChI": "missing",
+    "InChIKey": "JYLNZNBPKFXHCN-UHFFFAOYSA-N", 
+    "InChI": "InChI=1S/C28H31N3O/c1-3-4-5-6-7-8-20-31(24-16-11-21(2)12-17-24)28(32)25-18-15-23-14-13-22-10-9-19-29-26(22)27(23)30-25/h9-19H,3-8,20H2,1-2H3",
     "SMILES": "O=C(N(C1=CC=C(C)C=C1)CCCCCCCC)C2=NC(C(N=CC=C3)=C3C=C4)=C4C=C2",
     "PubchemCID": "missing",
     "URL":"missing"
