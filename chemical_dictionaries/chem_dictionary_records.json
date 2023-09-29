@@ -747,18 +747,6 @@
     "URL": "missing"
 },
 
-{
-    "names": [" N,N,N',N'-Tetrabutylmalonamide", "N,N,N',N'-tetrabutylpropanediamide", "N1,N1,N3,N3-Tetrabutylmalonamide", "N,N,N,N-Tetrabutylmalonamide", "14287-98-0"],
-    "pure substance": true,
-    "CAS": "14287-98-0",
-    "InChIKey": "QTVRIQFMPJRJAK-UHFFFAOYSA-N",
-
-    
-    "InChI": "InChI=1S/C19H38N2O2/c1-5-9-13-20(14-10-6-2)18(22)17-19(23)21(15-11-7-3)16-12-8-4/h5-17H2,1-4H3    ",
-    "SMILES": "CCCCN(CCCC)C(=O)CC(=O)N(CCCC)CCCC",
-    "PubchemCID": "3494509",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3494509"
-},
 
 {
     "names": ["N,N,N′,N′,N′′,N′′-hexabutylmethanetricarboxamide"],
