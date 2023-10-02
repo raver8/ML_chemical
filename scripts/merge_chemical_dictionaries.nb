@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     40239,        887]
-NotebookOptionsPosition[     37596,        834]
-NotebookOutlinePosition[     37989,        850]
-CellTagsIndexPosition[     37946,        847]
+NotebookDataLength[     32451,        708]
+NotebookOptionsPosition[     30160,        662]
+NotebookOutlinePosition[     30552,        678]
+CellTagsIndexPosition[     30509,        675]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -43,7 +43,7 @@ Cell[BoxData[{
     "dictionaryFiles"}]}], ";"}]}], "Input",
  CellChangeTimes->{{3.903769541880354*^9, 3.903769588375108*^9}, {
   3.9037699188670263`*^9, 3.903769936325851*^9}},
- CellLabel->"In[1]:=",ExpressionUUID->"db7113a8-effc-40c0-af70-fa30b71f7276"],
+ CellLabel->"In[21]:=",ExpressionUUID->"db7113a8-effc-40c0-af70-fa30b71f7276"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -52,8 +52,8 @@ Cell[BoxData[
    ",", "\<\"../chemical_dictionaries/chem_dictionary_records_RM.json\"\>"}], 
   "}"}]], "Output",
  CellChangeTimes->{3.9037695895376463`*^9, 3.903769937213243*^9, 
-  3.90492277229662*^9},
- CellLabel->"Out[2]=",ExpressionUUID->"ebde673c-7f23-47af-85a3-4581a4560807"]
+  3.90492277229662*^9, 3.9052698862078037`*^9},
+ CellLabel->"Out[22]=",ExpressionUUID->"21b07ebc-278c-4670-bd22-693e663dbefd"]
 }, Open  ]],
 
 Cell["\<\
@@ -69,12 +69,12 @@ Cell[BoxData[
  RowBox[{
   RowBox[{"Length", "/@", "data"}], "//", "Total"}]], "Input",
  CellChangeTimes->{{3.9037745253959827`*^9, 3.903774535776394*^9}},
- CellLabel->"In[4]:=",ExpressionUUID->"e429c4d5-65bf-4ad2-b5e0-14471adbc965"],
+ CellLabel->"In[24]:=",ExpressionUUID->"e429c4d5-65bf-4ad2-b5e0-14471adbc965"],
 
-Cell[BoxData["199"], "Output",
+Cell[BoxData["198"], "Output",
  CellChangeTimes->{{3.903774532216555*^9, 3.903774535949027*^9}, 
-   3.904922772437641*^9},
- CellLabel->"Out[4]=",ExpressionUUID->"c8085925-9a8d-48c5-ae23-a32029641b25"]
+   3.904922772437641*^9, 3.9052698881954823`*^9},
+ CellLabel->"Out[24]=",ExpressionUUID->"bea086a9-6ad0-4558-b0cc-597d8cb481fe"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -133,14 +133,15 @@ Cell[BoxData[{
    "]"}]}]}], "Input",
  CellChangeTimes->{{3.903773899297908*^9, 3.903773900280764*^9}, 
    3.903774573180787*^9},
- CellLabel->"In[5]:=",ExpressionUUID->"84bba290-fb89-4efc-b0f1-6ddcc7684a09"],
+ CellLabel->"In[25]:=",ExpressionUUID->"84bba290-fb89-4efc-b0f1-6ddcc7684a09"],
 
 Cell[CellGroupData[{
 
-Cell["Every InChI or SMILES identifiers is valid", "Subsection",
+Cell["Every pure substance has a valid InChI or SMILES identifiers", \
+"Subsection",
  CellChangeTimes->{{3.9037708692237463`*^9, 3.903770877221579*^9}, {
-  3.9037709973132353`*^9, 
-  3.903770998477841*^9}},ExpressionUUID->"28762df5-e4b4-4f72-99ad-\
+  3.9037709973132353`*^9, 3.903770998477841*^9}, {3.9052699147097807`*^9, 
+  3.90526992902134*^9}},ExpressionUUID->"28762df5-e4b4-4f72-99ad-\
 c524ac3638b0"],
 
 Cell[CellGroupData[{
@@ -220,460 +221,76 @@ Cell[BoxData[{
    3.903774050027562*^9, 3.903774084496619*^9}, 3.903774119370734*^9, {
    3.903774165550043*^9, 3.903774196127981*^9}, {3.9037743730532427`*^9, 
    3.903774440105673*^9}, {3.9037745954757233`*^9, 3.903774630344418*^9}},
- CellLabel->"In[8]:=",ExpressionUUID->"5ab76055-3318-401c-8e6a-03891cd63381"],
+ CellLabel->"In[28]:=",ExpressionUUID->"5ab76055-3318-401c-8e6a-03891cd63381"],
 
 Cell[BoxData[
  RowBox[{"\[LeftAssociation]", 
   RowBox[{
    RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records.json\"\>", 
     "\[Rule]", 
-    RowBox[{"{", 
-     RowBox[{
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validSMILESQ[<|names -> {NaNO3, NNaO3, sodium nitrate, \
-7631-99-4, Chile saltpeter, Nitratine, cubic niter, Soda nite}, pure \
-substance -> True, CAS -> 7631-99-4, InChIKey -> VWDWKYIASSYTQR-UHFFFAOYSA-N, \
-InChI -> InChI=1/NO3.Na/c2-1(3)4;/q-1;+1, PubchemCID -> 24268, URL -> \
-https://pubchem.ncbi.nlm.nih.gov/compound/24268|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validSMILESQ[<|names -> {AMMONIUM NITRATE, 6484-52-2, Norway \
-Saltpeter, Ammonium Nitricum, Ammonium Saltpeter, Nitrate Of Ammonia, Nitric \
-Acid Ammonium Salt, Azanium Nitrate}, pure substance -> True, CAS -> \
-6484-52-2, SMILES -> [O=[N+]([O-])[O-].[N+]([H])([H])([H])[H], InChIKey -> \
-DVARTQFDIMZBAA-UHFFFAOYSA-O, InChI -> \
-InChI=1S/NO3.H3N/c2-1(3)4;/h;1H3/q-1;/p+1, PubchemCID -> 22985, URL -> \
-https://pubchem.ncbi.nlm.nih.gov/compound/22985|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validSMILESQ[<|names -> {NaNO3, NNaO3, sodium nitrate, \
-7631-99-4, Chile saltpeter, Nitratine, cubic niter, Soda nite}, pure \
-substance -> True, CAS -> 7631-99-4, InChiKey -> VWDWKYIASSYTQR-UHFFFAOYSA-N, \
-InChI -> InChI=1/NO3.Na/c2-1(3)4;/q-1;+1, PubchemCID -> 24268, URL -> \
-https://pubchem.ncbi.nlm.nih.gov/compound/24268|>]\"\>", "]"}]}], "}"}]}], 
-   ",", 
+    RowBox[{"{", "}"}]}], ",", 
    RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records_OV.json\"\>",
      "\[Rule]", 
     RowBox[{"{", "}"}]}], ",", 
    RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records_RM.json\"\>",
      "\[Rule]", 
-    RowBox[{"{", 
-     RowBox[{
-     "TestObject", 
-      "[", "\<\"validSMILESQ[<|names -> {Pyr-BPyDA, \
-[2,2'-bipyridine]-6,6'-diylbis(pyrrolidin-1-ylmethanone)}, pure substance -> \
-True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-MISSING, PubchemCID -> MISSING, URL -> MISSING|>]\"\>", "]"}], "}"}]}]}], 
-  "\[RightAssociation]"}]], "Output",
+    RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]], "Output",
  CellChangeTimes->{{3.90377229778087*^9, 3.903772308094358*^9}, {
    3.903772852117309*^9, 3.903772874049094*^9}, {3.903772936425709*^9, 
    3.90377298125014*^9}, 3.90377316747997*^9, 3.903774125294924*^9, 
    3.903774166850526*^9, 3.90377421491084*^9, 3.903774409597981*^9, 
-   3.90377444055267*^9, 3.9037746309255342`*^9, 3.9049227730981407`*^9},
- CellLabel->"Out[15]=",ExpressionUUID->"2b3d4a88-9133-49d9-8b27-971bdceb23c5"],
+   3.90377444055267*^9, 3.9037746309255342`*^9, 3.9049227730981407`*^9, 
+   3.9052698938927097`*^9},
+ CellLabel->"Out[35]=",ExpressionUUID->"82a9b79b-a8f4-44c7-8fbd-f11fec218d3d"],
 
 Cell[BoxData[
  RowBox[{"\[LeftAssociation]", 
   RowBox[{
    RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records.json\"\>", 
     "\[Rule]", 
-    RowBox[{"{", 
-     RowBox[{
-     "TestObject", 
-      "[", "\<\"validInChIQ[<|names -> { N,N,N',N'-Tetrabutylmalonamide, \
-N,N,N',N'-tetrabutylpropanediamide, N1,N1,N3,N3-Tetrabutylmalonamide, \
-N,N,N,N-Tetrabutylmalonamide, 14287-98-0}, pure substance -> True, CAS -> \
-14287-98-0, InChIKey -> QTVRIQFMPJRJAK-UHFFFAOYSA-N, InChI -> \
-InChI=1S/C19H38N2O2/c1-5-9-13-20(14-10-6-2)18(22)17-19(23)21(15-11-7-3)16-12-\
-8-4/h5-17H2,1-4H3    , SMILES -> CCCCN(CCCC)C(=O)CC(=O)N(CCCC)CCCC, \
-PubchemCID -> 3494509, URL -> \
-https://pubchem.ncbi.nlm.nih.gov/compound/3494509|>]\"\>", "]"}], "}"}]}], 
-   ",", 
+    RowBox[{"{", "}"}]}], ",", 
    RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records_OV.json\"\>",
      "\[Rule]", 
-    RowBox[{"{", 
-     RowBox[{
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> \
-{N-(2-ethylhexyl)-N-(4-methylphenyl)-1,10-phenanthroline-2-carboxamide, \
-N-(2-ethylhexyl)-N-(4-methylphenyl)1,10-phenanthroline-2-carboxamide}, pure \
-substance -> True, CAS -> missing, InChIKey -> missing, InChI -> missing, \
-SMILES -> O=C(N(CC(CC)CCCC)C1=CC=C(C)C=C1)C2=NC(C(N=CC=C3)=C3C=C4)=C4C=C2, \
-PubchemCID -> missing, URL -> missing|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> \
-{2-N,9-N-bis(4-methylphenyl)-2-N,9-N-dioctyl-1,10-phenanthroline-2,9-\
-dicarboxamide, \
-2-N,9-N-di(4-methylphenyl)-2-N,9-N-dioctyl-1,10-phenanthroline-2,9-\
-dicarboxamide}, pure substance -> True, CAS -> missing, InChIKey -> missing, \
-InChI -> missing, SMILES -> \
-O=C(N(C1=CC=C(C)C=C1)CCCCCCCC)C2=NC(C(N=C(C(N(C3=CC=C(C)C=C3)CCCCCCCC)=O)C=C4)\
-=C4C=C5)=C5C=C2, PubchemCID -> missing, URL -> missing|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> \
-{N-(3,5-dimethylphenyl)-N-octyl-1,10-phenanthroline-2-carboxamide, \
-N-(3,5-dimethylphenyl)-N-octyl1,10-phenanthroline-2-carboxamide}, pure \
-substance -> True, CAS -> missing, InChIKey -> missiing, InChI -> missing, \
-SMILES -> O=C(N(C1=CC(C)=CC(C)=C1)CCCCCCCC)C2=NC(C(N=CC=C3)=C3C=C4)=C4C=C2, \
-PubchemCID -> missing, URL -> missing|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> \
-{2-N,9-N-bis(3,5-dimethylphenyl)-2-N,9-N-dioctyl-1,10-phenanthroline-2,9-\
-dicarboxamide}, pure substance -> True, CAS -> missing, InChIKey -> missing, \
-InChI -> missing, SMILES -> \
-O=C(N(C1=CC(C)=CC(C)=C1)CCCCCCCC)C2=NC(C(N=C(C(N(C3=CC(C)=CC(C)=C3)CCCCCCCC)=\
-O)C=C4)=C4C=C5)=C5C=C2, PubchemCID -> missing, URL -> missing|>]\"\>", "]"}], 
-      ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> \
-{N-(3,4,5-trimethylphenyl)-1,10-phenanthroline-2-carboxamide, \
-N-(3,4,5-trimethylphenyl)1,10-phenanthroline-2-carboxamide}, pure substance \
--> True, CAS -> missing, InChIKey -> missing, InChI -> missing, SMILES -> \
-O=C(NC1=CC(C)=C(C)C(C)=C1)C2=NC(C(N=CC=C3)=C3C=C4)=C4C=C2, PubchemCID -> \
-missing, URL -> missing|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> \
-{nBu-2,9-bis(5-alkyl-1H-pyrazol-3-yl)-1,10-phenanthroline}, pure substance -> \
-True, CAS -> missing, InChIKey -> missing, InChI -> missing, SMILES -> \
-CCCCC1=CC(C(C=C2)=NC3=C2C=CC4=C3N=C(C5=NNC(CCCC)=C5)C=C4)=NN1, PubchemCID -> \
-missing, URL -> missing|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> \
-{iBu-2,9-bis(5-alkyl-1H-pyrazol-3-yl)-1,10-phenanthroline}, pure substance -> \
-True, CAS -> missing, InChIKey -> missing, InChI -> missing, SMILES -> \
-CC(C)CC1=CC(C(C=C2)=NC3=C2C=CC4=C3N=C(C5=NNC(CC(C)C)=C5)C=C4)=NN1, PubchemCID \
--> missing, URL -> missing|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> \
-{nOct-2,9-bis(5-alkyl-1H-pyrazol-3-yl)-1,10-phenanthroline}, pure substance \
--> True, CAS -> missing, InChIKey -> missing, InChI -> missing, SMILES -> \
-CCCCCCCCC1=CC(C(C=C2)=NC3=C2C=CC4=C3N=C(C5=NNC(CCCCCCCC)=C5)C=C4)=NN1, \
-PubchemCID -> missing, URL -> missing|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {tetraethyl \
-(1,10-phenanthrolin-2,9-diyl)phosphonate}, pure substance -> True, CAS -> \
-missing, InChIKey -> missing, InChI -> missing, SMILES -> \
-O=C(N(C1=CC=C(C)C=C1)CC)C2=NC(C(N=C(C(N(C3=CC=C(C)C=C3)CC)=O)C=C4)=C4C=C5)=\
-C5C=C2, PubchemCID -> missing, URL -> missing|>]\"\>", "]"}]}], "}"}]}], ",", 
-   
+    RowBox[{"{", "}"}]}], ",", 
    RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records_RM.json\"\>",
      "\[Rule]", 
-    RowBox[{"{", 
-     RowBox[{
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {N,N,N',N' \
--tetrabutyl-3-oxa-diglycolamide, (TBDGA), 2,2'-oxybis(N,N-dibutylacetamide)}, \
-pure substance -> True, CAS -> MISSING, InChIKey -> MISSING, InChI -> \
-MISSING, SMILES -> O(CC(=O)N(CCCC)CCCC)CC(=O)N(CCCC)CCCC, PubchemCID -> \
-MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> \
-{N,N0-dibutyl-N,N0-di(1-methylheptyl)-diglycolamide, (DBD1MHDGA), \
-2,2'-oxybis(N-butyl-N-(heptan-2-yl)acetamide)}, pure substance -> True, CAS \
--> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-O(CC(=O)N(CCCC)C(C)CCCCC)CC(=O)N(C(C)CCCCC)CCCC, PubchemCID -> MISSING, URL \
--> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {DHpyrDGA, \
-N,N-dihexyl-2-(2-oxo-2-(pyrrolidin-1-yl)ethoxy)acetamide}, pure substance -> \
-True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-C(CCCCC)N(C(COCC(N1CCCC1)=O)=O)CCCCCC, PubchemCID -> MISSING, URL -> \
-MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {DHpipDGA, \
-N,N-dihexyl-2-(2-oxo-2-(piperidin-1-yl)ethoxy)acetamide}, pure substance -> \
-True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-C(CCCCC)N(C(COCC(N1CCCCC1)=O)=O)CCCCCC, PubchemCID -> MISSING, URL -> \
-MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {DHmorDGA, \
-N,N-dihexyl-2-(2-morpholino-2-oxoethoxy)acetamide}, pure substance -> True, \
-CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-C(CCCCC)N(C(COCC(=O)N1CCOCC1)=O)CCCCCC, PubchemCID -> MISSING, URL -> \
-MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {DOpyrDGA, \
-N,N-dioctyl-2-(2-oxo-2-(pyrrolidin-1-yl)ethoxy)acetamide}, pure substance -> \
-True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-C(CCCCCCC)N(C(COCC(N1CCCC1)=O)=O)CCCCCCCC, PubchemCID -> MISSING, URL -> \
-MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {DOpipDGA, \
-N,N-dioctyl-2-(2-oxo-2-(piperidin-1-yl)ethoxy)acetamide}, pure substance -> \
-True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-C(CCCCCCC)N(C(COCC(N1CCCCC1)=O)=O)CCCCCCCC, PubchemCID -> MISSING, URL -> \
-MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {DOmorDGA, \
-2-(2-morpholino-2-oxoethoxy)-N,N-dioctylacetamide}, pure substance -> True, \
-CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-O1CCN(CC1)C(COCC(=O)N(CCCCCCCC)CCCCCCCC)=O, PubchemCID -> MISSING, URL -> \
-MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {N,N,N',N'-Tetrabutylsuccinamide \
-(TBSA), N1,N1,N4,N4-tetrabutylsuccinamide}, pure substance -> True, CAS -> \
-MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-C(CCC)N(C(CCC(=O)N(CCCC)CCCC)=O)CCCC, PubchemCID -> MISSING, URL -> \
-MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {N,N'- \
-dimethyl-N,N'-dibutyl-2-(3-oxanonyl)-propane-1,3-diamide( DMDBO 3NPDA), \
-N1,N3-dibutyl-2-(2-(hexyloxy)ethyl)-N1,N3-dimethylmalonamide}, pure substance \
--> True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-C(CCC)N(C(C(C(=O)N(C)CCCC)CCOCCCCCC)=O)C, PubchemCID -> MISSING, URL -> \
-MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {N,N'-dimethyl-N,N'-dibutylmalonamide \
-( DMDBMA), N1,N3-dibutyl-N1,N3-dimethylmalonamide}, pure substance -> True, \
-CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-C(CCC)N(C(CC(=O)N(C)CCCC)=O)C, PubchemCID -> MISSING, URL -> MISSING|>]\"\>", 
-       "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {N,N,N' ,N' \
-,N'',N''-hexaalkyl-nitrilotriacetamide (NTAamide), \
-2-[bis[2-(dioctylamino)-2-oxoethyl]amino]-N,N-dioctylacetamide}, pure \
-substance -> True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, \
-SMILES -> \
-C(CCCCCCC)N(C(CN(CC(=O)N(CCCCCCCC)CCCCCCCC)CC(N(CCCCCCCC)CCCCCCCC)=O)=O)\
-CCCCCCCC, PubchemCID -> MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {BLPhen 1, \
-2,11-dihexyl-3,4,9,10-tetraphenyl-2,11-dihydrodipyrido[3,4-b:4',3'-j][1,10]\
-phenanthroline-1,12-dione}, pure substance -> True, CAS -> MISSING, InChIKey \
--> MISSING, InChI -> MISSING, SMILES -> \
-C(CCCCC)N1C(C2=NC3=C4N=C5C(=CC4=CC=C3C=C2C(=C1C1=CC=CC=C1)C1=CC=CC=C1)C(=C(N(\
-C5=O)CCCCCC)C5=CC=CC=C5)C5=CC=CC=C5)=O, PubchemCID -> MISSING, URL -> \
-MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {BLPhen 2, \
-(1R,4S)-13,18-dihexyl-1,2,3,4,9,10,11,12,13,18-decahydro-1,4:9,12-\
-dimethanodiquinolino[3,4-b:4',3'-j][1,10]phenanthroline-14,17-dione}, pure \
-substance -> True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, \
-SMILES -> \
-C(CCCCC)N1C(C=2C(=CC3=CC=C4C=C5C(=NC4=C3N2)C(N(C=2[C@@H]3CC[C@H](C25)C3)\
-CCCCCC)=O)C=3C2CCC(C13)C2)=O, PubchemCID -> MISSING, URL -> MISSING|>]\"\>", 
-       "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {BLPhen 3, \
-N2,N2,N9,N9-tetraoctyl-1,10-phenanthroline-2,9-dicarboxamide}, pure substance \
--> True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-C(CCCCCCC)N(C(=O)C1=NC2=C3N=C(C=CC3=CC=C2C=C1)C(=O)N(CCCCCCCC)CCCCCCCC)\
-CCCCCCCC, PubchemCID -> MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {N2 ,N2 ,N9 ,N9 \
--Tetrabutyl-1,10-phenanthroline-2,9- dicarboxamide, \
-N2,N2,N9,N9-Tetrabutyl-1,10-phenanthroline-2,9-dicarboxamide}, pure substance \
--> True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-C(CCC)N(C(=O)C1=NC2=C3N=C(C=CC3=CC=C2C=C1)C(=O)N(CCCC)CCCC)CCCC, PubchemCID \
--> MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {N2 ,N9 -Diethyl-N2 ,N9 \
--diphenyl-1,10-phenanthroline-2,9- dicarboxamide, N2 ,N9-Diethyl-N2 \
-,N9-diphenyl-1,10-phenanthroline-2,9-dicarboxamide}, pure substance -> True, \
-CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-C(C)N(C(=O)C1=NC2=C3N=C(C=CC3=CC=C2C=C1)C(=O)N(C1=CC=CC=C1)CC)C1=CC=CC=C1, \
-PubchemCID -> MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {N2 ,N9 -Diethyl-N2 ,N9 \
--bis(4-ethylphenyl)-1,10-phenanthroline2,9-dicarboxamide, N2 ,N9 -Diethyl-N2 \
-,N9-bis(4-ethylphenyl)-1,10-phenanthroline2,9-dicarboxamide}, pure substance \
--> True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-C(C)N(C(=O)C1=NC2=C3N=C(C=CC3=CC=C2C=C1)C(=O)N(C1=CC=C(C=C1)CC)CC)C1=CC=C(C=\
-C1)CC, PubchemCID -> MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {N2 ,N9 -Diethyl-N2 ,N9 \
--bis(4-\:e104uorophenyl)-1,10- phenanthroline-2,9-dicarboxamide, N2 ,N9 \
--Diethyl-N2 ,N9-bis(4-fluorophenyl)-1,10-phenanthroline-2,9-dicarboxamide}, \
-pure substance -> True, CAS -> MISSING, InChIKey -> MISSING, InChI -> \
-MISSING, SMILES -> \
-C(C)N(C(=O)C1=NC2=C3N=C(C=CC3=CC=C2C=C1)C(=O)N(C1=CC=C(C=C1)F)CC)C1=CC=C(C=C1)\
-F, PubchemCID -> MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {CyMe4-BTPhen, \
-2,9-bis(5,5,8,8-tetramethyl-5,6,7,8-tetrahydrobenzo[e][1,2,4]triazin-3-yl)-1,\
-10-phenanthroline}, pure substance -> True, CAS -> MISSING, InChIKey -> \
-MISSING, InChI -> MISSING, SMILES -> \
-CC1(CCC(C2=C1N=C(N=N2)C2=NC1=C3N=C(C=CC3=CC=C1C=C2)C=2N=NC1=C(N2)C(CCC1(C)C)(\
-C)C)(C)C)C, PubchemCID -> MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {Et-Tol-DAPhen, \
-N2,N9-diethyl-N2,N9-di-p-tolyl-1,10-phenanthroline-2,9-dicarboxamide}, pure \
-substance -> True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, \
-SMILES -> \
-C(C)N(C(=O)C1=NC2=C3N=C(C=CC3=CC=C2C=C1)C(=O)N(C1=CC=C(C=C1)C)CC)C1=CC=C(C=C1)\
-C, PubchemCID -> MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {BLPhen, \
-2,11-dihexyl-3,4,9,10-tetraphenyl-2,11-dihydrodipyrido[3,4-b:4',3'-j][1,10]\
-phenanthroline-1,12-dione}, pure substance -> True, CAS -> MISSING, InChIKey \
--> MISSING, InChI -> MISSING, SMILES -> \
-C(CCCCC)N1C(C2=NC3=C4N=C5C(=CC4=CC=C3C=C2C(=C1C1=CC=CC=C1)C1=CC=CC=C1)C(=C(N(\
-C5=O)CCCCCC)C5=CC=CC=C5)C5=CC=CC=C5)=O, PubchemCID -> MISSING, URL -> \
-MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {TBP, tributyl phosphate}, pure \
-substance -> True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, \
-SMILES -> P(=O)(OCCCC)(OCCCC)OCCCC, PubchemCID -> MISSING, URL -> \
-MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {C2-POPhen, tetraethyl \
-(1,10-phenanthroline-2,9-diyl)bis(phosphonate)}, pure substance -> True, CAS \
--> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-N1=C(C=CC2=CC=C3C=CC(=NC3=C12)P(OCC)(OCC)=O)P(OCC)(OCC)=O, PubchemCID -> \
-MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {C4-POPhen, tetrabutyl \
-(1,10-phenanthroline-2,9-diyl)bis(phosphonate)}, pure substance -> True, CAS \
--> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-N1=C(C=CC2=CC=C3C=CC(=NC3=C12)P(OCCCC)(OCCCC)=O)P(OCCCC)(OCCCC)=O, PubchemCID \
--> MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {Pyr-DAPhen, \
-(1,10-phenanthroline-2,9-diyl)bis(pyrrolidin-1-ylmethanone)}, pure substance \
--> True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-N1=C(C=CC2=CC=C3C=CC(=NC3=C12)C(=O)N1CCCC1)C(=O)N1CCCC1, PubchemCID -> \
-MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {Pyr-BPyDA, \
-[2,2'-bipyridine]-6,6'-diylbis(pyrrolidin-1-ylmethanone)}, pure substance -> \
-True, CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-MISSING, PubchemCID -> MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> {Pyr-PyDA, \
-1,3-phenylenebis(pyrrolidin-1-ylmethanone)}, pure substance -> True, CAS -> \
-MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-C1(=CC(=CC=C1)C(=O)N1CCCC1)C(=O)N1CCCC1, PubchemCID -> MISSING, URL -> \
-MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> \
-{2,6-bis(1-hexyl-1H-benzo[d]imidazol-2-yl)pyridine}, pure substance -> True, \
-CAS -> MISSING, InChIKey -> MISSING, InChI -> MISSING, SMILES -> \
-C(CCCCC)N1C(=NC2=C1C=CC=C2)C2=NC(=CC=C2)C2=NC1=C(N2CCCCCC)C=CC=C1, PubchemCID \
--> MISSING|>]\"\>", "]"}], ",", 
-      RowBox[{
-      "TestObject", 
-       "[", "\<\"validInChIQ[<|names -> \
-{2,2'-(4-(dodecyloxy)pyridine-2,6-diyl)bis(benzo[d]thiazole), \
-2-[6-(1,3-benzothiazol-2-yl)-4-dodecoxypyridin-2-yl]-1,3-benzothiazole, \
-2-[2-(1,3-benzothiazol-2-yl)-4-dodecoxypyridin-6-yl]-1,3-benzothiazole}, pure \
-substance -> True, CAS -> MISSING, InChIKey -> UQSLRNLLBLUSIF-UHFFFAOYSA-N, \
-InChI -> MISSING, SMILES -> \
-S1C(=NC2=C1C=CC=C2)C2=CC(=CC(=N2)C=2SC1=C(N2)C=CC=C1)OCCCCCCCCCCCCF, \
-PubchemCID -> MISSING, URL -> MISSING|>]\"\>", "]"}]}], "}"}]}]}], 
-  "\[RightAssociation]"}]], "Output",
+    RowBox[{"{", "}"}]}]}], "\[RightAssociation]"}]], "Output",
  CellChangeTimes->{{3.90377229778087*^9, 3.903772308094358*^9}, {
    3.903772852117309*^9, 3.903772874049094*^9}, {3.903772936425709*^9, 
    3.90377298125014*^9}, 3.90377316747997*^9, 3.903774125294924*^9, 
    3.903774166850526*^9, 3.90377421491084*^9, 3.903774409597981*^9, 
-   3.90377444055267*^9, 3.9037746309255342`*^9, 3.904922773186448*^9},
- CellLabel->"Out[16]=",ExpressionUUID->"8f61474f-bb86-4a58-a202-36764ade5b50"],
+   3.90377444055267*^9, 3.9037746309255342`*^9, 3.9049227730981407`*^9, 
+   3.905269894155525*^9},
+ CellLabel->"Out[36]=",ExpressionUUID->"6988078a-a660-4cf3-a062-48a01fb73b99"],
 
-Cell[BoxData["44"], "Output",
+Cell[BoxData["0"], "Output",
  CellChangeTimes->{{3.90377229778087*^9, 3.903772308094358*^9}, {
    3.903772852117309*^9, 3.903772874049094*^9}, {3.903772936425709*^9, 
    3.90377298125014*^9}, 3.90377316747997*^9, 3.903774125294924*^9, 
    3.903774166850526*^9, 3.90377421491084*^9, 3.903774409597981*^9, 
-   3.90377444055267*^9, 3.9037746309255342`*^9, 3.9049227731952257`*^9},
- CellLabel->"Out[17]=",ExpressionUUID->"ccc64940-9c1c-46f2-b3b1-78d7bf343a21"]
+   3.90377444055267*^9, 3.9037746309255342`*^9, 3.9049227730981407`*^9, 
+   3.905269894158737*^9},
+ CellLabel->"Out[37]=",ExpressionUUID->"6799766a-5314-47a9-b956-48c3977f223e"]
 }, Open  ]]
 }, Open  ]],
 
 Cell[CellGroupData[{
 
 Cell["\<\
-Every pure substance has SMILES and InChI information (and vice versa)\
+InChI is consistent with SMILES and InChI is consistent with given InChIKey\
 \>", "Subsection",
- CellChangeTimes->{{3.903769890887094*^9, 3.903769907523411*^9}, {
-  3.903769940798463*^9, 
-  3.9037699614453297`*^9}},ExpressionUUID->"6c7ce29e-bd36-4092-828e-\
-bafc89b9fadc"],
-
-Cell["\<\
-% TODO
-\
-\>", "Text",
- CellChangeTimes->{{3.9037724240113287`*^9, 3.903772432173202*^9}, {
-   3.903773867266862*^9, 3.903773869892277*^9}, {3.903773911221908*^9, 
-   3.903773924677603*^9}, {3.903774087212097*^9, 3.903774104450742*^9}, 
-   3.903774193470504*^9, {3.903774278166127*^9, 
-   3.903774286766183*^9}},ExpressionUUID->"0bdd8fa9-1401-47f8-8db9-\
-aaa502697a57"],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
- RowBox[{"pureSubstanceQ", "@", 
-  RowBox[{
-   RowBox[{"data", "[", 
-    RowBox[{"[", "1", "]"}], "]"}], "[", "1", "]"}]}]], "Input",
- CellChangeTimes->{{3.903769970285331*^9, 3.903769970657757*^9}, {
-  3.903774107564649*^9, 3.903774113161723*^9}},
- CellLabel->"In[18]:=",ExpressionUUID->"54f9d087-291d-4e39-a120-06cd209cd862"],
-
-Cell[BoxData["True"], "Output",
- CellChangeTimes->{3.903774113583797*^9, 3.9049227731982937`*^9},
- CellLabel->"Out[18]=",ExpressionUUID->"915945c7-0938-45e1-b3bc-f6b13164b709"]
-}, Open  ]]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell["InChI is consistent with SMILES and InChIKey", "Subsection",
- CellChangeTimes->{{3.903769984527486*^9, 
-  3.9037699982620897`*^9}},ExpressionUUID->"319f24c7-668c-4a30-889d-\
+ CellChangeTimes->{{3.903769984527486*^9, 3.9037699982620897`*^9}, {
+  3.905270533225141*^9, 3.905270537719932*^9}, {3.905270811171504*^9, 
+  3.905270816087294*^9}},ExpressionUUID->"319f24c7-668c-4a30-889d-\
 8af936bafdfc"],
-
-Cell["% TODO", "Text",
- CellChangeTimes->{{3.903772362539967*^9, 3.9037723627493963`*^9}, {
-  3.903774283306388*^9, 
-  3.903774291003191*^9}},ExpressionUUID->"d0b39b2b-0286-478e-995c-\
-97a4e820d3ac"],
 
 Cell[CellGroupData[{
 
 Cell[BoxData[{
  RowBox[{
   RowBox[{
-   RowBox[{"consistentRepresentationQ", "[", "row_", "]"}], ":=", 
+   RowBox[{"consistentSMILESInChIQ", "[", 
+    RowBox[{"row_", "?", "pureSubstanceQ"}], "]"}], ":=", 
    RowBox[{"With", "[", "\[IndentingNewLine]", 
     RowBox[{
      RowBox[{"{", 
@@ -682,145 +299,356 @@ Cell[BoxData[{
         RowBox[{"Molecule", "@", 
          RowBox[{"row", "[", "\"\<InChI\>\"", "]"}]}]}], ",", 
        "\[IndentingNewLine]", 
-       RowBox[{"key", " ", "=", " ", 
-        RowBox[{"row", "[", "\"\<InChIKey\>\"", "]"}]}], ",", 
-       "\[IndentingNewLine]", 
        RowBox[{"smilesMol", " ", "=", " ", 
         RowBox[{"Molecule", "@", 
          RowBox[{"row", "[", "\"\<SMILES\>\"", "]"}]}]}]}], "}"}], ",", 
      "\[IndentingNewLine]", 
-     RowBox[{
-      RowBox[{"MoleculeEquivalentQ", "[", 
-       RowBox[{"inchiMol", ",", "smilesMol"}], "]"}], "&&", 
-      RowBox[{"(", 
-       RowBox[{
-        RowBox[{"Last", "[", 
-         RowBox[{"inchiMol", "[", "\"\<InChIKey\>\"", "]"}], "]"}], "==", 
-        "key"}], ")"}]}]}], "\[IndentingNewLine]", "]"}]}], 
-  "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
- RowBox[{
-  RowBox[{"inconsistentRepresentation", "[", 
-   RowBox[{"row_", "?", "consistentRepresentationQ"}], "]"}], ":=", 
-  "Nothing"}], "\[IndentingNewLine]", 
+     RowBox[{"MoleculeEquivalentQ", "[", 
+      RowBox[{"inchiMol", ",", "smilesMol"}], "]"}]}], "\[IndentingNewLine]", 
+    "]"}]}], "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{
-   RowBox[{"inconsistentRepresentation", "[", "row_", "]"}], ":=", 
-   RowBox[{"\"\<InChI \>\"", "<>", 
-    RowBox[{"row", "[", "\"\<InChI\>\"", "]"}], "<>", 
-    "\"\< inconsistent with InChIKey or SMILES\>\""}]}], 
+   RowBox[{"consistentInChIKeyInChIQ", "[", 
+    RowBox[{"row_", "?", "pureSubstanceQ"}], "]"}], ":=", 
+   RowBox[{"With", "[", "\[IndentingNewLine]", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"computedKey", "=", 
+        RowBox[{"Last", "@", 
+         RowBox[{
+          RowBox[{"MoleculeProperty", "[", "\"\<InChIKey\>\"", "]"}], "@", 
+          RowBox[{"Molecule", "@", 
+           RowBox[{"row", "[", "\"\<InChI\>\"", "]"}]}]}]}]}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"givenKey", " ", "=", " ", 
+        RowBox[{"row", "[", "\"\<InChIKey\>\"", "]"}]}]}], "}"}], ",", 
+     "\[IndentingNewLine]", 
+     RowBox[{"givenKey", " ", "==", " ", "computedKey"}]}], 
+    "\[IndentingNewLine]", "]"}]}], "\[IndentingNewLine]", 
+  "\[IndentingNewLine]", 
+  RowBox[{"(*", " ", 
+   RowBox[{
+   "ignore", " ", "molecules", " ", "without", " ", "representation"}], 
+   "*)"}]}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"consistentSMILESInChIQ", "[", "row_", "]"}], ":=", 
+  "True"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"consistentInChIKeyInChIQ", "[", "row_", "]"}], ":=", "True"}], 
   "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
- RowBox[{"inconsistentRepresentation", "/@", 
-  RowBox[{"data", "[", 
-   RowBox[{"[", "1", "]"}], "]"}]}], "\[IndentingNewLine]"}], "Input",
+ RowBox[{"failureSummary", "[", 
+  RowBox[{"consistentSMILESInChIQ", ",", "dictionaryFiles", ",", "data"}], 
+  "]"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"failureSummary", "[", 
+   RowBox[{"consistentInChIKeyInChIQ", ",", "dictionaryFiles", ",", "data"}], 
+   "]"}], "\[IndentingNewLine]", "\[IndentingNewLine]", 
+  RowBox[{"(*", 
+   RowBox[{"how", " ", "many", " ", "total", " ", "errors", " ", "are", " ", 
+    RowBox[{"there", "?"}]}], "*)"}]}], "\[IndentingNewLine]", 
+ RowBox[{"Total", "@", 
+  RowBox[{"Map", "[", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"Length", "@", 
+      RowBox[{"Flatten", "@", 
+       RowBox[{"Values", "@", "#"}]}]}], "&"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"%", ",", "%%"}], "}"}]}], "]"}]}]}], "Input",
  CellChangeTimes->{{3.903770028513144*^9, 3.903770038742009*^9}, {
   3.903770079871175*^9, 3.9037702052724953`*^9}, {3.903770283561221*^9, 
   3.9037702942178917`*^9}, {3.903770337497718*^9, 3.903770737098452*^9}, {
   3.903770791592846*^9, 3.903770799549914*^9}, {3.903770854211561*^9, 
-  3.903770859333911*^9}},
- CellLabel->"In[19]:=",ExpressionUUID->"3f969449-edf4-4c2b-bfd2-7eb46e654ba9"],
+  3.903770859333911*^9}, {3.905270147918522*^9, 3.905270322777467*^9}, {
+  3.905270391574106*^9, 3.905270491343895*^9}, {3.9052705453889713`*^9, 
+  3.905270654997201*^9}, {3.90527071336614*^9, 
+  3.905270792536413*^9}},ExpressionUUID->"3f969449-edf4-4c2b-bfd2-\
+7eb46e654ba9"],
 
 Cell[BoxData[
- InterpretationBox[
+ RowBox[{"\[LeftAssociation]", 
   RowBox[{
-   TagBox["Failure",
-    "SummaryHead"], "[", 
-   DynamicModuleBox[{Typeset`open$$ = False, Typeset`embedState$$ = "Ready"}, 
-    
-    TemplateBox[{
-      PaneSelectorBox[{False -> GridBox[{{
-            FrameBox[
-             StyleBox["\"\[WarningSign]\"", 
-              Directive["Message", 35], StripOnInput -> False], 
-             ContentPadding -> False, FrameStyle -> None, 
-             FrameMargins -> {{0, 0}, {0, 0}}, StripOnInput -> False], 
-            GridBox[{{
-               TagBox[
-                GridBox[{{
-                   TagBox["\"Message: \"", "SummaryItemAnnotation"], 
-                   "\[InvisibleSpace]", 
-                   TagBox[
-                   "\"Unable to interpret \\!\\(\\*TagBox[RowBox[{\\\"Missing\
-\\\", \\\"[\\\", RowBox[{\\\"\\\\\\\"KeyAbsent\\\\\\\"\\\", \\\",\\\", \\\"\\\
-\\\\\"SMILES\\\\\\\"\\\"}], \\\"]\\\"}], Function[Short[Slot[1], 5]]]\\) as a \
-name or chemical identifier.\"", "SummaryItem"]}}, 
-                 GridBoxItemSize -> {"Columns" -> {6.5, All, Automatic}}, 
-                 GridBoxAlignment -> {"Columns" -> {{Left}}}, 
-                 GridBoxSpacings -> {"Columns" -> {{0}}}], "SummaryItem"]}, {
-               TagBox[
-                GridBox[{{
-                   TagBox["\"Tag: \"", "SummaryItemAnnotation"], 
-                   "\[InvisibleSpace]", 
-                   TagBox["Molecule", "SummaryItem"]}}, 
-                 GridBoxItemSize -> {"Columns" -> {6.5, All, Automatic}}, 
-                 GridBoxAlignment -> {"Columns" -> {{Left}}}, 
-                 GridBoxSpacings -> {"Columns" -> {{0}}}], "SummaryItem"]}}, 
-             GridBoxAlignment -> {
-              "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, AutoDelete -> 
-             False, GridBoxItemSize -> {
-              "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
-             GridBoxSpacings -> {"Columns" -> {{2}}, "Rows" -> {{Automatic}}},
-              BaseStyle -> {
-              ShowStringCharacters -> False, NumberMarks -> False, 
-               PrintPrecision -> 3, ShowSyntaxStyles -> False}]}}, 
-          GridBoxAlignment -> {"Columns" -> {{Left}}, "Rows" -> {{Top}}}, 
-          AutoDelete -> False, 
-          GridBoxItemSize -> {
-           "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
-          BaselinePosition -> {1, 1}], True -> GridBox[{{
-            FrameBox[
-             StyleBox["\"\[WarningSign]\"", 
-              Directive["Message", 35], StripOnInput -> False], 
-             ContentPadding -> False, FrameStyle -> None, 
-             FrameMargins -> {{0, 0}, {0, 0}}, StripOnInput -> False], 
-            GridBox[{{
-               TagBox[
-                GridBox[{{
-                   TagBox["\"Message: \"", "SummaryItemAnnotation"], 
-                   "\[InvisibleSpace]", 
-                   TagBox[
-                   "\"Unable to interpret \\!\\(\\*TagBox[RowBox[{\\\"Missing\
-\\\", \\\"[\\\", RowBox[{\\\"\\\\\\\"KeyAbsent\\\\\\\"\\\", \\\",\\\", \\\"\\\
-\\\\\"SMILES\\\\\\\"\\\"}], \\\"]\\\"}], Function[Short[Slot[1], 5]]]\\) as a \
-name or chemical identifier.\"", "SummaryItem"]}}, 
-                 GridBoxItemSize -> {"Columns" -> {6.5, All, Automatic}}, 
-                 GridBoxAlignment -> {"Columns" -> {{Left}}}, 
-                 GridBoxSpacings -> {"Columns" -> {{0}}}], "SummaryItem"]}, {
-               TagBox[
-                GridBox[{{
-                   TagBox["\"Tag: \"", "SummaryItemAnnotation"], 
-                   "\[InvisibleSpace]", 
-                   TagBox["Molecule", "SummaryItem"]}}, 
-                 GridBoxItemSize -> {"Columns" -> {6.5, All, Automatic}}, 
-                 GridBoxAlignment -> {"Columns" -> {{Left}}}, 
-                 GridBoxSpacings -> {"Columns" -> {{0}}}], "SummaryItem"]}}, 
-             GridBoxAlignment -> {
-              "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, AutoDelete -> 
-             False, GridBoxItemSize -> {
-              "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
-             GridBoxSpacings -> {"Columns" -> {{2}}, "Rows" -> {{Automatic}}},
-              BaseStyle -> {
-              ShowStringCharacters -> False, NumberMarks -> False, 
-               PrintPrecision -> 3, ShowSyntaxStyles -> False}]}}, 
-          GridBoxAlignment -> {"Columns" -> {{Left}}, "Rows" -> {{Top}}}, 
-          AutoDelete -> False, 
-          GridBoxItemSize -> {
-           "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
-          BaselinePosition -> {1, 1}]}, 
-       Dynamic[Typeset`open$$], ImageSize -> Automatic]},
-     "SummaryPanel"],
-    DynamicModuleValues:>{}], "]"}],
-  Failure[
-  Molecule, <|
-   "MessageTemplate" :> MessageName[Molecule, "nintrp"], "MessageParameters" -> {
-      Missing["KeyAbsent", "SMILES"]}|>],
-  Editable->False,
-  SelectWithContents->True,
-  Selectable->False]], "Output",
+   RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records.json\"\>", 
+    "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentSMILESInChIQ[<|names -> {AMMONIUM NITRATE, \
+6484-52-2, Norway Saltpeter, Ammonium Nitricum, Ammonium Saltpeter, Nitrate \
+Of Ammonia, Nitric Acid Ammonium Salt, Azanium Nitrate}, pure substance -> \
+True, CAS -> 6484-52-2, SMILES -> O=[N+]([O-])[O-].[N+]([H])([H])([H])[H], \
+InChIKey -> DVARTQFDIMZBAA-UHFFFAOYSA-O, InChI -> \
+InChI=1S/NO3.H3N/c2-1(3)4;/h;1H3/q-1;/p+1, PubchemCID -> 22985, URL -> \
+https://pubchem.ncbi.nlm.nih.gov/compound/22985|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentSMILESInChIQ[<|names -> \
+{1,3,5,7-tetramethylcyclooctane, tetrapropylene, hydrogen tetrapropylene}, \
+pure substance -> True, CAS -> 112724-95-5, SMILES -> \
+CCCCCCCCN(C)C(=O)C(CCCCCC)(C(=O)N(C)CCCCCCCC)OCC, InChIKey -> \
+BZJTUOGZUKFLQT-UHFFFAOYSA-N, InChI -> \
+InChI=1S/C12H24/c1-9-5-10(2)7-12(4)8-11(3)6-9/h9-12H,5-8H2,1-4H3, PubchemCID \
+-> 14028839, URL -> \
+https://pubchem.ncbi.nlm.nih.gov/compound/14028839|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentSMILESInChIQ[<|names -> {AMMONIUM NITRATE, \
+6484-52-2, Norway Saltpeter, Ammonium Nitricum, Ammonium Saltpeter, Nitrate \
+Of Ammonia, Nitric Acid Ammonium Salt, Azanium Nitrate}, pure substance -> \
+True, CAS -> 6484-52-2, SMILES -> O=[N+]([O-])[O-].[N+]([H])([H])([H])[H], \
+InChIKey -> DVARTQFDIMZBAA-UHFFFAOYSA-O, InChI -> \
+InChI=1S/NO3.H3N/c2-1(3)4;/h;1H3/q-1;/p+1, PubchemCID -> 22985, URL -> \
+https://pubchem.ncbi.nlm.nih.gov/compound/22985|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentSMILESInChIQ[<|names -> \
+{N,N,N',N'-Tetrabutylmalonamide, 14287-98-0, \
+N1,N1,N3,N3-tetrabutylmalonamide, N,N,N',N'-tetrabutylpropanediamide, \
+N,N,N,N-Tetrabutylmalonamide}, pure substance -> True, CAS -> 7313-22-6, \
+InChIKey -> QTVRIQFMPJRJAK-UHFFFAOYSA-N, InChI -> \
+InChI=1S/C7H14N2O2/c1-8(2)6(10)5-7(11)9(3)4/h5H2,1-4H3, SMILES -> \
+O=C(CC(N(CCCC)CCCC)=O)N(CCCC)CCCC, PubchemCID -> 10975767, URL -> \
+https://pubchem.ncbi.nlm.nih.gov/compound/N_N_N_N_-Tetramethylmalonamide|>]\"\
+\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentSMILESInChIQ[<|names -> \
+{N1,N3-di(hexa-1,3,5-triyn-1-yl)-N1,N3-dimethylmalonamide--dihydrogen \
+(1/10)}, pure substance -> True, CAS -> missing, SMILES -> \
+CN(C#CC#CC#C)C(CC(N(C#CC#CC#C)C)=O)=O.[HH].[HH].[HH].[HH].[HH].[HH].[HH].[HH].\
+[HH].[HH], InChIKey -> TYNJUWGQVWVVPE-UHFFFAOYSA-N, InChI -> \
+InChI=1S/C17H10N2O2/c1-5-7-9-11-13-18(3)16(20)15-17(21)19(4)14-12-10-8-6-2/h1-\
+2H,15H2,3-4H3, PubchemCID -> missing, URL -> missing|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentSMILESInChIQ[<|names -> {N,N,N',N'Tetra \
+(2Ethylhexyl) Diglycolamide, TEHDGA, Tetra-bis(2-ethylhexyl)- diglycolamide}, \
+pure substance -> True, CAS -> 669087-46-1, InChIKey -> \
+VPFLXOBLAVYUSW-UHFFFAOYSA-N, InChI -> \
+InChI=1S/C36H72N2O3/c1-9-17-21-29(13-5)25-35(33(37)39,26-30(14-6)22-18-10-2)\
+41-36(34(38)40,27-31(15-7)23-19-11-3)28-32(16-8)24-20-12-4/h29-32H,9-28H2,1-\
+8H3,(H2,37,39)(H2,38,40), SMILES -> \
+O=C(COCC(N(CC(CC)CCCC)CC(CC)CCCC)=O)N(CC(CC)CCCC)CC(CC)CCCC, PubchemCID -> \
+missing, URL -> missing|>]\"\>", "]"}]}], "}"}]}], ",", 
+   RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records_OV.json\"\>",
+     "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentSMILESInChIQ[<|names -> {18-Crown-6, 18C6, \
+17455-13-9, 1,4,7,10,13,16-HEXAOXACYCLOOCTADECANE, 18-Crown-6 ether}, pure \
+substance -> True, CAS -> 17455-13-9, InChIKey -> \
+XEZNGIUYQVAUSS-UHFFFAOYSA-N, InChI -> \
+InChI=1S/C11H7N7/c1-2-8(9-3-6-13-17-15-9)11(12-5-1)10-4-7-14-18-16-10/h1-7H, \
+SMILES -> C1COCCOCCOCCOCCOCCO1, PubchemCID -> 28557, URL -> \
+https://pubchem.ncbi.nlm.nih.gov/compound/28557|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentSMILESInChIQ[<|names -> \
+{N,N'-dimethyl-N,N'-diphenyl-malonamide, MA, \
+N,N'-dimethyl-N,N'-diphenylpropanediamide, 36949-57-2}, pure substance -> \
+True, CAS -> 36949-57-2, InChIKey -> HFVHOHNNXRSOBQ-UHFFFAOYSA-N, InChI -> \
+InChI=1S/C17H18N2O2/c1-18(14-9-5-3-6-10-14)16(20)13-17(21)19(2)15-11-7-4-8-12-\
+15/h3-12H,13H2,1-2H3, SMILES -> \
+CCOC(C)C1=C(C=CC(=C1)C)N(C2=CC=C(C=C2)C)C(=O)CC(=O)N, PubchemCID -> 10869752, \
+URL -> https://pubchem.ncbi.nlm.nih.gov/compound/10869752|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentSMILESInChIQ[<|names -> {N,N'-dimethyl- \
+N,N'-diphenyl-diglycolamide, DGA}, pure substance -> True, CAS -> missing, \
+InChIKey -> HIELYQQIYOVIAZ-UHFFFAOYSA-N, InChI -> \
+InChI=1S/C18H20N2O3/c1-19(15-9-5-3-6-10-15)17(21)13-23-14-18(22)20(2)16-11-7-\
+4-8-12-16/h3-12H,13-14H2,1-2H3, SMILES -> \
+CN(C(COCC(N(C(C)=C)C)=O)=O)C1=CC=CC=C1.C, PubchemCID -> missing, URL -> \
+https://opsin.ch.cam.ac.uk|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentSMILESInChIQ[<|names -> \
+{N-(3,4,5-trimethylphenyl)-1,10-phenanthroline-2-carboxamide, \
+N-(3,4,5-trimethylphenyl)1,10-phenanthroline-2-carboxamide}, pure substance \
+-> True, CAS -> missing, InChIKey -> BLBKIQITDWHHRS-UHFFFAOYSA-N, InChI -> \
+InChI=1S/C22H19N3O/c1-13-11-18(12-14(2)15(13)3)24-22(26)19-9-8-17-7-6-16-5-4-\
+10-23-20(16)21(17)25-19/h4-12H,1-3H3,(H,24,26), SMILES -> \
+C(c1c([H])c(N(C(=O)c2c([H])c([H])c3c([H])c([H])c4c([H])c([H])c([H])nc4c3n2)[H]\
+)c([H])c(C([H])([H])[H])c1C([H])([H])[H])([H])([H])[H], PubchemCID -> \
+missing, URL -> missing|>]\"\>", "]"}]}], "}"}]}], ",", 
+   RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records_RM.json\"\>",
+     "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentSMILESInChIQ[<|names -> \
+{N,N'-dibutyl-N,N'-di(1-methylheptyl)-diglycolamide, (DBD1MHDGA), \
+2,2'-oxybis(N-butyl-N-(heptan-2-yl)acetamide)}, pure substance -> True, CAS \
+-> MISSING, InChIKey -> SNDPSFAOXBZUOZ-UHFFFAOYSA-N, InChI -> \
+InChI=1S/C28H56N2O3/c1-7-11-15-17-19-25(5)29(21-13-9-3)27(31)23-33-24-28(32)\
+30(22-14-10-4)26(6)20-18-16-12-8-2/h25-26H,7-24H2,1-6H3, SMILES -> \
+O(CC(=O)N(CCCC)C(C)CCCCC)CC(=O)N(C(C)CCCCC)CCCC, PubchemCID -> MISSING, URL \
+-> MISSING|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentSMILESInChIQ[<|names -> {N2 ,N9 -Diethyl-N2 ,N9 \
+-diphenyl-1,10-phenanthroline-2,9- dicarboxamide, N2 ,N9-Diethyl-N2 \
+,N9-diphenyl-1,10-phenanthroline-2,9-dicarboxamide}, pure substance -> True, \
+CAS -> MISSING, InChIKey -> UASDBTAQQPJEMV-UHFFFAOYSA-N, InChI -> \
+InChI=1S/C30H28N4O2/c1-3-30(29(36)31-23-11-7-5-8-12-23)20-19-22-16-15-21-17-\
+18-25(32-26(21)27(22)33-30)28(35)34(4-2)24-13-9-6-10-14-24/h5-20,33H,3-4H2,1-\
+2H3,(H,31,36), SMILES -> \
+C(C)N(C(=O)C1=NC2=C3N=C(C=CC3=CC=C2C=C1)C(=O)N(C1=CC=CC=C1)CC)C1=CC=CC=C1, \
+PubchemCID -> MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentSMILESInChIQ[<|names -> \
+{2,2'-(4-(dodecyloxy)pyridine-2,6-diyl)bis(benzo[d]thiazole), \
+2-[6-(1,3-benzothiazol-2-yl)-4-dodecoxypyridin-2-yl]-1,3-benzothiazole, \
+2-[2-(1,3-benzothiazol-2-yl)-4-dodecoxypyridin-6-yl]-1,3-benzothiazole}, pure \
+substance -> True, CAS -> MISSING, InChIKey -> UQSLRNLLBLUSIF-UHFFFAOYSA-N, \
+InChI -> InChI=1S/C31H35N3OS2/c1-2-3-4-5-6-7-8-9-10-15-20-35-23-21-26(30-33-\
+24-16-11-13-18-28(24)36-30)32-27(22-23)31-34-25-17-12-14-19-29(25)37-31/h11-\
+14,16-19,21-22H,2-10,15,20H2,1H3, SMILES -> \
+S1C(=NC2=C1C=CC=C2)C2=CC(=CC(=N2)C=2SC1=C(N2)C=CC=C1)OCCCCCCCCCCCCF, \
+PubchemCID -> 135021846, URL -> \
+https://pubchem.ncbi.nlm.nih.gov/compound/135021846|>]\"\>", "]"}]}], 
+     "}"}]}]}], "\[RightAssociation]"}]], "Output",
  CellChangeTimes->{{3.903770189745874*^9, 3.903770205567177*^9}, {
    3.903770443255468*^9, 3.903770452028363*^9}, {3.9037706913333197`*^9, 
    3.903770705856444*^9}, 3.903770744544853*^9, 3.903770836100936*^9, 
-   3.90492277363162*^9},
- CellLabel->"Out[22]=",ExpressionUUID->"7d0ae5e9-62ce-4de6-9606-e15d0f684b48"]
+   3.90492277363162*^9, 3.9052699653297987`*^9, 3.905270248720551*^9, 
+   3.905270493746697*^9, 3.9052706591858788`*^9, 3.9052707887103367`*^9},
+ CellLabel->"Out[61]=",ExpressionUUID->"18b65c52-8cc3-4269-aadc-5162244c0cf9"],
+
+Cell[BoxData[
+ RowBox[{"\[LeftAssociation]", 
+  RowBox[{
+   RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records.json\"\>", 
+    "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentInChIKeyInChIQ[<|names -> {Glycolic Acid, \
+2-Hydroxyacetic Acid, Hydroxyacetic Acid, 79-14-1, Glycollic Acid, \
+Hydroxyethanoic Acid, Hydroxy-, Glycolate}, pure substance -> True, CAS -> \
+79-14-1, SMILES -> C(C(=O)O)O, InChIKey -> BDAGIHXWWSANSR-UHFFFAOYSA-N, InChI \
+-> InChI=1S/C2H4O3/c3-1-2(4)5/h3H,1H2,(H,4,5), PubchemCID -> 757, URL -> \
+https://pubchem.ncbi.nlm.nih.gov/compound/757|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentInChIKeyInChIQ[<|names -> {AMMONIUM NITRATE, \
+6484-52-2, Norway Saltpeter, Ammonium Nitricum, Ammonium Saltpeter, Nitrate \
+Of Ammonia, Nitric Acid Ammonium Salt, Azanium Nitrate}, pure substance -> \
+True, CAS -> 6484-52-2, SMILES -> O=[N+]([O-])[O-].[N+]([H])([H])([H])[H], \
+InChIKey -> DVARTQFDIMZBAA-UHFFFAOYSA-O, InChI -> \
+InChI=1S/NO3.H3N/c2-1(3)4;/h;1H3/q-1;/p+1, PubchemCID -> 22985, URL -> \
+https://pubchem.ncbi.nlm.nih.gov/compound/22985|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentInChIKeyInChIQ[<|names -> \
+{2-ethyl-1-hexyl(2-ethyl-1-hexyl)phosphonic acid, HEH[EHP], \
+2-ethylhexylphosphonic acid mono-2-ethylhexyl ester}, pure substance -> True, \
+CAS -> 14082-03-0, SMILES -> C(C)C(COP(O)(=O)CC(CCCC)CC)CCCC, InChiKey -> \
+ZDFBXXSHBTVQMB-UHFFFAOYSA-N, InChI -> \
+InChI=1S/C16H35O3P/c1-5-9-11-15(7-3)13-19-20(17,18)14-16(8-4)12-10-6-2/h15-\
+16H,5-14H2,1-4H3,(H,17,18), PubchemCID -> 85771, URL -> \
+https://pubchem.ncbi.nlm.nih.gov/compound/85771|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentInChIKeyInChIQ[<|names -> {Glycolic Acid, \
+2-Hydroxyacetic Acid, Hydroxyacetic Acid, 79-14-1, Glycollic Acid, \
+Hydroxyethanoic Acid, Hydroxy-, Glycolate}, pure substance -> True, CAS -> \
+79-14-1, SMILES -> C(C(=O)O)O, InChIKey -> BDAGIHXWWSANSR-UHFFFAOYSA-N, InChI \
+-> InChI=1S/C2H4O3/c3-1-2(4)5/h3H,1H2,(H,4,5), PubchemCID -> 757, URL -> \
+https://pubchem.ncbi.nlm.nih.gov/compound/757|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentInChIKeyInChIQ[<|names -> {AMMONIUM NITRATE, \
+6484-52-2, Norway Saltpeter, Ammonium Nitricum, Ammonium Saltpeter, Nitrate \
+Of Ammonia, Nitric Acid Ammonium Salt, Azanium Nitrate}, pure substance -> \
+True, CAS -> 6484-52-2, SMILES -> O=[N+]([O-])[O-].[N+]([H])([H])([H])[H], \
+InChIKey -> DVARTQFDIMZBAA-UHFFFAOYSA-O, InChI -> \
+InChI=1S/NO3.H3N/c2-1(3)4;/h;1H3/q-1;/p+1, PubchemCID -> 22985, URL -> \
+https://pubchem.ncbi.nlm.nih.gov/compound/22985|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentInChIKeyInChIQ[<|names -> \
+{2-ethyl-1-hexyl(2-ethyl-1-hexyl)phosphonic acid, HEH[EHP], \
+2-ethylhexylphosphonic acid mono-2-ethylhexyl ester}, pure substance -> True, \
+CAS -> 14082-03-0, SMILES -> C(C)C(COP(O)(=O)CC(CCCC)CC)CCCC, InChiKey -> \
+ZDFBXXSHBTVQMB-UHFFFAOYSA-N, InChI -> \
+InChI=1S/C16H35O3P/c1-5-9-11-15(7-3)13-19-20(17,18)14-16(8-4)12-10-6-2/h15-\
+16H,5-14H2,1-4H3,(H,17,18), PubchemCID -> 85771, URL -> \
+https://pubchem.ncbi.nlm.nih.gov/compound/85771|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentInChIKeyInChIQ[<|names -> \
+{N,N,N',N'-Tetrabutylmalonamide, 14287-98-0, \
+N1,N1,N3,N3-tetrabutylmalonamide, N,N,N',N'-tetrabutylpropanediamide, \
+N,N,N,N-Tetrabutylmalonamide}, pure substance -> True, CAS -> 7313-22-6, \
+InChIKey -> QTVRIQFMPJRJAK-UHFFFAOYSA-N, InChI -> \
+InChI=1S/C7H14N2O2/c1-8(2)6(10)5-7(11)9(3)4/h5H2,1-4H3, SMILES -> \
+O=C(CC(N(CCCC)CCCC)=O)N(CCCC)CCCC, PubchemCID -> 10975767, URL -> \
+https://pubchem.ncbi.nlm.nih.gov/compound/N_N_N_N_-Tetramethylmalonamide|>]\"\
+\>", "]"}]}], "}"}]}], ",", 
+   RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records_OV.json\"\>",
+     "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{
+     "TestObject", 
+      "[", "\<\"consistentInChIKeyInChIQ[<|names -> {18-Crown-6, 18C6, \
+17455-13-9, 1,4,7,10,13,16-HEXAOXACYCLOOCTADECANE, 18-Crown-6 ether}, pure \
+substance -> True, CAS -> 17455-13-9, InChIKey -> \
+XEZNGIUYQVAUSS-UHFFFAOYSA-N, InChI -> \
+InChI=1S/C11H7N7/c1-2-8(9-3-6-13-17-15-9)11(12-5-1)10-4-7-14-18-16-10/h1-7H, \
+SMILES -> C1COCCOCCOCCOCCOCCO1, PubchemCID -> 28557, URL -> \
+https://pubchem.ncbi.nlm.nih.gov/compound/28557|>]\"\>", "]"}], "}"}]}], ",", 
+   
+   RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records_RM.json\"\>",
+     "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentInChIKeyInChIQ[<|names -> \
+{2-(6-(1H-benzo[d]imidazol-2-yl)pyridin-2-yl)-1-hexyl-1H-benzo[d]imidazole, \
+2,6-bis(8-hexylbenzimidazol-2-yl)pyridine}, pure substance -> True, CAS -> \
+MISSING, InChIKey -> \
+InChI=1S/C25H25N5/c1-2-3-4-9-17-30-23-16-8-7-13-20(23)29-25(30)22-15-10-14-21(\
+26-22)24-27-18-11-5-6-12-19(18)28-24/h5-8,10-16H,2-4,9,17H2,1H3,(H,27,28), \
+InChI -> InChI=1S/C25H25N5/c1-2-3-4-9-17-30-23-16-8-7-13-20(23)29-25(30)22-15-\
+10-14-21(26-22)24-27-18-11-5-6-12-19(18)28-24/h5-8,10-16H,2-4,9,17H2,1H3,(H,\
+27,28), SMILES -> N1C(=NC2=C1C=CC=C2)C2=CC=CC(=N2)C2=NC1=C(N2CCCCCC)C=CC=C1, \
+PubchemCID -> MISSING, URL -> MISSING|>]\"\>", "]"}], ",", 
+      RowBox[{
+      "TestObject", 
+       "[", "\<\"consistentInChIKeyInChIQ[<|names -> \
+{2,2'-(4-(dodecyloxy)pyridine-2,6-diyl)bis(1H-benzo[d]imidazole), \
+2-[6-(1H-benzimidazol-2-yl)-4-dodecoxypyridin-2-yl]-1H-benzimidazole}, pure \
+substance -> True, CAS -> MISSING, InChIKey -> ZXIZCPCBUVGMMQ-UHFFFAOYSA-N), \
+InChI -> InChI=1S/C31H37N5O/c1-2-3-4-5-6-7-8-9-10-15-20-37-23-21-28(30-33-24-\
+16-11-12-17-25(24)34-30)32-29(22-23)31-35-26-18-13-14-19-27(26)36-31/h11-14,\
+16-19,21-22H,2-10,15,20H2,1H3,(H,33,34)(H,35,36), SMILES -> \
+N1C(=NC2=C1C=CC=C2)C2=CC(=CC(=N2)C2=NC1=C(N2)C=CC=C1)OCCCCCCCCCCCC, \
+PubchemCID -> MISSING, URL -> MISSING|>]\"\>", "]"}]}], "}"}]}]}], 
+  "\[RightAssociation]"}]], "Output",
+ CellChangeTimes->{{3.903770189745874*^9, 3.903770205567177*^9}, {
+   3.903770443255468*^9, 3.903770452028363*^9}, {3.9037706913333197`*^9, 
+   3.903770705856444*^9}, 3.903770744544853*^9, 3.903770836100936*^9, 
+   3.90492277363162*^9, 3.9052699653297987`*^9, 3.905270248720551*^9, 
+   3.905270493746697*^9, 3.9052706591858788`*^9, 3.905270789073379*^9},
+ CellLabel->"Out[62]=",ExpressionUUID->"54b4d3c6-075d-41f9-a0b7-4a0ab62cde8c"],
+
+Cell[BoxData["23"], "Output",
+ CellChangeTimes->{{3.903770189745874*^9, 3.903770205567177*^9}, {
+   3.903770443255468*^9, 3.903770452028363*^9}, {3.9037706913333197`*^9, 
+   3.903770705856444*^9}, 3.903770744544853*^9, 3.903770836100936*^9, 
+   3.90492277363162*^9, 3.9052699653297987`*^9, 3.905270248720551*^9, 
+   3.905270493746697*^9, 3.9052706591858788`*^9, 3.905270789078421*^9},
+ CellLabel->"Out[63]=",ExpressionUUID->"2d057ba5-277f-4234-9b9e-152f16b49c54"]
 }, Open  ]]
 }, Open  ]],
 
@@ -834,7 +662,7 @@ Are there duplicates in the dictionaries? (as measured by InChIKey)\
 },
 WindowSize->{808, 747},
 WindowMargins->{{Automatic, 299}, {7, Automatic}},
-FrontEndVersion->"13.3 for Mac OS X ARM (64-bit) (July 24, 2023)",
+FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (June 3, 2023)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"0c27e109-868e-4822-b98c-59565a66b3d7"
 ]
@@ -851,43 +679,36 @@ CellTagsIndex->{}
 Notebook[{
 Cell[558, 20, 253, 4, 35, "Text",ExpressionUUID->"925c1885-c287-4ece-b81e-bc46194e91c9"],
 Cell[CellGroupData[{
-Cell[836, 28, 682, 17, 73, "Input",ExpressionUUID->"db7113a8-effc-40c0-af70-fa30b71f7276"],
-Cell[1521, 47, 448, 8, 77, "Output",ExpressionUUID->"ebde673c-7f23-47af-85a3-4581a4560807"]
+Cell[836, 28, 683, 17, 73, "Input",ExpressionUUID->"db7113a8-effc-40c0-af70-fa30b71f7276"],
+Cell[1522, 47, 473, 8, 77, "Output",ExpressionUUID->"21b07ebc-278c-4670-bd22-693e663dbefd"]
 }, Open  ]],
-Cell[1984, 58, 224, 5, 35, "Text",ExpressionUUID->"cbf1fb47-5901-43e6-bcb6-e2facc7a0561"],
+Cell[2010, 58, 224, 5, 35, "Text",ExpressionUUID->"cbf1fb47-5901-43e6-bcb6-e2facc7a0561"],
 Cell[CellGroupData[{
-Cell[2233, 67, 232, 4, 30, "Input",ExpressionUUID->"e429c4d5-65bf-4ad2-b5e0-14471adbc965"],
-Cell[2468, 73, 200, 3, 34, "Output",ExpressionUUID->"c8085925-9a8d-48c5-ae23-a32029641b25"]
+Cell[2259, 67, 233, 4, 30, "Input",ExpressionUUID->"e429c4d5-65bf-4ad2-b5e0-14471adbc965"],
+Cell[2495, 73, 225, 3, 34, "Output",ExpressionUUID->"bea086a9-6ad0-4558-b0cc-597d8cb481fe"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2705, 81, 178, 3, 67, "Section",ExpressionUUID->"d80460e8-fc45-4104-a610-9bd97b802477"],
-Cell[2886, 86, 1883, 49, 220, "Input",ExpressionUUID->"84bba290-fb89-4efc-b0f1-6ddcc7684a09"],
+Cell[2757, 81, 178, 3, 67, "Section",ExpressionUUID->"d80460e8-fc45-4104-a610-9bd97b802477"],
+Cell[2938, 86, 1884, 49, 220, "Input",ExpressionUUID->"84bba290-fb89-4efc-b0f1-6ddcc7684a09"],
 Cell[CellGroupData[{
-Cell[4794, 139, 243, 4, 54, "Subsection",ExpressionUUID->"28762df5-e4b4-4f72-99ad-c524ac3638b0"],
+Cell[4847, 139, 310, 5, 54, "Subsection",ExpressionUUID->"28762df5-e4b4-4f72-99ad-c524ac3638b0"],
 Cell[CellGroupData[{
-Cell[5062, 147, 3368, 75, 325, "Input",ExpressionUUID->"5ab76055-3318-401c-8e6a-03891cd63381"],
-Cell[8433, 224, 2551, 49, 560, "Output",ExpressionUUID->"2b3d4a88-9133-49d9-8b27-971bdceb23c5"],
-Cell[10987, 275, 16972, 332, 4807, "Output",ExpressionUUID->"8f61474f-bb86-4a58-a202-36764ade5b50"],
-Cell[27962, 609, 457, 6, 34, "Output",ExpressionUUID->"ccc64940-9c1c-46f2-b3b1-78d7bf343a21"]
+Cell[5182, 148, 3369, 75, 325, "Input",ExpressionUUID->"5ab76055-3318-401c-8e6a-03891cd63381"],
+Cell[8554, 225, 925, 18, 77, "Output",ExpressionUUID->"82a9b79b-a8f4-44c7-8fbd-f11fec218d3d"],
+Cell[9482, 245, 923, 18, 77, "Output",ExpressionUUID->"6988078a-a660-4cf3-a062-48a01fb73b99"],
+Cell[10408, 265, 482, 7, 34, "Output",ExpressionUUID->"6799766a-5314-47a9-b956-48c3977f223e"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[28468, 621, 277, 6, 54, "Subsection",ExpressionUUID->"6c7ce29e-bd36-4092-828e-bafc89b9fadc"],
-Cell[28748, 629, 378, 9, 58, "Text",ExpressionUUID->"0bdd8fa9-1401-47f8-8db9-aaa502697a57"],
+Cell[10939, 278, 328, 6, 54, "Subsection",ExpressionUUID->"319f24c7-668c-4a30-889d-8af936bafdfc"],
 Cell[CellGroupData[{
-Cell[29151, 642, 341, 7, 30, "Input",ExpressionUUID->"54f9d087-291d-4e39-a120-06cd209cd862"],
-Cell[29495, 651, 176, 2, 34, "Output",ExpressionUUID->"915945c7-0938-45e1-b3bc-f6b13164b709"]
+Cell[11292, 288, 3272, 79, 451, "Input",ExpressionUUID->"3f969449-edf4-4c2b-bfd2-7eb46e654ba9"],
+Cell[14567, 369, 8352, 153, 2261, "Output",ExpressionUUID->"18b65c52-8cc3-4269-aadc-5162244c0cf9"],
+Cell[22922, 524, 6506, 118, 1715, "Output",ExpressionUUID->"54b4d3c6-075d-41f9-a0b7-4a0ab62cde8c"],
+Cell[29431, 644, 463, 6, 34, "Output",ExpressionUUID->"2d057ba5-277f-4234-9b9e-152f16b49c54"]
 }, Open  ]]
 }, Open  ]],
-Cell[CellGroupData[{
-Cell[29720, 659, 194, 3, 54, "Subsection",ExpressionUUID->"319f24c7-668c-4a30-889d-8af936bafdfc"],
-Cell[29917, 664, 199, 4, 35, "Text",ExpressionUUID->"d0b39b2b-0286-478e-995c-97a4e820d3ac"],
-Cell[CellGroupData[{
-Cell[30141, 672, 2026, 47, 283, "Input",ExpressionUUID->"3f969449-edf4-4c2b-bfd2-7eb46e654ba9"],
-Cell[32170, 721, 5160, 101, 63, "Output",ExpressionUUID->"7d0ae5e9-62ce-4de6-9606-e15d0f684b48"]
-}, Open  ]]
-}, Open  ]],
-Cell[37357, 826, 223, 5, 54, "Subsection",ExpressionUUID->"5d8b0a9b-5244-4b41-93f0-8f40c5863a80"]
+Cell[29921, 654, 223, 5, 54, "Subsection",ExpressionUUID->"5d8b0a9b-5244-4b41-93f0-8f40c5863a80"]
 }, Open  ]]
 }
 ]
