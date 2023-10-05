@@ -155,20 +155,6 @@
 },
     {
     "names": [
-           "DODECANE ",
-           " n-Dodecane",
-           "Dihexyl"
-    ],
-    "pure substance": true,
-    "CAS": "112-40-3",
-    "InChIKey": "SNRUBQQJIBEYMU-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C12H26/c1-3-5-7-9-11-12-10-8-6-4-2/h3-12H2,1-2H3",
-    "SMILES": "CCCCCCCCCCCC",
-    "PubchemCID": "8182",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dodecane#section=InChI"
-},
-    {
-    "names": [
            "HEPTANE   ",
            "n-Heptane",
            "Heptan"
@@ -209,31 +195,6 @@
     "PubchemCID": "241",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzene#section=InChI"
 },
-    {
-
-    "names": [
-           "TRIBUTYL PHOSPHATE   ",
-           "Tri-n-butyl phosphate",
-           "Tributylphosphate"
-    ],
-    "pure substance": true,
-    "CAS": "126-73-8",
-    "InChIKey": "STCOOQWBFONSKY-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C12H27O4P/c1-4-7-10-14-17(13,15-11-8-5-2)16-12-9-6-3/h4-12H2,1-3H3",
-    "SMILES": "CCCCOP(=O)(OCCCC)OCCCC",
-    "PubchemCID": "31357",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/31357#section=InChIKey"
-},
-    {
-    "names": ["HDEHP", "Bis(2-Ethylhexyl) Hydrogen Phosphate", "298-07-7", "BIS(2-ETHYLHEXYL) PHOSPHATE", "Hdehp", "Bis(2-Ethylhexyl)Phosphate", "Di(2-Ethylhexyl) Phosphate", "Di(2-Ethylhexyl)Phosphoric Acid", "Escaid 100"],
-    "pure substance": true,
-    "CAS":  "298-07-7",
-    "SMILES": "CCCCC(CC)COP(=O)(O)OCC(CC)CCCC",  
-    "InChIKey": "SEGLCEQVOFDUPX-UHFFFAOYSA-N",  
-    "InChI": "InChI=1S/C16H35O4P/c1-5-9-11-15(7-3)13-19-21(17,18)20-14-16(8-4)12-10-6-2/h15-16H,5-14H2,1-4H3,(H,17,18)",  
-    "PubchemCID": "9275",  
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/9275"
-        },
     {
     "names": [
          "CHLOROFORM  ",
@@ -697,10 +658,7 @@
     "PubchemCID": "MISSING",
     "URL": "MISSING"
 },
-
-
-
-    {
+{
     "names": [
            "DODECANE   ",
            "n-Dodecane",
