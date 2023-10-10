@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     44308,        955]
-NotebookOptionsPosition[     40926,        891]
-NotebookOutlinePosition[     41318,        907]
-CellTagsIndexPosition[     41275,        904]
+NotebookDataLength[     67106,       1388]
+NotebookOptionsPosition[     63112,       1313]
+NotebookOutlinePosition[     63504,       1329]
+CellTagsIndexPosition[     63461,       1326]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -41,9 +41,10 @@ Cell[BoxData[{
      RowBox[{"Import", "[", 
       RowBox[{"#", ",", "\"\<Dataset\>\""}], "]"}], "&"}], "/@", 
     "dictionaryFiles"}]}], ";"}]}], "Input",
+ InitializationCell->True,
  CellChangeTimes->{{3.903769541880354*^9, 3.903769588375108*^9}, {
   3.9037699188670263`*^9, 3.903769936325851*^9}},
- CellLabel->"In[21]:=",ExpressionUUID->"db7113a8-effc-40c0-af70-fa30b71f7276"],
+ CellLabel->"In[94]:=",ExpressionUUID->"db7113a8-effc-40c0-af70-fa30b71f7276"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -52,8 +53,8 @@ Cell[BoxData[
    ",", "\<\"../chemical_dictionaries/chem_dictionary_records_RM.json\"\>"}], 
   "}"}]], "Output",
  CellChangeTimes->{3.9037695895376463`*^9, 3.903769937213243*^9, 
-  3.90492277229662*^9, 3.9052698862078037`*^9},
- CellLabel->"Out[22]=",ExpressionUUID->"21b07ebc-278c-4670-bd22-693e663dbefd"]
+  3.90492277229662*^9, 3.9052698862078037`*^9, 3.9059345255173388`*^9},
+ CellLabel->"Out[95]=",ExpressionUUID->"319e65e3-2a02-45dd-967a-89dff8a5080f"]
 }, Open  ]],
 
 Cell["\<\
@@ -122,16 +123,24 @@ Cell[BoxData[{
          RowBox[{"{", "2", "}"}]}], "]"}]}], "]"}]}], "]"}]}], 
   "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
  RowBox[{
-  RowBox[{"failureSummary", "[", 
-   RowBox[{"test_", ",", "fileNames_List", ",", "data_List"}], "]"}], ":=", 
-  "\[IndentingNewLine]", 
-  RowBox[{"AssociationThread", "[", 
-   RowBox[{"fileNames", "->", 
-    RowBox[{"(", 
-     RowBox[{"test", "/@", "data"}], ")"}]}], " ", "]"}]}]}], "Input",
+  RowBox[{
+   RowBox[{"failureSummary", "[", 
+    RowBox[{"test_", ",", "fileNames_List", ",", "data_List"}], "]"}], ":=", 
+   "\[IndentingNewLine]", 
+   RowBox[{"AssociationThread", "[", 
+    RowBox[{"fileNames", "->", 
+     RowBox[{"(", 
+      RowBox[{"test", "/@", "data"}], ")"}]}], " ", "]"}]}], 
+  "\[IndentingNewLine]", "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"pureSubstanceQ", "[", "row_", "]"}], ":=", 
+  RowBox[{"row", "[", "\"\<pure substance\>\"", "]"}]}]}], "Input",
+ InitializationCell->True,
  CellChangeTimes->{{3.903773899297908*^9, 3.903773900280764*^9}, 
-   3.903774573180787*^9, {3.905329950665182*^9, 3.905329951024729*^9}},
- CellLabel->"In[72]:=",ExpressionUUID->"84bba290-fb89-4efc-b0f1-6ddcc7684a09"],
+   3.903774573180787*^9, {3.905329950665182*^9, 3.905329951024729*^9}, {
+   3.9059345773989553`*^9, 3.905934579370409*^9}},
+ CellLabel->
+  "In[100]:=",ExpressionUUID->"84bba290-fb89-4efc-b0f1-6ddcc7684a09"],
 
 Cell[CellGroupData[{
 
@@ -145,11 +154,6 @@ c524ac3638b0"],
 Cell[CellGroupData[{
 
 Cell[BoxData[{
- RowBox[{
-  RowBox[{
-   RowBox[{"pureSubstanceQ", "[", "row_", "]"}], ":=", 
-   RowBox[{"row", "[", "\"\<pure substance\>\"", "]"}]}], 
-  "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
  RowBox[{"Clear", "[", "validSMILESQ", "]"}], "\[IndentingNewLine]", 
  RowBox[{"Clear", "[", "validInChIQ", "]"}], "\[IndentingNewLine]", 
  RowBox[{
@@ -221,8 +225,9 @@ Cell[BoxData[{
    3.903774050027562*^9, 3.903774084496619*^9}, 3.903774119370734*^9, {
    3.903774165550043*^9, 3.903774196127981*^9}, {3.9037743730532427`*^9, 
    3.903774440105673*^9}, {3.9037745954757233`*^9, 3.903774630344418*^9}, {
-   3.9053299557620983`*^9, 3.9053299628874903`*^9}},
- CellLabel->"In[75]:=",ExpressionUUID->"5ab76055-3318-401c-8e6a-03891cd63381"],
+   3.9053299557620983`*^9, 3.9053299628874903`*^9}, {3.9059345744735947`*^9, 
+   3.905934584468337*^9}},ExpressionUUID->"5ab76055-3318-401c-8e6a-\
+03891cd63381"],
 
 Cell[BoxData[
  RowBox[{"\[LeftAssociation]", 
@@ -886,6 +891,423 @@ Cell[BoxData["34"], "Output",
  CellLabel->
   "Out[115]=",ExpressionUUID->"2d98782e-1b25-4830-9c22-806d9d29efca"]
 }, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Are there duplicate names clashes? ", "Subsection",
+ CellChangeTimes->{{3.905934504346336*^9, 3.905934519348523*^9}, {
+   3.905934649998786*^9, 3.905934652036133*^9}, 
+   3.905936915097877*^9},ExpressionUUID->"f2e8232e-7372-4c76-a4ff-\
+941816bbc184"],
+
+Cell["\<\
+Check to see if any name is repeated in other name entries. (suggested by OVA)\
+\>", "Text",
+ CellChangeTimes->{{3.905936839479072*^9, 3.9059368664572372`*^9}, {
+  3.905936916677033*^9, 
+  3.9059369282388697`*^9}},ExpressionUUID->"22c5e085-b7d9-4abf-907c-\
+30357be6ef34"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", "definitions", "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"duplicateNames", ",", "duplicateNameExistsQ"}], "]"}], 
+   "\[IndentingNewLine]", "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"duplicateNameExistsQ", "[", 
+     RowBox[{"checkEntry_String", ",", "otherNames_List"}], "]"}], ":=", 
+    RowBox[{
+     RowBox[{"ContainsAny", "[", 
+      RowBox[{"{", "checkEntry", "}"}], "]"}], "@", 
+     RowBox[{"Flatten", "@", "otherNames"}]}]}], "\[IndentingNewLine]", 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"duplicateNames", "[", 
+     RowBox[{"checkEntry_String", ",", "otherNames_List"}], "]"}], ":=", 
+    RowBox[{"If", "[", " ", 
+     RowBox[{
+      RowBox[{"duplicateNameExistsQ", "[", 
+       RowBox[{"checkEntry", ",", "otherNames"}], "]"}], ",", 
+      "\[IndentingNewLine]", "checkEntry", ",", " ", 
+      RowBox[{"(*", 
+       RowBox[{"return", " ", "the", " ", "duplicate", " ", "name"}], "*)"}], 
+      "\[IndentingNewLine]", "Nothing"}], "]"}]}], "\[IndentingNewLine]", 
+   "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{
+    "check", " ", "each", " ", "name", " ", "in", " ", "the", " ", "list"}], 
+    "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"duplicateNames", "[", 
+     RowBox[{"{", 
+      RowBox[{"checkEntries_List", ",", "otherNames_List"}], "}"}], "]"}], ":=",
+     "\[IndentingNewLine]", 
+    RowBox[{
+     RowBox[{
+      RowBox[{"duplicateNames", "[", 
+       RowBox[{"#", ",", "otherNames"}], "]"}], "&"}], "/@", 
+     "checkEntries"}]}], "\[IndentingNewLine]", "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{
+    "check", " ", "each", " ", "entry", " ", "against", " ", "all", " ", "of",
+      " ", "the", " ", "subsequent", " ", "entries"}], "*)"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"duplicateNames", "[", "data_List", "]"}], ":=", 
+    RowBox[{
+     RowBox[{"With", "[", "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{"names", " ", "=", " ", 
+         RowBox[{"Lookup", "[", 
+          RowBox[{"data", ",", "\"\<names\>\"", ",", 
+           RowBox[{"{", "\"\<No name specified\>\"", "}"}]}], "]"}]}], "}"}], 
+       ",", "\[IndentingNewLine]", 
+       RowBox[{"Table", "[", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"duplicateNames", "@", 
+          RowBox[{
+           RowBox[{"(", 
+            RowBox[{
+             RowBox[{"{", 
+              RowBox[{
+               RowBox[{"Last", "[", 
+                RowBox[{"#", "[", 
+                 RowBox[{"[", "1", "]"}], "]"}], "]"}], ",", 
+               RowBox[{"#", "[", 
+                RowBox[{"[", "2", "]"}], "]"}]}], "}"}], "&"}], ")"}], "@", 
+           RowBox[{"TakeDrop", "[", 
+            RowBox[{"names", ",", "i"}], "]"}]}]}], ",", 
+         "\[IndentingNewLine]", 
+         RowBox[{"{", 
+          RowBox[{"i", ",", 
+           RowBox[{
+            RowBox[{"Length", "[", "data", "]"}], "-", "1"}]}], "}"}]}], 
+        "]"}]}], "\[IndentingNewLine]", "]"}], "//", "Flatten"}]}], 
+   "\[IndentingNewLine]", "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{
+    "convenience", " ", "function", " ", "to", " ", "deal", " ", "with", " ", 
+     "datasets"}], "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"duplicateNames", "[", "data_Dataset", "]"}], ":=", 
+    RowBox[{"duplicateNames", "@", 
+     RowBox[{"Normal", "@", "data"}]}]}], "\[IndentingNewLine]", 
+   "\[IndentingNewLine]", "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{"perform", " ", "the", " ", "check"}], "*)"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{
+    "check", " ", "within", " ", "each", " ", "individual", " ", 
+     "dictionary"}], "*)"}], "\[IndentingNewLine]", 
+   RowBox[{"failureSummary", "[", 
+    RowBox[{"duplicateNames", ",", "dictionaryFiles", ",", "data"}], "]"}], 
+   "\[IndentingNewLine]", "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{"check", " ", "across", " ", "all", " ", "files"}], "*)"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{"duplicateNames", "[", 
+    RowBox[{"Join", "@@", 
+     RowBox[{"(", 
+      RowBox[{"Normal", "[", "data", "]"}], ")"}]}], "]"}]}]}]], "Input",
+ CellChangeTimes->{{3.9059348887030354`*^9, 3.905934972370812*^9}, {
+   3.9059350615356503`*^9, 3.905935175615965*^9}, {3.905935223780094*^9, 
+   3.905935226074132*^9}, {3.905935312985277*^9, 3.905935470153261*^9}, {
+   3.905935562484475*^9, 3.905935637968854*^9}, {3.905935684460765*^9, 
+   3.905935684556015*^9}, {3.905935882622521*^9, 3.905935884842347*^9}, {
+   3.9059359485349493`*^9, 3.9059359624781647`*^9}, {3.905936006648857*^9, 
+   3.9059360299949007`*^9}, {3.905936147095523*^9, 3.905936195464772*^9}, {
+   3.905936252615027*^9, 3.905936283005392*^9}, {3.9059363795667877`*^9, 
+   3.905936411432928*^9}, {3.905936483040615*^9, 3.9059364865054207`*^9}, {
+   3.90593652126228*^9, 3.9059366618369617`*^9}, {3.905936754472979*^9, 
+   3.905936809404331*^9}, 3.9059368726839657`*^9, {3.905936946756547*^9, 
+   3.905937051384386*^9}},
+ CellLabel->
+  "In[225]:=",ExpressionUUID->"087485e3-89b0-4cb7-9303-e2bbfdf6533e"],
+
+Cell[BoxData[
+ RowBox[{"\[LeftAssociation]", 
+  RowBox[{
+   RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records.json\"\>", 
+    "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{"\<\"1,4-DIISOPROPYLBENZENE\"\>", ",", "\<\"100-18-5\"\>", 
+      ",", "\<\"P-Diisopropylbenzene\"\>", 
+      ",", "\<\"1,4-Bis(1-Methylethyl)- Benzene\"\>", 
+      ",", "\<\"P-Diisopropyl-P-Diisopropylbenzol\"\>", 
+      ",", "\<\"1,4-Bis(1-Methylethyl)Benzene\"\>", 
+      ",", "\<\"1,4-Di-Isopropylbenzene\"\>", ",", "\<\"HDEHP\"\>", 
+      ",", "\<\"Bis(2-Ethylhexyl) Hydrogen Phosphate\"\>", 
+      ",", "\<\"298-07-7\"\>", ",", "\<\"BIS(2-ETHYLHEXYL) PHOSPHATE\"\>", 
+      ",", "\<\"Hdehp\"\>", ",", "\<\"Bis(2-Ethylhexyl)Phosphate\"\>", 
+      ",", "\<\"Di(2-Ethylhexyl) Phosphate\"\>", 
+      ",", "\<\"Di(2-Ethylhexyl)Phosphoric Acid\"\>", 
+      ",", "\<\"Escaid 100\"\>", ",", "\<\"Lactic Acid\"\>", 
+      ",", "\<\"2-Hydroxypropanoic Acid\"\>", ",", "\<\"DL-Lactic Acid\"\>", 
+      ",", "\<\"50-21-5\"\>", ",", "\<\"2-Hydroxypropionic Acid\"\>", 
+      ",", "\<\"Milk Acid\"\>", ",", "\<\"Lactate\"\>", 
+      ",", "\<\"Tonsillosan\"\>", 
+      ",", "\<\"Pentetic Acid, Diethylenetriaminepentaacetic Acid\"\>", 
+      ",", "\<\"67-43-6\"\>", ",", "\<\"DTPA\"\>", 
+      ",", "\<\"Detapac, Detarex\"\>", ",", "\<\"Titriplex V\"\>", 
+      ",", "\<\"Perma\"\>", ",", "\<\"formic acid\"\>", 
+      ",", "\<\"methanoic acid\"\>", ",", "\<\"64-18-6\"\>", 
+      ",", "\<\"formylic acid\"\>", ",", "\<\"aminic acid\"\>", 
+      ",", "\<\"Acetic Acid\"\>", ",", "\<\"Ethanoic Acid\"\>", 
+      ",", "\<\"64-19-7\"\>", ",", "\<\"Glacial Acetic Acid\"\>", 
+      ",", "\<\"Ethylic Acid\"\>", ",", "\<\"Vinegar Acid\"\>", 
+      ",", "\<\"Propionic Acid\"\>", ",", "\<\"Propanoic Acid\"\>", 
+      ",", "\<\"79-09-4\"\>", ",", "\<\"Ethylformic Acid\"\>", 
+      ",", "\<\"Methylacetic Acid\"\>", ",", "\<\"Carboxyethane\"\>", 
+      ",", "\<\"Metacetonic Acid\"\>", ",", "\<\"Ethanecarboxylic Acid\"\>", 
+      ",", "\<\"Butyric Acid\"\>", ",", "\<\"Butanoic Acid\"\>", 
+      ",", "\<\"107-92-6\"\>", ",", "\<\"N-Butyric Acid\"\>", 
+      ",", "\<\"N-Butanoic Acid\"\>", ",", "\<\"Propylformic Acid\"\>", 
+      ",", "\<\"Ethylacetic Acid\"\>", ",", "\<\"Butyrate\"\>", 
+      ",", "\<\"Glycolic Acid\"\>", ",", "\<\"2-Hydroxyacetic Acid\"\>", 
+      ",", "\<\"Hydroxyacetic Acid\"\>", ",", "\<\"79-14-1\"\>", 
+      ",", "\<\"Glycollic Acid\"\>", ",", "\<\"Hydroxyethanoic Acid\"\>", 
+      ",", "\<\"Hydroxy-, Glycolate\"\>", ",", "\<\"Citric Acid\"\>", 
+      ",", "\<\"77-92-9\"\>", 
+      ",", "\<\"Anhydrous, 2-Hydroxypropane-1,2,3-Tricarboxylic Acid\"\>", 
+      ",", "\<\"Aciletten\"\>", ",", "\<\"Anhydrous Citric Acid\"\>", 
+      ",", "\<\"Citro\"\>", ",", "\<\"Citretten\"\>", 
+      ",", "\<\"Malonic Acid\"\>", ",", "\<\"Propanedioic Acid\"\>", 
+      ",", "\<\"141-82-2\"\>", ",", "\<\"Dicarboxymethane\"\>", 
+      ",", "\<\"Carboxyacetic Acid\"\>", 
+      ",", "\<\"Methanedicarboxylic Acid\"\>", 
+      ",", "\<\"Kyselina Malonova\"\>", ",", "\<\"USAF EK-695\"\>", 
+      ",", "\<\"a-Hydroxyisobutyric acid, 2-HYDROXYISOBUTYRIC ACID\"\>", 
+      ",", "\<\"594-61-6\"\>", ",", "\<\"2-Methyllactic Acid\"\>", 
+      ",", "\<\"2-Hydroxy-2-Methylpropanoic Acid\"\>", 
+      ",", "\<\"Acetonic Acid\"\>", 
+      ",", "\<\"Alpha-Hydroxyisobutyric Acid\"\>", 
+      ",", "\<\"2-Hydroxy-2-Methylpropionic Acid\"\>", 
+      ",", "\<\"Hydroxydimethylacetic Acid\"\>", ",", "\<\"Glycine\"\>", 
+      ",", "\<\"2-Aminoacetic Acid\"\>", ",", "\<\"56-40-6\"\>", 
+      ",", "\<\"Aminoacetic Acid\"\>", ",", "\<\"Glycocoll\"\>", 
+      ",", "\<\"Aminoethanoic Acid\"\>", ",", "\<\"Glycolixir\"\>", 
+      ",", "\<\"H-Gly-OH\"\>", ",", "\<\"1-Octanol\"\>", 
+      ",", "\<\"Octan-1-Ol\"\>", ",", "\<\"Octanol\"\>", 
+      ",", "\<\"111-87-5\"\>", ",", "\<\"N-Octanol\"\>", 
+      ",", "\<\"Octyl Alcohol\"\>", ",", "\<\"Caprylic Alcohol\"\>", 
+      ",", "\<\"Capryl\"\>", ",", "\<\"NITROBENZENE\"\>", 
+      ",", "\<\"98-95-3\"\>", ",", "\<\"Nitrobenzol\"\>", 
+      ",", "\<\"Nitro-benzene\"\>", ",", "\<\"Essence Of Mirbane\"\>", 
+      ",", "\<\"Nitrobenzeen\"\>", ",", "\<\"Nitrobenzen\"\>", 
+      ",", "\<\"AMMONIUM NITRATE\"\>", ",", "\<\"6484-52-2\"\>", 
+      ",", "\<\"Norway Saltpeter\"\>", ",", "\<\"Ammonium Nitricum\"\>", 
+      ",", "\<\"Ammonium Saltpeter\"\>", ",", "\<\"Nitrate Of Ammonia\"\>", 
+      ",", "\<\"Nitric Acid Ammonium Salt\"\>", 
+      ",", "\<\"Azanium Nitrate\"\>", ",", "\<\"TPEN\"\>", 
+      ",", "\<\"TPZEN\"\>", 
+      ",", "\<\"1,N2,N2-tetrakis(pyrazin-2-ylmethyl)ethane-1,2-diamine\"\>", 
+      ",", "\<\"1,2-Bis[bis(pyrazine-2-ylmethyl)amino]ethane\"\>", 
+      ",", "\<\"SCHEMBL3320948\"\>", ",", "\<\"c-tpcn\"\>", 
+      ",", "\<\"(1R,2S)-N1,N1,N2,N2-tetrakis(pyridin-2-ylmethyl)cyclohexane-1,\
+2-diamine\"\>", 
+      ",", "\<\"N,N,N',N'-tetrakis(2-methylpyridyl)-cis-1,2-\
+diaminocyclohexane\"\>", ",", "\<\"t-tpcn\"\>", 
+      ",", "\<\"(1S,2S)-N1,N1,N2,N2-tetrakis(pyridin-2-ylmethyl)cyclohexane-1,\
+2-diamine\"\>", 
+      ",", "\<\"N,N,N',N'-tetrakis(2-methylpyridyl)-trans-1,2-\
+diaminocyclohexane\"\>", ",", "\<\"tpdben\"\>", 
+      ",", "\<\"N5,N5,N6,N6-tetrakis(pyridin-2-ylmethyl)decane-5,6-diamine\"\>\
+", ",", "\<\"N,N,N',N'-tetrakis(2-methylpyridyl)-dibutylethylenediamine\"\>", 
+      ",", "\<\"compound sodium lactate solution\"\>", 
+      ",", "\<\"SODIUM LACTATE\"\>", ",", "\<\"72-17-3\"\>", 
+      ",", "\<\"Sodium DL-lactate\"\>", 
+      ",", "\<\"Lactic acid sodium salt\"\>", ",", "\<\"150-39-0\"\>", 
+      ",", "\<\"N-(2-Hydroxyethyl)Ethylenediaminetriacetic Acid\"\>", 
+      ",", "\<\"HEDTA\"\>", ",", "\<\"Heedta\"\>", ",", "\<\"Versenol\"\>", 
+      ",", "\<\"Detarol\"\>", ",", "\<\"CHEL DM Acid\"\>", 
+      ",", "\<\"Versenol 120\"\>", ",", "\<\"869-52-3\"\>", 
+      ",", "\<\"TTHA\"\>", 
+      ",", "\<\"Triethylenetetramine-N,N,N',N'',N''',N'''-Hexaacetic \
+Acid\"\>", 
+      ",", "\<\"3,6,9,12-Tetraazatetradecanedioic Acid, \
+3,6,9,12-Tetrakis(Carboxymethyl)-, Hexaacetic Acid\"\>", 
+      ",", "\<\"3,6,9,12-Tetrakis(Carboxymethyl)-3,6,9,12-Tetraazatetradecane-\
+1,14-Dioic Acid\"\>", 
+      ",", "\<\"2-[2-[Bis(Carboxymethyl)Amino]Ethyl-[2-[2-[Bis(Carboxymethyl)\
+Amino]Ethyl-(Carboxymethyl)Amino]Ethyl]Amino]Acetic Acid\"\>", 
+      ",", "\<\"3,6,9,12-Tetrakis(Carboxymethyl)-3,6,9,12-\
+Tetraazatetradecanedioic Acid\"\>", 
+      ",", "\<\"2-ethyl-1-hexyl(2-ethyl-1-hexyl)phosphonic acid\"\>", 
+      ",", "\<\"HEH[EHP]\"\>", 
+      ",", "\<\"2-ethylhexylphosphonic acid mono-2-ethylhexyl ester\"\>", 
+      ",", "\<\"DODECANE\"\>", ",", "\<\"n-Dodecane\"\>", 
+      ",", "\<\"112-40-3\"\>", ",", "\<\"Dihexyl\"\>", ",", "\<\"Bihexyl\"\>",
+       ",", "\<\"Adakane 12\"\>", ",", "\<\"N-Dodecan\"\>", 
+      ",", "\<\"93685-81-5\"\>", 
+      ",", "\<\"2-[2-(Hexyloxy)ethyl]-N~1~,N~3~-dimethyl-N~1~,N~3~-\
+dioctylpropanediamide\"\>", ",", "\<\"SCHEMBL16741947\"\>", 
+      ",", "\<\"DTXSID80552274\"\>", ",", "\<\"298-07-7\"\>", 
+      ",", "\<\"BIS(2-ETHYLHEXYL) PHOSPHATE\"\>", ",", "\<\"Hdehp\"\>", 
+      ",", "\<\"No name specified\"\>", ",", "\<\"No name specified\"\>", 
+      ",", "\<\"N-(2,5-dimethylphenyl)-6-[6-[(2,5-dimethylphenyl)-\
+ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide\"\>"}], "}"}]}], 
+   ",", 
+   RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records_OV.json\"\>",
+     "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{"\<\"2,2'-Oxybis(N,N-dioctylacetamide)\"\>", 
+      ",", "\<\"342794-43-8\"\>", ",", "\<\"Acetamide\"\>", 
+      ",", "\<\"Acetamide\"\>", ",", "\<\"Acetamide\"\>", 
+      ",", "\<\"Acetamide\"\>"}], "}"}]}], ",", 
+   RowBox[{"\<\"../chemical_dictionaries/chem_dictionary_records_RM.json\"\>",
+     "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{"\<\"Dihexyl\"\>", 
+      ",", "\<\"2,11-dihexyl-3,4,9,10-tetraphenyl-2,11-dihydrodipyrido[3,4-b:\
+4',3'-j][1,10]phenanthroline-1,12-dione\"\>"}], "}"}]}]}], 
+  "\[RightAssociation]"}]], "Output",
+ CellChangeTimes->{3.905936811633668*^9, 3.9059371254269447`*^9},
+ CellLabel->
+  "Out[231]=",ExpressionUUID->"b9d3a43b-1cc0-465d-8fa4-48365e93e41e"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"\<\"1,4-DIISOPROPYLBENZENE\"\>", ",", "\<\"100-18-5\"\>", 
+   ",", "\<\"P-Diisopropylbenzene\"\>", 
+   ",", "\<\"1,4-Bis(1-Methylethyl)- Benzene\"\>", 
+   ",", "\<\"P-Diisopropyl-P-Diisopropylbenzol\"\>", 
+   ",", "\<\"1,4-Bis(1-Methylethyl)Benzene\"\>", 
+   ",", "\<\"1,4-Di-Isopropylbenzene\"\>", ",", "\<\"HDEHP\"\>", 
+   ",", "\<\"Bis(2-Ethylhexyl) Hydrogen Phosphate\"\>", 
+   ",", "\<\"298-07-7\"\>", ",", "\<\"BIS(2-ETHYLHEXYL) PHOSPHATE\"\>", 
+   ",", "\<\"Hdehp\"\>", ",", "\<\"Bis(2-Ethylhexyl)Phosphate\"\>", 
+   ",", "\<\"Di(2-Ethylhexyl) Phosphate\"\>", 
+   ",", "\<\"Di(2-Ethylhexyl)Phosphoric Acid\"\>", ",", "\<\"Escaid 100\"\>", 
+   ",", "\<\"Lactic Acid\"\>", ",", "\<\"2-Hydroxypropanoic Acid\"\>", 
+   ",", "\<\"DL-Lactic Acid\"\>", ",", "\<\"50-21-5\"\>", 
+   ",", "\<\"2-Hydroxypropionic Acid\"\>", ",", "\<\"Milk Acid\"\>", 
+   ",", "\<\"Lactate\"\>", ",", "\<\"Tonsillosan\"\>", 
+   ",", "\<\"Pentetic Acid, Diethylenetriaminepentaacetic Acid\"\>", 
+   ",", "\<\"67-43-6\"\>", ",", "\<\"DTPA\"\>", 
+   ",", "\<\"Detapac, Detarex\"\>", ",", "\<\"Titriplex V\"\>", 
+   ",", "\<\"Perma\"\>", ",", "\<\"formic acid\"\>", 
+   ",", "\<\"methanoic acid\"\>", ",", "\<\"64-18-6\"\>", 
+   ",", "\<\"formylic acid\"\>", ",", "\<\"aminic acid\"\>", 
+   ",", "\<\"Acetic Acid\"\>", ",", "\<\"Ethanoic Acid\"\>", 
+   ",", "\<\"64-19-7\"\>", ",", "\<\"Glacial Acetic Acid\"\>", 
+   ",", "\<\"Ethylic Acid\"\>", ",", "\<\"Vinegar Acid\"\>", 
+   ",", "\<\"Propionic Acid\"\>", ",", "\<\"Propanoic Acid\"\>", 
+   ",", "\<\"79-09-4\"\>", ",", "\<\"Ethylformic Acid\"\>", 
+   ",", "\<\"Methylacetic Acid\"\>", ",", "\<\"Carboxyethane\"\>", 
+   ",", "\<\"Metacetonic Acid\"\>", ",", "\<\"Ethanecarboxylic Acid\"\>", 
+   ",", "\<\"Butyric Acid\"\>", ",", "\<\"Butanoic Acid\"\>", 
+   ",", "\<\"107-92-6\"\>", ",", "\<\"N-Butyric Acid\"\>", 
+   ",", "\<\"N-Butanoic Acid\"\>", ",", "\<\"Propylformic Acid\"\>", 
+   ",", "\<\"Ethylacetic Acid\"\>", ",", "\<\"Butyrate\"\>", 
+   ",", "\<\"Glycolic Acid\"\>", ",", "\<\"2-Hydroxyacetic Acid\"\>", 
+   ",", "\<\"Hydroxyacetic Acid\"\>", ",", "\<\"79-14-1\"\>", 
+   ",", "\<\"Glycollic Acid\"\>", ",", "\<\"Hydroxyethanoic Acid\"\>", 
+   ",", "\<\"Hydroxy-, Glycolate\"\>", ",", "\<\"Citric Acid\"\>", 
+   ",", "\<\"77-92-9\"\>", 
+   ",", "\<\"Anhydrous, 2-Hydroxypropane-1,2,3-Tricarboxylic Acid\"\>", 
+   ",", "\<\"Aciletten\"\>", ",", "\<\"Anhydrous Citric Acid\"\>", 
+   ",", "\<\"Citro\"\>", ",", "\<\"Citretten\"\>", 
+   ",", "\<\"Malonic Acid\"\>", ",", "\<\"Propanedioic Acid\"\>", 
+   ",", "\<\"141-82-2\"\>", ",", "\<\"Dicarboxymethane\"\>", 
+   ",", "\<\"Carboxyacetic Acid\"\>", ",", "\<\"Methanedicarboxylic Acid\"\>",
+    ",", "\<\"Kyselina Malonova\"\>", ",", "\<\"USAF EK-695\"\>", 
+   ",", "\<\"a-Hydroxyisobutyric acid, 2-HYDROXYISOBUTYRIC ACID\"\>", 
+   ",", "\<\"594-61-6\"\>", ",", "\<\"2-Methyllactic Acid\"\>", 
+   ",", "\<\"2-Hydroxy-2-Methylpropanoic Acid\"\>", 
+   ",", "\<\"Acetonic Acid\"\>", ",", "\<\"Alpha-Hydroxyisobutyric Acid\"\>", 
+   ",", "\<\"2-Hydroxy-2-Methylpropionic Acid\"\>", 
+   ",", "\<\"Hydroxydimethylacetic Acid\"\>", ",", "\<\"Glycine\"\>", 
+   ",", "\<\"2-Aminoacetic Acid\"\>", ",", "\<\"56-40-6\"\>", 
+   ",", "\<\"Aminoacetic Acid\"\>", ",", "\<\"Glycocoll\"\>", 
+   ",", "\<\"Aminoethanoic Acid\"\>", ",", "\<\"Glycolixir\"\>", 
+   ",", "\<\"H-Gly-OH\"\>", ",", "\<\"1-Octanol\"\>", 
+   ",", "\<\"Octan-1-Ol\"\>", ",", "\<\"Octanol\"\>", ",", "\<\"111-87-5\"\>",
+    ",", "\<\"N-Octanol\"\>", ",", "\<\"Octyl Alcohol\"\>", 
+   ",", "\<\"Caprylic Alcohol\"\>", ",", "\<\"Capryl\"\>", 
+   ",", "\<\"NITROBENZENE\"\>", ",", "\<\"98-95-3\"\>", 
+   ",", "\<\"Nitrobenzol\"\>", ",", "\<\"Nitro-benzene\"\>", 
+   ",", "\<\"Essence Of Mirbane\"\>", ",", "\<\"Nitrobenzeen\"\>", 
+   ",", "\<\"Nitrobenzen\"\>", ",", "\<\"AMMONIUM NITRATE\"\>", 
+   ",", "\<\"6484-52-2\"\>", ",", "\<\"Norway Saltpeter\"\>", 
+   ",", "\<\"Ammonium Nitricum\"\>", ",", "\<\"Ammonium Saltpeter\"\>", 
+   ",", "\<\"Nitrate Of Ammonia\"\>", 
+   ",", "\<\"Nitric Acid Ammonium Salt\"\>", ",", "\<\"Azanium Nitrate\"\>", 
+   ",", "\<\"TPEN\"\>", ",", "\<\"TPZEN\"\>", 
+   ",", "\<\"1,N2,N2-tetrakis(pyrazin-2-ylmethyl)ethane-1,2-diamine\"\>", 
+   ",", "\<\"1,2-Bis[bis(pyrazine-2-ylmethyl)amino]ethane\"\>", 
+   ",", "\<\"SCHEMBL3320948\"\>", ",", "\<\"c-tpcn\"\>", 
+   ",", "\<\"(1R,2S)-N1,N1,N2,N2-tetrakis(pyridin-2-ylmethyl)cyclohexane-1,2-\
+diamine\"\>", 
+   ",", "\<\"N,N,N',N'-tetrakis(2-methylpyridyl)-cis-1,2-diaminocyclohexane\"\
+\>", ",", "\<\"t-tpcn\"\>", 
+   ",", "\<\"(1S,2S)-N1,N1,N2,N2-tetrakis(pyridin-2-ylmethyl)cyclohexane-1,2-\
+diamine\"\>", 
+   ",", "\<\"N,N,N',N'-tetrakis(2-methylpyridyl)-trans-1,2-diaminocyclohexane\
+\"\>", ",", "\<\"tpdben\"\>", 
+   ",", "\<\"N5,N5,N6,N6-tetrakis(pyridin-2-ylmethyl)decane-5,6-diamine\"\>", 
+   ",", "\<\"N,N,N',N'-tetrakis(2-methylpyridyl)-dibutylethylenediamine\"\>", 
+   ",", "\<\"compound sodium lactate solution\"\>", 
+   ",", "\<\"SODIUM LACTATE\"\>", ",", "\<\"72-17-3\"\>", 
+   ",", "\<\"Sodium DL-lactate\"\>", ",", "\<\"Lactic acid sodium salt\"\>", 
+   ",", "\<\"150-39-0\"\>", 
+   ",", "\<\"N-(2-Hydroxyethyl)Ethylenediaminetriacetic Acid\"\>", 
+   ",", "\<\"HEDTA\"\>", ",", "\<\"Heedta\"\>", ",", "\<\"Versenol\"\>", 
+   ",", "\<\"Detarol\"\>", ",", "\<\"CHEL DM Acid\"\>", 
+   ",", "\<\"Versenol 120\"\>", ",", "\<\"869-52-3\"\>", ",", "\<\"TTHA\"\>", 
+   ",", "\<\"Triethylenetetramine-N,N,N',N'',N''',N'''-Hexaacetic Acid\"\>", 
+   ",", "\<\"3,6,9,12-Tetraazatetradecanedioic Acid, \
+3,6,9,12-Tetrakis(Carboxymethyl)-, Hexaacetic Acid\"\>", 
+   ",", "\<\"3,6,9,12-Tetrakis(Carboxymethyl)-3,6,9,12-Tetraazatetradecane-1,\
+14-Dioic Acid\"\>", 
+   ",", "\<\"2-[2-[Bis(Carboxymethyl)Amino]Ethyl-[2-[2-[Bis(Carboxymethyl)\
+Amino]Ethyl-(Carboxymethyl)Amino]Ethyl]Amino]Acetic Acid\"\>", 
+   ",", "\<\"3,6,9,12-Tetrakis(Carboxymethyl)-3,6,9,12-\
+Tetraazatetradecanedioic Acid\"\>", 
+   ",", "\<\"2-ethyl-1-hexyl(2-ethyl-1-hexyl)phosphonic acid\"\>", 
+   ",", "\<\"HEH[EHP]\"\>", 
+   ",", "\<\"2-ethylhexylphosphonic acid mono-2-ethylhexyl ester\"\>", 
+   ",", "\<\"DODECANE\"\>", ",", "\<\"n-Dodecane\"\>", 
+   ",", "\<\"112-40-3\"\>", ",", "\<\"Dihexyl\"\>", ",", "\<\"Bihexyl\"\>", 
+   ",", "\<\"Adakane 12\"\>", ",", "\<\"N-Dodecan\"\>", 
+   ",", "\<\"93685-81-5\"\>", 
+   ",", "\<\"2-[2-(Hexyloxy)ethyl]-N~1~,N~3~-dimethyl-N~1~,N~3~-\
+dioctylpropanediamide\"\>", ",", "\<\"SCHEMBL16741947\"\>", 
+   ",", "\<\"DTXSID80552274\"\>", ",", "\<\"HDEHP\"\>", 
+   ",", "\<\"Bis(2-Ethylhexyl) Hydrogen Phosphate\"\>", 
+   ",", "\<\"298-07-7\"\>", ",", "\<\"BIS(2-ETHYLHEXYL) PHOSPHATE\"\>", 
+   ",", "\<\"Hdehp\"\>", ",", "\<\"Bis(2-Ethylhexyl)Phosphate\"\>", 
+   ",", "\<\"Di(2-Ethylhexyl) Phosphate\"\>", 
+   ",", "\<\"Di(2-Ethylhexyl)Phosphoric Acid\"\>", ",", "\<\"Escaid 100\"\>", 
+   ",", "\<\"111-87-5\"\>", ",", "\<\"n-Dodecane\"\>", 
+   ",", "\<\"112-40-3\"\>", ",", "\<\"Dihexyl\"\>", 
+   ",", "\<\"No name specified\"\>", 
+   ",", "\<\"2,2'-Oxybis(N,N-dioctylacetamide)\"\>", 
+   ",", "\<\"342794-43-8\"\>", ",", "\<\"Acetamide\"\>", 
+   ",", "\<\"No name specified\"\>", ",", "\<\"298-07-7\"\>", 
+   ",", "\<\"BIS(2-ETHYLHEXYL) PHOSPHATE\"\>", ",", "\<\"Hdehp\"\>", 
+   ",", "\<\"Dicyclohexano-18-crown-6\"\>", ",", "\<\"16069-36-6\"\>", 
+   ",", "\<\"Dicyclohexyl-18-crown-6\"\>", 
+   ",", "\<\"cis-Dicyclohexano-18-crown-6\"\>", 
+   ",", "\<\"N-(2,5-dimethylphenyl)-6-[6-[(2,5-dimethylphenyl)-ethylcarbamoyl]\
+pyridin-2-yl]-N-ethylpyridine-2-carboxamide\"\>", ",", "\<\"18-Crown-6\"\>", 
+   ",", "\<\"N,N'-dibutyl-N,N'-di(1-methylheptyl)-diglycolamide\"\>", 
+   ",", "\<\"2,2'-Oxybis(N,N-dioctylacetamide)\"\>", 
+   ",", "\<\"342794-43-8\"\>", ",", "\<\"Acetamide\"\>", 
+   ",", "\<\"Acetamide\"\>", ",", "\<\"Acetamide\"\>", 
+   ",", "\<\"Acetamide\"\>", ",", "\<\"Dihexyl\"\>", 
+   ",", "\<\"2,11-dihexyl-3,4,9,10-tetraphenyl-2,11-dihydrodipyrido[3,4-b:4',\
+3'-j][1,10]phenanthroline-1,12-dione\"\>"}], "}"}]], "Output",
+ CellChangeTimes->{3.905936811633668*^9, 3.905937125486693*^9},
+ CellLabel->
+  "Out[232]=",ExpressionUUID->"003388c6-a474-4446-b576-306bc437857c"]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]]
 },
@@ -908,52 +1330,63 @@ CellTagsIndex->{}
 Notebook[{
 Cell[558, 20, 253, 4, 35, "Text",ExpressionUUID->"925c1885-c287-4ece-b81e-bc46194e91c9"],
 Cell[CellGroupData[{
-Cell[836, 28, 683, 17, 73, "Input",ExpressionUUID->"db7113a8-effc-40c0-af70-fa30b71f7276"],
-Cell[1522, 47, 473, 8, 77, "Output",ExpressionUUID->"21b07ebc-278c-4670-bd22-693e663dbefd"]
+Cell[836, 28, 710, 18, 89, "Input",ExpressionUUID->"db7113a8-effc-40c0-af70-fa30b71f7276",
+ InitializationCell->True],
+Cell[1549, 48, 497, 8, 77, "Output",ExpressionUUID->"319e65e3-2a02-45dd-967a-89dff8a5080f"]
 }, Open  ]],
-Cell[2010, 58, 224, 5, 35, "Text",ExpressionUUID->"cbf1fb47-5901-43e6-bcb6-e2facc7a0561"],
+Cell[2061, 59, 224, 5, 35, "Text",ExpressionUUID->"cbf1fb47-5901-43e6-bcb6-e2facc7a0561"],
 Cell[CellGroupData[{
-Cell[2259, 67, 233, 4, 30, "Input",ExpressionUUID->"e429c4d5-65bf-4ad2-b5e0-14471adbc965"],
-Cell[2495, 73, 225, 3, 34, "Output",ExpressionUUID->"bea086a9-6ad0-4558-b0cc-597d8cb481fe"]
+Cell[2310, 68, 233, 4, 30, "Input",ExpressionUUID->"e429c4d5-65bf-4ad2-b5e0-14471adbc965"],
+Cell[2546, 74, 225, 3, 34, "Output",ExpressionUUID->"bea086a9-6ad0-4558-b0cc-597d8cb481fe"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2757, 81, 178, 3, 67, "Section",ExpressionUUID->"d80460e8-fc45-4104-a610-9bd97b802477"],
-Cell[2938, 86, 1890, 47, 220, "Input",ExpressionUUID->"84bba290-fb89-4efc-b0f1-6ddcc7684a09"],
+Cell[2808, 82, 178, 3, 67, "Section",ExpressionUUID->"d80460e8-fc45-4104-a610-9bd97b802477"],
+Cell[2989, 87, 2188, 55, 299, "Input",ExpressionUUID->"84bba290-fb89-4efc-b0f1-6ddcc7684a09",
+ InitializationCell->True],
 Cell[CellGroupData[{
-Cell[4853, 137, 310, 5, 54, "Subsection",ExpressionUUID->"28762df5-e4b4-4f72-99ad-c524ac3638b0"],
+Cell[5202, 146, 310, 5, 54, "Subsection",ExpressionUUID->"28762df5-e4b4-4f72-99ad-c524ac3638b0"],
 Cell[CellGroupData[{
-Cell[5188, 146, 3493, 78, 325, "Input",ExpressionUUID->"5ab76055-3318-401c-8e6a-03891cd63381"],
-Cell[8684, 226, 947, 18, 77, "Output",ExpressionUUID->"e6b926c7-d1d1-41eb-b321-42eecf263aef"],
-Cell[9634, 246, 949, 18, 77, "Output",ExpressionUUID->"0a1c7992-1213-4bd3-bc61-71f2d9e53349"],
-Cell[10586, 266, 506, 7, 34, "Output",ExpressionUUID->"325968ba-dc44-41a6-93c8-e76ebcc74dfb"]
+Cell[5537, 155, 3336, 74, 283, "Input",ExpressionUUID->"5ab76055-3318-401c-8e6a-03891cd63381"],
+Cell[8876, 231, 947, 18, 77, "Output",ExpressionUUID->"e6b926c7-d1d1-41eb-b321-42eecf263aef"],
+Cell[9826, 251, 949, 18, 77, "Output",ExpressionUUID->"0a1c7992-1213-4bd3-bc61-71f2d9e53349"],
+Cell[10778, 271, 506, 7, 34, "Output",ExpressionUUID->"325968ba-dc44-41a6-93c8-e76ebcc74dfb"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[11141, 279, 328, 6, 54, "Subsection",ExpressionUUID->"319f24c7-668c-4a30-889d-8af936bafdfc"],
+Cell[11333, 284, 328, 6, 54, "Subsection",ExpressionUUID->"319f24c7-668c-4a30-889d-8af936bafdfc"],
 Cell[CellGroupData[{
-Cell[11494, 289, 3412, 82, 451, "Input",ExpressionUUID->"3f969449-edf4-4c2b-bfd2-7eb46e654ba9"],
-Cell[14909, 373, 8378, 154, 2261, "Output",ExpressionUUID->"6063feb5-1bee-4168-8c7e-67237849caf3"],
-Cell[23290, 529, 6536, 119, 1715, "Output",ExpressionUUID->"3bcc53a3-0a34-4694-b175-b2ee020dcc91"],
-Cell[29829, 650, 491, 7, 34, "Output",ExpressionUUID->"c86d4079-ba06-443e-b939-fc988b676a0a"]
+Cell[11686, 294, 3412, 82, 451, "Input",ExpressionUUID->"3f969449-edf4-4c2b-bfd2-7eb46e654ba9"],
+Cell[15101, 378, 8378, 154, 2261, "Output",ExpressionUUID->"6063feb5-1bee-4168-8c7e-67237849caf3"],
+Cell[23482, 534, 6536, 119, 1715, "Output",ExpressionUUID->"3bcc53a3-0a34-4694-b175-b2ee020dcc91"],
+Cell[30021, 655, 491, 7, 34, "Output",ExpressionUUID->"c86d4079-ba06-443e-b939-fc988b676a0a"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[30369, 663, 272, 6, 54, "Subsection",ExpressionUUID->"5d8b0a9b-5244-4b41-93f0-8f40c5863a80"],
-Cell[30644, 671, 220, 5, 35, "Text",ExpressionUUID->"bc2b643f-59b4-45b1-acbb-72717aa08a97"],
+Cell[30561, 668, 272, 6, 54, "Subsection",ExpressionUUID->"5d8b0a9b-5244-4b41-93f0-8f40c5863a80"],
+Cell[30836, 676, 220, 5, 35, "Text",ExpressionUUID->"bc2b643f-59b4-45b1-acbb-72717aa08a97"],
 Cell[CellGroupData[{
-Cell[30889, 680, 1413, 36, 199, "Input",ExpressionUUID->"cc0c90a6-3fb2-406a-b891-ab583ebd3e20"],
-Cell[32305, 718, 3261, 53, 413, "Output",ExpressionUUID->"2ea61aba-20f4-4ab8-8970-cd4637dd9a55"],
-Cell[35569, 773, 657, 13, 77, "Output",ExpressionUUID->"e175a0bb-68ed-4e5b-95dd-f6524363ea84"],
-Cell[36229, 788, 276, 5, 34, "Output",ExpressionUUID->"48a961c4-79a6-4bb5-9ced-920c0e4396c3"]
+Cell[31081, 685, 1413, 36, 199, "Input",ExpressionUUID->"cc0c90a6-3fb2-406a-b891-ab583ebd3e20"],
+Cell[32497, 723, 3261, 53, 413, "Output",ExpressionUUID->"2ea61aba-20f4-4ab8-8970-cd4637dd9a55"],
+Cell[35761, 778, 657, 13, 77, "Output",ExpressionUUID->"e175a0bb-68ed-4e5b-95dd-f6524363ea84"],
+Cell[36421, 793, 276, 5, 34, "Output",ExpressionUUID->"48a961c4-79a6-4bb5-9ced-920c0e4396c3"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[36554, 799, 271, 6, 54, "Subsection",ExpressionUUID->"bcc8456a-50fe-4c5e-86e4-47c077c86163"],
-Cell[36828, 807, 366, 8, 58, "Text",ExpressionUUID->"25c8f363-f196-487b-a524-6d6a717ebaae"],
+Cell[36746, 804, 271, 6, 54, "Subsection",ExpressionUUID->"bcc8456a-50fe-4c5e-86e4-47c077c86163"],
+Cell[37020, 812, 366, 8, 58, "Text",ExpressionUUID->"25c8f363-f196-487b-a524-6d6a717ebaae"],
 Cell[CellGroupData[{
-Cell[37219, 819, 723, 20, 94, "Input",ExpressionUUID->"431630f5-9770-4104-9655-dece1d2fb287"],
-Cell[37945, 841, 2758, 40, 371, "Output",ExpressionUUID->"f807e571-c854-4498-a25e-4cfcdcac80a4"],
-Cell[40706, 883, 180, 3, 34, "Output",ExpressionUUID->"2d98782e-1b25-4830-9c22-806d9d29efca"]
+Cell[37411, 824, 723, 20, 94, "Input",ExpressionUUID->"431630f5-9770-4104-9655-dece1d2fb287"],
+Cell[38137, 846, 2758, 40, 371, "Output",ExpressionUUID->"f807e571-c854-4498-a25e-4cfcdcac80a4"],
+Cell[40898, 888, 180, 3, 34, "Output",ExpressionUUID->"2d98782e-1b25-4830-9c22-806d9d29efca"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[41127, 897, 256, 4, 54, "Subsection",ExpressionUUID->"f2e8232e-7372-4c76-a4ff-941816bbc184"],
+Cell[41386, 903, 281, 6, 35, "Text",ExpressionUUID->"22c5e085-b7d9-4abf-907c-30357be6ef34"],
+Cell[CellGroupData[{
+Cell[41692, 913, 5102, 118, 703, "Input",ExpressionUUID->"087485e3-89b0-4cb7-9303-e2bbfdf6533e"],
+Cell[46797, 1033, 8116, 139, 1274, "Output",ExpressionUUID->"b9d3a43b-1cc0-465d-8fa4-48365e93e41e"],
+Cell[54916, 1174, 8156, 134, 1360, "Output",ExpressionUUID->"003388c6-a474-4446-b576-306bc437857c"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
