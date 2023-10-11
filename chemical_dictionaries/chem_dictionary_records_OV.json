@@ -64,7 +64,7 @@
     "CAS": "36949-57-2",
     "InChIKey": "HFVHOHNNXRSOBQ-UHFFFAOYSA-N",
     "InChI": "InChI=1S/C17H18N2O2/c1-18(14-9-5-3-6-10-14)16(20)13-17(21)19(2)15-11-7-4-8-12-15/h3-12H,13H2,1-2H3",
-    "SMILES": "CCOC(C)C1=C(C=CC(=C1)C)N(C2=CC=C(C=C2)C)C(=O)CC(=O)N",
+    "SMILES": "CN(C1=CC=CC=C1)C(=O)CC(=O)N(C)C2=CC=CC=C2",
     "PubchemCID": "10869752",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/10869752"
     },
