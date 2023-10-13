@@ -31,16 +31,6 @@
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/612"
     },
 {
-"names": ["Pentetic Acid, Diethylenetriaminepentaacetic Acid", "67-43-6", "DTPA", "Detapac, Detarex", "Titriplex V", "Perma"], 
-"pure substance": true,
-"CAS": "67-43-6",
-"SMILES": "C(CN(CC(=O)O)CC(=O)O)N(CCN(CC(=O)O)CC(=O)O)CC(=O)O",  
-"InChIKey": "QPCDCPDFJACHGM-UHFFFAOYSA-N", 
-"InChI": "InChI=1S/C14H23N3O10/c18-10(19)5-15(1-3-16(6-11(20)21)7-12(22)23)2-4-17(8-13(24)25)9-14(26)27/h1-9H2,(H,18,19)(H,20,21)(H,22,23)(H,24,25)(H,26,27)",
-"PubchemCID": "3053",
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3053"
-    },
-{
 "names": ["formic acid", "methanoic acid", "64-18-6", "formylic acid", "aminic acid"],
 "pure substance": true,
 "CAS": "64-18-16",
@@ -49,16 +39,6 @@
 "InChI": "InChI=1S/CH2O2/c2-1-3/h1H,(H,2,3)", 
 "PubchemCID": "284",
 "URL":"https://pubchem.ncbi.nlm.nih.gov/compound/284"
-    },
-{
-"names": ["Acetic Acid", "Ethanoic Acid", "64-19-7", "Glacial Acetic Acid", "Ethylic Acid", "Vinegar Acid"],
-"pure substance": true,
-"CAS": "64-19-7",
-"SMILES": "CC(=O)O",  
-"InChIKey": "QTBSBXVTEAMEQO-UHFFFAOYSA-N",  
-"InChI": "InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)",
-"PubchemCID": 176,  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/176"
     },
 {
 "names": ["Propionic Acid", "Propanoic Acid", "79-09-4", "Ethylformic Acid", "Methylacetic Acid", "Carboxyethane", "Metacetonic Acid", "Ethanecarboxylic Acid"], 
@@ -80,26 +60,6 @@
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/264"
     },
 {
-"names":["Glycolic Acid", "2-Hydroxyacetic Acid", "Hydroxyacetic Acid", "79-14-1", "Glycollic Acid","Hydroxyethanoic Acid", "Hydroxy-, Glycolate"], 
-"pure substance": true,
-"CAS": "79-14-1",
-"SMILES": "C(C(=O)O)O", 
-"InChIKey": "BDAGIHXWWSANSR-UHFFFAOYSA-N",
-"InChI": "InChI=1S/C2H4O3/c3-1-2(4)5/h3H,1H2,(H,4,5)",
-"PubchemCID": 757,  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/757"
-    },
-{
-"names": ["Citric Acid", "77-92-9", "Anhydrous, 2-Hydroxypropane-1,2,3-Tricarboxylic Acid", "Aciletten", "Anhydrous Citric Acid", "Citro", "Citretten"], 
-"pure substance": true,
-"CAS": "77-92-9",
-"SMILES": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O",  
-"InChIKey": "KRKNYBCHXYNGOX-UHFFFAOYSA-N",  
-"InChI": "InChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)",
-"PubchemCID": 311,  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/311"
-    },
-{
 "names": ["Malonic Acid", "Propanedioic Acid", "141-82-2", "Dicarboxymethane", "Carboxyacetic Acid", "Methanedicarboxylic Acid", "Kyselina Malonova", "USAF EK-695"], 
 "pure substance": true,
 "CAS": "141-82-2",
@@ -108,16 +68,6 @@
 "InChI": "InChI=1S/C3H4O4/c4-2(5)1-3(6)7/h1H2,(H,4,5)(H,6,7)",
 "PubchemCID": 867,  
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/867"
-    },
-{
-"names": ["a-Hydroxyisobutyric acid, 2-HYDROXYISOBUTYRIC ACID", "594-61-6", "2-Methyllactic Acid", "2-Hydroxy-2-Methylpropanoic Acid", "Acetonic Acid", "Alpha-Hydroxyisobutyric Acid", "2-Hydroxy-2-Methylpropionic Acid", "Hydroxydimethylacetic Acid"], 
-"pure substance": true,
-"CAS": "594-61-6",
-"SMILES": "CC(C)(C(=O)O)O",
-"InChIKey": "BWLBGMIXKSTLSX-UHFFFAOYSA-N", 
-"InChI": "InChI=1S/C4H8O3/c1-4(2,7)3(5)6/h7H,1-2H3,(H,5,6)",
-"PubchemCID": 11671,  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/11671"
     },
 {
 "names": ["Glycine", "2-Aminoacetic Acid", "56-40-6", "Aminoacetic Acid", "Glycocoll", "Aminoethanoic Acid", "Glycolixir", "H-Gly-OH"],
@@ -130,16 +80,6 @@
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/750"
     },
 {
-"names": ["1-Octanol","Octan-1-Ol", "Octanol", "111-87-5", "N-Octanol", "Octyl Alcohol", "Caprylic Alcohol", "Capryl"],
-"pure substance": true,
-"CAS": "111-87-5",
-"PubchemCID": "957",
-"SMILES": "CCCCCCCCO", 
-"InChIKey": "KBPLFHHGFOOTCA-UHFFFAOYSA-N",
-"InChI": "InChI=1S/C8H18O/c1-2-3-4-5-6-7-8-9/h9H,2-8H2,1H3",
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/957"
-    },
-{
 "names": ["NITROBENZENE", "98-95-3", "Nitrobenzol", "Nitro-benzene", "Essence Of Mirbane", "Nitrobenzeen", "Nitrobenzen"], 
 "pure substance": true,
 "CAS": "98-95-3",
@@ -147,18 +87,7 @@
 "InChIKey": "LQNUZADURLCDLV-UHFFFAOYSA-N",  
 "InChI": "InChI=1S/C6H5NO2/c8-7(9)6-4-2-1-3-5-6/h1-5H", 
 "PubchemCID": 7416,  
-"URL": " https://pubchem.ncbi.nlm.nih.gov/compound/7416"
-	},
-{
-"names": ["AMMONIUM NITRATE", "6484-52-2", "Norway Saltpeter", "Ammonium Nitricum","Ammonium Saltpeter", "Nitrate Of Ammonia", "Nitric Acid Ammonium Salt", "Azanium Nitrate"], 
-"pure substance": true,
-"CAS": "6484-52-2",
-"SMILES": "O=[N+]([O-])[O-].[N+]([H])([H])([H])[H]",
-"InChIKey": "DVARTQFDIMZBAA-UHFFFAOYSA-O" ,
-"InChI": "InChI=1S/NO3.H3N/c2-1(3)4;/h;1H3/q-1;/p+1",
-"PubchemCID": "22985",
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/22985"
-	},
+"URL": " https://pubchem.ncbi.nlm.nih.gov/compound/7416"},
 {
 "names": ["TPEN", "TPZEN", "1,N2,N2-tetrakis(pyrazin-2-ylmethyl)ethane-1,2-diamine", "1,2-Bis[bis(pyrazine-2-ylmethyl)amino]ethane", "SCHEMBL3320948"],
 "pure substance": true,
@@ -226,8 +155,8 @@
 "names": ["2-ethyl-1-hexyl(2-ethyl-1-hexyl)phosphonic acid", "HEH[EHP]", "2-ethylhexylphosphonic acid mono-2-ethylhexyl ester"],
 "pure substance": true,
 "CAS": "14082-03-0",
-"SMILES": "C(C)C(COP(O)(=O)CC(CCCC)CC)CCCC",
-"InChiKey": "ZDFBXXSHBTVQMB-UHFFFAOYSA-N",
+"SMILES": "CCCCC(CC)COP(=O)(CC(CC)CCCC)O",
+"InChIKey": "ZDFBXXSHBTVQMB-UHFFFAOYSA-N",
 "InChI": "InChI=1S/C16H35O3P/c1-5-9-11-15(7-3)13-19-20(17,18)14-16(8-4)12-10-6-2/h15-16H,5-14H2,1-4H3,(H,17,18)",
 "PubchemCID": "85771",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/85771"
@@ -276,44 +205,12 @@
 "names": ["1,3,5,7-tetramethylcyclooctane", "tetrapropylene", "hydrogen tetrapropylene"], 
 "pure substance": true,
 "CAS": "112724-95-5",
-"SMILES": "CCCCCCCCN(C)C(=O)C(CCCCCC)(C(=O)N(C)CCCCCCCC)OCC", 
+"SMILES": "CC1CC(CC(CC(C1)C)C)C", 
 "InChIKey": "BZJTUOGZUKFLQT-UHFFFAOYSA-N",  
 "InChI": "InChI=1S/C12H24/c1-9-5-10(2)7-12(4)8-11(3)6-9/h9-12H,5-8H2,1-4H3",
 "PubchemCID": "14028839",   
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/14028839"
 },
-
-    
-    {
-"names": ["1,4-DIISOPROPYLBENZENE", "100-18-5", "P-Diisopropylbenzene", "1,4-Bis(1-Methylethyl)- Benzene",  "P-Diisopropyl-P-Diisopropylbenzol", "1,4-Bis(1-Methylethyl)Benzene", "1,4-Di-Isopropylbenzene"], 
-"pure substance": true,
-"CAS": "100-18-5",
-"SMILES": "CC(C)C1=CC=C(C=C1)C(C)C",  
-"InChIKey": "SPPWGCYEYAMHDT-UHFFFAOYSA-N", 
-"InChI": "InChI=1S/C12H18/c1-9(2)11-5-7-12(8-6-11)10(3)4/h5-10H,1-4H3",
-"PubchemCID": "7486",  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/7486"
-    },
-{
-"names": ["HDEHP", "Bis(2-Ethylhexyl) Hydrogen Phosphate", "298-07-7", "BIS(2-ETHYLHEXYL) PHOSPHATE", "Hdehp", "Bis(2-Ethylhexyl)Phosphate", "Di(2-Ethylhexyl) Phosphate", "Di(2-Ethylhexyl)Phosphoric Acid", "Escaid 100"],
-"pure substance": true,
-"CAS":  "298-07-7",
-"SMILES": "CCCCC(CC)COP(=O)(O)OCC(CC)CCCC",  
-"InChIKey": "SEGLCEQVOFDUPX-UHFFFAOYSA-N",  
-"InChI": "InChI=1S/C16H35O4P/c1-5-9-11-15(7-3)13-19-21(17,18)20-14-16(8-4)12-10-6-2/h15-16H,5-14H2,1-4H3,(H,17,18)",  
-"PubchemCID": "9275",  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/9275"
-    },
-{
-"names": ["Lactic Acid", "2-Hydroxypropanoic Acid", "DL-Lactic Acid", "50-21-5", "2-Hydroxypropionic Acid", "Milk Acid", "Lactate", "Tonsillosan"], 
-"pure substance": true,
-"CAS": "50-21-5",
-"SMILES": "CC(C(=O)O)O", 
-"InChIKey": "JVTAAEKCZFNVCJ-UHFFFAOYSA-N",  
-"InChI": "InChI=1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)",
-"PubchemCID": "612",   
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/612"
-    },
 {
 "names": ["Pentetic Acid, Diethylenetriaminepentaacetic Acid", "67-43-6", "DTPA", "Detapac, Detarex", "Titriplex V", "Perma"], 
 "pure substance": true,
@@ -323,16 +220,6 @@
 "InChI": "InChI=1S/C14H23N3O10/c18-10(19)5-15(1-3-16(6-11(20)21)7-12(22)23)2-4-17(8-13(24)25)9-14(26)27/h1-9H2,(H,18,19)(H,20,21)(H,22,23)(H,24,25)(H,26,27)",
 "PubchemCID": "3053",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3053"
-    },
-{
-"names": ["formic acid", "methanoic acid", "64-18-6", "formylic acid", "aminic acid"],
-"pure substance": true,
-"CAS": "64-18-16",
-"SMILES": "C(=O)O",
-"InChIKey": "BDAGIHXWWSANSR-UHFFFAOYSA-N",  
-"InChI": "InChI=1S/CH2O2/c2-1-3/h1H,(H,2,3)", 
-"PubchemCID": "284",
-"URL":"https://pubchem.ncbi.nlm.nih.gov/compound/284"
     },
 {
 "names": ["Acetic Acid", "Ethanoic Acid", "64-19-7", "Glacial Acetic Acid", "Ethylic Acid", "Vinegar Acid"],
@@ -345,30 +232,11 @@
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/176"
     },
 {
-"names": ["Propionic Acid", "Propanoic Acid", "79-09-4", "Ethylformic Acid", "Methylacetic Acid", "Carboxyethane", "Metacetonic Acid", "Ethanecarboxylic Acid"], 
-"pure substance": true,
-"SMILES": "CCC(=O)O", 
-"InChIKey": "XBDQKXXYIPTUBI-UHFFFAOYSA-N", 
-"InChI": "InChI=1S/C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)",
-"PubchemCID": 1032,
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1032"
-    },
-{
-"names": ["Butyric Acid", "Butanoic Acid", "107-92-6", "N-Butyric Acid", "N-Butanoic Acid", "Propylformic Acid", "Ethylacetic Acid", "Butyrate"],
-"pure substance": true,
-"CAS": "107-92-6",
-"SMILES": "CCCC(=O)O",  
-"InChIKey": "FERIUCNNQQJTOY-UHFFFAOYSA-N", 
-"InChI": "InChI=1S/C4H8O2/c1-2-3-4(5)6/h2-3H2,1H3,(H,5,6)",
-"PubchemCID": 264,  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/264"
-    },
-{
 "names":["Glycolic Acid", "2-Hydroxyacetic Acid", "Hydroxyacetic Acid", "79-14-1", "Glycollic Acid","Hydroxyethanoic Acid", "Hydroxy-, Glycolate"], 
 "pure substance": true,
 "CAS": "79-14-1",
 "SMILES": "C(C(=O)O)O", 
-"InChIKey": "BDAGIHXWWSANSR-UHFFFAOYSA-N",
+"InChIKey": "AEMRFAOFKBGASW-UHFFFAOYSA-N",
 "InChI": "InChI=1S/C2H4O3/c3-1-2(4)5/h3H,1H2,(H,4,5)",
 "PubchemCID": 757,  
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/757"
@@ -384,16 +252,6 @@
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/311"
     },
 {
-"names": ["Malonic Acid", "Propanedioic Acid", "141-82-2", "Dicarboxymethane", "Carboxyacetic Acid", "Methanedicarboxylic Acid", "Kyselina Malonova", "USAF EK-695"], 
-"pure substance": true,
-"CAS": "141-82-2",
-"SMILES": "C(C(=O)O)C(=O)O", 
-"InChIKey": "OFOBLEOULBTSOW-UHFFFAOYSA-N",
-"InChI": "InChI=1S/C3H4O4/c4-2(5)1-3(6)7/h1H2,(H,4,5)(H,6,7)",
-"PubchemCID": 867,  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/867"
-    },
-{
 "names": ["a-Hydroxyisobutyric acid, 2-HYDROXYISOBUTYRIC ACID", "594-61-6", "2-Methyllactic Acid", "2-Hydroxy-2-Methylpropanoic Acid", "Acetonic Acid", "Alpha-Hydroxyisobutyric Acid", "2-Hydroxy-2-Methylpropionic Acid", "Hydroxydimethylacetic Acid"], 
 "pure substance": true,
 "CAS": "594-61-6",
@@ -402,16 +260,6 @@
 "InChI": "InChI=1S/C4H8O3/c1-4(2,7)3(5)6/h7H,1-2H3,(H,5,6)",
 "PubchemCID": 11671,  
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/11671"
-    },
-{
-"names": ["Glycine", "2-Aminoacetic Acid", "56-40-6", "Aminoacetic Acid", "Glycocoll", "Aminoethanoic Acid", "Glycolixir", "H-Gly-OH"],
-"pure substance": false,
-"CAS":"56-40-6",
-"SMILES": "C(C(=O)O)N",  
-"InChIKey": "DHMQDGOQFOQNFH-UHFFFAOYSA-N",  
-"InChI": "InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)",  
-"PubchemCID": 750,  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/750"
     },
 {
 "names": ["1-Octanol","Octan-1-Ol", "Octanol", "111-87-5", "N-Octanol", "Octyl Alcohol", "Caprylic Alcohol", "Capryl"],
@@ -424,113 +272,17 @@
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/957"
     },
 {
-"names": ["NITROBENZENE", "98-95-3", "Nitrobenzol", "Nitro-benzene", "Essence Of Mirbane", "Nitrobenzeen", "Nitrobenzen"], 
-"pure substance": true,
-"CAS": "98-95-3",
-"SMILES": "C1=CC=C(C=C1)[N+](=O)[O-]",  
-"InChIKey": "LQNUZADURLCDLV-UHFFFAOYSA-N",  
-"InChI": "InChI=1S/C6H5NO2/c8-7(9)6-4-2-1-3-5-6/h1-5H", 
-"PubchemCID": 7416,  
-"URL": " https://pubchem.ncbi.nlm.nih.gov/compound/7416"
-	},
-{
 "names": ["AMMONIUM NITRATE", "6484-52-2", "Norway Saltpeter", "Ammonium Nitricum","Ammonium Saltpeter", "Nitrate Of Ammonia", "Nitric Acid Ammonium Salt", "Azanium Nitrate"], 
 "pure substance": true,
 "CAS": "6484-52-2",
-"SMILES": "O=[N+]([O-])[O-].[N+]([H])([H])([H])[H]",
+"SMILES": "[N+](=O)([O-])[O-].[NH4+]",
 "InChIKey": "DVARTQFDIMZBAA-UHFFFAOYSA-O" ,
 "InChI": "InChI=1S/NO3.H3N/c2-1(3)4;/h;1H3/q-1;/p+1",
 "PubchemCID": "22985",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/22985"
 	},
 {
-"names": ["TPEN", "TPZEN", "1,N2,N2-tetrakis(pyrazin-2-ylmethyl)ethane-1,2-diamine", "1,2-Bis[bis(pyrazine-2-ylmethyl)amino]ethane", "SCHEMBL3320948"],
-"pure substance": true,
-"SMILES": "N1=C(C=NC=C1)CN(CCN(CC1=NC=CN=C1)CC1=NC=CN=C1)CC1=NC=CN=C1",
-"InChIKey": "KZPDJENXRHZMGL-UHFFFAOYSA-N",
-"InChI": "InChI=1S/C22H24N10/c1-5-27-19(11-23-1)15-31(16-20-12-24-2-6-28-20)9-10-32(17-21-13-25-3-7-29-21)18-22-14-26-4-8-30-22/h1-8,11-14H,9-10,15-18H2",
-"PubChemCID":	"58225637",
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/58225637"
-	},
-{
-"names": ["c-tpcn", "(1R,2S)-N1,N1,N2,N2-tetrakis(pyridin-2-ylmethyl)cyclohexane-1,2-diamine", "N,N,N',N'-tetrakis(2-methylpyridyl)-cis-1,2-diaminocyclohexane"],
-"pure substance": true,
-"SMILES": "N1=C(C=CC=C1)CN([C@H]1[C@H](CCCC1)N(CC1=NC=CC=C1)CC1=NC=CC=C1)CC1=NC=CC=C1",
-"InChIKey": "UQLASUALFZVGHF-RNPORBBMSA-N",
-"InChI": "InChI=1S/C30H34N6/c1-2-16-30(36(23-27-13-5-9-19-33-27)24-28-14-6-10-20-34-28)29(15-1)35(21-25-11-3-7-17-31-25)22-26-12-4-8-18-32-26/h3-14,17-20,29-30H,1-2,15-16,21-24H2/t29-,30+",
-"URL": "https://opsin.ch.cam.ac.uk/"
-	},
-{
-"names": ["t-tpcn", "(1S,2S)-N1,N1,N2,N2-tetrakis(pyridin-2-ylmethyl)cyclohexane-1,2-diamine", "N,N,N',N'-tetrakis(2-methylpyridyl)-trans-1,2-diaminocyclohexane"],
-"pure substance": true,
-"SMILES": "N1=C(C=CC=C1)CN([C@@H]1[C@H](CCCC1)N(CC1=NC=CC=C1)CC1=NC=CC=C1)CC1=NC=CC=C1",
-"InChIKey": "UQLASUALFZVGHF-KYJUHHDHSA-N",
-"InChI": "InChI=1S/C30H34N6/c1-2-16-30(36(23-27-13-5-9-19-33-27)24-28-14-6-10-20-34-28)29(15-1)35(21-25-11-3-7-17-31-25)22-26-12-4-8-18-32-26/h3-14,17-20,29-30H,1-2,15-16,21-24H2/t29-,30-/m0/s1",
-"URL": "https://opsin.ch.cam.ac.uk/"
-	},
-{
-"names": ["tpdben", "N5,N5,N6,N6-tetrakis(pyridin-2-ylmethyl)decane-5,6-diamine", "N,N,N',N'-tetrakis(2-methylpyridyl)-dibutylethylenediamine"],
-"pure substance": true,
-"SMILES": "N1=C(C=CC=C1)CN(C(CCCC)C(CCCC)N(CC1=NC=CC=C1)CC1=NC=CC=C1)CC1=NC=CC=C1",
-"InChIKey": "LNCOHMATSYURAP-UHFFFAOYSA-N",
-"InChI": "InChI=1S/C34H44N6/c1-3-5-19-33(39(25-29-15-7-11-21-35-29)26-30-16-8-12-22-36-30)34(20-6-4-2)40(27-31-17-9-13-23-37-31)28-32-18-10-14-24-38-32/h7-18,21-24,33-34H,3-6,19-20,25-28H2,1-2H3",
-"URL": "https://opsin.ch.cam.ac.uk/"
-},
-{
-"names": ["compound sodium lactate solution", "SODIUM LACTATE", "72-17-3", "Sodium DL-lactate", "Lactic acid sodium salt"],
-"pure substance": false,
-"CAS": "72-17-3",
-"SMILES": "CC(C(=O)[O-])O.[Na+]",
-"InChIKey": "NGSFWBMYFKHRBD-UHFFFAOYSA-M",
-"InChI": "InChI=1S/C3H6O3.Na/c1-2(4)3(5)6;/h2,4H,1H3,(H,5,6);/q;+1/p-1",
-"PubchemCID":"23666456",
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/23666456"
-},
-{
-"names": ["150-39-0", "N-(2-Hydroxyethyl)Ethylenediaminetriacetic Acid", "HEDTA", "Heedta", "Versenol", "Detarol", "CHEL DM Acid", "Versenol 120"],
-"pure substance": true,
-"CAS": "150-39-0",
-"SMILES": "C(CN(CC(=O)O)CC(=O)O)N(CCO)CC(=O)O",
-"InChIKey": "URDCARMUOSMFFI-UHFFFAOYSA-N",
-"InChI": "InChI=1S/C10H18N2O7/c13-4-3-11(5-8(14)15)1-2-12(6-9(16)17)7-10(18)19/h13H,1-7H2,(H,14,15)(H,16,17)(H,18,19)",
-"PubchemCID": "8773",
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8773" 
-},
-{
-"names": ["869-52-3", "TTHA", "Triethylenetetramine-N,N,N',N'',N''',N'''-Hexaacetic Acid", "3,6,9,12-Tetraazatetradecanedioic Acid, 3,6,9,12-Tetrakis(Carboxymethyl)-, Hexaacetic Acid", "3,6,9,12-Tetrakis(Carboxymethyl)-3,6,9,12-Tetraazatetradecane-1,14-Dioic Acid", "2-[2-[Bis(Carboxymethyl)Amino]Ethyl-[2-[2-[Bis(Carboxymethyl)Amino]Ethyl-(Carboxymethyl)Amino]Ethyl]Amino]Acetic Acid", "3,6,9,12-Tetrakis(Carboxymethyl)-3,6,9,12-Tetraazatetradecanedioic Acid"],
-"pure substance": true,
-"CAS": "869-52-3",
-"SMILES": "C(CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O)N(CCN(CC(=O)O)CC(=O)O)CC(=O)O",
-"InChIKey": "RAEOEMDZDMCHJA-UHFFFAOYSA-N",
-"InChI": "InChI=1S/C18H30N4O12/c23-13(24)7-19(3-5-21(9-15(27)28)10-16(29)30)1-2-20(8-14(25)26)4-6-22(11-17(31)32)12-18(33)34/h1-12H2,(H,23,24)(H,25,26)(H,27,28)(H,29,30)(H,31,32)(H,33,34)",
-"PubchemCID": "70088",
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70088"    
-},
-{
-"names": ["2-ethyl-1-hexyl(2-ethyl-1-hexyl)phosphonic acid", "HEH[EHP]", "2-ethylhexylphosphonic acid mono-2-ethylhexyl ester"],
-"pure substance": true,
-"CAS": "14082-03-0",
-"SMILES": "C(C)C(COP(O)(=O)CC(CCCC)CC)CCCC",
-"InChiKey": "ZDFBXXSHBTVQMB-UHFFFAOYSA-N",
-"InChI": "InChI=1S/C16H35O3P/c1-5-9-11-15(7-3)13-19-20(17,18)14-16(8-4)12-10-6-2/h15-16H,5-14H2,1-4H3,(H,17,18)",
-"PubchemCID": "85771",
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/85771"
-},
-{
-"names": ["DODECANE", "n-Dodecane", "112-40-3", "Dihexyl", "Bihexyl", "Adakane 12", "N-Dodecan", "93685-81-5"],
-"pure stubstance": true,
-"CAS": "112-40-3",
-"SMILES": "CCCCCCCCCCCC",
-"InChIKey": "SNRUBQQJIBEYMU-UHFFFAOYSA-N",
-"InChI": "InChI=1S/C12H26/c1-3-5-7-9-11-12-10-8-6-4-2/h3-12H2,1-2H3",
-"PubchemCID": "8182",
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8182"
-},
-{
-
-},
-{
-"names": ["2,2'-Oxybis(N,N-dioctylacetamide)", "342794-43-8", "Acetamide", "2,2'-oxybis[N,N-dioctyl-2-[2-(dioctylamino)-2-oxoethoxy]-N,N-dioctylacetamide", "MFCD23135286"],
+"names": ["2,2'-Oxybis(N,N-dioctylacetamide)", "342794-43-8", "2,2'-oxybis[N,N-dioctyl-2-[2-(dioctylamino)-2-oxoethoxy]-N,N-dioctylacetamide", "MFCD23135286"],
 "pure substance": true,
 "CAS": "112724-95-5",
 "SMILES": "CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC",
@@ -615,7 +367,7 @@
     "pure substance": true,
     "CAS": "7313-22-6",
     "InChIKey": "QTVRIQFMPJRJAK-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C7H14N2O2/c1-8(2)6(10)5-7(11)9(3)4/h5H2,1-4H3",
+    "InChI": "InChI=1S/C19H38N2O2/c1-5-9-13-20(14-10-6-2)18(22)17-19(23)21(15-11-7-3)16-12-8-4/h5-17H2,1-4H3",
     "SMILES": "O=C(CC(N(CCCC)CCCC)=O)N(CCCC)CCCC",
     "PubchemCID": "10975767",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/N_N_N_N_-Tetramethylmalonamide"
@@ -683,26 +435,6 @@
 "InChI": "InChI=1S/C27H54N2O2/c1-6-9-12-15-17-20-23-28(4)26(30)25(22-19-14-11-8-3)27(31)29(5)24-21-18-16-13-10-7-2/h25H,6-24H2,1-5H3",
 "PubchemCID": "missing",  
 "URL": "missing"},
-
-{
-    "names": [
-           "Propanediamide, 2-[2-(hexyloxy)ethyl]-N,N'-dimethyl-N,N'-dioctyl",
-           "2-[2-(Hexyloxy)ethyl]-N~1~,N~3~-dimethyl-N~1~,N~3~-dioctylpropanediamide",
-           "107513-23-5",
-           "SCHEMBL16741947",
-           "DTXSID80552274",
-           "2-(2-hexoxyethyl)-N,N'-dimethyl-N,N'-dioctylpropanediamide"
-    ],
-    "pure substance": true,
-    "CAS": "107513-23-5",
-    "InChIKey": "QEHSHNRQHFAQEH-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C29H58N2O3/c1-6-9-12-15-17-19-23-30(4)28(32)27(22-26-34-25-21-14-11-8-3)29(33)31(5)24-20-18-16-13-10-7-2/h27H,6-26H2,1-5H3",
-    "SMILES": "CN(CCCCCCCC)C(C(CCOCCCCCC)C(N(CCCCCCCC)C)=O)=O",
-    "PubchemCID": "13906811",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/13906811"
-},
-
-
 {
     "names": ["N,N′-dimethyl-N,N′-didodecyldiglycolamide"],
     "pure substance": true,
@@ -787,23 +519,10 @@
     "CAS": "669087-46-1",
     "InChIKey": "VPFLXOBLAVYUSW-UHFFFAOYSA-N",
     "InChI": "InChI=1S/C36H72N2O3/c1-9-17-21-29(13-5)25-35(33(37)39,26-30(14-6)22-18-10-2)41-36(34(38)40,27-31(15-7)23-19-11-3)28-32(16-8)24-20-12-4/h29-32H,9-28H2,1-8H3,(H2,37,39)(H2,38,40)",
-    "SMILES": "O=C(COCC(N(CC(CC)CCCC)CC(CC)CCCC)=O)N(CC(CC)CCCC)CC(CC)CCCC",
+    "SMILES": "CCCCC(CC)CC(CC(CC)CCCC)(C(=N)O)OC(CC(CC)CCCC)(CC(CC)CCCC)C(=N)O",
     "PubchemCID": "missing",
     "URL": "missing"
 },
-
-{
-    "names": ["Bis(2-ethylhexyl) hydrogen phosphate","298-07-7", "BIS(2-ETHYLHEXYL) PHOSPHATE","Hdehp", "Di(2-ethylhexyl) phosphate"
-    ],
-    "pure substance": true,
-    "CAS": "298-07-7",
-    "InChIKey": "SEGLCEQVOFDUPX-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C16H35O4P/c1-5-9-11-15(7-3)13-19-21(17,18)20-14-16(8-4)12-10-6-2/h15-16H,5-14H2,1-4H3,(H,17,18)",
-    "SMILES": "CCCCC(CC)COP(=O)(O)OCC(CC)CCCC",
-    "PubchemCID": "9275",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/9275"
-},
-
 
 {
     "names": ["tetraethyl (1,10-phenanthroline-2,9-diyl)phosphonate", "(1,10-phenanthrolin-2,9-diyl) phosphonate", ""],
@@ -963,21 +682,6 @@
        "PubchemCID": "139173618",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/139173618"
 },
-
-{
-       "names": ["N6,N6'-bis(2,4-dimethylphenyl)-N6,N6'-diethyl-[2,2'-bipyridine]-6,6'-dicarboxamide", "N-(2,5-dimethylphenyl)-6-[6-[(2,5-dimethylphenyl)-ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide"],
-       "pure substance": false,
-       "CAS": "missing",
-       "InChIKey": "BNKPOTVRINVBDS-UHFFFAOYSA-N",
-       "InChI": "InChI=1S/C32H34N4O2/c1-7-35(29-19-21(3)15-17-23(29)5)31(37)27-13-9-11-25(33-27)26-12-10-14-28(34-26)32(38)36(8-2)30-20-22(4)16-18-24(30)6/h9-20H,7-8H2,1-6H3",
-       "SMILES": "O=C(N(C1=CC(C)=CC=C1C)CC)C2=NC(C3=CC=CC(C(N(CC)C4=CC(C)=CC=C4C)=O)=N3)=CC=C2",
-       "PubchemCID": "139173618",
-       "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/139173618"
-
-},
-
-
-
 {
        "names": ["N6,N6'-bis(3,4-dimethylphenyl)-N6,N6'-diethyl-[2,2'-bipyridine]-6,6'-dicarboxamide", "N-(3,4-dimethylphenyl)-6-[6-[(3,4-dimethylphenyl)-ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide"],
        "pure substance": false,
@@ -1074,7 +778,7 @@
        "names": ["dimethylsulfoxide", "Methyl sulfoxide", "DMSO", "Methylsulfinylmethane"],
        "pure substance": false,
        "CAS": "67-68-5",
-       "InChIKey": "STCOOQWBFONSKY-UHFFFAOYSA-N",
+       "InChIKey": "IAZDPXIOMUYVGZ-UHFFFAOYSA-N",
        "InChI": "InChI=1S/C12H27O4P/c1-4-7-10-14-17(13,15-11-8-5-2)16-12-9-6-3/h4-12H2,1-3H3",
        "SMILES": "CCCCOP(=O)(OCCCC)OCCCC",
        "PubchemCID": "31357",

@@ -155,20 +155,6 @@
 },
     {
     "names": [
-           "DODECANE ",
-           " n-Dodecane",
-           "Dihexyl"
-    ],
-    "pure substance": true,
-    "CAS": "112-40-3",
-    "InChIKey": "SNRUBQQJIBEYMU-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C12H26/c1-3-5-7-9-11-12-10-8-6-4-2/h3-12H2,1-2H3",
-    "SMILES": "CCCCCCCCCCCC",
-    "PubchemCID": "8182",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dodecane#section=InChI"
-},
-    {
-    "names": [
            "HEPTANE   ",
            "n-Heptane",
            "Heptan"
@@ -209,31 +195,6 @@
     "PubchemCID": "241",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzene#section=InChI"
 },
-    {
-
-    "names": [
-           "TRIBUTYL PHOSPHATE   ",
-           "Tri-n-butyl phosphate",
-           "Tributylphosphate"
-    ],
-    "pure substance": true,
-    "CAS": "126-73-8",
-    "InChIKey": "STCOOQWBFONSKY-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C12H27O4P/c1-4-7-10-14-17(13,15-11-8-5-2)16-12-9-6-3/h4-12H2,1-3H3",
-    "SMILES": "CCCCOP(=O)(OCCCC)OCCCC",
-    "PubchemCID": "31357",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/31357#section=InChIKey"
-},
-    {
-    "names": ["HDEHP", "Bis(2-Ethylhexyl) Hydrogen Phosphate", "298-07-7", "BIS(2-ETHYLHEXYL) PHOSPHATE", "Hdehp", "Bis(2-Ethylhexyl)Phosphate", "Di(2-Ethylhexyl) Phosphate", "Di(2-Ethylhexyl)Phosphoric Acid", "Escaid 100"],
-    "pure substance": true,
-    "CAS":  "298-07-7",
-    "SMILES": "CCCCC(CC)COP(=O)(O)OCC(CC)CCCC",  
-    "InChIKey": "SEGLCEQVOFDUPX-UHFFFAOYSA-N",  
-    "InChI": "InChI=1S/C16H35O4P/c1-5-9-11-15(7-3)13-19-21(17,18)20-14-16(8-4)12-10-6-2/h15-16H,5-14H2,1-4H3,(H,17,18)",  
-    "PubchemCID": "9275",  
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/9275"
-        },
     {
     "names": [
          "CHLOROFORM  ",
@@ -317,7 +278,7 @@
     "CAS": "MISSING",
     "InChIKey": "SNDPSFAOXBZUOZ-UHFFFAOYSA-N",
     "InChI": "InChI=1S/C28H56N2O3/c1-7-11-15-17-19-25(5)29(21-13-9-3)27(31)23-33-24-28(32)30(22-14-10-4)26(6)20-18-16-12-8-2/h25-26H,7-24H2,1-6H3",
-    "SMILES": "O(CC(=O)N(CCCC)C(C)CCCCC)CC(=O)N(C(C)CCCCC)CCCC",
+    "SMILES": "C(C(C(C(C(C(C(C([H])([H])[H])(N(C(C(C(C([H])([H])[H])([H])[H])([H])[H])([H])[H])C(=O)C(OC(C(=O)N(C(C(C(C([H])([H])[H])([H])[H])([H])[H])([H])[H])C(C([H])([H])[H])(C(C(C(C(C(C([H])([H])[H])([H])[H])([H])[H])([H])[H])([H])[H])([H])[H])[H])([H])[H])([H])[H])[H])([H])[H])([H])[H])([H])[H])([H])[H])([H])[H])([H])([H])[H]",
     "PubchemCID": "MISSING",
     "URL": "MISSING"
 },
@@ -529,8 +490,8 @@
     ],
     "pure substance": true,
     "CAS": "MISSING",
-    "InChIKey": "UASDBTAQQPJEMV-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C30H28N4O2/c1-3-30(29(36)31-23-11-7-5-8-12-23)20-19-22-16-15-21-17-18-25(32-26(21)27(22)33-30)28(35)34(4-2)24-13-9-6-10-14-24/h5-20,33H,3-4H2,1-2H3,(H,31,36)",
+    "InChIKey": "ZPAXFEDVPXNDJL-UHFFFAOYSA-N",
+    "InChI": "InChI=1S/C30H26N4O2/c1-3-33(23-11-7-5-8-12-23)29(35)25-19-17-21-15-16-22-18-20-26(32-28(22)27(21)31-25)30(36)34(4-2)24-13-9-6-10-14-24/h5-20H,3-4H2,1-2H3",
     "SMILES": "C(C)N(C(=O)C1=NC2=C3N=C(C=CC3=CC=C2C=C1)C(=O)N(C1=CC=CC=C1)CC)C1=CC=CC=C1",
     "PubchemCID": "MISSING",
     "URL": "MISSING"
@@ -593,20 +554,6 @@
     "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/354701200"
 },
 
-{
-    "names": [
-           "BLPhen",
-            "2,11-dihexyl-3,4,9,10-tetraphenyl-2,11-dihydrodipyrido[3,4-b:4',3'-j][1,10]phenanthroline-1,12-dione"
-        
-    ],
-    "pure substance": true,
-    "CAS": "MISSING",
-    "InChIKey": "QSFRTQJEHPGZSO-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C54H50N4O2/c1-3-5-7-21-33-57-51(39-27-17-11-18-28-39)45(37-23-13-9-14-24-37)43-35-41-31-32-42-36-44-46(38-25-15-10-16-26-38)52(40-29-19-12-20-30-40)58(34-22-8-6-4-2)54(60)50(44)56-48(42)47(41)55-49(43)53(57)59/h9-20,23-32,35-36H,3-8,21-22,33-34H2,1-2H3",
-    "SMILES": "C(CCCCC)N1C(C2=NC3=C4N=C5C(=CC4=CC=C3C=C2C(=C1C1=CC=CC=C1)C1=CC=CC=C1)C(=C(N(C5=O)CCCCCC)C5=CC=CC=C5)C5=CC=CC=C5)=O",
-    "PubchemCID": "MISSING",
-    "URL": "MISSING"
-},
 
 {
     "names": [
@@ -697,10 +644,7 @@
     "PubchemCID": "MISSING",
     "URL": "MISSING"
 },
-
-
-
-    {
+{
     "names": [
            "DODECANE   ",
            "n-Dodecane",
@@ -876,9 +820,9 @@
     ],
     "pure substance": true,
     "CAS": "MISSING",
-    "InChIKey": "InChI=1S/C25H25N5/c1-2-3-4-9-17-30-23-16-8-7-13-20(23)29-25(30)22-15-10-14-21(26-22)24-27-18-11-5-6-12-19(18)28-24/h5-8,10-16H,2-4,9,17H2,1H3,(H,27,28)",
+    "InChIKey": "FWLXBDMJKCVOTQ-UHFFFAOYSA-N",
     "InChI": "InChI=1S/C25H25N5/c1-2-3-4-9-17-30-23-16-8-7-13-20(23)29-25(30)22-15-10-14-21(26-22)24-27-18-11-5-6-12-19(18)28-24/h5-8,10-16H,2-4,9,17H2,1H3,(H,27,28)",
-    "SMILES": "N1C(=NC2=C1C=CC=C2)C2=CC=CC(=N2)C2=NC1=C(N2CCCCCC)C=CC=C1",
+    "SMILES": "C(C(C(C(C(C(n1c(-c2c([H])c([H])c([H])c(-c3nc4c([H])c([H])c([H])c([H])c4n3[H])n2)nc2c([H])c([H])c([H])c([H])c12)([H])[H])([H])[H])([H])[H])([H])[H])([H])[H])([H])([H])[H]",
     "PubchemCID": "MISSING",
     "URL": "MISSING"
 },
@@ -890,11 +834,11 @@
     ],
     "pure substance": true,
     "CAS": "MISSING",
-    "InChIKey": "ZXIZCPCBUVGMMQ-UHFFFAOYSA-N)",
+    "InChIKey": "ZXIZCPCBUVGMMQ-UHFFFAOYSA-N",
     "InChI": "InChI=1S/C31H37N5O/c1-2-3-4-5-6-7-8-9-10-15-20-37-23-21-28(30-33-24-16-11-12-17-25(24)34-30)32-29(22-23)31-35-26-18-13-14-19-27(26)36-31/h11-14,16-19,21-22H,2-10,15,20H2,1H3,(H,33,34)(H,35,36)",
-    "SMILES": "N1C(=NC2=C1C=CC=C2)C2=CC(=CC(=N2)C2=NC1=C(N2)C=CC=C1)OCCCCCCCCCCCC",
-    "PubchemCID": "MISSING",
-    "URL": "MISSING"
+    "SMILES": "CCCCCCCCCCCCOC1=CC(=NC(=C1)C2=NC3=CC=CC=C3N2)C4=NC5=CC=CC=C5N4",
+    "PubchemCID": "85994118",
+    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/85994118"
 },
 {
     "names": [
@@ -906,7 +850,7 @@
     "CAS": "MISSING",
     "InChIKey": "UQSLRNLLBLUSIF-UHFFFAOYSA-N",
     "InChI": "InChI=1S/C31H35N3OS2/c1-2-3-4-5-6-7-8-9-10-15-20-35-23-21-26(30-33-24-16-11-13-18-28(24)36-30)32-27(22-23)31-34-25-17-12-14-19-29(25)37-31/h11-14,16-19,21-22H,2-10,15,20H2,1H3",
-    "SMILES": "S1C(=NC2=C1C=CC=C2)C2=CC(=CC(=N2)C=2SC1=C(N2)C=CC=C1)OCCCCCCCCCCCCF",
+    "SMILES": "CCCCCCCCCCCCOC1=CC(=NC(=C1)C2=NC3=CC=CC=C3S2)C4=NC5=CC=CC=C5S4",
     "PubchemCID": "135021846",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/135021846"
 }

@@ -33,7 +33,7 @@
     "pure substance": true,
     "CAS": "17455-13-9",
     "InChIKey": "XEZNGIUYQVAUSS-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C11H7N7/c1-2-8(9-3-6-13-17-15-9)11(12-5-1)10-4-7-14-18-16-10/h1-7H",
+    "InChI": "InChI=1S/C12H24O6/c1-2-14-5-6-16-9-10-18-12-11-17-8-7-15-4-3-13-1/h1-12H2",
     "SMILES": "C1COCCOCCOCCOCCOCCO1",
     "PubchemCID": "28557",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/28557"
@@ -49,7 +49,7 @@
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/66808829"
     },
     {
-    "names": ["N,N,N’,N’-tetraoctyl-diglycolamide", "TODGA", "2,2'-Oxybis(N,N-dioctylacetamide)", "342794-43-8", "Acetamide"],
+    "names": ["N,N,N’,N’-tetraoctyl-diglycolamide", "TODGA", "2,2'-Oxybis(N,N-dioctylacetamide)", "342794-43-8"],
     "pure substance": true,
     "CAS": "342794-43-8",
     "InChIKey": "VRZYWIAVUGQHKB-UHFFFAOYSA-N",
@@ -64,19 +64,9 @@
     "CAS": "36949-57-2",
     "InChIKey": "HFVHOHNNXRSOBQ-UHFFFAOYSA-N",
     "InChI": "InChI=1S/C17H18N2O2/c1-18(14-9-5-3-6-10-14)16(20)13-17(21)19(2)15-11-7-4-8-12-15/h3-12H,13H2,1-2H3",
-    "SMILES": "CCOC(C)C1=C(C=CC(=C1)C)N(C2=CC=C(C=C2)C)C(=O)CC(=O)N",
+    "SMILES": "CN(C1=CC=CC=C1)C(=O)CC(=O)N(C)C2=CC=CC=C2",
     "PubchemCID": "10869752",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/10869752"
-    },
-    {
-    "names": ["N,N'-dimethyl- N,N'-diphenyl-diglycolamide", "DGA"],
-    "pure substance": true,
-    "CAS": "missing",
-    "InChIKey": "HIELYQQIYOVIAZ-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C18H20N2O3/c1-19(15-9-5-3-6-10-15)17(21)13-23-14-18(22)20(2)16-11-7-4-8-12-16/h3-12H,13-14H2,1-2H3",
-    "SMILES": "CN(C(COCC(N(C(C)=C)C)=O)=O)C1=CC=CC=C1.C",
-    "PubchemCID": "missing",
-    "URL": "https://opsin.ch.cam.ac.uk"
     },
     {
     "names": ["Quercetin", "117-39-5", "Meletin", "Sophoretin", "Quercetine"],
@@ -99,7 +89,7 @@
     "URL": "https://opsin.ch.cam.ac.uk"
  },
  {
-    "names": ["2,2'-oxybis(N-methyl-N-phenylacetamide)", "N,N'-dimethyl-N,N'-diphenyl-3-oxapentanediamide", "150369-70-3", "2,2'-Oxybis(N-methyl-N-phenylacetamide)", "DTXSID50680492"],
+    "names": ["2,2'-oxybis(N-methyl-N-phenylacetamide)", "N,N'-dimethyl-N,N'-diphenyl-3-oxapentanediamide", "150369-70-3", "2,2'-Oxybis(N-methyl-N-phenylacetamide)", "DTXSID50680492", "DGA"],
     "pure substance": true,
     "CAS": "150369-70-3",
     "InChIKey": "HIELYQQIYOVIAZ-UHFFFAOYSA-N",
@@ -109,7 +99,7 @@
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/52558674"
 },
 {
-    "names": [" 2,2'-oxybis(N,N-dibutylacetamide)", "82846-38-6", "N,N-dibutyl-2-[2-(dibutylamino)-2-oxoethoxy]acetamide", "Acetamide", "2,2'-oxybis[N,N-dibutyl-"],
+    "names": [" 2,2'-oxybis(N,N-dibutylacetamide)", "82846-38-6", "N,N-dibutyl-2-[2-(dibutylamino)-2-oxoethoxy]acetamide", "2,2'-oxybis[N,N-dibutyl-"],
     "pure substance": true,
     "CAS": "82846-38-6",
     "InChIKey": "YFMTUEQOIRXZOE-UHFFFAOYSA-N",
@@ -128,18 +118,9 @@
     "PubchemCID": "85786941",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/85786941"
 },
+
 {
-    "names": ["2,2'-Oxybis(N,N-dioctylacetamide)", "342794-43-8", "Acetamide", "2,2'-oxybis[N,N-dioctyl-", "2-[2-(dioctylamino)-2-oxoethoxy]-N,N-dioctylacetamide"],
-    "pure substance": true,
-    "CAS": "342794-43-8",
-    "InChIKey": "VRZYWIAVUGQHKB-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C36H72N2O3/c1-5-9-13-17-21-25-29-37(30-26-22-18-14-10-6-2)35(39)33-41-34-36(40)38(31-27-23-19-15-11-7-3)32-28-24-20-16-12-8-4/h5-34H2,1-4H3",
-    "SMILES": "CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC",
-    "PubchemCID": "70700400",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70700400"
-},
-{
-    "names": ["850718-54-6", "2,2'-Oxybis(N,N-didodecylacetamide", "2-[2-(didodecylamino)-2-oxoethoxy]-N,N-didodecylacetamide", "2,2'-oxybis[N,N-didodecylacetamide", "Acetamide"],
+    "names": ["850718-54-6", "2,2'-Oxybis(N,N-didodecylacetamide", "2-[2-(didodecylamino)-2-oxoethoxy]-N,N-didodecylacetamide", "2,2'-oxybis[N,N-didodecylacetamide"],
     "pure substance": true,
     "CAS": "850718-54-6",
     "InChIKey": "RENCWBGDPNGEFY-UHFFFAOYSA-N",
@@ -159,7 +140,7 @@
     "URL": "https://opsin.ch.cam.ac.uk"
 },
 {
-    "names": ["2,2'-oxybis(N,N-bis(2-ethylhexyl)acetamide)", "669087-46-1" , "Acetamide", "2,2'-oxybis[N,N-bis(2-ethylhexyl)-",  "2-[2-[bis(2-ethylhexyl)amino]-2-oxoethoxy]-N,N-bis(2-ethylhexyl)acetamide"],
+    "names": ["2,2'-oxybis(N,N-bis(2-ethylhexyl)acetamide)", "669087-46-1" , "2,2'-oxybis[N,N-bis(2-ethylhexyl)-",  "2-[2-[bis(2-ethylhexyl)amino]-2-oxoethoxy]-N,N-bis(2-ethylhexyl)acetamide"],
     "pure substance": true,
     "CAS": "669087-46-1",
     "InChIKey": "MJJHOBMBUANRML-UHFFFAOYSA-N",
@@ -244,7 +225,7 @@
     "CAS": "missing",
     "InChIKey": "BLBKIQITDWHHRS-UHFFFAOYSA-N", 
     "InChI": "InChI=1S/C22H19N3O/c1-13-11-18(12-14(2)15(13)3)24-22(26)19-9-8-17-7-6-16-5-4-10-23-20(16)21(17)25-19/h4-12H,1-3H3,(H,24,26)",
-    "SMILES": "C(c1c([H])c(N(C(=O)c2c([H])c([H])c3c([H])c([H])c4c([H])c([H])c([H])nc4c3n2)[H])c([H])c(C([H])([H])[H])c1C([H])([H])[H])([H])([H])[H]",
+    "SMILES": "CC=1C=C(C=C(C1C)C)NC(=O)C1=NC2=C3N=CC=CC3=CC=C2C=C1",
     "PubchemCID": "missing",
     "URL":"missing" 
 },
