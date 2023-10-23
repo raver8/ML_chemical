@@ -310,7 +310,7 @@
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/7964"
 },
 {
-"Names": ["2-(2-Pyridyl)benzimidazole", "1137-68-4", "2-(pyridin-2-yl)-1H-benzo[d]imidazole", "2-pyridin-2-yl-1H-benzimidazole", "1H-Benzimidazole, 2-(2-pyridinyl)-"],
+"names": ["2-(2-Pyridyl)benzimidazole", "1137-68-4", "2-(pyridin-2-yl)-1H-benzo[d]imidazole", "2-pyridin-2-yl-1H-benzimidazole", "1H-Benzimidazole, 2-(2-pyridinyl)-"],
 "pure substance": "true",
 "CAS": "1137-68-4",
 "SMILES": "C1=CC=C2C(=C1)NC(=N2)C3=CC=CC=N3",  
@@ -320,7 +320,7 @@
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70821"
 },
 {
-"Names":["2-(6-Methyl-2-pyridyl)benzimidazole", "6504-09-2", "2-(6-methylpyridin-2-yl)-1H-benzimidazole", "Benzimidazole", "2-(6-methyl-2-pyridyl)-", "NSC-8812"], 
+"names":["2-(6-Methyl-2-pyridyl)benzimidazole", "6504-09-2", "2-(6-methylpyridin-2-yl)-1H-benzimidazole", "Benzimidazole", "2-(6-methyl-2-pyridyl)-", "NSC-8812"], 
 "pure substance": "true",
 "CAS": "6504-09-2",
 "SMILES": "CC1=NC(=CC=C1)C2=NC3=CC=CC=C3N2",
@@ -796,16 +796,5 @@
        "SMILES": "CC(=O)[O-].C1COCCOCCOCCOCCOCCO1.[K+]",
        "PubchemCID": "86740129",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/86740129"
-},
-
-{
-       "names": ["N,N'-dibutyl-N,N'-di(1-methylheptyl)-diglycolamide", "2,2’-oxybis(N-butyl-N-(heptan-2-yl)acetamide)"],
-       "pure substance": true,
-       "CAS": "missing",
-       "InChIKey": "SNDPSFAOXBZUOZ-UHFFFAOYSA-N",
-       "InChI": "InChI=1S/C28H56N2O3/c1-7-11-15-17-19-25(5)29(21-13-9-3)27(31)23-33-24-28(32)30(22-14-10-4)26(6)20-18-16-12-8-2/h25-26H,7-24H2,1-6H3",
-       "SMILES": "CCCCCC(N(C(COCC(N(C(CCCCC)C)CCCC)=O)=O)CCCC)C",
-       "PubchemCID": "missing",
-       "URL": "missing"
 }
 ]
