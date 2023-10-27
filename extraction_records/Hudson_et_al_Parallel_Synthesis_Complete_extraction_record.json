@@ -1,0 +1,1493 @@
+[ 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "A1", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 10.1539, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 264 , "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, A1, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+},
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "A2", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear" , "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": <1.000, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.2083 , "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, A2, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": {
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "A3", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 1.8889, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 34, "quantification method":"Gamma"} ], 
+"observations":{
+"third phase": false, 
+"comment": "Table 1 and Table 3, A3, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "A4", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"}
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 16.1923, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 421 , "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, A4, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "A5", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated",
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 8.875, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 213 , "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, A5, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "A6", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }],
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0196, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 1.000 , "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, A6, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+},
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "B1", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 1.0, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 26, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, B1, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "B2", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.3923, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 10.2 , "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false,
+"comment": "Table 1 and Table 3, B2, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "B3", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.4, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 5.6, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, B3, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "B4", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated",
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 3.0067, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 92 , "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, B4, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "B5", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+},
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.5875, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 9.4, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, B5, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": {
+"extractants": [ 
+{"identity": "B6", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 2.8889, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 26 , "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, B6, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+}
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "C1", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"}
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0846, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 1.1, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, C1, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "C2", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}}
+], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.2759, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 8 , "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, C2, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+},
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "D1", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0047, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.027, "quantification method":"Gamma"} ], "observations":{
+"third phase": false, 
+"comment": "Table 1 and Table 3, D1, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "D2", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"}
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.011, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.074 , "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, D2, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "D3", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated",
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 2.3721, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 10.2, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, D3, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "D4", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }],
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0141, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.083 , "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, D4, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": {
+"extractants": [ 
+{"identity": "D5", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.012, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.065, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, D5, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University"
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "D6", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0048, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0086 , "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, D6, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+},
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "E1", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+},
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.002325, "quantification method":"Gamma"}, {"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0093, "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, E1, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": {
+"extractants": [ 
+{"identity": "E2", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.00875, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.042 , "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, E2, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+}
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "E3", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0563, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.4, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, E3, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": {
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "E4", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.022, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.13 , "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, E4, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549",
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "E5", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0109, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.047, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false,
+"comment": "Table 1 and Table 3, E5, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "E6", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+},
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.042, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.21 , "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, E6, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+},
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "F1", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.00733, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.011, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, F1, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "F2", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.002375, "quantification method":"Gamma"}, {"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0076 , "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, F2, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "F3", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+},
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 2.071, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 5.8, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, F3, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "F4", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+},
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.007, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.019 , "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, F4, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "F5", "concentration": {"quantity": 0.02 , "unit": "mL"}}],
+"solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0052, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.014, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, F5, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+},
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "F6", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0035, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.002 , "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, F6, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0",
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "G1", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}}
+], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0084, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.026, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, G1, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "G2", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.001, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0029 , "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, G2, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{
+"organic phase": { 
+"extractants": [ 
+{"identity": "G3", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.03, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.15, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, G3, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas",
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "G4", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0159, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.11 , "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, G4, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "G5", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.009, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.036, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, G5, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "G6", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.001, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.004 , "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, G6, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+},
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "H1", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.001, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": <0.001, "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, H1, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694",
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "H2", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.001, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0013 , "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, H2, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "H3", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0081, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.026, "quantification method":"Gamma"} ], 
+"observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, H3, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "H4", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.001, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0053 , "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, H4, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+}, 
+{ 
+"organic phase": { 
+"extractants": [ 
+{"identity": "H6", "concentration": {"quantity": 0.02 , "unit": "mL"}}], "solvents": [ 
+{"identity": "2-bromodecanoic acid", "volfraction": ".45"}, 
+{"identity": "1,1,2,2-tetrachloroethane", "volfraction": ".55" }], "volume": {"quantity": ".7", "unit": "mL"} 
+}, 
+"aqueous phase": { 
+"solutes": [ 
+{"identity": "HNO3", "concentration": {"quantity": "unclear", "unit": "M"}} ], 
+"pH": " to be calculated", 
+"volume": {"quantity": ".7", "unit": "mL"} 
+},
+"reaction conditions": { 
+"temperature": {"quantity": 301, "unit": "K"}, 
+"time": {"quantity": 60, "unit": "minutes"} 
+}, 
+"metals":[ 
+{"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.001, "quantification method":"Gamma"}, 
+{"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0043, "quantification method":"Gamma"} ], "observations":{ 
+"third phase": false, 
+"comment": "Table 1 and Table 3, H6, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"}, 
+"provenance": { 
+"doi": "10.1081/SEI-120024549", 
+"attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Hudson et al. - 2003 - Studies on the Parallel Synthesis and Evaluation of New Heterocyclic Extractants for the Partitioning of Minor Actinides" 
+}, 
+"record creation": { 
+"time": "2023-08-17:17:00:00+0", 
+"username": "Ranulph694", 
+"name": "Ranulph Mayas", 
+"email": "rmayas@fordham.edu", 
+"organization": "Fordham University" 
+} 
+} 
+]

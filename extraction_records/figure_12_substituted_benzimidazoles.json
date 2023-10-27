@@ -1,0 +1,278 @@
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity": 0.304, "unit": "M"}}],
+        "solvents": [
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity": "1-butanol", "volfraction": 0.3},
+            {"identity": "thenoic acid", "concentration": {"quantity": 0.5, "unit": "M"}}],
+    "volume": {"quantity": 10, "unit": "milliliters"}
+    },
+
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "units": "M"}},
+            {"identity": "HCl", "concentration": {"quantity": 0.1, "units": "M"}}],
+        "pH": "2.39",
+        "volume": {"quantity": 15, "unit": "milliliter"}  
+    },
+
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 4.54E-05, "quanitfication method": "gamma"}],
+    "observations": {
+            "third phase": false,
+            "comment": "Point 1 of Figure 12 in the Kolarik article, page 375. Am(III) only."}, 
+    "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"},
+
+
+    "record creation": {
+        "time": "2023-06-09:17:52:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+    }
+       
+    
+}
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity": 0.304, "unit": "M"}}],
+        "solvents": [
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity": "1-butanol", "volfraction": 0.3},
+            {"identity": "thenoic acid", "concentration": {"quantity": 0.5, "unit": "M"}}],
+    "volume": {"quantity": 10, "unit": "milliliters"}
+    },
+
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "units": "M"}},
+            {"identity": "HCl", "concentration": {"quantity": 0.1, "units": "M"}}],
+        "pH": "2.57",
+        "volume": {"quantity": 15, "unit": "milliliter"}  
+    },
+
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.000121, "quanitfication method": "gamma"},
+        {"identity": "Am(III)", "inital concentration": {"quantity": "missing", "unit": "M"}, "D": 0.000267, "quanitfication method": "gamma"} ],
+    "observations": {
+            "third phase": false,
+            "comment": "Point 2 of Figure 12 in the Kolarik article, page 375."}, 
+    "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+    },
+
+
+    "record creation": {
+        "time": "2023-06-09:17:52:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+    }
+       
+    
+}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity": 0.304, "unit": "M"}}],
+        "solvents": [
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity": "1-butanol", "volfraction": 0.3},
+            {"identity": "thenoic acid", "concentration": {"quantity": 0.5, "unit": "M"}}],
+    "volume": {"quantity": 10, "unit": "milliliters"}
+    },
+
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "units": "M"}},
+            {"identity": "HCl", "concentration": {"quantity": 0.1, "units": "M"}}],
+        "pH": "3.17",
+        "volume": {"quantity": 15, "unit": "milliliter"}  
+    },
+
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.007685, "quanitfication method": "gamma"},
+        {"identity": "Am(III)", "inital concentration": {"quantity": "missing", "unit": "M"}, "D": 0.040103, "quanitfication method": "gamma"} ],
+    "observations": {
+            "third phase": false,
+            "comment": "Point 3 of Figure 12 in the Kolarik article, page 375."}, 
+    "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+    },
+
+
+    "record creation": {
+        "time": "2023-06-09:17:52:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+    }
+       
+    
+}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity": 0.304, "unit": "M"}}],
+        "solvents": [
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity": "1-butanol", "volfraction": 0.3},
+            {"identity": "thenoic acid", "concentration": {"quantity": 0.5, "unit": "M"}}],
+    "volume": {"quantity": 10, "unit": "milliliters"}
+    },
+
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "units": "M"}},
+            {"identity": "HCl", "concentration": {"quantity": 0.1, "units": "M"}}],
+        "pH": "4.8",
+        "volume": {"quantity": 15, "unit": "milliliter"}  
+    },
+
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 3.415564, "quanitfication method": "gamma"},
+        {"identity": "Am(III)", "inital concentration": {"quantity": "missing", "unit": "M"}, "D": 17.8244, "quanitfication method": "gamma"} ],
+    "observations": {
+            "third phase": false,
+            "comment": "Point 4 of Figure 12 in the Kolarik article, page 375."}, 
+    "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+    },
+
+
+    "record creation": {
+        "time": "2023-06-09:17:52:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+    }
+       
+    
+}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity": 0.304, "unit": "M"}}],
+        "solvents": [
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity": "1-butanol", "volfraction": 0.3},
+            {"identity": "thenoic acid", "concentration": {"quantity": 0.5, "unit": "M"}}],
+    "volume": {"quantity": 10, "unit": "milliliters"}
+    },
+
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "units": "M"}},
+            {"identity": "HCl", "concentration": {"quantity": 0.1, "units": "M"}}],
+        "pH": "5.0",
+        "volume": {"quantity": 15, "unit": "milliliter"}  
+    },
+
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.006126, "quanitfication method": "gamma"},
+        {"identity": "Am(III)", "inital concentration": {"quantity": "missing", "unit": "M"}, "D": 23.3422, "quanitfication method": "gamma"} ],
+    "observations": {
+            "third phase": false,
+            "comment": "Point 5 of Figure 12 in the Kolarik article, page 375."}, 
+    "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+    },
+
+
+    "record creation": {
+        "time": "2023-06-09:17:52:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+    }
+       
+    
+}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity": 0.304, "unit": "M"}}],
+        "solvents": [
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity": "1-butanol", "volfraction": 0.3},
+            {"identity": "thenoic acid", "concentration": {"quantity": 0.5, "unit": "M"}}],
+    "volume": {"quantity": 10, "unit": "milliliters"}
+    },
+
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "units": "M"}},
+            {"identity": "HCl", "concentration": {"quantity": 0.1, "units": "M"}}],
+        "pH": "5.21",
+        "volume": {"quantity": 15, "unit": "milliliter"}  
+    },
+
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.431713, "quanitfication method": "gamma"},
+        {"identity": "Am(III)", "inital concentration": {"quantity": "missing", "unit": "M"}, "D": 18.74876, "quanitfication method": "gamma"} ],
+    "observations": {
+            "third phase": false,
+            "comment": "Point 6 of Figure 12 in the Kolarik article, page 375."}, 
+    "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+    },
+
+
+    "record creation": {
+        "time": "2023-06-09:17:52:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+    }
+       
+    
+}

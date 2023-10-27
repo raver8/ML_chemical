@@ -1,0 +1,657 @@
+[
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+            {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+
+         "solvents": [
+            {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+        "volume": {"quantity":  "missing" , "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 111.265 "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 16.290, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "First pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 527.053, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 80.776, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Second pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 604.584, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 127.63, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Third pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 96.99, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 37.113, "quantification method":"gamma"}
+    ],
+    "observations": {
+        "comment": "Fourth pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 4.525, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.999, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Fifth pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.1164, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0187, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Sixth pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.1 M total"
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.726, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.1164, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Seventh pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.096, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.193, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Eighth pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.3774, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.2534, "quantification method":"gamma"}
+    ],
+    "observations": {
+        "comment": "Ninth pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.5775, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.1165, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Tenth pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.03711, "quantification method":"gamma"},
+       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0103, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Eleventh pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+       {"identity": "Eu(III)", "initial concentration": {"quantity": 0.01, "unit": "M"}, "D": 0.00985, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Twelfth pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+       {"identity": "Eu(III)", "initial concentration": {"quantity": 0.01, "unit": "M"}, "D": 0.0672, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Thirteenth pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+       {"identity": "Eu(III)", "initial concentration": {"quantity": 0.01, "unit": "M"}, "D": 0.1464, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Fourteenth pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+       {"identity": "Eu(III)", "initial concentration": {"quantity": 0.01, "unit": "M"}, "D": 0.081, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Fifteenth pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 0.5, "unit": "M"},
+                    {"identity": "2,2:6',2'' terpyridine", "quantity": 0.1 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}],
+                "volume": {"quantity":  "missing" , "unit": "milliliter"}
+            },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "missing", "unit": "M"}}],
+    
+        "pH": "will be calculated",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+       {"identity": "Eu(III)", "initial concentration": {"quantity": 0.01, "unit": "M"}, "D": 0.0082, "quantification method":"gamma"}
+    ]
+,
+    "observations": {
+        "comment": "Sixteenth pair of Am and Eu D values with 2-bromodecanoic acid and terpyridine, concentration may be 0.5 M total, rather than 0.5 and 0.1 M put in the record "
+},
+"provenance": {
+    "doi": "10.1080/07366299908934610",	
+    "attached file": "https://drive.google.com/drive/u/0/folders/10GrniEtFUGov4bRI-PJu0TsyfzzpB7VI"}	
+,
+    "record creation": {
+        "time": "2023:07:24:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	},
+

@@ -1,0 +1,155 @@
+
+
+
+
+[
+              {
+       
+               "organic phase": {
+                  "extractants": [
+                      {"identity": "2-[6-(1H-benzimidazol-2-yl)pyridin-2-yl]-1-hexylbenzimidazole", "concentration": {"quantity": 0.04, "unit": "mol/dm^3"}}],
+          
+                      "solvents": [
+                      {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                      {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
+          
+                  "volume": {"quantity": 700, "unit": "microliter"}
+              },
+              
+               "aqueous phase": {
+                  "solutes": [
+                      {"identity": "HNO3", "concentration": {"quantity": 0.020, "unit": "mol/dm^3"}}
+                     ],
+          
+                      "pH": 1.70,
+                  "volume": {"quantity": 700, "unit": "microliter"}
+              },   
+              
+              "reaction conditions": {
+                  "temperature": {"quantity": 298, "unit": "K"},
+                  "time": {"quantity": 60, "unit": "minutes"}
+              },
+              
+              "metals":[
+                  {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.001, "quantification method":"MoK(alpha)"},
+                  {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0058, "quantification method":"MoK(alpha)"} ],
+              
+              "observations":{
+                  "third phase": false,
+                  "comment": "Figure 2, L4, point 1, of Drew et Al Paper, Page 465, pH calculated based on nitric acid concentration"},
+              
+               "provenance": {
+                  "doi": "10.1039/B314321J",	
+                  "attached_file": "//Drew%20et%20al.%20-%202004%20-%20Separation%20of%20lanthanides%20and%20actinides(III)%20using.pdf"},
+              
+              "record creation": {
+                  "time": "2023-06-26:17:00:00+0",
+                  "username": "Ranulph694",	
+                  "name": "Ranulph Mayas",	
+                  "email": "rmayas@fordham.edu",	
+                  "organization": "Fordham University"	
+              }
+          
+              },
+          
+              {
+       
+                "organic phase": {
+                   "extractants": [
+                       {"identity": "2-[6-(1H-benzimidazol-2-yl)pyridin-2-yl]-1-hexylbenzimidazole", "concentration": {"quantity": 0.04, "unit": "mol/dm^3"}}],
+           
+                       "solvents": [
+                       {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                       {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
+           
+                   "volume": {"quantity": 700, "unit": "microliter"}
+               },
+               
+                "aqueous phase": {
+                   "solutes": [
+                       {"identity": "HNO3", "concentration": {"quantity": 0.038, "unit": "mol/dm^3"}}
+                      ],
+           
+                       "pH": 1.42,
+                   "volume": {"quantity": 700, "unit": "microliter"}
+               },   
+               
+               "reaction conditions": {
+                   "temperature": {"quantity": 298, "unit": "K"},
+                   "time": {"quantity": 60, "unit": "minutes"}
+               },
+               
+               "metals":[
+                   {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0002, "quantification method":"MoK(alpha)"},
+                   {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.0018, "quantification method":"MoK(alpha)"} ],
+               
+               "observations":{
+                   "third phase": false,
+                   "comment": "Figure 2, L4, point 2, of Drew et Al Paper, Page 465, pH calculated based on nitric acid concentration"},
+               
+                "provenance": {
+                   "doi": "10.1039/B314321J",	
+                   "attached_file": "//Drew%20et%20al.%20-%202004%20-%20Separation%20of%20lanthanides%20and%20actinides(III)%20using.pdf"},
+               
+               "record creation": {
+                   "time": "2023-06-26:17:00:00+0",
+                   "username": "Ranulph694",	
+                   "name": "Ranulph Mayas",	
+                   "email": "rmayas@fordham.edu",	
+                   "organization": "Fordham University"	
+               }
+           
+               },
+
+
+
+               {
+       
+                "organic phase": {
+                   "extractants": [
+                       {"identity": "2-[6-(1H-benzimidazol-2-yl)pyridin-2-yl]-1-hexylbenzimidazole", "concentration": {"quantity": 0.04, "unit": "mol/dm^3"}}],
+           
+                       "solvents": [
+                       {"identity": "alpha-bromodecanoic acid", "volfraction": "MISSING"},
+                       {"identity": "1,1,2,2-tetrachloroethane", "volfraction": "MISSING" }],
+           
+                   "volume": {"quantity": 700, "unit": "microliter"}
+               },
+               
+                "aqueous phase": {
+                   "solutes": [
+                       {"identity": "HNO3", "concentration": {"quantity": 0.053, "unit": "mol/dm^3"}}
+                      ],
+           
+                       "pH": 1.28,
+                   "volume": {"quantity": 700, "unit": "microliter"}
+               },   
+               
+               "reaction conditions": {
+                   "temperature": {"quantity": 298, "unit": "K"},
+                   "time": {"quantity": 60, "unit": "minutes"}
+               },
+               
+               "metals":[
+                   {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.00012, "quantification method":"MoK(alpha)"},
+                   {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.00061, "quantification method":"MoK(alpha)"} ],
+               
+               "observations":{
+                   "third phase": false,
+                   "comment": "Figure 2, L4, point 3, of Drew et Al Paper, Page 465, pH calculated based on nitric acid concentration"},
+               
+                "provenance": {
+                   "doi": "10.1039/B314321J",	
+                   "attached_file": "//Drew%20et%20al.%20-%202004%20-%20Separation%20of%20lanthanides%20and%20actinides(III)%20using.pdf"},
+               
+               "record creation": {
+                   "time": "2023-06-26:17:00:00+0",
+                   "username": "Ranulph694",	
+                   "name": "Ranulph Mayas",	
+                   "email": "rmayas@fordham.edu",	
+                   "organization": "Fordham University"	
+               }
+           
+               }
+           
+            ]

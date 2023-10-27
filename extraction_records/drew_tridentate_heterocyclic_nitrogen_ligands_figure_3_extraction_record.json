@@ -1,0 +1,1175 @@
+
+[
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+
+         "solvents": [
+            {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.00491, "unit": "M"}}],
+    
+        "pH": "missing",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 85.702, "quantification method":"gamma"}
+,       {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 11.665, "quantification method":"gamma"}],
+
+    "observations": {
+        "comment": "First pair of Am and Eu D values with Ligand 1 in figure 3 of Drew et al. paper "
+},
+"provenance": {
+    "doi": "10.1039/a907077j", 
+    "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+  ,
+    "record creation": {
+        "time": "2023:07:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"	}},
+
+            {
+                "organic phase": {
+                    "extractants": [
+                        {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                        {"identity": "2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+            
+                     "solvents": [
+                        {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+                    "volume": {"quantity": "missing", "unit": "milliliter"}
+                },
+                 "aqueous phase": {
+                
+                    "solutes": [
+                        {"identity": "HNO3", "concentration": {"quantity": 0.00989, "unit": "M"}}],
+                
+                    "pH": "missing",
+                    "volume": {"quantity": "missing", "unit": "milliliter"}
+                    },
+                "reaction conditions": {
+                    "temperature": {"quantity": 293, "unit": "K"},
+                    "time": {"quantity": 5, "unit": "minutes"}
+                    },
+                "metals":[
+                {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 12.530, "quantification method":"gamma"}
+            ,    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.882, "quantification method":"gamma"}],
+
+                "observations": {
+                 "comment": "Second pair of Am and Eu D values with Ligand 1 in figure 3 of Drew et al. paper "
+                },
+            "provenance": {
+                "doi": "10.1039/a907077j", 
+                "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+              ,
+                "record creation": {
+                    "time": "2023:07:31:01:00:00:00+0",
+                    "username": "caitlinr77",	
+                    "name": "Caitlin Reed",	
+                    "email": "creed25@fordham.edu",	
+                    "organization": "Fordham University"	}},
+
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+
+         "solvents": [
+            {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.01991, "unit": "M"}}],
+    
+        "pH": "missing",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.832, "quantification method":"gamma"}
+,      {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.227, "quantification method":"gamma"}],
+
+
+    "observations": {
+        "comment": "Third pair of Am and Eu D values with Ligand 1 in figure 3 of Drew et al. paper "
+},
+"provenance": {
+    "doi": "10.1039/a907077j", 
+    "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+  ,
+    "record creation": {
+        "time": "2023:07:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"	}},
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+
+         "solvents": [
+            {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.0292, "unit": "M"}}],
+    
+        "pH": "missing",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.5084, "quantification method":"gamma"}
+,     {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0655, "quantification method":"gamma"}],
+
+    "observations": {
+        "comment": "Fourth pair of Am and Eu D values with Ligand 1 in figure 3 of Drew et al. paper "
+},
+"provenance": {
+    "doi": "10.1039/a907077j", 
+    "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+  ,
+    "record creation": {
+        "time": "2023:07:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"	}},
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+
+         "solvents": [
+            {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.04911, "unit": "M"}}],
+    
+        "pH": "missing",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.09203, "quantification method":"gamma"}]
+,
+    "observations": {
+        "comment": "Fifth pair of Am and Eu D values with Ligand 1 in figure 3 of Drew et al. paper "
+},
+"provenance": {
+    "doi": "10.1039/a907077j", 
+    "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+  ,
+    "record creation": {
+        "time": "2023:07:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"	}},
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+
+         "solvents": [
+            {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.0595, "unit": "M"}}],
+    
+        "pH": "missing",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.03336, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00441, "quantification method":"gamma"}],
+
+    "observations": {
+        "comment": "Sixth pair of Am and Eu D values with Ligand 1 in figure 3 of Drew et al. paper "
+},
+"provenance": {
+    "doi": "10.1039/a907077j", 
+    "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+  ,
+    "record creation": {
+        "time": "2023:07:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"	}},
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+
+         "solvents": [
+            {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.11195, "unit": "M"}}],
+    
+        "pH": "missing",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.000883, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.000123, "quantification method":"gamma"}],
+
+    "observations": {
+        "comment": "Seventh pair of Am and Eu D values with Ligand 1 in figure 3 of Drew et al. paper "
+},
+"provenance": {
+    "doi": "10.1039/a907077j", 
+    "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+  ,
+    "record creation": {
+        "time": "2023:07:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"	}},
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+            {"identity": "2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+
+         "solvents": [
+            {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },
+     "aqueous phase": {
+    
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.2059, "unit": "M"}}],
+    
+        "pH": "missing",
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+        },
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+        },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0000104, "quantification method":"gamma"}
+        ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.000004, "quantification method":"gamma"}],
+
+    "observations": {
+        "comment": "Eighth pair of Am and Eu D values with Ligand 1 in figure 3 of Drew et al. paper "
+},
+"provenance": {
+    "doi": "10.1039/a907077j", 
+    "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+  ,
+    "record creation": {
+        "time": "2023:07:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"	}},
+
+        {
+            "organic phase": {
+                "extractants": [
+                    {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                    {"identity": "4'-(4-tolyl)-2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+        
+                 "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+                "volume": {"quantity": "missing", "unit": "milliliter"}
+            },
+             "aqueous phase": {
+            
+                "solutes": [
+                    {"identity": "HNO3", "concentration": {"quantity": 0.002473, "unit": "M"}}],
+            
+                "pH": "missing",
+                "volume": {"quantity": "missing", "unit": "milliliter"}
+                },
+            "reaction conditions": {
+                "temperature": {"quantity": 293, "unit": "K"},
+                "time": {"quantity": 5, "unit": "minutes"}
+                },
+            "metals":[
+                {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 289.25, "quantification method":"gamma"}
+                ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 37.492, "quantification method":"gamma"}],
+        
+            "observations": {
+                "comment": "First pair of Am and Eu D values with Ligand 3 in figure 3 of Drew et al. paper "
+        },
+        "provenance": {
+            "doi": "10.1039/a907077j", 
+            "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+          ,
+            "record creation": {
+                "time": "2023:07:31:01:00:00:00+0",
+                "username": "caitlinr77",	
+                "name": "Caitlin Reed",	
+                "email": "creed25@fordham.edu",	
+                "organization": "Fordham University"	}},
+
+      
+                        {
+                            "organic phase": {
+                                "extractants": [
+                                    {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                                    {"identity": "4'-(4-tolyl)-2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+                        
+                                 "solvents": [
+                                    {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+                                "volume": {"quantity": "missing", "unit": "milliliter"}
+                            },
+                             "aqueous phase": {
+                            
+                                "solutes": [
+                                    {"identity": "HNO3", "concentration": {"quantity": 0.00347, "unit": "M"}}],
+                            
+                                "pH": "missing",
+                                "volume": {"quantity": "missing", "unit": "milliliter"}
+                                },
+                            "reaction conditions": {
+                                "temperature": {"quantity": 293, "unit": "K"},
+                                "time": {"quantity": 5, "unit": "minutes"}
+                                },
+                            "metals":[
+                                {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 104.14, "quantification method":"gamma"}
+                                ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 10.845, "quantification method":"gamma"}],
+                        
+                            "observations": {
+                                "comment": "Second pair of Am and Eu D values with Ligand 3 in figure 3 of Drew et al. paper "
+                        },
+                        "provenance": {
+                            "doi": "10.1039/a907077j", 
+                            "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                          ,
+                            "record creation": {
+                                "time": "2023:07:31:01:00:00:00+0",
+                                "username": "caitlinr77",	
+                                "name": "Caitlin Reed",	
+                                "email": "creed25@fordham.edu",	
+                                "organization": "Fordham University"	}},
+        
+                                {
+                                    "organic phase": {
+                                        "extractants": [
+                                            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                                            {"identity": "4'-(4-tolyl)-2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                
+                                         "solvents": [
+                                            {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+                                        "volume": {"quantity": "missing", "unit": "milliliter"}
+                                    },
+                                     "aqueous phase": {
+                                    
+                                        "solutes": [
+                                            {"identity": "HNO3", "concentration": {"quantity": 0.00494, "unit": "M"}}],
+                                    
+                                        "pH": "missing",
+                                        "volume": {"quantity": "missing", "unit": "milliliter"}
+                                        },
+                                    "reaction conditions": {
+                                        "temperature": {"quantity": 293, "unit": "K"},
+                                        "time": {"quantity": 5, "unit": "minutes"}
+                                        },
+                                    "metals":[
+                                        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 46.67, "quantification method":"gamma"}
+                                        ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 3.904, "quantification method":"gamma"}],
+                                
+                                    "observations": {
+                                        "comment": "Third pair of Am and Eu D values with Ligand 3 in figure 3 of Drew et al. paper "
+                                },
+                                "provenance": {
+                                    "doi": "10.1039/a907077j", 
+                                    "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                  ,
+                                    "record creation": {
+                                        "time": "2023:07:31:01:00:00:00+0",
+                                        "username": "caitlinr77",	
+                                        "name": "Caitlin Reed",	
+                                        "email": "creed25@fordham.edu",	
+                                        "organization": "Fordham University"	}},
+
+
+                                        {
+                                            "organic phase": {
+                                                "extractants": [
+                                                    {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                                                    {"identity": "4'-(4-tolyl)-2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                        
+                                                 "solvents": [
+                                                    {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+                                                "volume": {"quantity": "missing", "unit": "milliliter"}
+                                            },
+                                             "aqueous phase": {
+                                            
+                                                "solutes": [
+                                                    {"identity": "HNO3", "concentration": {"quantity": 0.00736, "unit": "M"}}],
+                                            
+                                                "pH": "missing",
+                                                "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                },
+                                            "reaction conditions": {
+                                                "temperature": {"quantity": 293, "unit": "K"},
+                                                "time": {"quantity": 5, "unit": "minutes"}
+                                                },
+                                            "metals":[
+                                                {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 6.99, "quantification method":"gamma"}
+                                                ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.7289, "quantification method":"gamma"}],
+                                        
+                                            "observations": {
+                                                "comment": "Fourth pair of Am and Eu D values with Ligand 3 in figure 3 of Drew et al. paper "
+                                        },
+                                        "provenance": {
+                                            "doi": "10.1039/a907077j", 
+                                            "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                          ,
+                                            "record creation": {
+                                                "time": "2023:07:31:01:00:00:00+0",
+                                                "username": "caitlinr77",	
+                                                "name": "Caitlin Reed",	
+                                                "email": "creed25@fordham.edu",	
+                                                "organization": "Fordham University"	}},
+
+
+   { "organic phase": {
+      "extractants": [
+    {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+{"identity": "4'-(4-tolyl)-2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                
+   "solvents": [
+   {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+   "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                    },
+      "aqueous phase": {
+                                                    
+     "solutes": [
+    {"identity": "HNO3", "concentration": {"quantity": 0.01, "unit": "M"}}],
+                                                    
+    "pH": "missing",
+  "volume": {"quantity": "missing", "unit": "milliliter"}},
+ "reaction conditions": {
+     "temperature": {"quantity": 293, "unit": "K"},
+      "time": {"quantity": 5, "unit": "minutes"} },
+     "metals":[
+       {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.916, "quantification method":"gamma"}
+     ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.3036, "quantification method":"gamma"}],
+                                                
+     "observations": {
+   "comment": "Fifth pair of Am and Eu D values with Ligand 3 in figure 3 of Drew et al. paper "},
+    "provenance": {
+     "doi": "10.1039/a907077j", 
+      "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                  ,
+         "record creation": {
+           "time": "2023:07:31:01:00:00:00+0",
+         "username": "caitlinr77",	
+         "name": "Caitlin Reed",	
+          "email": "creed25@fordham.edu",	
+          "organization": "Fordham University"	}}, 
+          
+          { "organic phase": {
+            "extractants": [
+          {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+      {"identity": "4'-(4-tolyl)-2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                      
+         "solvents": [
+         {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+         "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                          },
+            "aqueous phase": {
+                                                          
+           "solutes": [
+          {"identity": "HNO3", "concentration": {"quantity": 0.0149, "unit": "M"}}],
+                                                          
+          "pH": "missing",
+        "volume": {"quantity": "missing", "unit": "milliliter"}},
+       "reaction conditions": {
+           "temperature": {"quantity": 293, "unit": "K"},
+            "time": {"quantity": 5, "unit": "minutes"} },
+           "metals":[
+             {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.6299, "quantification method":"gamma"}
+           ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0817, "quantification method":"gamma"}],
+                                                      
+           "observations": {
+         "comment": "Sixth pair of Am and Eu D values with Ligand 3 in figure 3 of Drew et al. paper "},
+          "provenance": {
+           "doi": "10.1039/a907077j", 
+            "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                        ,
+               "record creation": {
+                 "time": "2023:07:31:01:00:00:00+0",
+               "username": "caitlinr77",	
+               "name": "Caitlin Reed",	
+                "email": "creed25@fordham.edu",	
+                "organization": "Fordham University"	}},
+
+          
+                { "organic phase": {
+                    "extractants": [
+                  {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+              {"identity": "4'-(4-tolyl)-2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                              
+                 "solvents": [
+                 {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+                 "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                  },
+                    "aqueous phase": {
+                                                                  
+                   "solutes": [
+                  {"identity": "HNO3", "concentration": {"quantity": 0.02154, "unit": "M"}}],
+                                                                  
+                  "pH": "missing",
+                "volume": {"quantity": "missing", "unit": "milliliter"}},
+               "reaction conditions": {
+                   "temperature": {"quantity": 293, "unit": "K"},
+                    "time": {"quantity": 5, "unit": "minutes"} },
+                   "metals":[
+                     {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.227, "quantification method":"gamma"}
+                   ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0219, "quantification method":"gamma"}],
+                                                              
+                   "observations": {
+                 "comment": "Seventh pair of Am and Eu D values with Ligand 3 in figure 3 of Drew et al. paper "},
+                  "provenance": {
+                   "doi": "10.1039/a907077j", 
+                    "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                ,
+                       "record creation": {
+                         "time": "2023:07:31:01:00:00:00+0",
+                       "username": "caitlinr77",	
+                       "name": "Caitlin Reed",	
+                        "email": "creed25@fordham.edu",	
+                        "organization": "Fordham University"	}}, 
+
+    
+      { "organic phase": {
+       "extractants": [
+    {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+  {"identity": "4'-(4-tolyl)-2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                                      
+      "solvents": [
+    {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+ "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                          },
+   "aqueous phase": {
+                                                                          
+   "solutes": [
+  {"identity": "HNO3", "concentration": {"quantity": 0.0398, "unit": "M"}}],
+                                                                          
+    "pH": "missing",
+   "volume": {"quantity": "missing", "unit": "milliliter"}},
+     "reaction conditions": {
+     "temperature": {"quantity": 293, "unit": "K"},
+    "time": {"quantity": 5, "unit": "minutes"} },
+      "metals":[
+         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0254, "quantification method":"gamma"}
+     ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00246, "quantification method":"gamma"}],
+                                                                      
+      "observations": {
+   "comment": "Eighth pair of Am and Eu D values with Ligand 3 in figure 3 of Drew et al. paper "},
+    "provenance": {
+    "doi": "10.1039/a907077j", 
+      "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                        ,
+     "record creation": {
+     "time": "2023:07:31:01:00:00:00+0",
+       "username": "caitlinr77",	
+        "name": "Caitlin Reed",	
+         "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"	}},
+
+        { "organic phase": {
+            "extractants": [
+         {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+       {"identity": "4'-(4-tolyl)-2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                                           
+           "solvents": [
+         {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+      "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                               },
+        "aqueous phase": {
+                                                                               
+        "solutes": [
+       {"identity": "HNO3", "concentration": {"quantity": 0.05012, "unit": "M"}}],
+                                                                               
+         "pH": "missing",
+        "volume": {"quantity": "missing", "unit": "milliliter"}},
+          "reaction conditions": {
+          "temperature": {"quantity": 293, "unit": "K"},
+         "time": {"quantity": 5, "unit": "minutes"} },
+           "metals":[
+              {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.01225, "quantification method":"gamma"}
+          ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0011, "quantification method":"gamma"}],
+                                                                           
+           "observations": {
+        "comment": "Ninth pair of Am and Eu D values with Ligand 3 in figure 3 of Drew et al. paper "},
+         "provenance": {
+         "doi": "10.1039/a907077j", 
+           "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                             ,
+          "record creation": {
+          "time": "2023:07:31:01:00:00:00+0",
+            "username": "caitlinr77",	
+             "name": "Caitlin Reed",	
+              "email": "creed25@fordham.edu",	
+             "organization": "Fordham University"	}},
+
+             { "organic phase": {
+                "extractants": [
+             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+           {"identity": "4'-(4-tolyl)-2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                                               
+               "solvents": [
+             {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+          "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                                   },
+            "aqueous phase": {
+                                                                                   
+            "solutes": [
+           {"identity": "HNO3", "concentration": {"quantity": 0.06026, "unit": "M"}}],
+                                                                                   
+             "pH": "missing",
+            "volume": {"quantity": "missing", "unit": "milliliter"}},
+              "reaction conditions": {
+              "temperature": {"quantity": 293, "unit": "K"},
+             "time": {"quantity": 5, "unit": "minutes"} },
+               "metals":[
+                  {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00735, "quantification method":"gamma"}
+              ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.000823, "quantification method":"gamma"}],
+                                                                               
+               "observations": {
+            "comment": "Tenth pair of Am and Eu D values with Ligand 3 in figure 3 of Drew et al. paper "},
+             "provenance": {
+             "doi": "10.1039/a907077j", 
+               "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                                 ,
+              "record creation": {
+              "time": "2023:07:31:01:00:00:00+0",
+                "username": "caitlinr77",	
+                 "name": "Caitlin Reed",	
+                  "email": "creed25@fordham.edu",	
+                 "organization": "Fordham University"	}},
+
+                 { "organic phase": {
+                    "extractants": [
+                 {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+               {"identity": "4'-(4-tolyl)-2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                                                   
+                   "solvents": [
+                 {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+              "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                                       },
+                "aqueous phase": {
+                                                                                       
+                "solutes": [
+               {"identity": "HNO3", "concentration": {"quantity": 0.0794, "unit": "M"}}],
+                                                                                       
+                 "pH": "missing",
+                "volume": {"quantity": "missing", "unit": "milliliter"}},
+                  "reaction conditions": {
+                  "temperature": {"quantity": 293, "unit": "K"},
+                 "time": {"quantity": 5, "unit": "minutes"} },
+                   "metals":[
+                      {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00213, "quantification method":"gamma"}
+                  ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.000256, "quantification method":"gamma"}],
+                                                                                   
+                   "observations": {
+                "comment": "Eleventh pair of Am and Eu D values with Ligand 3 in figure 3 of Drew et al. paper "},
+                 "provenance": {
+                 "doi": "10.1039/a907077j", 
+                   "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                                     ,
+                  "record creation": {
+                  "time": "2023:07:31:01:00:00:00+0",
+                    "username": "caitlinr77",	
+                     "name": "Caitlin Reed",	
+                      "email": "creed25@fordham.edu",	
+                     "organization": "Fordham University"	}},
+
+
+                     { "organic phase": {
+                        "extractants": [
+                     {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                   {"identity": "4'-(4-tolyl)-2,2':6',2'-terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                                                       
+                       "solvents": [
+                     {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+                  "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                                           },
+                    "aqueous phase": {
+                                                                                           
+                    "solutes": [
+                   {"identity": "HNO3", "concentration": {"quantity": 0.0985, "unit": "M"}}],
+                                                                                           
+                     "pH": "missing",
+                    "volume": {"quantity": "missing", "unit": "milliliter"}},
+                      "reaction conditions": {
+                      "temperature": {"quantity": 293, "unit": "K"},
+                     "time": {"quantity": 5, "unit": "minutes"} },
+                       "metals":[
+                          {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.001025, "quantification method":"gamma"}
+                      ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.000123, "quantification method":"gamma"}],
+                                                                                       
+                       "observations": {
+                    "comment": "Ninth pair of Am and Eu D values with Ligand 3 in figure 3 of Drew et al. paper "},
+                     "provenance": {
+                     "doi": "10.1039/a907077j", 
+                       "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                                         ,
+                      "record creation": {
+                      "time": "2023:07:31:01:00:00:00+0",
+                        "username": "caitlinr77",	
+                         "name": "Caitlin Reed",	
+                          "email": "creed25@fordham.edu",	
+                         "organization": "Fordham University"	}},
+                                                             
+     { "organic phase": {
+        "extractants": [
+     {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                       {"identity": "4'-(4-Dodecyloxyphenyl)-2,2' :6' ,2' -terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                                                           
+     "solvents": [
+      {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+       "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                                               },
+     "aqueous phase": {
+                                                                                               
+       "solutes": [
+      {"identity": "HNO3", "concentration": {"quantity": 0.00479, "unit": "M"}}],
+                                                                                               
+       "pH": "missing",
+       "volume": {"quantity": "missing", "unit": "milliliter"}},
+        "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+       "time": {"quantity": 5, "unit": "minutes"} },
+       "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 40.33, "quantification method":"gamma"}
+       ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.623, "quantification method":"gamma"}],
+                                                                                           
+        "observations": {
+        "comment": "First pair of Am and Eu D values with Ligand 4 in figure 3 of Drew et al. paper "},
+                         "provenance": {
+                         "doi": "10.1039/a907077j", 
+                           "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                                             ,
+                          "record creation": {
+                          "time": "2023:07:31:01:00:00:00+0",
+                            "username": "caitlinr77",	
+                             "name": "Caitlin Reed",	
+                              "email": "creed25@fordham.edu",	
+                             "organization": "Fordham University"	}},
+
+
+
+
+    { "organic phase": {
+    "extractants": [
+     {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+      {"identity": "4'-(4-Dodecyloxyphenyl)-2,2' :6' ,2' -terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                                                                                   
+      "solvents": [
+        {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+         "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                                                 },
+       "aqueous phase": {
+                                                                                                 
+         "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 0.01, "unit": "M"}}],
+                                                                                                 
+         "pH": "missing",
+         "volume": {"quantity": "missing", "unit": "milliliter"}},
+          "reaction conditions": {
+          "temperature": {"quantity": 293, "unit": "K"},
+         "time": {"quantity": 5, "unit": "minutes"} },
+         "metals":[
+          {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 3.904, "quantification method":"gamma"}
+         ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.5061, "quantification method":"gamma"}],
+                                                                                             
+          "observations": {
+          "comment": "Second pair of Am and Eu D values with Ligand 4 in figure 3 of Drew et al. paper "},
+         "provenance": {
+         "doi": "10.1039/a907077j", 
+           "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                                               ,
+         "record creation": {
+      "time": "2023:07:31:01:00:00:00+0",
+        "username": "caitlinr77",	
+         "name": "Caitlin Reed",	
+          "email": "creed25@fordham.edu",	
+       "organization": "Fordham University"	}},
+
+       { "organic phase": {
+        "extractants": [
+         {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+          {"identity": "4'-(4-Dodecyloxyphenyl)-2,2' :6' ,2' -terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                                                                                       
+          "solvents": [
+            {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+             "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                                                     },
+           "aqueous phase": {
+                                                                                                     
+             "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.0501, "unit": "M"}}],
+                                                                                                     
+             "pH": "missing",
+             "volume": {"quantity": "missing", "unit": "milliliter"}},
+              "reaction conditions": {
+              "temperature": {"quantity": 293, "unit": "K"},
+             "time": {"quantity": 5, "unit": "minutes"} },
+             "metals":[
+              {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.01138, "quantification method":"gamma"}
+             ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00171, "quantification method":"gamma"}],
+                                                                                                 
+              "observations": {
+              "comment": "Third pair of Am and Eu D values with Ligand 4 in figure 3 of Drew et al. paper "},
+
+             "provenance": {
+             "doi": "10.1039/a907077j", 
+               "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                                                   ,
+             "record creation": {
+          "time": "2023:07:31:01:00:00:00+0",
+            "username": "caitlinr77",	
+             "name": "Caitlin Reed",	
+              "email": "creed25@fordham.edu",	
+           "organization": "Fordham University"	}},
+
+
+
+           { "organic phase": {
+            "extractants": [
+             {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+              {"identity": "4'-(4-Dodecyloxyphenyl)-2,2' :6' ,2' -terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                                                                                           
+              "solvents": [
+                {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+                 "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                                                         },
+               "aqueous phase": {
+                                                                                                         
+                 "solutes": [
+                {"identity": "HNO3", "concentration": {"quantity": 0.0985, "unit": "M"}}],
+                                                                                                         
+                 "pH": "missing",
+                 "volume": {"quantity": "missing", "unit": "milliliter"}},
+                  "reaction conditions": {
+                  "temperature": {"quantity": 293, "unit": "K"},
+                 "time": {"quantity": 5, "unit": "minutes"} },
+                 "metals":[
+                  {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00137, "quantification method":"gamma"}
+                 ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00021, "quantification method":"gamma"}],
+                                                                                                     
+                  "observations": {
+                  "comment": "Fourth pair of Am and Eu D values with Ligand 4 in figure 3 of Drew et al. paper "},
+                 "provenance": {
+                 "doi": "10.1039/a907077j", 
+                   "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                                                       ,
+                 "record creation": {
+              "time": "2023:07:31:01:00:00:00+0",
+                "username": "caitlinr77",	
+                 "name": "Caitlin Reed",	
+                  "email": "creed25@fordham.edu",	
+               "organization": "Fordham University"	}},
+
+               { "organic phase": {
+                "extractants": [
+                 {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                  {"identity": "4'-(4-Nitrophenyl)-2,2' :6',2' -terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                                                                                               
+                  "solvents": [
+                    {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+                     "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                                                             },
+                   "aqueous phase": {
+                                                                                                             
+                     "solutes": [
+                    {"identity": "HNO3", "concentration": {"quantity": 0.00486, "unit": "M"}}],
+                                                                                                             
+                     "pH": "missing",
+                     "volume": {"quantity": "missing", "unit": "milliliter"}},
+                      "reaction conditions": {
+                      "temperature": {"quantity": 293, "unit": "K"},
+                     "time": {"quantity": 5, "unit": "minutes"} },
+                     "metals":[
+                      {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 28.002, "quantification method":"gamma"}
+                     ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.711, "quantification method":"gamma"}],
+                                                                                                         
+                      "observations": {
+                      "comment": "First pair of Am and Eu D values with Ligand 2 in figure 3 of Drew et al. paper "},
+                     "provenance": {
+                     "doi": "10.1039/a907077j", 
+                       "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                                                           ,
+                     "record creation": {
+                  "time": "2023:07:31:01:00:00:00+0",
+                    "username": "caitlinr77",	
+                     "name": "Caitlin Reed",	
+                      "email": "creed25@fordham.edu",	
+                   "organization": "Fordham University"	}},
+
+                   { "organic phase": {
+                    "extractants": [
+                     {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                      {"identity": "4'-(4-Nitrophenyl)-2,2' :6',2' -terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                                                                                                   
+                      "solvents": [
+                        {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+                         "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                                                                 },
+                       "aqueous phase": {
+                                                                                                                 
+                         "solutes": [
+                        {"identity": "HNO3", "concentration": {"quantity": 0.00985, "unit": "M"}}],
+                                                                                                                 
+                         "pH": "missing",
+                         "volume": {"quantity": "missing", "unit": "milliliter"}},
+                          "reaction conditions": {
+                          "temperature": {"quantity": 293, "unit": "K"},
+                         "time": {"quantity": 5, "unit": "minutes"} },
+                         "metals":[
+                          {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.228, "quantification method":"gamma"}
+                         ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.303, "quantification method":"gamma"}],
+                                                                                                             
+                          "observations": {
+                          "comment": "Second pair of Am and Eu D values with Ligand 2 in figure 3 of Drew et al. paper "},
+                         "provenance": {
+                         "doi": "10.1039/a907077j", 
+                           "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                                                               ,
+                         "record creation": {
+                      "time": "2023:07:31:01:00:00:00+0",
+                        "username": "caitlinr77",	
+                         "name": "Caitlin Reed",	
+                          "email": "creed25@fordham.edu",	
+                       "organization": "Fordham University"	}},
+
+                       { "organic phase": {
+                        "extractants": [
+                         {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"},
+                          {"identity": "4'-(4-Nitrophenyl)-2,2' :6',2' -terpyridine", "quantity": 0.02 , "unit": "M"}],
+                                                                                                                                       
+                          "solvents": [
+                            {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+                             "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                                                                     },
+                           "aqueous phase": {
+                                                                                                                     
+                             "solutes": [
+                            {"identity": "HNO3", "concentration": {"quantity": 0.0486, "unit": "M"}}],
+                                                                                                                     
+                             "pH": "missing",
+                             "volume": {"quantity": "missing", "unit": "milliliter"}},
+                              "reaction conditions": {
+                              "temperature": {"quantity": 293, "unit": "K"},
+                             "time": {"quantity": 5, "unit": "minutes"} },
+                             "metals":[
+                              {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.01138, "quantification method":"gamma"}
+                             ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00119, "quantification method":"gamma"}],
+                                                                                                                 
+                              "observations": {
+                              "comment": "Third pair of Am and Eu D values with Ligand 2 in figure 3 of Drew et al. paper "},
+                             "provenance": {
+                             "doi": "10.1039/a907077j", 
+                               "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                                                                   ,
+                             "record creation": {
+                          "time": "2023:07:31:01:00:00:00+0",
+                            "username": "caitlinr77",	
+                             "name": "Caitlin Reed",	
+                              "email": "creed25@fordham.edu",	
+                           "organization": "Fordham University"	}},
+
+
+
+{ "organic phase": {
+ "extractants": [
+ {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"}],
+                                                                                                                                           
+  "solvents": [
+ {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+  "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                                                                         },
+   "aqueous phase": {
+    "solutes": [
+ {"identity": "HNO3", "concentration": {"quantity": 0.00494, "unit": "M"}}],
+                                                                                                                         
+ "pH": "missing",
+"volume": {"quantity": "missing", "unit": "milliliter"}},
+  "reaction conditions": {
+  "temperature": {"quantity": 293, "unit": "K"},
+    "time": {"quantity": 5, "unit": "minutes"} },
+    "metals":[
+    {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.182, "quantification method":"gamma"}
+     ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.09448, "quantification method":"gamma"}],
+                                                                                                                     
+   "observations": {
+   "comment": "First pair of Am and Eu D values with only 2-bromodecanoic acid in figure 3 of Drew et al. paper "},
+     "provenance": {
+     "doi": "10.1039/a907077j", 
+    "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                                                                       ,
+    "record creation": {
+    "time": "2023:07:31:01:00:00:00+0",
+    "username": "caitlinr77",	
+    "name": "Caitlin Reed",	
+    "email": "creed25@fordham.edu",	
+  "organization": "Fordham University"	}},
+
+
+  { "organic phase": {
+    "extractants": [
+    {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"}],
+                                                                                                                                              
+     "solvents": [
+    {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+     "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                                                                            },
+      "aqueous phase": {
+       "solutes": [
+    {"identity": "HNO3", "concentration": {"quantity": 0.01, "unit": "M"}}],
+                                                                                                                            
+    "pH": "missing",
+   "volume": {"quantity": "missing", "unit": "milliliter"}},
+     "reaction conditions": {
+     "temperature": {"quantity": 293, "unit": "K"},
+       "time": {"quantity": 5, "unit": "minutes"} },
+       "metals":[
+       {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.02361, "quantification method":"gamma"}
+        ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00915, "quantification method":"gamma"}],
+                                                                                                                        
+      "observations": {
+      "comment": "Second pair of Am and Eu D values with only 2-bromodecanoic acid in figure 3 of Drew et al. paper "},
+        "provenance": {
+        "doi": "10.1039/a907077j", 
+       "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                                                                          ,
+       "record creation": {
+       "time": "2023:07:31:01:00:00:00+0",
+       "username": "caitlinr77",	
+       "name": "Caitlin Reed",	
+       "email": "creed25@fordham.edu",	
+     "organization": "Fordham University"	}},
+    
+
+     { "organic phase": {
+        "extractants": [
+        {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"}],
+                                                                                                                                                  
+         "solvents": [
+        {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+         "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                                                                                },
+          "aqueous phase": {
+           "solutes": [
+        {"identity": "HNO3", "concentration": {"quantity": 0.01965, "unit": "M"}}],
+                                                                                                                                
+        "pH": "missing",
+       "volume": {"quantity": "missing", "unit": "milliliter"}},
+         "reaction conditions": {
+         "temperature": {"quantity": 293, "unit": "K"},
+           "time": {"quantity": 5, "unit": "minutes"} },
+           "metals":[
+           {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00213, "quantification method":"gamma"}
+            ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0011, "quantification method":"gamma"}],
+                                                                                                                            
+          "observations": {
+          "comment": "Third pair of Am and Eu D values with only 2-bromodecanoic acid in figure 3 of Drew et al. paper "},
+            "provenance": {
+            "doi": "10.1039/a907077j", 
+           "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                                                                              ,
+           "record creation": {
+           "time": "2023:07:31:01:00:00:00+0",
+           "username": "caitlinr77",	
+           "name": "Caitlin Reed",	
+           "email": "creed25@fordham.edu",	
+         "organization": "Fordham University"	}},
+
+
+         { "organic phase": {
+            "extractants": [
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"}],
+                                                                                                                                                      
+             "solvents": [
+            {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
+             "volume": {"quantity": "missing", "unit": "milliliter"}
+                                                                                                                                    },
+              "aqueous phase": {
+               "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": 0.03981, "unit": "M"}}],
+                                                                                                                                    
+            "pH": "missing",
+           "volume": {"quantity": "missing", "unit": "milliliter"}},
+             "reaction conditions": {
+             "temperature": {"quantity": 293, "unit": "K"},
+               "time": {"quantity": 5, "unit": "minutes"} },
+               "metals":[
+               {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00022, "quantification method":"gamma"}
+                ,{"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00021, "quantification method":"gamma"}],
+                                                                                                                                
+              "observations": {
+              "comment": "Fourth pair of Am and Eu D values with only 2-bromodecanoic acid in figure 3 of Drew et al. paper "},
+                "provenance": {
+                "doi": "10.1039/a907077j", 
+               "attached file": "https://fordhamit.sharepoint.com/sites/F-Separation/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FDrew%20et%20al%2E%20%2D%202000%20%2D%20Separation%20of%20americium%28III%29%20from%20europium%28III%29%20wi%2Epdf&viewid=18d36784%2Db0f5%2D47b9%2D9bd5%2D8ccf1d7c5268&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers"}	
+                                                                                                                                  ,
+               "record creation": {
+               "time": "2023:07:31:01:00:00:00+0",
+               "username": "caitlinr77",	
+               "name": "Caitlin Reed",	
+               "email": "creed25@fordham.edu",	
+             "organization": "Fordham University"	}} ]

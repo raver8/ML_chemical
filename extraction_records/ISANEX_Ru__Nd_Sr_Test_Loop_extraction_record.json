@@ -5,9 +5,10 @@
         {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
     "solvents": [
-        {"identity": "dodecane", "volfraction": 1.0}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"}
-},
+        {"identity": "dodecane", "volfraction": 0.95},
+        "identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
     "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
@@ -52,10 +53,13 @@
         "extractants": [
         {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
+
     "solvents": [
-        {"identity": "dodecane", "volfraction": 1.0}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"}
-},
+        {"identity": "dodecane", "volfraction": 0.95},
+        "identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+{
     "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
@@ -100,10 +104,14 @@
         "extractants": [
         {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
+
     "solvents": [
-        {"identity": "dodecane", "volfraction": 1.0}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"}
-},
+        {"identity": "dodecane", "volfraction": 0.95},
+        "identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+
+
     "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
@@ -148,10 +156,13 @@
         "extractants": [
         {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
+
     "solvents": [
-        {"identity": "dodecane", "volfraction": 1.0}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"}
-},
+        {"identity": "dodecane", "volfraction": 0.95},
+        "identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+
     "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
@@ -196,10 +207,13 @@
         "extractants": [
         {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
+
     "solvents": [
-        {"identity": "dodecane", "volfraction": 1.0}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"}
-},
+        {"identity": "dodecane", "volfraction": 0.95},
+        "identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+
     "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
@@ -244,10 +258,13 @@
         "extractants": [
         {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
+
     "solvents": [
-        {"identity": "dodecane", "volfraction": 1.0}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"}
-},
+        {"identity": "dodecane", "volfraction": 0.95},
+        "identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+
     "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
@@ -293,9 +310,11 @@
         {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
     "solvents": [
-        {"identity": "dodecane", "volfraction": 1.0}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"}
-},
+        {"identity": "dodecane", "volfraction": 0.95},
+        "identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+
     "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],
@@ -342,9 +361,11 @@
         {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
     "solvents": [
-        {"identity": "dodecane", "volfraction": 1.0}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"}
-},
+        {"identity": "dodecane", "volfraction": 0.95},
+        "identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+
     "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.018, "unit": "M"}}],

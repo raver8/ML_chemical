@@ -4,10 +4,12 @@
         "extractants": [
             {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
-         "solvents": [
-            {"identity": "dodecane", "volfraction": 1.0}],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+
+	    "solvents": [
+        {"identity": "dodecane", "volfraction": 0.95},
+        {"identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
      "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
@@ -21,7 +23,8 @@
     "reaction conditions": {
         "temperature": {"quantity": 298, "unit": "K"},
         "flow rate": {"quantity": 1.5, "unit": "LPM"},
-        "time": {"quantity": 1800, "unit": "seconds"}
+        "time": {"quantity": 1800, "unit": "seconds"},
+        "accumulated dose" : {"quantity": 39.9, "unit": "kGy"}
 
         },
 
@@ -52,10 +55,12 @@
         "extractants": [
             {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
-         "solvents": [
-            {"identity": "dodecane", "volfraction": 1.0}],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 0.95},
+        {"identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+	    
      "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
@@ -99,11 +104,13 @@
     "organic phase": {
         "extractants": [
             {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
+   
+	    "solvents": [
+        {"identity": "dodecane", "volfraction": 0.95},
+        {"identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
 
-         "solvents": [
-            {"identity": "dodecane", "volfraction": 1.0}],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+	    
      "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
@@ -149,9 +156,11 @@
             {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
          "solvents": [
-            {"identity": "dodecane", "volfraction": 1.0}],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+        {"identity": "dodecane", "volfraction": 0.95},
+        {"identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+	    
      "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
@@ -196,10 +205,12 @@
         "extractants": [
             {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
-         "solvents": [
-            {"identity": "dodecane", "volfraction": 1.0}],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 0.95},
+        {"identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+	    
      "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
@@ -244,10 +255,12 @@
         "extractants": [
             {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
-         "solvents": [
-            {"identity": "dodecane", "volfraction": 1.0}],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 0.95},
+        {"identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+	    
      "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
@@ -292,10 +305,12 @@
         "extractants": [
             {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
-         "solvents": [
-            {"identity": "dodecane", "volfraction": 1.0}],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 0.95},
+        {"identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+	    
      "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
@@ -340,10 +355,12 @@
         "extractants": [
             {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
-         "solvents": [
-            {"identity": "dodecane", "volfraction": 1.0}],
-        "volume": {"quantity": 1.0, "unit": "milliliter"}
-    },
+    "solvents": [
+        {"identity": "dodecane", "volfraction": 0.95},
+        {"identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+	    
      "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
@@ -390,9 +407,11 @@
         {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
     "solvents": [
-        {"identity": "dodecane", "volfraction": 1.0}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"}
-},
+        {"identity": "dodecane", "volfraction": 0.95},
+        {"identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+	    
     "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
@@ -438,9 +457,11 @@
         {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
     "solvents": [
-        {"identity": "dodecane", "volfraction": 1.0}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"}
-},
+        {"identity": "dodecane", "volfraction": 0.95},
+        {"identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+	    
     "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
@@ -486,9 +507,11 @@
         {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
     "solvents": [
-        {"identity": "dodecane", "volfraction": 1.0}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"}
-},
+        {"identity": "dodecane", "volfraction": 0.95},
+        {"identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+	    
     "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
@@ -534,9 +557,12 @@
         {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
     "solvents": [
-        {"identity": "dodecane", "volfraction": 1.0}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"}
-},
+        {"identity": "dodecane", "volfraction": 0.95},
+        {"identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+
+	    
     "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
@@ -583,9 +609,11 @@
         {"identity": "TODGA", "concentration": {"quantity": 0.2, "unit": "M"}}],
 
     "solvents": [
-        {"identity": "dodecane", "volfraction": 1.0}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"}
-},
+        {"identity": "dodecane", "volfraction": 0.95},
+        {"identity": "1-octanol", "volfraction": 0.05}],
+    "volume": {"quantity": 1.0, "unit": "milliliter"},
+
+	    
     "aqueous phase": {
         "holdback agents": [
             {"identity": "SO3-Ph-BTP", "concentration": {"quantity": 0.05, "unit": "M"}}],
@@ -626,4 +654,4 @@
     }
 }
 
-]
+

@@ -1,0 +1,5050 @@
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.205, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.60},
+            {"identity": "1-butanol", "volfraction": 0.40}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 4.03,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.022429, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.53352, "quantification method":"gamma"}]
+
+      
+    "observations":{
+        "third phase": false,
+        "comment": " Point 1 Eu(III) and Am(III) D values in Figure 1 in Kolarik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+
+  {
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.205, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.60},
+            {"identity": "1-butanol", "volfraction": 0.40}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 4.12,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },  
+
+    "metals":[       
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.022235, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.593593, "quantification method":"gamma"}]
+  
+    "observations":{
+        "third phase": false,
+        "comment": "Point 2 Eu(III) and Am(III) D values in Figure 1 in Kolarik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+            
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.205, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.60},
+            {"identity": "1-butanol", "volfraction": 0.40}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 4.40,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.034628, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.746954, "quantification method":"gamma"}]
+
+  
+    "observations":{
+        "third phase": false,
+        "comment": "Point 3 Eu(III) and Am(III) D values in Figure 1 in Kolarik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+
+            
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.205, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.60},
+            {"identity": "1-butanol", "volfraction": 0.40}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 4.78,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+"metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.051188, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.873009, "quantification method":"gamma"}]
+    
+  
+    "observations":{
+        "third phase": false,
+        "comment": "Point 4 Eu(III) and Am(III) D values in Figure 1 in Kolarik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+
+        
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.205, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.60},
+            {"identity": "1-butanol", "volfraction": 0.40}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 5.16,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },   
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.499909, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.796244, "quantification method":"gamma"}]
+    
+           
+    "observations":{
+        "third phase": false,
+        "comment": "Point 5 Eu(III) and Am(III) D values in Figure 1 in Kolarik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+
+              
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.205, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.60},
+            {"identity": "1-butanol", "volfraction": 0.40}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 5.28,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },   
+
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals": [ 
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.525287, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.804527, "quantification method":"gamma"}]
+              
+  
+    "observations":{
+        "third phase": false,
+        "comment": "Point 6 Eu(III) and Am(III) D values in Figure 1 in Kolarik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	
+
+  {
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.205, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.60},
+            {"identity": "1-butanol", "volfraction": 0.40}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 5.43,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.551952, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.717967, "quantification method":"gamma"}]
+
+  
+    "observations":{
+        "third phase": false,
+        "comment": "Point 7 Eu(III) and Am(III) D values in Figure 1 in Kolarik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}	           
+
+  {
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.205, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.60},
+            {"identity": "1-butanol", "volfraction": 0.40}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 5.73,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },   
+  
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+    "metals":[       
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.742901, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.901523, "quantification method":"gamma"}]
+
+ 
+    "observations":{
+        "third phase": false,
+        "comment": "Point 8 Eu(III) and Am(III) D values in Figure 1 in Kolarik Paper, page 365"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-03:15:30:00+0",
+        "username": "caitlinr77",	
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",	
+        "organization": "Fordham University"}
+    
+
+
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.191, "unit": "M"}}],
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Hydroxylammonium Nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+            "pH": 3.77,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 5, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": 0.1, "unit": "M"}, "D": 0.08382, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": 0.7, "unit": "M"}, "D": 0.193801, "quantification method":"gamma"} ],
+    
+    "observations":{
+        "third phase": false,
+        "comment": "Figure 2 of Kolorik Paper, Page 366"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",	
+        "attached_file": ""},
+    
+    "record creation": {
+        "time": "2023-06-01:16:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0000-0000-0000", 	
+        "organization": "Fordham University"	
+    }
+    
+    }
+
+
+
+
+
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-(2-pyridyl}benzimidazole", "concentration": {"quantity":0.1224489796, "unit": "M"}}
+             ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+   
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.011-0.080" , "unit": "M"}}
+           ],
+        "pH": 4.56,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },  
+   
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+   
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00257033996, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.01509116902}, "quantifaction method":"gamma"}],
+   
+    "observations":{
+        "third phase": false,
+        "comment": "figure 3 in kolarik paper"},
+   
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",   
+        "attached_file": " "},
+   
+    "record creation": {
+        "time": "2023-07-21:24:00:00+0",
+        "username": "Ranulph694",  
+        "name": "Ranulph Mayas",   
+        "email": "rmayas@fordham.edu", 
+        "organization": "Fordham University"
+    }
+   
+    }
+ 
+ 
+ 
+
+    {
+        "organic phase": {
+            "extractants": [
+                {"identity": "2-(2-pyridyl}benzimidazole", "concentration": {"quantity":0.1741071429, "unit": "M"}}
+                ],
+             "solvents": [
+                {"identity": "Xylene", "volfraction": 0.70},
+                {"identity": "1-butanol ", "volfraction": 0.30}
+            ],
+            "volume": {"quantity": 1.90, "unit": "milliliter"}
+        },
+       
+         "aqueous phase": {
+            "solutes": [
+                {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+                {"identity": "Formic Acid", "concentration": {"quantity": "0.011-0.080" , "unit": "M"}}
+               ],
+            "pH": 4.56,
+            "volume": {"quantity": 4.00, "unit": "milliliter"}
+        },  
+       
+        "reaction conditions": {
+            "temperature": {"quantity": 296, "unit": "K"},
+            "time": {"quantity": 15, "unit": "minutes"}
+        },
+       
+        "metals":[
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.003481554923, "quantification method":"gamma"} ,
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.02502422796}, "quantifaction method":"gamma"}],
+       
+        "observations":{
+            "third phase": false,
+            "comment": "figure 3 point three (closed) in kolarik paper"},
+       
+         "provenance": {
+            "doi": " 10.1080/07366299708934483",   
+            "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+       
+        "record creation": {
+            "time": "2023-07-21:24:00:00+0",
+            "username": "Ranulph694",  
+            "name": "Ranulph Mayas",   
+            "email": "rmayas@fordham.edu", 
+            "organization": "Fordham University"
+        }
+       
+        }
+       
+   
+ 
+ 
+ {
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-(2-pyridyl}benzimidazole", "concentration": {"quantity":0.2461734694, "unit": "M"}}
+           ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+   
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.011-0.080" , "unit": "M"}}
+           ],
+        "pH": 4.56,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },  
+   
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+   
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00521775273275544, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.05813312841}, "quantifaction method":"gamma"}],
+   
+    "observations":{
+        "third phase": false,
+        "comment": "figure 3 point four (closed) in kolarik paper"},
+   
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",   
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+   
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",  
+        "name": "Ranulph Mayas",   
+        "email": "rmayas@fordham.edu", 
+        "organization": "Fordham University"
+    }
+   
+    }
+   
+ 
+ {
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-(2-pyridyl}benzimidazole", "concentration": {"quantity":0.2971938776, "unit": "M"}}
+          ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+   
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.011-0.080" , "unit": "M"}}
+           ],
+        "pH": 4.56,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },  
+   
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+   
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.007819765646, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.1180094051}, "quantifaction method":"gamma"}],
+   
+    "observations":{
+        "third phase": false,
+        "comment": "figure 3 point five (closed) in kolarik paper"},
+   
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",   
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+   
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",  
+        "name": "Ranulph Mayas",   
+        "email": "rmayas@fordham.edu", 
+        "organization": "Fordham University"
+    }
+   
+    }
+   
+ 
+ {
+    "organic phase": {
+        "extractants": [
+            {"identity": "2-(2-pyridyl}benzimidazole", "concentration": {"quantity":0.3360969388, "unit": "M"}}
+            ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+   
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.011-0.080" , "unit": "M"}}
+           ],
+        "pH": 4.56,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },  
+   
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+   
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.01318720636, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.2058345175}, "quantifaction method":"gamma"}],
+   
+    "observations":{
+        "third phase": false,
+        "comment": "figure 3 point six (closed) in kolarik paper"},
+   
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",   
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+   
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",  
+        "name": "Ranulph Mayas",   
+        "email": "rmayas@fordham.edu", 
+        "organization": "Fordham University"
+    }
+   
+    }
+   
+ {
+    "organic phase": {
+        "extractants": [
+            {"identity": " 6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity":0.09375, "unit": "M"}}
+           ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+   
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.011-0.080" , "unit": "M"}}
+           ],
+        "pH": 4.15,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },  
+   
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+   
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00299145111, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.02419458445}, "quantification method":"gamma"}],
+   
+    "observations":{
+        "third phase": false,
+        "comment": "figure 3 point one (open) in kolarik paper"},
+   
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",   
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+   
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",  
+        "name": "Ranulph Mayas",   
+        "email": "rmayas@fordham.edu", 
+        "organization": "Fordham University"
+    }
+   
+    }
+   
+ 
+ {
+    "organic phase": {
+        "extractants": [
+            {"identity": " 6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity":0.1670918367, "unit": "M"}}
+           ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+   
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.011-0.080" , "unit": "M"}}
+           ],
+        "pH": 4.15,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },  
+   
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+   
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.004636974133, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.05813312841}, "quantification method":"gamma"}],
+   
+    "observations":{
+        "third phase": false,
+        "comment": "figure 3 point two (open) in kolarik paper"},
+   
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",   
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+   
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",  
+        "name": "Ranulph Mayas",   
+        "email": "rmayas@fordham.edu", 
+        "organization": "Fordham University"
+    }
+   
+    }
+   
+ {
+    "organic phase": {
+        "extractants": [
+            {"identity": " 6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity":0.2168367347, "unit": "M"}}
+           ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+   
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.011-0.080" , "unit": "M"}}
+           ],
+        "pH": 4.15,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },  
+   
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+   
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.007689046327, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.1681369186}, "quantification method":"gamma"}],
+   
+    "observations":{
+        "third phase": false,
+        "comment": "figure 3 point three (open) in kolarik paper"},
+   
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",   
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+   
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",  
+        "name": "Ranulph Mayas",   
+        "email": "rmayas@fordham.edu", 
+        "organization": "Fordham University"
+    }
+   
+    }
+   
+ {
+    "organic phase": {
+        "extractants": [
+            {"identity": " 6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity":0.2889030612, "unit": "M"}}
+           ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+   
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.011-0.080" , "unit": "M"}}
+           ],
+        "pH": 4.15,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },  
+   
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+   
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.01434693408, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.3084810208}, "quantification method":"gamma"}],
+   
+    "observations":{
+        "third phase": false,
+        "comment": "figure 3 point four (open) in kolarik paper"},
+   
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",   
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+   
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",  
+        "name": "Ranulph Mayas",   
+        "email": "rmayas@fordham.edu", 
+        "organization": "Fordham University"
+    }
+   
+    }
+   
+ 
+ {
+    "organic phase": {
+        "extractants": [
+            {"identity": " 6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity":0.3794642857, "unit": "M"}}
+           ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+   
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.011-0.080" , "unit": "M"}}
+           ],
+        "pH": 4.15,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },  
+   
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+   
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.04438983519, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 1.229056311}, "quantification method":"gamma"}],
+   
+    "observations":{
+        "third phase": false,
+        "comment": "figure 3 point five (open) in kolarik paper"},
+   
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",   
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+   
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",  
+        "name": "Ranulph Mayas",   
+        "email": "rmayas@fordham.edu", 
+        "organization": "Fordham University"
+    }
+   
+    }
+   
+ 
+ 
+ {
+    "organic phase": {
+        "extractants": [
+            {"identity": " 6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity":0.4521683673, "unit": "M"}}
+           ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+   
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.011-0.080" , "unit": "M"}}
+           ],
+        "pH": 4.15,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },  
+   
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+   
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.1180094051, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 3.61520085}, "quantification method":"gamma"}],
+   
+    "observations":{
+        "third phase": false,
+        "comment": "figure 3 point six (open) in kolarik paper"},
+   
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",   
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+   
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",  
+        "name": "Ranulph Mayas",   
+        "email": "rmayas@fordham.edu", 
+        "organization": "Fordham University"
+    }
+   
+    }
+   
+
+
+
+
+{"organic phase": {
+        "extractants": [
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+
+    "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.6},
+            {"identity": "1-butanol", "volfraction": 0.4}],
+       "volume": {"quantity": 10 , "unit": "milliliter"}    
+
+    },
+        "aqueous phase": {
+            "solutes": [
+                {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+                {"identity": "formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            "pH": 2.98,
+            "volume": {"quantity": 15, "unit": "milliliter"}
+        },
+"reaction conditions": {
+    "temperature": {"quantity": 296, "unit": "K"},
+    "time": {"quantity": 15, "unit": "minutes"}
+},
+"metals": [
+    {"identity":"Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.009251, "quantification method": "gamma"},
+    {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.033851, "quantification method": "gamma"}],
+
+"observations": {
+    "third phase": false,
+    "comment": "Point 1 in Figure 4 of Kolarik Paper, page 368."},
+"provenance": {
+    "doi": "10.1080/07366299708934483",
+    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+},
+
+"record creation": {
+    "time": "2023-06-09:13:00:00",
+    "username": "oliviavanden",
+    "name": "Olivia Vanden Assem",
+    "email": "ovandenassem@fordham.edu",
+    "organization": "Fordham University"
+}
+
+    {
+    "organic phase": {
+        "extractants": [
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+
+        "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.6},
+            {"identity": "1-butanol", "volfraction": 0.4}],
+       "volume": {"quantity": 10, "unit": "milliliter"}
+
+        
+    },
+        "aqueous phase": {
+            "solutes": [
+                {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+                {"identity": "formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            "pH": 3.29,
+            "volume": {"quantity": 15, "unit": "milliliter"}
+        },
+"reaction conditions": {
+    "temperature": {"quantity": 296, "unit": "K"},
+    "time": {"quantity": 15, "unit": "minutes"}
+},
+
+"metals": [
+    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing" "unit": "M"}, "D": 0.009871, "quantification method": "gamma"},
+    {"identity": "Am(III)", "initial concentration": {"quantity:" "missing", "unit": "M"}, "D": 0.043879, "quantidication method": "gamma"}],
+
+"observations": {
+    "third phase": false,
+    "comment": "Point 2 in Figure 4 of Kolarik Paper, page 368."},
+"provenance": { 
+    "doi": "10.1080/07366299708934483",
+    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+    },
+
+"record creation": {
+    "time": "2023-06-09:13:20:00",
+    "username": "oliviavanden",
+    "name": "Olivia Vanden Assem",
+    "email": "ovandenassem@fordham.edu",
+    "organization": "Fordham University"
+}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+
+        "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.6},
+            {"identity": "1-butanol", "volfraction": 0.4}],
+       "volume": {"quantity": 10, "unit": "milliliter"}
+
+        
+
+    },
+        "aqueous phase": {
+            "solutes": [
+                {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+                {"identity": "formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            "pH": 3.72,
+            "volume": {"quantity": 15, "unit": "milliliter"}
+        },
+    "reaction conditions": {
+    "temperature": {"quantity": 296, "unit": "K"},
+    "time": {"quantity": 15, "unit": "minutes"}
+},
+
+"metals": [
+    {"identity": "Eu(III)", "initial concentration": {"quantity": , "unit": "M"}, "D": 0.01067, "quantification method": "gamma"},
+    {"identity": "Am(III)", "initial concentration": {"quantity": , "unit": "M"}, "D": 0.060687, "quantification method": "gamma"}],
+
+"observations": {
+    "third phase": false,
+    "comment": "Point 3 in Figure 4 of Kolarik Paper, page 368."},
+
+"provenance": {
+    "doi": "10.1080/07366299708934483",
+    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+},
+
+"record creation": {
+    "time": "2023-06-09:13:29:00",
+    "username": "oliviavanden",
+    "name": "Olivia Vanden Assem",
+    "email": "ovandenassem@fordham.edu",
+    "organization": "Fordham University"
+}
+{
+    "organic phase": {
+        "extractants": [
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": { "0.195", "unit": "M"}}],
+
+        "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.6},
+            {"identity": "1-butanol", "volfraction": 0.4}],
+       "volume": {"quantity": 10, "unit": "milliliter"}
+
+        
+
+    },
+        "aqueous phase": {
+            "solutes": [
+                {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+                {"identity": "formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            "pH": 4.20,
+            "volume": {"quantity": 15, "unit": "milliliter"}
+        },
+"reaction conditions": {
+    "temperature": {"quantity": 296, "unit": "K"},
+    "time": {"quantity": 15, "unit": "minutes"}
+},
+"metals": [
+    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing" , "unit": "M"}, "D": 0.012148, "quantification method": "gamma"},
+    {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.08956, "quantification method": "gamma"}], 
+
+"observations": {
+    "third phase": false,
+    "comment": "Point 4 in Figure 4 of Kolarik Paper, page 368."},
+
+"provenance": {
+    "doi": "10.1080/07366299708934483",
+    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+},
+
+"record creation": {
+    "time": "2023-06-09:13:29:00",
+    "username": "oliviavanden",
+    "name": "Olivia Vanden Assem",
+    "email": "ovandenassem@fordham.edu",
+    "organization": "Fordham University"}
+}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+
+        "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.6},
+            {"identity": "1-butanol", "volfraction": 0.4}],
+       "volume": {"quantity": 10 , "unit": "milliliter"}
+  
+
+    },
+        "aqueous phase": {
+            "solutes": [
+                {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+                {"identity": "hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            "pH": 4.55,
+            "volume": {"quantity": 15, "unit": "milliliter"}
+        },
+"reaction conditions": {
+    "temperature": {"quantity": 296, "unit": "K"},
+    "time": {"quantity": 15, "unit": "minutes"}
+
+},
+    "metals": [
+    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.03612, "quantification method": "gamma" },
+    {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.240039, "quantification method": "gamma"}],
+
+"observations": {
+    "third phase": false,
+    "comment": "Point 5 in Figure 4 of Kolarik Paper, page 368."},
+
+"provenance": {
+    "doi": "10.1080/07366299708934483",
+    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+},
+
+"record creation": {
+    "time": "2023-06-09:16:22:00",
+    "username":"oliviavanden",
+    "name":"Olivia Vanden Assem",
+    "email": "ovandenassem@fordham.edu",
+    "organization": "Fordham University"
+}
+
+    
+{
+    "organic phase": {
+        "extractants": [
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+
+        "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.6},
+            {"identity": "1-butanol", "volfraction": 0.4}],
+       "volume": {"quantity": 10 , "unit": "milliliter"}
+  
+
+    },
+        "aqueous phase": {
+            "solutes": [
+                {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+                {"identity": "hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            "pH": 4.98,
+            "volume": {"quantity": 15, "unit": "milliliter"}
+        },
+"reaction conditions": {
+    "temperature": {"quantity": 296, "unit": "K"},
+    "time": {"quantity": 15, "unit": "minutes"}
+
+},
+"metals": [
+    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.054, "quantification method": "gamma" },
+    {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.41931, "quantification method": "gamma"}],
+
+"observations": {
+    "third phase": false,
+    "comment": "Point 6 in Figure 4 of Kolarik Paper, page 368."},
+
+"provenance": {
+    "doi": "10.1080/07366299708934483",
+    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+},
+    "record creation": {
+    "time": "2023-06-09:16:25:00",
+    "username":"oliviavanden",
+    "name":"Olivia Vanden Assem",
+    "email": "ovandenassem@fordham.edu",
+    "organization": "Fordham University"
+}
+}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+
+        "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.6},
+            {"identity": "1-butanol", "volfraction": 0.4}],
+       "volume": {"quantity": 10 , "unit": "milliliter"}
+  
+
+    },
+        "aqueous phase": {
+            "solutes": [
+                {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+                {"identity": "hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            "pH": 5.26,
+            "volume": {"quantity": 15, "unit": "milliliter"}
+        },
+"reaction conditions": {
+    "temperature": {"quantity": 296, "unit": "K"},
+    "time": {"quantity": 15, "unit": "minutes"}
+
+},
+    "metals": [
+    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.083935, "quantification method": "gamma" },
+    {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.635063, "quantification method": "gamma"}],
+
+"observations": {
+    "third phase": false,
+    "comment": "Point 7 in Figure 4 of Kolarik Paper, page 368."},
+
+"provenance": {
+    "doi": "10.1080/07366299708934483",
+    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf" 
+},
+
+"record creation": {
+    "time": "2023-06-09:16:25:00",
+    "username":"oliviavanden",
+    "name":"Olivia Vanden Assem",
+    "email": "ovandenassem@fordham.edu",
+    "organization": "Fordham University"
+}
+    {
+    "organic phase": {
+        "extractants": [
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+
+        "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.6},
+            {"identity": "1-butanol", "volfraction": 0.4}],
+       "volume": {"quantity": 10 , "unit": "milliliter"}
+  
+
+    },
+        "aqueous phase": {
+            "solutes": [
+                {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+                {"identity": "hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+            "pH": 5.7,
+            "volume": {"quantity": 15, "unit": "milliliter"}
+        },
+"reaction conditions": {
+    "temperature": {"quantity": 296, "unit": "K"},
+    "time": {"quantity": 15, "unit": "minutes"}
+
+},
+    "metals": [
+    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.173555, "quantification method": "gamma" },
+    {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.724327, "quantification method": "gamma"}],
+
+"observations": {
+    "third phase": false,
+    "comment": "Point 8 in Figure 4 of Kolarik Paper, page 368."},
+
+"provenance": {
+    "doi": "10.1080/07366299708934483",
+    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+},
+
+"record creation": {
+    "time": "2023-06-09:16:25:00",
+    "username":"oliviavanden",
+    "name":"Olivia Vanden Assem",
+    "email": "ovandenassem@fordham.edu",
+    "organization": "Fordham University"
+}
+
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": " 2-(6-methyl-2-pyridyl)- benzimidazole ", "concentration": {"quantity": "missing", "unit": "M"}}
+            ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.04" , "unit": "M"}}
+           ],
+        "pH": 3.96,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.002120696275, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.01666560001}, "quantification method":"gamma"}],
+    
+    "observations":{
+        "third phase": false,
+        "comment": "figure 5 point one (closed) in kolarik paper"},
+    
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",	
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",	
+        "name": "Ranulph Mayas",	
+        "email": "rmayas@fordham.edu",	
+        "organization": "Fordham University"
+    }
+    
+    }
+    
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": " 2-(6-methyl-2-pyridyl)- benzimidazole ", "concentration": {"quantity": "missing","unit": "M"}}
+            ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.04" , "unit": "M"}}
+           ],
+        "pH": 4.18,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.002724611789, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.02569173351}, "quantification method":"gamma"}],
+    
+    "observations":{
+        "third phase": false,
+        "comment": "figure 5 point two (closed) in kolarik paper"},
+    
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",	
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",	
+        "name": "Ranulph Mayas",	
+        "email": "rmayas@fordham.edu",	
+        "organization": "Fordham University"
+    }
+    
+    }
+    
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": " 2-(6-methyl-2-pyridyl)- benzimidazole ", "concentration": {"quantity": "missing", "unit": "M"}}
+            ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.04" , "unit": "M"}}
+           ],
+        "pH": 4.85,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.002819321232, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.02879120514}, "quantification method":"gamma"}],
+    
+    "observations":{
+        "third phase": false,
+        "comment": "figure 5 point three (closed) in kolarik paper"},
+    
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",	
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",	
+        "name": "Ranulph Mayas",	
+        "email": "rmayas@fordham.edu",	
+        "organization": "Fordham University"
+    }
+    
+    }
+    
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": " 2-(6-methyl-2-pyridyl)- benzimidazole ", "concentration": {"quantity": "missing", "unit": "M"}}
+            ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.04" , "unit": "M"}}
+           ],
+        "pH": 4.44,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.004200268815, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.03376858428}, "quantification method":"gamma"}],
+    
+    "observations":{
+        "third phase": false,
+        "comment": "figure 5 point four (closed)  in kolarik paper"},
+    
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",	
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",	
+        "name": "Ranulph Mayas",	
+        "email": "rmayas@fordham.edu",	
+        "organization": "Fordham University"
+    }
+    
+    }
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": " 6-methyl-2-(6-methyl-2-pyridyl)benzimidazole  ", "concentration": {"quantity": "missing", "unit": "M"}}
+            ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.04" , "unit": "M"}}
+           ],
+        "pH": 3.45,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00157712364, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.003878381987}, "quantification method":"gamma"}],
+    
+    "observations":{
+        "third phase": false,
+        "comment": "figure 5 point one (open) in kolarik paper"},
+    
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",	
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",	
+        "name": "Ranulph Mayas",	
+        "email": "rmayas@fordham.edu",	
+        "organization": "Fordham University"
+    }
+    
+    }
+    
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": " 6-methyl-2-(6-methyl-2-pyridyl)benzimidazole  ", "concentration": {"quantity": "missing", "unit": "M"}}
+            ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.04" , "unit": "M"}}
+           ],
+        "pH": 4.02,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.002096678443, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.01977063449}, "quantification method":"gamma"}],
+    
+    "observations":{
+        "third phase": false,
+        "comment": "figure 5 in kolarik paper"},
+    
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",	
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",	
+        "name": "Ranulph Mayas",	
+        "email": "rmayas@fordham.edu",	
+        "organization": "Fordham University"
+    }
+    
+    }
+    
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": " 6-methyl-2-(6-methyl-2-pyridyl)benzimidazole  ", "concentration": {"quantity": "missing", "unit": "M"}}
+            ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.04" , "unit": "M"}}
+           ],
+        "pH": 4.28,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.002787391161, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.03494240428}, "quantification method":"gamma"}],
+    
+    "observations":{
+        "third phase": false,
+        "comment": "figure 5 in kolarik paper"},
+    
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",	
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",	
+        "name": "Ranulph Mayas",	
+        "email": "rmayas@fordham.edu",	
+        "organization": "Fordham University"
+    }
+    
+    }
+    
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": " 6-methyl-2-(6-methyl-2-pyridyl)benzimidazole  ", "concentration": {"quantity": "missing", "unit": "M"}}
+            ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.04" , "unit": "M"}}
+           ],
+        "pH": 4.50,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.003922809557, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.05146816262}, "quantification method":"gamma"}],
+    
+    "observations":{
+        "third phase": false,
+        "comment": "figure 5 in kolarik paper"},
+    
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",	
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",	
+        "name": "Ranulph Mayas",	
+        "email": "rmayas@fordham.edu",	
+        "organization": "Fordham University"
+    }
+    
+    }
+
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": " 6-methyl-2-(6-methyl-2-pyridyl)benzimidazole  ", "concentration": {"quantity": "missing", "unit": "M"}}
+            ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.04" , "unit": "M"}}
+           ],
+        "pH": 4.64,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.003344600229, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.05968222842}, "quantification method":"gamma"}],
+    
+    "observations":{
+        "third phase": false,
+        "comment": "figure 5 in kolarik paper"},
+    
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",	
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",	
+        "name": "Ranulph Mayas",	
+        "email": "rmayas@fordham.edu",	
+        "organization": "Fordham University"
+    }
+    
+    }
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": " 6-methyl-2-(6-methyl-2-pyridyl)benzimidazole  ", "concentration": {"quantity": "missing", "unit": "M"}}
+            ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.04" , "unit": "M"}}
+           ],
+        "pH": 4.77,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.004446418164, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.06612486864}, "quantification method":"gamma"}],
+    
+    "observations":{
+        "third phase": false,
+        "comment": "figure 5 in kolarik paper"},
+    
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",	
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",	
+        "name": "Ranulph Mayas",	
+        "email": "rmayas@fordham.edu",	
+        "organization": "Fordham University"
+    }
+    
+    }
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": " 6-methyl-2-(6-methyl-2-pyridyl)benzimidazole  ", "concentration": {"quantity": "missing", "unit": "M"}}
+            ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.04" , "unit": "M"}}
+           ],
+        "pH": 4.94,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.004982837669, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.06688234101}, "quantification method":"gamma"}],
+    
+    "observations":{
+        "third phase": false,
+        "comment": "figure 5 in kolarik paper"},
+    
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",	
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",	
+        "name": "Ranulph Mayas",	
+        "email": "rmayas@fordham.edu",	
+        "organization": "Fordham University"
+    }
+    
+    }
+
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": " 6-methyl-2-(6-methyl-2-pyridyl)benzimidazole  ", "concentration": {"quantity": "missing", "unit": "M"}}
+            ],
+         "solvents": [
+            {"identity": "Xylene", "volfraction": 0.70},
+            {"identity": "1-butanol ", "volfraction": 0.30}
+        ],
+        "volume": {"quantity": 1.90, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
+            {"identity": "Formic Acid", "concentration": {"quantity": "0.04" , "unit": "M"}}
+           ],
+        "pH": 5.22,
+        "volume": {"quantity": 4.00, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.006329308339, "quantification method":"gamma"} ,
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M", "D": 0.06390353628}, "quantification method":"gamma"}],
+    
+    "observations":{
+        "third phase": false,
+        "comment": "figure 5 in kolarik paper"},
+    
+     "provenance": {
+        "doi": " 10.1080/07366299708934483",	
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-09-21:24:00:00+0",
+        "username": "Ranulph694",	
+        "name": "Ranulph Mayas",	
+        "email": "rmayas@fordham.edu",	
+        "organization": "Fordham University"
+    }
+    
+    }
+
+
+
+
+{
+    "organic phase":{
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-1-(2-pyridylmethyl)benzimidazole", "concentrayion": {"quantity": "missing", "unit": "M"}}], 
+        "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 1.0}],
+        "volume": {"quantity": 10, "unit": "milliliter"}
+
+    },
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 0.15, "unit": "M"}},
+            {"identity": "hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+            "pH": 5.2,
+            "volume": {"quantity": 15, "unit": "milliliter"}
+    },
+    "reaction conditions": {
+        "temperture": {"quantity": 296, "uunit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+"metals": [
+    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.002862794, "quanitification method": "gamma"},
+    {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.01014315, "quantification method": "gamma"}],
+
+"observations": {
+    "third phase": false,
+    "comement": "Point 1 of Figure 6 in Kolarik paper, page 370. Initial extractant molarity of 0.3"},
+
+"provenance": {
+    "doi": "10.1080/07366299708934483",
+    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+},
+"record creation": {
+    "time": "2023-06-09:17:08:00",
+    "username": "oliviavanden",
+    "name": "Olivia Vanden Assem",
+    "email": "ovandenassem@fordham.edu",
+    "organization": "Fordham University"
+}
+{   "organic phase":{
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-1-(2-pyridylmethyl)benzimidazole", "concentrayion": {"quantity": "missing", "unit": "M"}}], 
+        "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 1.0}],
+        "volume": {"quantity": 10, "unit": "milliliter"}
+
+    },
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 0.15, "unit": "M"}},
+            {"identity": "hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+            "pH": 5.2,
+            "volume": {"quantity": 15, "unit": "milliliter"}
+    },
+    "reaction conditions": {
+        "temperture": {"quantity": 296, "uunit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+"metals": [
+    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.009313991, "quanitification method": "gamma"},
+    {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.064363844, "quantification method": "gamma"}],
+
+"observations": {
+    "third phase": false,
+    "comement": "Point 2 of Figure 6 in Kolarik paper, page 370. Initial extractant molarity of 0.16"},
+
+"provenance": {
+    "doi": "10.1080/07366299708934483",
+    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+},
+    "record creation": {
+    "time": "2023-06-09:17:12:00",
+    "username": "oliviavanden",
+    "name": "Olivia Vanden Assem",
+    "email": "ovandenassem@fordham.edu",
+    "organization": "Fordham University"
+}
+}
+{
+    "organic phase":{
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-1-(2-pyridylmethyl)benzimidazole", "concentrayion": {"quantity": "missing", "unit": "M"}}], 
+        "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 1.0}],
+        "volume": {"quantity": 10, "unit": "milliliter"}
+
+    },
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 0.15, "unit": "M"}},
+            {"identity": "hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+            "pH": 5.2,
+            "volume": {"quantity": 15, "unit": "milliliter"}
+    },
+    "reaction conditions": {
+        "temperture": {"quantity": 296, "uunit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+"metals": [
+    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.055835908, "quanitification method": "gamma"},
+    {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.303027108, "quantification method": "gamma"}],
+"observations": {
+    "third phase": false,
+    "comement": "Point 3 of Figure 6 in Kolarik paper, page 370. Initial extractant molarity of 0.26"},
+
+"provenance": {
+    "doi": "10.1080/07366299708934483",
+    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+},
+"record creation": {
+    "time": "2023-06-09:17:12:00",
+    "username": "oliviavanden",
+    "name": "Olivia Vanden Assem",
+    "email": "ovandenassem@fordham.edu",
+    "organization": "Fordham University"
+}
+
+    {
+    "organic phase":{
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-1-(2-pyridylmethyl)benzimidazole", "concentrayion": {"quantity": "missing", "unit": "M"}}], 
+        "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 1.0}],
+        "volume": {"quantity": 10, "unit": "milliliter"}
+
+    },
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NH4SCN", "concentration": {"quantity": 0.15, "unit": "M"}},
+            {"identity": "hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+
+            "pH": 5.2,
+            "volume": {"quantity": 15, "unit": "milliliter"}
+    },
+    "reaction conditions": {
+        "temperture": {"quantity": 296, "uunit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+"metals": [
+    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.203536347, "quanitification method": "gamma"},
+    {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.608065855, "quantification method": "gamma"}],
+
+"observations": {
+    "third phase": false,
+    "comement": "Point 4 of Figure 6 in Kolarik paper, page 370. Initial extractant molarity of 0.36"},
+"provenance": {
+    "doi": "10.1080/07366299708934483",
+    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+},
+"record creation": {
+    "time": "2023-06-09:17:12:00",
+    "username": "oliviavanden",
+    "name": "Olivia Vanden Assem",
+    "email": "ovandenassem@fordham.edu",
+    "organization": "Fordham University"
+}
+
+
+    {
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.50},
+            {"identity": "1-butanol", "volfraction": 0.50}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4NO3", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "Hydroxylammonium", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 5.2,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.019176, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.127216, "quantification method":"gamma"}]
+
+    
+      "observations":{
+        "third phase": false,
+        "comment": "First pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372, beginning with the points on the right labeled 'Nitrates'"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.50},
+            {"identity": "1-butanol", "volfraction": 0.50}],
+        "volume": {"quantity": 10, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4NO3", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "Hydroxylammonium", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 5.2,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.029729, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.192721, "quantification method":"gamma"}]
+
+    
+      "observations":{
+        "third phase": false,
+        "comment": "Second pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.50},
+            {"identity": "1-butanol", "volfraction": 0.50}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4NO3", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "Hydroxylammonium", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 5.2,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.037445, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.248409, "quantification method":"gamma"}]
+     
+    
+
+      "observations":{
+        "third phase": false,
+        "comment": "Third pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.50},
+            {"identity": "1-butanol", "volfraction": 0.50}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4NO3", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "Hydroxylammonium", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 5.2,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.062211, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.376319, "quantification method":"gamma"}]
+
+      "observations":{
+        "third phase": false,
+        "comment": "Fourth pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": 0.191, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaClO4", "concentration": {"quantity": "missing", "unit": "M"}},
+        "pH": 4.85,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+ 
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.022751, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.135528, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Fifth pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372 points are on the left curve in the graph, with these points being labeled as 'Perchlorates' to indicate the use of NaClO4 for the extraction"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": 0.191, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaClO4", "concentration": {"quantity": "missing", "unit": "M"}},
+        "pH": 4.85,
+        "volume": {"quantity": "missing", "unit": "milliliter"} 
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.086245, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.531965, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Sixth pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": 0.191, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaClO4", "concentration": {"quantity": "missing", "unit": "M"}},
+        "pH": 4.85,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]  
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.461453, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.988829, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Seventh pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": 0.191, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}
+            , "identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}]
+
+        "pH": 4.85,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.009949, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.063246, "quantification method":"gamma"}]
+      
+
+      "observations":{
+        "third phase": false,
+        "comment": "Eighth pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": 0.191, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}
+            ,"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}]
+
+        "pH": 4.85,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.009076, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.054061, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Ninth pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": 0.191, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}
+            ,"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}]
+,
+        "pH": 4.85,
+        "volume": {"quantity": "missing", "unit": "milliliter"}
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.004662, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.019278, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Tenth pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": 0.191, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "KI", "concentration": {"quantity": "missing", "unit": "M"}},
+,
+        "pH": 4.85,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]  
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.001411, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.005137, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Eleventh pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": 0.191, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "KI", "concentration": {"quantity": "missing", "unit": "M"}},
+        "pH": 4.85,
+        "volume": {"quantity": "missing", "unit": "milliliter"}] 
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.001959, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.010525, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Twelfth pair of Eu(III) and Am(III) D values in figure 7 in Kolorik Paper, page 372"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+
+
+[
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.05729541843065595,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 8.5,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 6.2,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.00630856457614301,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.0197998920411018,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 8 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:04:12:19",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.1286376956509795,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 8.5,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 6.2,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.0184109765894367,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.072417081115514,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 8 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:04:12:19",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.17231425256572802,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 8.5,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 6.2,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.0265899904578724,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.131062089839502,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 8 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:04:12:19",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.22987429730937547,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 8.5,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 6.2,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.0426612286828115,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.233656410186266,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 8 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:04:12:19",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.28738659970990654,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 8.5,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 6.2,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.0653351500528182,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.1,
+                    "unit": "M"
+                },
+                "D": 0.391655294553075,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 8 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:04:12:19",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    }
+]
+    
+    
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
+        "volume": {"quantity": 10.0, "unit": "milliliter"},
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.20, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.30, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "First pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+        {
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
+        "volume": {"quantity": 10.0, "unit": "milliliter"},
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.20, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.30, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Second pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
+        "volume": {"quantity": 10.0, "unit": "milliliter"},
+
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.75, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.70, "quantification method":"gamma"}]
+
+      "observations":{
+        "third phase": false,
+        "comment": "Third pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
+        "volume": {"quantity": 10.0, "unit": "milliliter"},
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.95, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.20, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Fourth pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
+        "volume": {"quantity": 10.0, "unit": "milliliter"},
+
+
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.30, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.90, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Fifth pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
+        "volume": {"quantity": 10.0, "unit": "milliliter"},
+
+
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.55, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.95, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Sixth pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
+        "volume": {"quantity": 10.0, "unit": "milliliter"},
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.90, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.80, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Seventh pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
+        "volume": {"quantity": 10.0, "unit": "milliliter"},
+
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.50, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 10.40, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Eighth pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+
+            "solvents": [
+            {"identity": "xylene", "volfraction": 0.70},
+            {"identity": "1-butanol", "volfraction": 0.30},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
+        "volume": {"quantity": 10.0, "unit": "milliliter"},
+
+
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+        "pH": 5.1,
+        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.50, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 10.65, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": false,
+        "comment": "Ninth pair of Eu(III) and Am(III) D values in figure 9 in Kolorik Paper, page 373"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+
+[
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.0,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 1.0,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 4.85,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.0279,
+                    "unit": "M"
+                },
+                "D": 0.20203133,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.0279,
+                    "unit": "M"
+                },
+                "D": 0.98312975,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 10 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:18:12:38",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.04401665,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 1.0,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 4.85,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.0279,
+                    "unit": "M"
+                },
+                "D": 0.20203133,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.0279,
+                    "unit": "M"
+                },
+                "D": 1.0,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 10 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:18:12:38",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.06614252500000001,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 1.0,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 4.85,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.0279,
+                    "unit": "M"
+                },
+                "D": 0.21625959,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.0279,
+                    "unit": "M"
+                },
+                "D": 1.05236765,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 10 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:18:12:38",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.08847254,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 1.0,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 4.85,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.0279,
+                    "unit": "M"
+                },
+                "D": 0.21261123,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.0279,
+                    "unit": "M"
+                },
+                "D": 1.14581183,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 10 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:18:12:38",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.132538,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 1.0,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 4.85,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.0279,
+                    "unit": "M"
+                },
+                "D": 0.22758459,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.0279,
+                    "unit": "M"
+                },
+                "D": 1.24755331,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 10 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:18:12:38",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "6-methyl-2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.22373610500000002,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 1.0,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 4.85,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.0279,
+                    "unit": "M"
+                },
+                "D": 0.26076912,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.0279,
+                    "unit": "M"
+                },
+                "D": 1.50431886,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 10 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:18:12:38",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.0,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 1.0,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 4.85,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.0228,
+                    "unit": "M"
+                },
+                "D": 0.111907525601248,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.0228,
+                    "unit": "M"
+                },
+                "D": 0.445536136700369,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 10 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:18:12:38",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.030526445068506602,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 1.0,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 4.85,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.0228,
+                    "unit": "M"
+                },
+                "D": 0.201606125588204,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.0228,
+                    "unit": "M"
+                },
+                "D": 0.984962636899964,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 10 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:18:12:38",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.0456858597260572,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 1.0,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 4.85,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.0228,
+                    "unit": "M"
+                },
+                "D": 0.238385825586988,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.0228,
+                    "unit": "M"
+                },
+                "D": 1.20506884929018,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 10 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:18:12:38",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.0762517021937728,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 1.0,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 4.85,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.0228,
+                    "unit": "M"
+                },
+                "D": 0.345616844935761,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.0228,
+                    "unit": "M"
+                },
+                "D": 1.87049749065004,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 10 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:18:12:38",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    },
+    {
+        "organic phase": {
+            "extractants": [
+                {
+                    "identity": "2-(2-pyridyl) benzimidazole",
+                    "concentration": {
+                        "quantity": 0.1679450293582995,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "solvents": [
+                {
+                    "identity": "chlorobenzene",
+                    "volfraction": 0.5
+                },
+                {
+                    "identity": "1-butanol",
+                    "volfraction": 0.5
+                }
+            ],
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "aqueous phase": {
+            "solutes": [
+                {
+                    "identity": "Ammonium Nitrate",
+                    "concentration": {
+                        "quantity": 1.0,
+                        "unit": "M"
+                    }
+                },
+                {
+                    "identity": "Hydroxylammonium Nitrate",
+                    "concentration": {
+                        "quantity": 0.2,
+                        "unit": "M"
+                    }
+                }
+            ],
+            "pH": 4.85,
+            "volume": {
+                "quantity": 2.0,
+                "unit": "milliliter"
+            }
+        },
+        "reaction conditions": {
+            "temperature": {
+                "quantity": 296,
+                "unit": "K"
+            },
+            "time": {
+                "quantity": 15,
+                "unit": "minutes"
+            }
+        },
+        "metals": [
+            {
+                "identity": "Eu(III)",
+                "initial concentration": {
+                    "quantity": 0.0228,
+                    "unit": "M"
+                },
+                "D": 0.7402530342753,
+                "quantification method": "gamma"
+            },
+            {
+                "identity": "Am(III)",
+                "initial concentration": {
+                    "quantity": 0.0228,
+                    "unit": "M"
+                },
+                "D": 3.20968221309244,
+                "quantification method": "gamma"
+            }
+        ],
+        "observations": {
+            "third phase": false,
+            "comment": "Figure 10 - Kolorik Substituted Benzimidazoles"
+        },
+        "provenance": {
+            "doi": "10.1080/07366299708934483",
+            "attached_file": "...\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+        },
+        "record creation": {
+            "time": "2023:06:04:18:12:38",
+            "username": "tegg1",
+            "name": "Thomas Egg",
+            "email": "tegg1@fordham.edu",
+            "ocid": "0009-0003-1651-4751",
+            "organization": "Fordham University"
+        }
+    }
+]
+
+
+
+
+    [{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.50},
+            {"identity": "1-butanol", "volfraction": 0.50}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4NO3", "concentration": {"quantity": 8.5, "unit": "M"}},
+            {"identity": "Hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 3.341927,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.002388, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.017532, "quantification method":"gamma"}],
+
+    "observations":{
+        "third phase": false,
+        "comment": "First pair of Eu(III) and Am(III) D values in Figure 11 in Kolorik Paper, page 375"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:18:46:00+0",
+        "username": "bdey05",	
+        "name": "Bipra Dey",	
+        "email": "bdey2@fordham.edu",	
+        "organization": "Fordham University"}	
+},
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.50},
+            {"identity": "1-butanol", "volfraction": 0.50}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4NO3", "concentration": {"quantity": 8.5, "unit": "M"}},
+            {"identity": "Hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 3.341927,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.002018, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.008532, "quantification method":"gamma"}],
+
+    "observations":{
+        "third phase": false,
+        "comment": "Second pair of Eu(III) and Am(III) D values in Figure 11 in Kolorik Paper, page 375"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:18:49:00+0",
+        "username": "bdey05",	
+        "name": "Bipra Dey",	
+        "email": "bdey2@fordham.edu",	
+        "organization": "Fordham University"}	
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.50},
+            {"identity": "1-butanol", "volfraction": 0.50}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4NO3", "concentration": {"quantity": 8.5, "unit": "M"}},
+            {"identity": "Hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 4.383989,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.01, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.132963, "quantification method":"gamma"}],
+
+    "observations":{
+        "third phase": false,
+        "comment": "Third pair of Eu(III) and Am(III) D values in Figure 11 in Kolorik Paper, page 375"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:18:52:00+0",
+        "username": "bdey05",	
+        "name": "Bipra Dey",	
+        "email": "bdey2@fordham.edu",	
+        "organization": "Fordham University"}	
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.50},
+            {"identity": "1-butanol", "volfraction": 0.50}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4NO3", "concentration": {"quantity": 8.5, "unit": "M"}},
+            {"identity": "Hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 5.446404,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.021645, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.229644, "quantification method":"gamma"}],
+
+    "observations":{
+        "third phase": false,
+        "comment": "Fourth pair of Eu(III) and Am(III) D values in Figure 11 in Kolorik Paper, page 375"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:18:56:00+0",
+        "username": "bdey05",	
+        "name": "Bipra Dey",	
+        "email": "bdey2@fordham.edu",	
+        "organization": "Fordham University"}	
+},
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
+
+            "solvents": [
+            {"identity": "chlorobenzene", "volfraction": 0.50},
+            {"identity": "1-butanol", "volfraction": 0.50}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "NH4NO3", "concentration": {"quantity": 8.5, "unit": "M"}},
+            {"identity": "Hydroxylammonium nitrate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+        "pH": 5.63365,
+        "volume": {"quantity": 15.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+    
+    "metals":[
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.023881, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.239503, "quantification method":"gamma"}],
+
+    "observations":{
+        "third phase": false,
+        "comment": "Fifth pair of Eu(III) and Am(III) D values in Figure 11 in Kolorik Paper, page 375"},
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+    "record creation": {
+        "time": "2023-06-07:18:59:00+0",
+        "username": "bdey05",	
+        "name": "Bipra Dey",	
+        "email": "bdey2@fordham.edu",	
+        "organization": "Fordham University"}	
+}
+    
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity": 0.304, "unit": "M"}}],
+        "solvents": [
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity": "1-butanol", "volfraction": 0.3},
+            {"identity": "thenoic acid", "concentration": {"quantity": 0.5, "unit": "M"}}],
+    "volume": {"quantity": 10, "unit": "milliliters"}
+    },
+
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "units": "M"}},
+            {"identity": "HCl", "concentration": {"quantity": 0.1, "units": "M"}}],
+        "pH": "2.39",
+        "volume": {"quantity": 15, "unit": "milliliter"}  
+    },
+
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 4.54E-05, "quanitfication method": "gamma"}],
+    "observations": {
+            "third phase": false,
+            "comment": "Point 1 of Figure 12 in the Kolarik article, page 375. Am(III) only."}, 
+    "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"},
+
+
+    "record creation": {
+        "time": "2023-06-09:17:52:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+    }
+       
+    
+}
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity": 0.304, "unit": "M"}}],
+        "solvents": [
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity": "1-butanol", "volfraction": 0.3},
+            {"identity": "thenoic acid", "concentration": {"quantity": 0.5, "unit": "M"}}],
+    "volume": {"quantity": 10, "unit": "milliliters"}
+    },
+
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "units": "M"}},
+            {"identity": "HCl", "concentration": {"quantity": 0.1, "units": "M"}}],
+        "pH": "2.57",
+        "volume": {"quantity": 15, "unit": "milliliter"}  
+    },
+
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.000121, "quanitfication method": "gamma"},
+        {"identity": "Am(III)", "inital concentration": {"quantity": "missing", "unit": "M"}, "D": 0.000267, "quanitfication method": "gamma"} ],
+    "observations": {
+            "third phase": false,
+            "comment": "Point 2 of Figure 12 in the Kolarik article, page 375."}, 
+    "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+    },
+
+
+    "record creation": {
+        "time": "2023-06-09:17:52:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+    }
+       
+    
+}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity": 0.304, "unit": "M"}}],
+        "solvents": [
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity": "1-butanol", "volfraction": 0.3},
+            {"identity": "thenoic acid", "concentration": {"quantity": 0.5, "unit": "M"}}],
+    "volume": {"quantity": 10, "unit": "milliliters"}
+    },
+
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "units": "M"}},
+            {"identity": "HCl", "concentration": {"quantity": 0.1, "units": "M"}}],
+        "pH": "3.17",
+        "volume": {"quantity": 15, "unit": "milliliter"}  
+    },
+
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.007685, "quanitfication method": "gamma"},
+        {"identity": "Am(III)", "inital concentration": {"quantity": "missing", "unit": "M"}, "D": 0.040103, "quanitfication method": "gamma"} ],
+    "observations": {
+            "third phase": false,
+            "comment": "Point 3 of Figure 12 in the Kolarik article, page 375."}, 
+    "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+    },
+
+
+    "record creation": {
+        "time": "2023-06-09:17:52:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+    }
+       
+    
+}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity": 0.304, "unit": "M"}}],
+        "solvents": [
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity": "1-butanol", "volfraction": 0.3},
+            {"identity": "thenoic acid", "concentration": {"quantity": 0.5, "unit": "M"}}],
+    "volume": {"quantity": 10, "unit": "milliliters"}
+    },
+
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "units": "M"}},
+            {"identity": "HCl", "concentration": {"quantity": 0.1, "units": "M"}}],
+        "pH": "4.8",
+        "volume": {"quantity": 15, "unit": "milliliter"}  
+    },
+
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 3.415564, "quanitfication method": "gamma"},
+        {"identity": "Am(III)", "inital concentration": {"quantity": "missing", "unit": "M"}, "D": 17.8244, "quanitfication method": "gamma"} ],
+    "observations": {
+            "third phase": false,
+            "comment": "Point 4 of Figure 12 in the Kolarik article, page 375."}, 
+    "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+    },
+
+
+    "record creation": {
+        "time": "2023-06-09:17:52:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+    }
+       
+    
+}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity": 0.304, "unit": "M"}}],
+        "solvents": [
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity": "1-butanol", "volfraction": 0.3},
+            {"identity": "thenoic acid", "concentration": {"quantity": 0.5, "unit": "M"}}],
+    "volume": {"quantity": 10, "unit": "milliliters"}
+    },
+
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "units": "M"}},
+            {"identity": "HCl", "concentration": {"quantity": 0.1, "units": "M"}}],
+        "pH": "5.0",
+        "volume": {"quantity": 15, "unit": "milliliter"}  
+    },
+
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.006126, "quanitfication method": "gamma"},
+        {"identity": "Am(III)", "inital concentration": {"quantity": "missing", "unit": "M"}, "D": 23.3422, "quanitfication method": "gamma"} ],
+    "observations": {
+            "third phase": false,
+            "comment": "Point 5 of Figure 12 in the Kolarik article, page 375."}, 
+    "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+    },
+
+
+    "record creation": {
+        "time": "2023-06-09:17:52:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+    }
+       
+    
+}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity": 0.304, "unit": "M"}}],
+        "solvents": [
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity": "1-butanol", "volfraction": 0.3},
+            {"identity": "thenoic acid", "concentration": {"quantity": 0.5, "unit": "M"}}],
+    "volume": {"quantity": 10, "unit": "milliliters"}
+    },
+
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "units": "M"}},
+            {"identity": "HCl", "concentration": {"quantity": 0.1, "units": "M"}}],
+        "pH": "5.21",
+        "volume": {"quantity": 15, "unit": "milliliter"}  
+    },
+
+    "reaction conditions": {
+        "temperature": {"quantity": 296, "unit": "K"},
+        "time": {"quantity": 15, "unit": "minutes"}
+    },
+
+    "metals": [
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.431713, "quanitfication method": "gamma"},
+        {"identity": "Am(III)", "inital concentration": {"quantity": "missing", "unit": "M"}, "D": 18.74876, "quanitfication method": "gamma"} ],
+    "observations": {
+            "third phase": false,
+            "comment": "Point 6 of Figure 12 in the Kolarik article, page 375."}, 
+    "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
+    },
+
+
+    "record creation": {
+        "time": "2023-06-09:17:52:00",
+        "username": "oliviavanden",
+        "name": "Olivia Vanden Assem",
+        "email": "ovandenassem@fordham.edu",
+        "organization": "Fordham University"
+    }
+       
+    
+}
+
+]
+    
+    
+    

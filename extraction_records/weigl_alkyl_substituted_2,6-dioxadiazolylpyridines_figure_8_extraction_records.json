@@ -1,0 +1,276 @@
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}],       
+
+            "solvents": [
+            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
+        "volume": {"quantity": "1.5", "unit": "milliliter"}
+    ,
+
+         "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"}, 
+             "identity": "chlorobenzene", "concentration", {"quantity": "missing", "unit": "M"}}]
+             ,
+        "pH": 1.90,
+        "volume": {"quantity": "1.5", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 45, "unit": "minutes"},
+  
+    },
+  "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0273, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0076, "quantification method":"gamma"}]]
+
+
+      "observations":{
+        "third phase": "false",
+        "comment": "First pair of Am(III) and D values in figure 8 of Weigl Paper, page 409"},
+    
+     "provenance": {
+        "doi": "10.1023/A:10245312283303",
+           "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"},
+    
+
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+   {
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}],       
+
+            "solvents": [
+            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
+        "volume": {"quantity": "1.5", "unit": "milliliter"}
+    ,
+
+         "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"},
+            "identity": "toluene", "concentration": {"quantity": "missing", "unit": "M"}}],
+        "pH": 1.90,
+        "volume": {"quantity": "1.5", "unit": "milliliter"}
+    ,   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 45, "unit": "minutes"},
+  
+    },
+    
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0203, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0040, "quantification method":"gamma"}]
+
+        "observations":{
+        "third phase": false,
+        "comment": "Second pair Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"}
+    
+     "provenance": {
+        "doi": "10.1080/07366299708934483",
+        "attached_file": "\\LANL_Ligand_Research_Papers\\Kolarik%20and%20Mu%CC%88ullich%20-%201997%20-%20EXTRACTION%20OF%20Am(lll)%20AND%20Eu(lll)%20BY%202-SUBSTITUTED.pdf"},
+    
+
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}],       
+
+            "solvents": [
+            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
+        "volume": {"quantity": "1.5", "unit": "milliliter"}
+    ,
+
+         "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"}, 
+            "identity": "tert-butyl benzene", "concentration": {"quantity": "missing", "unit": "M"}}],
+        "pH": 1.90,
+        "volume": {"quantity": "1.5", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 45, "unit": "minutes"},
+  
+    },
+    
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0586, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0131, "quantification method":"gamma"}]
+    
+      "observations":{
+        "third phase": "false",
+        "comment": "Third pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"}
+    
+"provenance": {
+        "doi": "10.1023/A:10245312283303",
+           "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"},
+    
+
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+    {
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}],       
+
+            "solvents": [
+            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
+        "volume": {"quantity": "1.5", "unit": "milliliter"}
+
+
+         "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"},
+            "identity": "chlorobenzene", "concentration": {"quantity": "missing", "unit": "mM"}}],
+        "pH": 1.90,
+        "volume": {"quantity": "1.5", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 45, "unit": "minutes"},
+  
+    },
+    
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0070, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0020, "quantification method":"gamma"}]
+
+    
+      "observations":{
+        "third phase": "false",
+        "comment": "Fourth pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"},
+    
+ "provenance": {
+        "doi": "10.1023/A:10245312283303",
+           "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"},
+    
+    
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}],       
+
+            "solvents": [
+            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
+        "volume": {"quantity": "1.5", "unit": "milliliter"}
+
+
+         "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"}},
+            {"identity": "toluene", "concentration": {"quantity": "missing", "unit": "mM"}}],
+        "pH": 1.90,
+        "volume": {"quantity": "1.5", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 45, "unit": "minutes"},
+  
+    },
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0054, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0013, "quantification method":"gamma"}]
+
+    
+      "observations":{
+        "third phase": "false",
+        "comment": "Fifth pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"},
+    
+  "provenance": {
+        "doi": "10.1023/A:10245312283303",
+           "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"},
+    
+
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}],       
+
+            "solvents": [
+            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
+        "volume": {"quantity": "1.5", "unit": "milliliter"}
+
+
+         "aqueous phase": {
+       
+        "solutes": [
+            {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"}},
+            {"identity": "tert-butyl benzene", "concentration": {"quantity": "1", "unit": "mM"}}],
+        "pH": 1.90,
+        "volume": {"quantity": "1.5", "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 293, "unit": "K"},
+        "time": {"quantity": 45, "unit": "minutes"},
+  
+    },
+    
+    "metals":[
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0186, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0044, "quantification method":"gamma"}]
+
+
+      "observations":{
+        "third phase": "false",
+        "comment": "Sixth pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"}
+
+
+"provenance": {
+        "doi": "10.1023/A:10245312283303",
+           "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Weigl et al. - 2003 - Alkyl-substituted 2,6-dioxadiazolylpyridines as se.pdf"},
+    
+
+    "record creation": {
+        "time": "2023-06-07:15:30:00+0",
+        "username": "caitlinr77",
+        "name": "Caitlin Reed"	
+        "email": "creed25@fordham.edu",
+        "organization": "Fordham University"}
+
+    
