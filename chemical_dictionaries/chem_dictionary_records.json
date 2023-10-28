@@ -97,22 +97,7 @@
 "PubChemCID":	"58225637",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/58225637"
 	},
-{
-"names": ["c-tpcn", "(1R,2S)-N1,N1,N2,N2-tetrakis(pyridin-2-ylmethyl)cyclohexane-1,2-diamine", "N,N,N',N'-tetrakis(2-methylpyridyl)-cis-1,2-diaminocyclohexane"],
-"pure substance": true,
-"SMILES": "N1=C(C=CC=C1)CN([C@H]1[C@H](CCCC1)N(CC1=NC=CC=C1)CC1=NC=CC=C1)CC1=NC=CC=C1",
-"InChIKey": "UQLASUALFZVGHF-RNPORBBMSA-N",
-"InChI": "InChI=1S/C30H34N6/c1-2-16-30(36(23-27-13-5-9-19-33-27)24-28-14-6-10-20-34-28)29(15-1)35(21-25-11-3-7-17-31-25)22-26-12-4-8-18-32-26/h3-14,17-20,29-30H,1-2,15-16,21-24H2/t29-,30+",
-"URL": "https://opsin.ch.cam.ac.uk/"
-	},
-{
-"names": ["t-tpcn", "(1S,2S)-N1,N1,N2,N2-tetrakis(pyridin-2-ylmethyl)cyclohexane-1,2-diamine", "N,N,N',N'-tetrakis(2-methylpyridyl)-trans-1,2-diaminocyclohexane"],
-"pure substance": true,
-"SMILES": "N1=C(C=CC=C1)CN([C@@H]1[C@H](CCCC1)N(CC1=NC=CC=C1)CC1=NC=CC=C1)CC1=NC=CC=C1",
-"InChIKey": "UQLASUALFZVGHF-KYJUHHDHSA-N",
-"InChI": "InChI=1S/C30H34N6/c1-2-16-30(36(23-27-13-5-9-19-33-27)24-28-14-6-10-20-34-28)29(15-1)35(21-25-11-3-7-17-31-25)22-26-12-4-8-18-32-26/h3-14,17-20,29-30H,1-2,15-16,21-24H2/t29-,30-/m0/s1",
-"URL": "https://opsin.ch.cam.ac.uk/"
-	},
+
 {
 "names": ["tpdben", "N5,N5,N6,N6-tetrakis(pyridin-2-ylmethyl)decane-5,6-diamine", "N,N,N',N'-tetrakis(2-methylpyridyl)-dibutylethylenediamine"],
 "pure substance": true,
@@ -281,15 +266,7 @@
 "PubchemCID": "22985",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/22985"
 	},
-{
-"names": ["TPEN", "TPZEN", "1,N2,N2-tetrakis(pyrazin-2-ylmethyl)ethane-1,2-diamine", "1,2-Bis[bis(pyrazine-2-ylmethyl)amino]ethane", "SCHEMBL3320948"],
-"pure substance": true,
-"SMILES": "N1=C(C=NC=C1)CN(CCN(CC1=NC=CN=C1)CC1=NC=CN=C1)CC1=NC=CN=C1",
-"InChIKey": "KZPDJENXRHZMGL-UHFFFAOYSA-N",
-"InChI": "InChI=1S/C22H24N10/c1-5-27-19(11-23-1)15-31(16-20-12-24-2-6-28-20)9-10-32(17-21-13-25-3-7-29-21)18-22-14-26-4-8-30-22/h1-8,11-14H,9-10,15-18H2",
-"PubChemCID":	"58225637",
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/58225637"
-	},
+
 {
 "names": ["c-tpcn", "(1R,2S)-N1,N1,N2,N2-tetrakis(pyridin-2-ylmethyl)cyclohexane-1,2-diamine", "N,N,N',N'-tetrakis(2-methylpyridyl)-cis-1,2-diaminocyclohexane"],
 "pure substance": true,
