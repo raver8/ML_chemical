@@ -99,14 +99,6 @@
 	},
 
 {
-"names": ["tpdben", "N5,N5,N6,N6-tetrakis(pyridin-2-ylmethyl)decane-5,6-diamine", "N,N,N',N'-tetrakis(2-methylpyridyl)-dibutylethylenediamine"],
-"pure substance": true,
-"SMILES": "N1=C(C=CC=C1)CN(C(CCCC)C(CCCC)N(CC1=NC=CC=C1)CC1=NC=CC=C1)CC1=NC=CC=C1",
-"InChIKey": "LNCOHMATSYURAP-UHFFFAOYSA-N",
-"InChI": "InChI=1S/C34H44N6/c1-3-5-19-33(39(25-29-15-7-11-21-35-29)26-30-16-8-12-22-36-30)34(20-6-4-2)40(27-31-17-9-13-23-37-31)28-32-18-10-14-24-38-32/h7-18,21-24,33-34H,3-6,19-20,25-28H2,1-2H3",
-"URL": "https://opsin.ch.cam.ac.uk/"
-},
-{
 "names": ["compound sodium lactate solution", "SODIUM LACTATE", "72-17-3", "Sodium DL-lactate", "Lactic acid sodium salt"],
 "pure substance": false,
 "CAS": "72-17-3",
