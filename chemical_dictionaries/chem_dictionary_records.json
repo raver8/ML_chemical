@@ -200,16 +200,6 @@
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/757"
     },
 {
-"names": ["Citric Acid", "77-92-9", "Anhydrous, 2-Hydroxypropane-1,2,3-Tricarboxylic Acid", "Aciletten", "Anhydrous Citric Acid", "Citro", "Citretten"], 
-"pure substance": true,
-"CAS": "77-92-9",
-"SMILES": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O",  
-"InChIKey": "KRKNYBCHXYNGOX-UHFFFAOYSA-N",  
-"InChI": "InChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)",
-"PubchemCID": 311,  
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/311"
-    },
-{
 "names": ["a-Hydroxyisobutyric acid, 2-HYDROXYISOBUTYRIC ACID", "594-61-6", "2-Methyllactic Acid", "2-Hydroxy-2-Methylpropanoic Acid", "Acetonic Acid", "Alpha-Hydroxyisobutyric Acid", "2-Hydroxy-2-Methylpropionic Acid", "Hydroxydimethylacetic Acid"], 
 "pure substance": true,
 "CAS": "594-61-6",
@@ -313,16 +303,7 @@
 "pubchemCID": "7964",
 "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/7964"
 },
-{
-"names": ["2-(2-Pyridyl)benzimidazole", "1137-68-4", "2-(pyridin-2-yl)-1H-benzo[d]imidazole", "2-pyridin-2-yl-1H-benzimidazole", "1H-Benzimidazole, 2-(2-pyridinyl)-"],
-"pure substance": "true",
-"CAS": "1137-68-4",
-"SMILES": "C1=CC=C2C(=C1)NC(=N2)C3=CC=CC=N3",  
-"InChIKey": "YNFBMDWHEHETJW-UHFFFAOYSA-N",  
-"InChI": "InChI=1S/C12H9N3/c1-2-6-10-9(5-1)14-12(15-10)11-7-3-4-8-13-11/h1-8H,(H,14,15)",  
-"pubchemCID": "70821",
-"URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70821"
-},
+
 {
 "names":["2-(6-Methyl-2-pyridyl)benzimidazole", "6504-09-2", "2-(6-methylpyridin-2-yl)-1H-benzimidazole", "Benzimidazole", "2-(6-methyl-2-pyridyl)-", "NSC-8812"], 
 "pure substance": "true",
@@ -538,6 +519,7 @@
     "PubchemCID": "missing",
     "URL": "missing"
 },
+
 
  {
     "names": [
@@ -1287,21 +1269,7 @@
     "PubchemCID": "6342",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Acetonitrile#section=InChI"
 },
-    {
-    "names": [
-           "1-octanol   ",
-           "Octan-1-ol",
-           "octanol",
-           "111-87-5"
-    ],
-    "pure substance": true,
-    "CAS": "111-87-5",
-    "InChIKey": "KBPLFHHGFOOTCA-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C8H18O/c1-2-3-4-5-6-7-8-9/h9H,2-8H2,1H3",
-    "SMILES": "CCCCCCCCO",
-    "PubchemCID": "957",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/957#section=Molecular-Formula"
-},
+ 
     {
     "names": [
            "octane   ",
