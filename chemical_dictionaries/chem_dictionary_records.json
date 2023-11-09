@@ -522,10 +522,9 @@
     "PubchemCID": "MISSING",
     "URL": ""
 },
-
-
 {
-    "names": ["N,N'-diethyl-N,N'-ditolyl-2,9-dicarboxamide-1,10-phenanthroline"],
+    "names": ["N,N'-diethyl-N,N'-ditolyl-2,9-dicarboxamide-1,10-phenanthroline", "tetraethyl (1,10-phenanthrolin-2,9-diyl)phosphonate", "tetraethyl (1,10-phenanthrolin-2,9-diyl)phosphonate", "Et-Tol-DAPhen",
+    "N2,N9-diethyl-N2,N9-di-p-tolyl-1,10-phenanthroline-2,9-dicarboxamide"],
     "pure substance": true,
     "CAS": "missing",
     "InChIKey": "FSGXOTSTBMUIOR-UHFFFAOYSA-N",
@@ -534,9 +533,6 @@
     "PubchemCID": "missing",
     "URL": "missing"
 },
-
-
-
 {
     "names": ["N,N,N',N'-tetra-n-pentyldiglycolamide", "2,2'-Oxybis(N,N-dipentylacetamide)", "SCHEMBL23039655"],
     "pure substance": true,
@@ -547,8 +543,6 @@
     "PubchemCID": "102105691",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/102105691"
 },
-
-
 {
        "names": ["2,2'-oxybis(N-methyl-N-octylacetamide)", "Acetamide,2,2'-oxybis[N-methyl-N-octyl-N-methyl-2-[2-[methyl(octyl)amino]-2-oxoethoxy]-N-octylacetamide"],
        "pure substance": false,
@@ -559,8 +553,6 @@
        "PubchemCID": "87287946",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/87287946"
 },
-
-
 
 {
        "names": ["Dihexyl hydrogen phosphate", "dihexyl phosphate", "Phosphoric acid", "dihexyl ester"],
@@ -573,8 +565,6 @@
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/77505#section=Molecular-Formula"
 },
 
-
-
 {
        "names": ["2,2'-oxybis(N,N-didecylacetamide)", "N,N,N',N'-tetradecyl-3-oxapentanediamide"],
        "pure substance": false,
@@ -585,8 +575,6 @@
        "PubchemCID": "71346769",
        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/71346769#section=Molecular-Formula"
 },
-
-
 
 {
        "names": ["N6,N6'-bis(3,5-dimethylphenyl)-N6,N6'-diethyl-[2,2'-bipyridine]-6,6'-dicarboxamide", "N-(3,5-dimethylphenyl)-6-[6-[(3,5-dimethylphenyl)-ethylcarbamoyl]pyridin-2-yl]-N-ethylpyridine-2-carboxamide"],
@@ -691,7 +679,7 @@
 
 
 {
-       "names": ["tri-n-butylphosphate", "TRIBUTYL PHOSPHATE", "Butyl phosphate"],
+       "names": ["tri-n-butylphosphate", "TRIBUTYL PHOSPHATE", "Butyl phosphate", "TBP"],
        "pure substance": false,
        "CAS": "126-73-8",
        "InChIKey": "STCOOQWBFONSKY-UHFFFAOYSA-N",
@@ -717,7 +705,7 @@
 
 
 {
-       "names": ["18-Crown-6", "potassium acetate 18-Crown-6"],
+       "names": [ "potassium acetate 18-Crown-6"],
        "pure substance": false,
        "CAS": "missing",
        "InChIKey": "NMOKUKCMLBSZCA-UHFFFAOYSA-M",
@@ -826,7 +814,8 @@
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/52558674"
 },
 {
-    "names": [" 2,2'-oxybis(N,N-dibutylacetamide)", "82846-38-6", "N,N-dibutyl-2-[2-(dibutylamino)-2-oxoethoxy]acetamide", "2,2'-oxybis[N,N-dibutyl-"],
+    "names": [" 2,2'-oxybis(N,N-dibutylacetamide)", "82846-38-6", "N,N-dibutyl-2-[2-(dibutylamino)-2-oxoethoxy]acetamide", "2,2'-oxybis[N,N-dibutyl-", "N,N,N',N' -tetrabutyl-3-oxa-diglycolamide",
+    "(TBDGA)"],
     "pure substance": true,
     "CAS": "82846-38-6",
     "InChIKey": "YFMTUEQOIRXZOE-UHFFFAOYSA-N",
@@ -985,16 +974,6 @@
     "SMILES": "CCCCCCCCC1=CC(C(C=C2)=NC3=C2C=CC4=C3N=C(C5=NNC(CCCCCCCC)=C5)C=C4)=NN1",
     "PubchemCID": "missing",
     "URL":"missing" 
-},
-{
-    "names": ["tetraethyl (1,10-phenanthrolin-2,9-diyl)phosphonate"],
-    "pure substance":true,
-    "CAS": "missing",
-    "InChIKey":"FSGXOTSTBMUIOR-UHFFFAOYSA-N", 
-    "InChI": "InChI=1S/C32H30N4O2/c1-5-35(25-15-7-21(3)8-16-25)31(37)27-19-13-23-11-12-24-14-20-28(34-30(24)29(23)33-27)32(38)36(6-2)26-17-9-22(4)10-18-26/h7-20H,5-6H2,1-4H3",
-    "SMILES": "O=C(N(C1=CC=C(C)C=C1)CC)C2=NC(C(N=C(C(N(C3=CC=C(C)C=C3)CC)=O)C=C4)=C4C=C5)=C5C=C2",
-    "PubchemCID": "missing",
-    "URL":"missing"
 },
 {
     "names": ["Bis-2,6-(5,6,7,8-tetrahydro-5,9,9-trimethyl-5,8-methano-1,2,4-benzotriazin- 3-yl)pyridine", "CA-BTP"],
@@ -1246,20 +1225,6 @@
     "SMILES": "CCCCCCCC",
     "PubchemCID": "356",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/356#section=Canonical-SMILES"
-},
-{
-    "names": [
-           "N,N,N',N' -tetrabutyl-3-oxa-diglycolamide",
-            "(TBDGA)",
-           "2,2'-oxybis(N,N-dibutylacetamide)"
-    ],
-    "pure substance": true,
-    "CAS": "82846-38-6",
-    "InChIKey": "YFMTUEQOIRXZOE-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C20H40N2O3/c1-5-9-13-21(14-10-6-2)19(23)17-25-18-20(24)22(15-11-7-3)16-12-8-4/h5-18H2,1-4H3",
-    "SMILES": "O(CC(=O)N(CCCC)CCCC)CC(=O)N(CCCC)CCCC",
-    "PubchemCID": "12855444",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/443152364"
 },
 
 {
@@ -1530,37 +1495,6 @@
     "SMILES": "CC1(CCC(C2=C1N=C(N=N2)C2=NC1=C3N=C(C=CC3=CC=C1C=C2)C=2N=NC1=C(N2)C(CCC1(C)C)(C)C)(C)C)C",
     "PubchemCID": "101780411",
     "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/101780411"
-},
-
-{
-    "names": [
-           "Et-Tol-DAPhen",
-            "N2,N9-diethyl-N2,N9-di-p-tolyl-1,10-phenanthroline-2,9-dicarboxamide"
-        
-    ],
-    "pure substance": true,
-    "CAS": "MISSING",
-    "InChIKey": "FSGXOTSTBMUIOR-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C32H30N4O2/c1-5-35(25-15-7-21(3)8-16-25)31(37)27-19-13-23-11-12-24-14-20-28(34-30(24)29(23)33-27)32(38)36(6-2)26-17-9-22(4)10-18-26/h7-20H,5-6H2,1-4H3",
-    "SMILES": "C(C)N(C(=O)C1=NC2=C3N=C(C=CC3=CC=C2C=C1)C(=O)N(C1=CC=C(C=C1)C)CC)C1=CC=C(C=C1)C",
-    "PubchemCID": "MISSING",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/354701200"
-},
-
-
-{
-    "names": [
-           "TBP",
-            "tributyl phosphate"
-        
-    ],
-    "pure substance": true,
-    "CAS": "126-73-8",
-    "InChIKey": "STCOOQWBFONSKY-UHFFFAOYSA-N",
-    "InChI": "InChI=1S/C12H27O4P/c1-4-7-10-14-17(13,15-11-8-5-2)16-12-9-6-3/h4-12H2,1-3H3",
-    "SMILES": "P(=O)(OCCCC)(OCCCC)OCCCC",
-    "PubchemCID": "31357",
-    "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/31357"
 },
 
 {
