@@ -5,7 +5,7 @@
 
             "solvents": [
             {"identity": "α-bromodecanoic acid", {"concentration": 1, "unit": "M"}}
-            {"identity": "tetrapropene", {"concentration": "missing", "unit": "M"},
+            {"identity": "tetrapropene", {"concentration": "missing", "unit": "M"}}],
         "volume": {"quantity": 0.0008, "unit": "liter"}
     },
 
@@ -25,7 +25,7 @@
     
     "metals":[
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 45, "quantification method":"gamma"}]
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 4.6, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 4.6, "quantification method":"gamma"}}]
 
   
       "observations":{
@@ -39,7 +39,7 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed"	
+        "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
 

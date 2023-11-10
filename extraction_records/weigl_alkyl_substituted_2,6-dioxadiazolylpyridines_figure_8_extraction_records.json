@@ -4,15 +4,14 @@
             {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}],       
 
             "solvents": [
-            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
-        "volume": {"quantity": "1.5", "unit": "milliliter"}
-    ,
+            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}}],
+        "volume": {"quantity": "1.5", "unit": "milliliter"},
 
          "aqueous phase": {
        
         "solutes": [
-            {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"}, 
-             "identity": "chlorobenzene", "concentration", {"quantity": "missing", "unit": "M"}}]
+            {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"}}, 
+             {"identity": "chlorobenzene", "concentration": {"quantity": "missing", "unit": "M"}}]
              ,
         "pH": 1.90,
         "volume": {"quantity": "1.5", "unit": "milliliter"}
@@ -40,17 +39,17 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed"	
+        "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
-
+    }
    {
     "organic phase": {
         "extractants": [
             {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}],       
 
             "solvents": [
-            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
+            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}}],
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     ,
 
@@ -96,9 +95,9 @@
             {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}],       
 
             "solvents": [
-            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
-        "volume": {"quantity": "1.5", "unit": "milliliter"}
-    ,
+            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}}],
+        "volume": {"quantity": "1.5", "unit": "milliliter"},
+    
 
          "aqueous phase": {
        
@@ -117,11 +116,11 @@
     
     "metals":[
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0586, "quantification method":"gamma"},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0131, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0131, "quantification method":"gamma"}],
     
       "observations":{
         "third phase": "false",
-        "comment": "Third pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"}
+        "comment": "Third pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"},
     
 "provenance": {
         "doi": "10.1023/A:10245312283303",
@@ -131,9 +130,9 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed"	
+        "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",
-        "organization": "Fordham University"}
+        "organization": "Fordham University"}}}
 
     {
     "organic phase": {
@@ -141,8 +140,8 @@
             {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}],       
 
             "solvents": [
-            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
-        "volume": {"quantity": "1.5", "unit": "milliliter"}
+            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}}],
+        "volume": {"quantity": "1.5", "unit": "milliliter"},
 
 
          "aqueous phase": {
@@ -162,7 +161,7 @@
     
     "metals":[
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0070, "quantification method":"gamma"},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0020, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0020, "quantification method":"gamma"}],
 
     
       "observations":{
@@ -177,9 +176,9 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed"	
+        "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",
-        "organization": "Fordham University"}
+        "organization": "Fordham University"}}}
 
 {
     "organic phase": {
@@ -197,8 +196,7 @@
             {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"}},
             {"identity": "toluene", "concentration": {"quantity": "missing", "unit": "mM"}}],
         "pH": 1.90,
-        "volume": {"quantity": "1.5", "unit": "milliliter"}
-    },   
+        "volume": {"quantity": "1.5", "unit": "milliliter"},   
     
     "reaction conditions": {
         "temperature": {"quantity": 293, "unit": "K"},
@@ -207,7 +205,7 @@
     },
     "metals":[
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0054, "quantification method":"gamma"},
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0013, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0013, "quantification method":"gamma"}],
 
     
       "observations":{
@@ -222,18 +220,19 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed"	
+        "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",
-        "organization": "Fordham University"}
+        "organization": "Fordham University"}}
 
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}],       
+            {"identity": "2,6-di(5-methyl-1,3,4-oxadiazol-2-yl)pyridine", "concentration": 0.02, "unit": "M"}]},       
 
             "solvents": [
-            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}},
-        "volume": {"quantity": "1.5", "unit": "milliliter"}
+            {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}}],
+    
+        "volume": {"quantity": "1.5", "unit": "milliliter"},
 
 
          "aqueous phase": {
@@ -253,12 +252,12 @@
     
     "metals":[
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0186, "quantification method":"gamma"}]
-        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0044, "quantification method":"gamma"}]
+        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0044, "quantification method":"gamma"}],
 
 
       "observations":{
         "third phase": "false",
-        "comment": "Sixth pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"}
+        "comment": "Sixth pair of Am(III) and Eu(III) D values in figure 8 of Weigl Paper, page 409"},
 
 
 "provenance": {
@@ -269,8 +268,9 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed"	
+        "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
+    }
 
     

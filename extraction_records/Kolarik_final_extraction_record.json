@@ -39,10 +39,10 @@
     "record creation": {
         "time": "2023-06-03:15:30:00+0",
         "username": "caitlinr77",	
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
-        "email": "creed25@fordham.edu",	
+        "name": "Caitlin Reed,Bipra Dey and Ranulph Mayas",	
+        "email" : "creed25@fordham.edu",	
         "organization": "Fordham University"}	
-
+    }
   {
     "organic phase": {
         "extractants": [

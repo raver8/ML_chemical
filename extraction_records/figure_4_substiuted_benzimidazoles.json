@@ -2,7 +2,7 @@
 {
     "organic phase": {
         "extractants": [
-            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.195, "unit": "M"}}],
 
     "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.6},
@@ -12,11 +12,10 @@
     },
         "aqueous phase": {
             "solutes": [
-                {"identity": "NH4SCN", "concentration": {"quantity": 1.0, "unit": "M"}},
-                {"identity": "formate", "concentration": {"quantity": 0.2, "unit": "M"}}],
+                {"identity": "NH4SCN", "concentration": 1.0, "unit": "M"},
+                {"identity": "formate", "concentration": 0.2, "unit": "M"}]},
             "pH": 2.98,
-            "volume": {"quantity": 15, "unit": "milliliter"}
-        },
+            "volume": {"quantity": 15, "unit": "milliliter"},
 "reaction conditions": {
     "temperature": {"quantity": 296, "unit": "K"},
     "time": {"quantity": 15, "unit": "minutes"}
@@ -30,10 +29,9 @@
     "comment": "Point 1 in Figure 4 of Kolarik Paper, page 368."},
 "provenance": {
     "doi": "10.1080/07366299708934483",
-    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"
-},
+    "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Kolarik and M\u00fcullich - 1997 - EXTRACTION OF Am(lll) AND Eu(lll) BY 2-SUBSTITUTED.pdf"},
 
-"reacord creation": {
+"record creation": {
     "time": "2023-06-09:13:00:00",
     "username": "oliviavanden",
     "name": "Olivia Vanden Assem",
@@ -41,7 +39,6 @@
     "organization": "Fordham University"
 }
 }
-
 
 {
     "organic phase": {
