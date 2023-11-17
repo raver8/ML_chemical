@@ -1,7 +1,8 @@
-{
+[
+    {
     "organic phase": {
         "extractants": [
-            {"identity": "4-Cyclohexanoylamino-bis(2,6-(2-pyridyl))-1,3,5-triazine", {"concentration": 0.02, "unit": "M"}}],
+            {"identity": "4-Cyclohexanoylamino-bis(2,6-(2-pyridyl))-1,3,5-triazine", "concentration": 0.02, "unit": "M"}],
         "solvents": [
             {"identity": "α-bromo-decanoic acid", "volfraction": 0.5},
             {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5}],
@@ -36,7 +37,7 @@
         "email": "ovandenassem@fordham.edu",
         "organization": "Fordham University"
         }
-    }
+    },
 
  {
      "organic phase": {
@@ -69,18 +70,18 @@
         "doi": "10.1039/b104181a",
         "attached_file": "\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"
             },
-     "reacord creation": {
+     "record creation": {
         "time": "2023-06-29:12:31:00",
         "username": "oliviavanden",
         "name": "Olivia Vanden Assem",
         "email": "ovandenassem@fordham.edu",
         "organization": "Fordham University"
             }
-        }
+        },
 {
     "organic phase": {
         "extractants": [
-            {"identity": "4-Cyclohexanoylamino-bis(2,6-(2-pyridyl))-1,3,5-triazine", {"concentration": 0.02, "unit": "M"}}],
+            {"identity": "4-Cyclohexanoylamino-bis(2,6-(2-pyridyl))-1,3,5-triazine", "concentration":{"quantity": 0.02, "unit": "M"}}],
         "solvents": [
             {"identity": "α-bromo-decanoic acid", "volfraction": 0.5},
             {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5}],
@@ -193,7 +194,7 @@
         "email": "ovandenassem@fordham.edu",
         "organization": "Fordham University"
                         }
- }
+ },
  
     {
         "organic phase": {
@@ -206,7 +207,7 @@
             },
         "aqueous phase": {
             "solutes": [
-                {"identity": "HNO3", "concentration": {"quantity": 0.10, "unit": "M"}}
+                {"identity": "HNO3", "concentration": "quantity": 0.10, "unit": "M"}
             ],
             "pH": 1,
             "volume": {"quantity": 800, "unit": "μL"}
@@ -234,4 +235,5 @@
             "organization": "Fordham University"
             }
         }
+    ]
                 

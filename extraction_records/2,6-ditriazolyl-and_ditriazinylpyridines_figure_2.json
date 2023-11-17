@@ -11,8 +11,7 @@
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", {"concentration": "missing", "unit": "M"},
-        }],
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
         "pH": "1.33",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -50,8 +49,7 @@
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", {"concentration": "missing", "unit": "M"},
-        }],
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
         "pH": "1.53",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
