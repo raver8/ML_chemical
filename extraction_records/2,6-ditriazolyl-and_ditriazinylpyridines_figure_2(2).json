@@ -11,8 +11,7 @@
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", {"concentration": "missing", "unit": "M"},
-        }],
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
         "pH": "2.41",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -29,14 +28,14 @@
                    "doi": "10.1080/07360299908934598",
                    "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
             
-         "record creation" {
+         "record creation":{
             "time": "2023-08-17:14:00:00",
             "username": "oliviavanden",
             "name": "Olivia Vanden Assem",
             "email": "ovandenassem@fordham.edu",
             "organization": "Fordham University"
          }
-}
+},
 {
     "organic phase": {
         "extractants": [
@@ -50,8 +49,7 @@
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", {"concentration": "missing", "unit": "M"},
-        }],
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
         "pH": "2.51",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -68,14 +66,14 @@
                    "doi": "10.1080/07360299908934598",
                    "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
             
-         "record creation" {
+         "record creation": {
             "time": "2023-08-17:14:00:00",
             "username": "oliviavanden",
             "name": "Olivia Vanden Assem",
             "email": "ovandenassem@fordham.edu",
             "organization": "Fordham University"
          }
-}
+},
 {
     "organic phase": {
         "extractants": [
@@ -89,8 +87,7 @@
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", {"concentration": "missing", "unit": "M"},
-        }],
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
         "pH": "2.66",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -107,7 +104,7 @@
                    "doi": "10.1080/07360299908934598",
                    "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
             
-         "record creation" {
+         "record creation": {
             "time": "2023-08-17:14:20:00",
             "username": "oliviavanden",
             "name": "Olivia Vanden Assem",
