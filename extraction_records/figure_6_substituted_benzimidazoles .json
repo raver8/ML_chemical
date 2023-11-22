@@ -1,4 +1,4 @@
-{
+[{
     "organic phase":{
         "extractants": [
             {"identity": "6-methyl-2-(2-pyridyl)-1-(2-pyridylmethyl)benzimidazole", "concentrayion": {"quantity": "missing", "unit": "M"}}], 
@@ -39,7 +39,7 @@
     "email": "ovandenassem@fordham.edu",
     "organization": "Fordham University"
 }
-}
+},
 
 {
     "organic phase":{
@@ -82,7 +82,7 @@
     "email": "ovandenassem@fordham.edu",
     "organization": "Fordham University"
 }
-}
+},
 
 {
     "organic phase":{
@@ -125,7 +125,7 @@
     "email": "ovandenassem@fordham.edu",
     "organization": "Fordham University"
 }
-}
+},
 
 {
     "organic phase":{
@@ -168,4 +168,4 @@
     "email": "ovandenassem@fordham.edu",
     "organization": "Fordham University"
 }
-}
+}]

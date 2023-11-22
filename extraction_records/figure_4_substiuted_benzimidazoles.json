@@ -1,8 +1,8 @@
-
+[
 {
     "organic phase": {
         "extractants": [
-            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.195, "unit": "M"}}],
 
     "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.6},
@@ -40,13 +40,12 @@
     "email": "ovandenassem@fordham.edu",
     "organization": "Fordham University"
 }
-}
-
+},
 
 {
     "organic phase": {
         "extractants": [
-            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.195, "unit": "M"}}],
 
         "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.6},
@@ -69,8 +68,8 @@
 },
 
 "metals": [
-    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing" "unit": "M"}, "D": 0.009871, "quantification method": "gamma"},
-    {"identity": "Am(III)", "initial concentration": {"quantity:" "missing", "unit": "M"}, "D": 0.043879, "quantidication method": "gamma"}],
+    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.009871, "quantification method": "gamma"},
+    {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.043879, "quantidication method": "gamma"}],
 
 "observations": {
     "third phase": false,
@@ -87,12 +86,12 @@
     "email": "ovandenassem@fordham.edu",
     "organization": "Fordham University"
 }
-}
+},
 
 {
     "organic phase": {
         "extractants": [
-            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.195, "unit": "M"}}],
 
         "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.6},
@@ -134,12 +133,12 @@
     "email": "ovandenassem@fordham.edu",
     "organization": "Fordham University"
 }
-}
+},
 
 {
     "organic phase": {
         "extractants": [
-            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": { "0.195", "unit": "M"}}],
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": { "quantity": 0.195, "unit": "M"}}],
 
         "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.6},
@@ -180,12 +179,12 @@
     "name": "Olivia Vanden Assem",
     "email": "ovandenassem@fordham.edu",
     "organization": "Fordham University"}
-}
+},
 
 {
     "organic phase": {
         "extractants": [
-            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"quantity":0.195, "unit": "M"}}],
 
         "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.6},
@@ -226,12 +225,12 @@
     "email": "ovandenassem@fordham.edu",
     "organization": "Fordham University"
 }
-}
+},
 
 {
     "organic phase": {
         "extractants": [
-            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.195, "unit": "M"}}],
 
         "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.6},
@@ -272,12 +271,12 @@
     "email": "ovandenassem@fordham.edu",
     "organization": "Fordham University"
 }
-}
+},
 
 {
     "organic phase": {
         "extractants": [
-            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"quantity":0.195, "unit": "M"}}],
 
         "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.6},
@@ -318,12 +317,12 @@
     "email": "ovandenassem@fordham.edu",
     "organization": "Fordham University"
 }
-}
+},
 
 {
     "organic phase": {
         "extractants": [
-            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"quantity":0.195, "unit": "M"}}],
 
         "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.6},
@@ -364,6 +363,6 @@
     "email": "ovandenassem@fordham.edu",
     "organization": "Fordham University"
 }
-}
+}]
 
 

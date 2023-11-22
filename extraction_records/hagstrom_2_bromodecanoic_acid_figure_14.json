@@ -1155,7 +1155,7 @@
         "time": {"quantity": 5, "unit": "minutes"}
         },
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00863, "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.00863, "quantification method":"gamma"}
     ]
 ,
 "observations": {
@@ -1251,7 +1251,7 @@
  {
     "organic phase": {
         "extractants": [
-            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA)", "quantity": 0.10, "unit": "M"},
+            {"identity": "N,N'-dimethyl-N,N'-dicyclohexyltetradecyl (DMDCHTDMA)", "quantity": 0.10, "unit": "M"}
 ],
 
          "solvents": [

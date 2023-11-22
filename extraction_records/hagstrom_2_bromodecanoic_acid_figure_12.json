@@ -22,7 +22,7 @@
         "time": {"quantity": 5, "unit": "minutes"}
         },
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 111.265 "quantification method":"gamma"},
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 111.265, "quantification method":"gamma"},
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 16.290, "quantification method":"gamma"}
     ]
 ,
@@ -653,5 +653,5 @@
         "username": "caitlinr77",	
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University"}	},
+        "organization": "Fordham University"}	}]
 

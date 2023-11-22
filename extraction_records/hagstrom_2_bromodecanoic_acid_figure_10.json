@@ -80,7 +80,7 @@
         "username": "caitlinr77",	
         "name": "Caitlin Reed",	
         "email": "creed25@fordham.edu",	
-        "organization": "Fordham University"	}},
+        "organization": "Fordham University" }},
 
     {
     "organic phase": {
@@ -90,7 +90,7 @@
 
             "solvents": [
                {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
-           "volume": {"quantity": "missing", "unit": "milliliter"}
+           "volume": {"quantity": "missing", "unit": "milliliter"}}
  ,
      "aqueous phase": {
     
@@ -434,7 +434,7 @@
     "metals":[
         {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.151 , "quantification method":"gamma"},
        {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.651, "quantification method":"gamma"}
-    ]
+    ],
     "observations": {
         "comment": "Eleventh pair of Am and Eu D values with bromodecanoic acid, and terpyridine in Hagstrom et al. paper "
 },
@@ -492,11 +492,11 @@
 
   {  "organic phase": {
         "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 0.1049, "unit": "M"},
+            {"identity": "2-bromodecanoic acid", "quantity": 0.1049, "unit": "M"}
 ],
 
          "solvents": [
-            {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"},
+            {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}
 ],
         "volume": {"quantity": "missing", "unit": "milliliter"}
     },
@@ -534,11 +534,11 @@
 
  {   "organic phase": {
         "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 0.3125, "unit": "M"},
+            {"identity": "2-bromodecanoic acid", "quantity": 0.3125, "unit": "M"}
 ],
 
 "solvents": [
-    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"},
+    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}
 ],
 "volume": {"quantity": "missing", "unit": "milliliter"}
 },
@@ -576,11 +576,11 @@
 
 {    "organic phase": {
         "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 0.5268, "unit": "M"},
+            {"identity": "2-bromodecanoic acid", "quantity": 0.5268, "unit": "M"}
 ],
 
 "solvents": [
-    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"},
+    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}
 ],
 "volume": {"quantity": "missing", "unit": "milliliter"}
 },
@@ -617,11 +617,11 @@
 
   {  "organic phase": {
         "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 0.84691, "unit": "M"},
+            {"identity": "2-bromodecanoic acid", "quantity": 0.84691, "unit": "M"}
 ],
 
 "solvents": [
-    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"},
+    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}
 ],
 "volume": {"quantity": "missing", "unit": "milliliter"}
 },
@@ -659,11 +659,11 @@
 
   {  "organic phase": {
         "extractants": [
-            {"identity": "2-bromodecanoic acid", "quantity": 1.0738, "unit": "M"},
+            {"identity": "2-bromodecanoic acid", "quantity": 1.0738, "unit": "M"}
 ],
 
 "solvents": [
-    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"},
+    {"identity": "tert-butylbenzene", "volfraction": "missing" , "unit": "M"}
 ],
 "volume": {"quantity": "missing", "unit": "milliliter"}
 },

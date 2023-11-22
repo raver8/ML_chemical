@@ -1,4 +1,4 @@
-{
+[{
     "organic phase": {
         "extractants": [
             {"identity": "6-methyl-2-(2-pyridyl)benzimidazole", "concentration": {"quantity": 0.304, "unit": "M"}}],
@@ -41,7 +41,7 @@
     }
        
     
-}
+},
 {
     "organic phase": {
         "extractants": [
@@ -87,7 +87,7 @@
     }
        
     
-}
+},
 
 {
     "organic phase": {
@@ -134,7 +134,7 @@
     }
        
     
-}
+},
 
 {
     "organic phase": {
@@ -181,7 +181,7 @@
     }
        
     
-}
+},
 
 {
     "organic phase": {
@@ -228,7 +228,7 @@
     }
        
     
-}
+},
 
 {
     "organic phase": {
@@ -275,4 +275,4 @@
     }
        
     
-}
+}]

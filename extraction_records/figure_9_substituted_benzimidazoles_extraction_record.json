@@ -1,4 +1,4 @@
-{
+[{
     "organic phase": {
         "extractants": [
             {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
@@ -387,3 +387,4 @@
         "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
+    }}]

@@ -349,7 +349,6 @@
     ],
             "volume": {"quantity": "missing", "unit": "milliliter"}
         },
-         "aqueous phase": {
     
      "aqueous phase": {
     
@@ -382,15 +381,13 @@
         "email": "creed25@fordham.edu",	
         "organization": "Fordham University" }},
 
-
-    { "organic phase": {
+{
+    "organic phase": {
             "extractants": [
-                {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"}]
-            ,
+                {"identity": "2-bromodecanoic acid", "quantity": 1.0, "unit": "M"}],
     
              "solvents": [
-                {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}
-    ],
+                {"identity": "tert-butylbenzene", "volfraction": "missing", "unit": "M"}],
             "volume": {"quantity": "missing", "unit": "milliliter"}
         },
          "aqueous phase": {

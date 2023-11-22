@@ -68,7 +68,7 @@
       "time": {"quantity": 60, "unit": "minutes"}
   },
    "metals":[
-      {"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": <1.000, "quantification method":"Gamma"},
+      {"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": "<1.000", "quantification method":"Gamma"},
       {"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.2083 , "quantification method":"Gamma"} ],
    "observations":{
       "third phase": false,
@@ -1551,52 +1551,6 @@
       "organization": "Fordham University"
   }
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
     
    "organic phase": {
@@ -1619,7 +1573,7 @@
       "time": {"quantity": 60, "unit": "minutes"}
   },
    "metals":[
-      {"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0..0084, "quantification method":"Gamma"},
+      {"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.0084, "quantification method":"Gamma"},
       {"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.026, "quantification method":"Gamma"} ],
    "observations":{
       "third phase": false,
@@ -1849,40 +1803,6 @@
   },
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
     
    "organic phase": {
@@ -1906,7 +1826,7 @@
   },
    "metals":[
       {"identity": "Eu(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": 0.001, "quantification method":"Gamma"},
-      {"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": <0.001, "quantification method":"Gamma"} ],
+      {"identity": "Am(III)", "initial concentration": {"quantity": "66", "unit": "nanomol/dm^3"}, "D": "<0.001", "quantification method":"Gamma"} ],
    "observations":{
       "third phase": false,
       "comment": "Table 1 and Table 3, H1, of Hudson et al. Paper, Pages 642 and 643. pH values missing. Concentration of HNO3 was unspecific,multiple values listed and was reported as varying. Name of Ligand used not listed, only the reactants used to create it.)"},

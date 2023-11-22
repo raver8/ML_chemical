@@ -1,4 +1,4 @@
-{
+[{
     "organic phase": {
         "extractants": [
             {"identity": "6-methyl-2-(2-pyridyl)-benzimidazole", "concentration": {"quantity": 0.287, "unit": "M"}}],       
@@ -25,7 +25,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.019176, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.127216, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.127216, "quantification method":"gamma"}],
 
     
       "observations":{
@@ -39,10 +39,10 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
-
+    },
 
 {
     "organic phase": {
@@ -71,7 +71,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.029729, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.192721, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.192721, "quantification method":"gamma"}],
 
     
       "observations":{
@@ -85,9 +85,10 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
+    },
 {
     "organic phase": {
         "extractants": [
@@ -115,7 +116,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.037445, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.248409, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.248409, "quantification method":"gamma"}],
      
     
 
@@ -130,9 +131,9 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
-        "organization": "Fordham University"}
+        "organization": "Fordham University"}},
 
 {
     "organic phase": {
@@ -161,7 +162,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.062211, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.376319, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.376319, "quantification method":"gamma"}],
 
       "observations":{
         "third phase": false,
@@ -174,9 +175,9 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
-        "organization": "Fordham University"}
+        "organization": "Fordham University"}},
 
 {
     "organic phase": {
@@ -192,9 +193,9 @@
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NaClO4", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "NaClO4", "concentration": {"quantity": "missing", "unit": "M"}}],
         "pH": 4.85,
-        "volume": {"quantity": "missing", "unit": "milliliter"}
+        "volume": {"quantity": "missing", "unit": "milliliter"}},
  
     
     "reaction conditions": {
@@ -204,7 +205,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.022751, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.135528, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.135528, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -218,10 +219,10 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
-
+    },
 
 {
     "organic phase": {
@@ -237,9 +238,9 @@
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NaClO4", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "NaClO4", "concentration": {"quantity": "missing", "unit": "M"}}],
         "pH": 4.85,
-        "volume": {"quantity": "missing", "unit": "milliliter"} 
+        "volume": {"quantity": "missing", "unit": "milliliter"}}, 
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -248,7 +249,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.086245, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.531965, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.531965, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -262,10 +263,10 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
-
+    },
 {
     "organic phase": {
         "extractants": [
@@ -280,9 +281,9 @@
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NaClO4", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "NaClO4", "concentration": {"quantity": "missing", "unit": "M"}}],
         "pH": 4.85,
-        "volume": {"quantity": "missing", "unit": "milliliter"}]  
+        "volume": {"quantity": "missing", "unit": "milliliter"}},  
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -291,7 +292,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.461453, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.988829, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.988829, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -305,9 +306,9 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
-        "organization": "Fordham University"}
+        "organization": "Fordham University"}},
 
 {
     "organic phase": {
@@ -324,10 +325,10 @@
        
         "solutes": [
             {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}},
-            {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}]
+            {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}],
 
         "pH": 4.85,
-        "volume": {"quantity": "missing", "unit": "milliliter"}
+        "volume": {"quantity": "missing", "unit": "milliliter"}},
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -336,7 +337,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.009949, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.063246, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.063246, "quantification method":"gamma"}],
       
 
       "observations":{
@@ -350,9 +351,9 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
-        "organization": "Fordham University"}
+        "organization": "Fordham University"}},
 
 {
     "organic phase": {
@@ -369,18 +370,18 @@
        
         "solutes": [
             {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}},
-            {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}]
+            {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}],
 
         "pH": 4.85,
-        "volume": {"quantity": "missing", "unit": "milliliter"}  
+        "volume": {"quantity": "missing", "unit": "milliliter"}},  
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
-        "time": {"quantity": 15, "unit": "minutes"},
+        "time": {"quantity": 15, "unit": "minutes"}},
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.009076, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.054061, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.054061, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -394,9 +395,9 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed,n Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
-        "organization": "Fordham University"}
+        "organization": "Fordham University"}},
 
 {
     "organic phase": {
@@ -413,10 +414,9 @@
        
         "solutes": [
             {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}},
-            {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}]
-,
+            {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}],
         "pH": 4.85,
-        "volume": {"quantity": "missing", "unit": "milliliter"}
+        "volume": {"quantity": "missing", "unit": "milliliter"}},
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -425,7 +425,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.004662, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.019278, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.019278, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -439,10 +439,10 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
-
+    },
 {
     "organic phase": {
         "extractants": [
@@ -457,18 +457,17 @@
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "KI", "concentration": {"quantity": "missing", "unit": "M"}},
-,
+            {"identity": "KI", "concentration": {"quantity": "missing", "unit": "M"}}],
         "pH": 4.85,
-        "volume": {"quantity": "missing", "unit": "milliliter"} ,   
+        "volume": {"quantity": "missing", "unit": "milliliter"}},   
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
-        "time": {"quantity": 15, "unit": "minutes"}
+        "time": {"quantity": 15, "unit": "minutes"}},
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.001411, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.005137, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.005137, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -482,9 +481,9 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
-        "organization": "Fordham University"}
+        "organization": "Fordham University"}},
 
 
 {
@@ -501,18 +500,18 @@
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "KI", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "KI", "concentration": {"quantity": "missing", "unit": "M"}}],
         "pH": 4.85,
-        "volume": {"quantity": "missing", "unit": "milliliter"}]
+        "volume": {"quantity": "missing", "unit": "milliliter"}},
    
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
-        "time": {"quantity": 15, "unit": "minutes"}
+        "time": {"quantity": 15, "unit": "minutes"},
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.001959, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.010525, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.010525, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -526,7 +525,8 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
-        "organization": "Fordham University"}
+        "organization": "Fordham University"}}
+        }]
 

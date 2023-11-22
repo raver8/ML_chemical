@@ -7,7 +7,7 @@
     "solvents": [
         {"identity": "dodecane", "volfraction": 0.95},
         {"identity": "1-octanol", "volfraction": 0.05}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"},
+    "volume": {"quantity": 1.0, "unit": "milliliter"}},
 
 
     
@@ -58,7 +58,7 @@
     "solvents": [
         {"identity": "dodecane", "volfraction": 0.95},
         {"identity": "1-octanol", "volfraction": 0.05}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"},
+    "volume": {"quantity": 1.0, "unit": "milliliter"}},
 
         
     "aqueous phase": {
@@ -108,7 +108,7 @@
     "solvents": [
         {"identity": "dodecane", "volfraction": 0.95},
         {"identity": "1-octanol", "volfraction": 0.05}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"},
+    "volume": {"quantity": 1.0, "unit": "milliliter"}},
 
         
     "aqueous phase": {
@@ -158,7 +158,7 @@
     "solvents": [
         {"identity": "dodecane", "volfraction": 0.95},
         {"identity": "1-octanol", "volfraction": 0.05}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"},
+    "volume": {"quantity": 1.0, "unit": "milliliter"}},
 
         
     "aqueous phase": {
@@ -208,7 +208,7 @@
     "solvents": [
         {"identity": "dodecane", "volfraction": 0.95},
         {"identity": "1-octanol", "volfraction": 0.05}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"},
+    "volume": {"quantity": 1.0, "unit": "milliliter"}},
 
         
     "aqueous phase": {
@@ -258,7 +258,7 @@
     "solvents": [
         {"identity": "dodecane", "volfraction": 0.95},
         {"identity": "1-octanol", "volfraction": 0.05}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"},
+    "volume": {"quantity": 1.0, "unit": "milliliter"}},
 
         
     "aqueous phase": {
@@ -308,7 +308,7 @@
         "solvents": [
         {"identity": "dodecane", "volfraction": 0.95},
         {"identity": "1-octanol", "volfraction": 0.05}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"},
+    "volume": {"quantity": 1.0, "unit": "milliliter"}},
         
     "aqueous phase": {
         "holdback agents": [
@@ -357,7 +357,7 @@
     "solvents": [
         {"identity": "dodecane", "volfraction": 0.95},
         {"identity": "1-octanol", "volfraction": 0.05}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"},
+    "volume": {"quantity": 1.0, "unit": "milliliter"}},
 
         
     "aqueous phase": {
@@ -407,7 +407,7 @@
     "solvents": [
         {"identity": "dodecane", "volfraction": 0.95},
         {"identity": "1-octanol", "volfraction": 0.05}],
-    "volume": {"quantity": 1.0, "unit": "milliliter"},
+    "volume": {"quantity": 1.0, "unit": "milliliter"}},
 
         
     "aqueous phase": {
