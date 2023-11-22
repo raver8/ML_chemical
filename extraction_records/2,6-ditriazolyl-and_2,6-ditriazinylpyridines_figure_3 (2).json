@@ -1,4 +1,4 @@
-{
+[{
     "organic phase": {
         "extractants": [
             {"identity": "2,6-di(5-alkyl-1,2,4-triazol-3-yl)pyridine","concentration": {"quantity": 0.0186, "unit": "M"}}],
@@ -50,9 +50,8 @@
     },
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", {"concentration": 0.05, "unit": "M"},
-            {"identitiy": "NH4NO3", {"concentration": 1.0, "unit": "M"}},
-        }],
+            {"identitiy": "HNO3", "concentration": 0.05, "unit": "M"},
+            {"identitiy": "NH4NO3", "concentration": 1.0, "unit": "M"}],
         "pH": "missing",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -90,9 +89,8 @@
     },
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", {"concentration": 0.05, "unit": "M"},
-            {"identitiy": "NH4NO3", {"concentration": 1.0, "unit": "M"}},
-        }],
+            {"identitiy": "HNO3", "concentration": 0.05, "unit": "M"},
+            {"identitiy": "NH4NO3", "concentration": 1.0, "unit": "M"}],
         "pH": "missing",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -130,9 +128,8 @@
     },
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", {"concentration": 0.05, "unit": "M"},
-            {"identitiy": "NH4NO3", {"concentration": 1.0, "unit": "M"}},
-        }],
+            {"identitiy": "HNO3", "concentration": 0.05, "unit": "M"},
+            {"identitiy": "NH4NO3", "concentration": 1.0, "unit": "M"}],
         "pH": "missing",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -156,4 +153,4 @@
             "email": "ovandenassem@fordham.edu",
             "organization": "Fordham University"
          }
-}
+}]

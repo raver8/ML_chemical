@@ -1,4 +1,4 @@
-{
+[{
     "organic phase": {
         "extractants": [
             {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}]},
@@ -114,6 +114,6 @@
             "email": "ovandenassem@fordham.edu",
             "organization": "Fordham University"
          }
-}
+}]
 
 

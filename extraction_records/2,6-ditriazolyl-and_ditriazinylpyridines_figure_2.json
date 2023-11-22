@@ -1,13 +1,13 @@
-{
+[{
     "organic phase": {
         "extractants": [
-            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}]},
+            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}],
         
         "solvents": [
                 {"identitiy": "hydrogenated tetrapropane(TPH)", "volfraction": 0.5},
                 {"identitiy":"2-bromohexanoic acid", "vol fraction": 0.5}
         ],
-        "volume": {"quantity": "missing", "unit": "milliliters"}
+        "volume": {"quantity": "missing", "unit": "milliliters"}}
     ,
     "aqueous phase": {
         "solutes": [
@@ -28,24 +28,24 @@
                    "doi": "10.1080/07360299908934598",
                    "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
             
-         "record creation" {
+         "record creation": {
             "time": "2023-08-17:10:20:00",
             "username": "oliviavanden",
             "name": "Olivia Vanden Assem",
             "email": "ovandenassem@fordham.edu",
             "organization": "Fordham University"
          }
-}
+},
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}]},
+            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}],
         
         "solvents": [
                 {"identitiy": "hydrogenated tetrapropane(TPH)", "volfraction": 0.5},
                 {"identitiy":"2-bromohexanoic acid", "vol fraction": 0.5}
         ],
-        "volume": {"quantity": "missing", "unit": "milliliters"}
+        "volume": {"quantity": "missing", "unit": "milliliters"}}
     ,
     "aqueous phase": {
         "solutes": [
@@ -66,29 +66,28 @@
                    "doi": "10.1080/07360299908934598",
                    "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
             
-         "record creation" {
+         "record creation":{
             "time": "2023-08-17:10:20:00",
             "username": "oliviavanden",
             "name": "Olivia Vanden Assem",
             "email": "ovandenassem@fordham.edu",
             "organization": "Fordham University"
          }
-}
+},
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}]},
+            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}],
         
         "solvents": [
                 {"identitiy": "hydrogenated tetrapropane(TPH)", "volfraction": 0.5},
                 {"identitiy":"2-bromohexanoic acid", "vol fraction": 0.5}
         ],
-        "volume": {"quantity": "missing", "unit": "milliliters"}
+        "volume": {"quantity": "missing", "unit": "milliliters"}}
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", {"concentration": "missing", "unit": "M"},
-        }],
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
         "pH": "1.65",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -105,29 +104,28 @@
                    "doi": "10.1080/07360299908934598",
                    "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
             
-         "record creation" {
+         "record creation": {
             "time": "2023-08-17:10:20:00",
             "username": "oliviavanden",
             "name": "Olivia Vanden Assem",
             "email": "ovandenassem@fordham.edu",
             "organization": "Fordham University"
          }
-}
+},
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}]},
+            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}],
         
         "solvents": [
                 {"identitiy": "hydrogenated tetrapropane(TPH)", "volfraction": 0.5},
                 {"identitiy":"2-bromohexanoic acid", "vol fraction": 0.5}
         ],
-        "volume": {"quantity": "missing", "unit": "milliliters"}
+        "volume": {"quantity": "missing", "unit": "milliliters"}}
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", {"concentration": "missing", "unit": "M"},
-        }],
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
         "pH": "1.85",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -144,29 +142,28 @@
                    "doi": "10.1080/07360299908934598",
                    "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
             
-         "record creation" {
+         "record creation": {
             "time": "2023-08-17:10:20:00",
             "username": "oliviavanden",
             "name": "Olivia Vanden Assem",
             "email": "ovandenassem@fordham.edu",
             "organization": "Fordham University"
          }
-}
+},
 {
     "organic phase": {
         "extractants": [
-            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}]},
+            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}],
         
         "solvents": [
                 {"identitiy": "hydrogenated tetrapropane(TPH)", "volfraction": 0.5},
                 {"identitiy":"2-bromohexanoic acid", "vol fraction": 0.5}
         ],
-        "volume": {"quantity": "missing", "unit": "milliliters"}
+        "volume": {"quantity": "missing", "unit": "milliliters"}}
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", {"concentration": "missing", "unit": "M"},
-        }],
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
         "pH": "1.95",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -183,14 +180,14 @@
                    "doi": "10.1080/07360299908934598",
                    "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
             
-         "record creation" {
+         "record creation": {
             "time": "2023-08-17:10:24:00",
             "username": "oliviavanden",
             "name": "Olivia Vanden Assem",
             "email": "ovandenassem@fordham.edu",
             "organization": "Fordham University"
          }
-}
+},
 {
     "organic phase": {
         "extractants": [
@@ -204,8 +201,7 @@
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", {"concentration": "missing", "unit": "M"},
-        }],
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
         "pH": "2.02",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -222,11 +218,11 @@
                    "doi": "10.1080/07360299908934598",
                    "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
             
-         "record creation" {
+         "record creation": {
             "time": "2023-08-17:10:24:00",
             "username": "oliviavanden",
             "name": "Olivia Vanden Assem",
             "email": "ovandenassem@fordham.edu",
             "organization": "Fordham University"
          }
-}
+}]
