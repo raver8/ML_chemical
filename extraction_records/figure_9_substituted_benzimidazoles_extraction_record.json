@@ -1,20 +1,20 @@
 [{
     "organic phase": {
         "extractants": [
-            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}}],
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
-        "volume": {"quantity": 10.0, "unit": "milliliter"},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}},
     
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}}],
         "pH": 5.1,
-        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+        "volume": {"quantity": "missing", "unit": "milliliter"}},  
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -23,7 +23,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.20, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.30, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.30, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -37,27 +37,27 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
-
+    },
         {
     "organic phase": {
         "extractants": [
-            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}}],
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
-        "volume": {"quantity": 10.0, "unit": "milliliter"},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}},
     
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}}],
         "pH": 5.1,
-        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+        "volume": {"quantity": "missing", "unit": "milliliter"}},   
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -66,7 +66,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.20, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.30, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.30, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -80,27 +80,27 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
-
+    },
 {
     "organic phase": {
         "extractants": [
-            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}}],
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
-        "volume": {"quantity": 10.0, "unit": "milliliter"},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}},
 
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}}],
         "pH": 5.1,
-        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+        "volume": {"quantity": "missing", "unit": "milliliter"}},   
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -109,7 +109,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.75, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.70, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.70, "quantification method":"gamma"}],
 
       "observations":{
         "third phase": false,
@@ -122,27 +122,27 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
-
+    },
 {
     "organic phase": {
         "extractants": [
-            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}}],
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
-        "volume": {"quantity": 10.0, "unit": "milliliter"},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}},
     
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}}],
         "pH": 5.1,
-        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+        "volume": {"quantity": "missing", "unit": "milliliter"}},   
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -151,7 +151,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.95, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.20, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.20, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -165,28 +165,28 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
-
+    },
 {
     "organic phase": {
         "extractants": [
-            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}}],
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
-        "volume": {"quantity": 10.0, "unit": "milliliter"},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}},
 
 
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}}],
         "pH": 5.1,
-        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+        "volume": {"quantity": "missing", "unit": "milliliter"}},   
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -195,7 +195,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.30, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.90, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.90, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -209,28 +209,28 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
-
+    },
 {
     "organic phase": {
         "extractants": [
-            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}}],
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
-        "volume": {"quantity": 10.0, "unit": "milliliter"},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}},
 
 
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}}],
         "pH": 5.1,
-        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+        "volume": {"quantity": "missing", "unit": "milliliter"}},   
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -239,7 +239,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.55, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.95, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.95, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -253,27 +253,27 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
-
+    },
 {
     "organic phase": {
         "extractants": [
-            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}}],
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
-        "volume": {"quantity": 10.0, "unit": "milliliter"},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}},
     
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}}],
         "pH": 5.1,
-        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+        "volume": {"quantity": "missing", "unit": "milliliter"}},  
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -282,7 +282,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 1.90, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.80, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.80, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -296,28 +296,28 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
-
+    },
 {
     "organic phase": {
         "extractants": [
-            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}}],
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
-        "volume": {"quantity": 10.0, "unit": "milliliter"},
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}],
+        "volume": {"quantity": 10.0, "unit": "milliliter"}},
 
     
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}}],
         "pH": 5.1,
-        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+        "volume": {"quantity": "missing", "unit": "milliliter"}},  
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -326,7 +326,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.50, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 10.40, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 10.40, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -340,28 +340,29 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
+    },
 
 {
     "organic phase": {
         "extractants": [
-            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}},
+            {"identity": "6-methyl-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": "missing", "unit": "M"}}],
 
             "solvents": [
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
-            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}]
+            {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}],
         "volume": {"quantity": 10.0, "unit": "milliliter"},
 
 
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}},
+            {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}}],
         "pH": 5.1,
-        "volume": {"quantity": "missing", "unit": "milliliter"}]   
+        "volume": {"quantity": "missing", "unit": "milliliter"}},   
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -370,7 +371,7 @@
     
     "metals":[
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 5.50, "quantification method":"gamma"},
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 10.65, "quantification method":"gamma"}]
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 10.65, "quantification method":"gamma"}],
 
 
       "observations":{
@@ -384,7 +385,7 @@
     "record creation": {
         "time": "2023-06-07:15:30:00+0",
         "username": "caitlinr77",
-        "name": "Caitlin Reed", "Bipra Dey", "Ranulph Mayas"	
+        "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",
         "email": "creed25@fordham.edu",
         "organization": "Fordham University"}
     }}]

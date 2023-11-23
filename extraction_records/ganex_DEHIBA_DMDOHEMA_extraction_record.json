@@ -11,22 +11,22 @@
 
  "aqueous phase": {
     
-    /*"holdback agents": [
+    "holdback agents": [
         {"identity": "", "concentration": {"quantity": 0.2, "unit": "M"}}],
-  */
+  
         "solutes": [
         {"identity": "HNO3", "concentration": {"quantity": 0.1, "unit": "M"}}],
 
     "pH": 3,
     "volume": {"quantity": 10.0, "unit": "milliliter"}
 },   
-/*
+
 "reaction conditions": {
     "temperature": {"quantity": 298, "unit": "K"},
     "shake rate": {"quantity": 350, "unit": "RPM"},
     "time": {"quantity": 1, "unit": "hours"}
 },
-*/
+
 
 "metals":[
     {"identity": "U(VI)", "initial concentration": {"quantity": 0.1, "unit": "M"}, "D": 9.164E-01, "quantification method":"UV/VIS"},

@@ -20,7 +20,7 @@
     
     "reaction conditions": {
         "temperature": {"quantity": 293, "unit": "K"},
-        "time": {"quantity": 45, "unit": "minutes"},
+        "time": {"quantity": 45, "unit": "minutes"}
   
     },
   "metals":[
@@ -102,15 +102,15 @@
          "aqueous phase": {
        
         "solutes": [
-            {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"}, 
-            "identity": "tert-butyl benzene", "concentration": {"quantity": "missing", "unit": "M"}}],
+            {"identity": "HNO3", "concentration": {"quantity": "1", "unit": "mM"}}, 
+            {"identity": "tert-butyl benzene", "concentration": {"quantity": "missing", "unit": "M"}}],
         "pH": 1.90,
         "volume": {"quantity": "1.5", "unit": "milliliter"}
     },   
     
     "reaction conditions": {
         "temperature": {"quantity": 293, "unit": "K"},
-        "time": {"quantity": 45, "unit": "minutes"},
+        "time": {"quantity": 45, "unit": "minutes"}
   
     },
     
@@ -141,7 +141,7 @@
 
             "solvents": [
             {"identity": "2-bromohexanoic acid", "concentration": {"quantity": 1, "unit": "M"}}],
-        "volume": {"quantity": "1.5", "unit": "milliliter"}
+        "volume": {"quantity": "1.5", "unit": "milliliter"}},
 
 
          "aqueous phase": {
@@ -155,7 +155,7 @@
     
     "reaction conditions": {
         "temperature": {"quantity": 293, "unit": "K"},
-        "time": {"quantity": 45, "unit": "minutes"},
+        "time": {"quantity": 45, "unit": "minutes"}
   
     },
     
@@ -202,7 +202,7 @@
     
     "reaction conditions": {
         "temperature": {"quantity": 293, "unit": "K"},
-        "time": {"quantity": 45, "unit": "minutes"},
+        "time": {"quantity": 45, "unit": "minutes"}
   
     },
     "metals":[
@@ -250,7 +250,7 @@
         "time": {"quantity": 45, "unit": "minutes"},
   
     "metals":[
-        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0186, "quantification method":"gamma"}
+        {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0186, "quantification method":"gamma"},
         {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0044, "quantification method":"gamma"}],
 
 
