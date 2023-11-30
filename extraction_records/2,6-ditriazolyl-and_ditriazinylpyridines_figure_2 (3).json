@@ -1,0 +1,228 @@
+[{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}],
+        
+        "solvents": [
+                {"identitiy": "hydrogenated tetrapropane(TPH)", "volfraction": 0.5},
+                {"identitiy":"2-bromohexanoic acid", "vol fraction": 0.5}
+        ],
+        "volume": {"quantity": "missing", "unit": "milliliters"}}
+    ,
+    "aqueous phase": {
+        "solutes": [
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
+        "pH": "1.33",
+        "volume": {"quantity": "missing", "unit": "milliliters"}},
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": "missing", "unit": "minutes"}},
+
+        "metals":[
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.0734, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 4.33, "quantification method": "gamma"}],
+           "observations": {
+               "third phase": "false",
+               "comment": "Point 1 on Kolarik et al 1999 figure 2"},
+               "provenance": {
+                   "doi": "10.1080/07360299908934598",
+                   "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
+            
+         "record creation": {
+            "time": "2023-08-17:10:20:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+         }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}],
+        
+        "solvents": [
+                {"identitiy": "hydrogenated tetrapropane(TPH)", "volfraction": 0.5},
+                {"identitiy":"2-bromohexanoic acid", "vol fraction": 0.5}
+        ],
+        "volume": {"quantity": "missing", "unit": "milliliters"}}
+    ,
+    "aqueous phase": {
+        "solutes": [
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
+        "pH": "1.53",
+        "volume": {"quantity": "missing", "unit": "milliliters"}},
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": "missing", "unit": "minutes"}},
+
+        "metals":[
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.318, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 17.94, "quantification method": "gamma"}],
+           "observations": {
+               "third phase": "false",
+               "comment": "Point 2 on Kolarik et al 1999 figure 2"},
+               "provenance": {
+                   "doi": "10.1080/07360299908934598",
+                   "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
+            
+         "record creation":{
+            "time": "2023-08-17:10:20:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+         }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}],
+        
+        "solvents": [
+                {"identitiy": "hydrogenated tetrapropane(TPH)", "volfraction": 0.5},
+                {"identitiy":"2-bromohexanoic acid", "vol fraction": 0.5}
+        ],
+        "volume": {"quantity": "missing", "unit": "milliliters"}}
+    ,
+    "aqueous phase": {
+        "solutes": [
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
+        "pH": "1.65",
+        "volume": {"quantity": "missing", "unit": "milliliters"}},
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": "missing", "unit": "minutes"}},
+
+        "metals":[
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.845, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 42.2, "quantification method": "gamma"}],
+           "observations": {
+               "third phase": "false",
+               "comment": "Point 3 on Kolarik et al 1999 figure 2"},
+               "provenance": {
+                   "doi": "10.1080/07360299908934598",
+                   "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
+            
+         "record creation": {
+            "time": "2023-08-17:10:20:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+         }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}],
+        
+        "solvents": [
+                {"identitiy": "hydrogenated tetrapropane(TPH)", "volfraction": 0.5},
+                {"identitiy":"2-bromohexanoic acid", "vol fraction": 0.5}
+        ],
+        "volume": {"quantity": "missing", "unit": "milliliters"}}
+    ,
+    "aqueous phase": {
+        "solutes": [
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
+        "pH": "1.85",
+        "volume": {"quantity": "missing", "unit": "milliliters"}},
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": "missing", "unit": "minutes"}},
+
+        "metals":[
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 2.87, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 143, "quantification method": "gamma"}],
+           "observations": {
+               "third phase": "false",
+               "comment": "Point 4 on Kolarik et al 1999 figure 2"},
+               "provenance": {
+                   "doi": "10.1080/07360299908934598",
+                   "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
+            
+         "record creation": {
+            "time": "2023-08-17:10:20:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+         }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}],
+        
+        "solvents": [
+                {"identitiy": "hydrogenated tetrapropane(TPH)", "volfraction": 0.5},
+                {"identitiy":"2-bromohexanoic acid", "vol fraction": 0.5}
+        ],
+        "volume": {"quantity": "missing", "unit": "milliliters"}}
+    ,
+    "aqueous phase": {
+        "solutes": [
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
+        "pH": "1.95",
+        "volume": {"quantity": "missing", "unit": "milliliters"}},
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": "missing", "unit": "minutes"}},
+
+        "metals":[
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 4.76, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 210, "quantification method": "gamma"}],
+           "observations": {
+               "third phase": "false",
+               "comment": "Point 5 on Kolarik et al 1999 figure 2"},
+               "provenance": {
+                   "doi": "10.1080/07360299908934598",
+                   "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
+            
+         "record creation": {
+            "time": "2023-08-17:10:24:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+         }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}]},
+        
+        "solvents": [
+                {"identitiy": "hydrogenated tetrapropane(TPH)", "volfraction": 0.5},
+                {"identitiy":"2-bromohexanoic acid", "vol fraction": 0.5}
+        ],
+        "volume": {"quantity": "missing", "unit": "milliliters"}
+    ,
+    "aqueous phase": {
+        "solutes": [
+            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
+        "pH": "2.02",
+        "volume": {"quantity": "missing", "unit": "milliliters"}},
+    "reaction conditions": {
+        "temperature": {"quantity:": 293, "unit": "K"},
+        "time": {"quantity": "missing", "unit": "minutes"}},
+
+        "metals":[
+            {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 7.42, "quanitification method": "gamma"},
+            {"identity": "Am(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 338, "quantification method": "gamma"}],
+           "observations": {
+               "third phase": "false",
+               "comment": "Point 6 on Kolarik et al 1999 figure 2"},
+               "provenance": {
+                   "doi": "10.1080/07360299908934598",
+                   "attached_file": "F-Separation/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers%2FKolarik%20et%20al%2E%20%2D%201999%20%2D%20SELECTIVE%20EXTRACTION%20OF%20Am%28III%29%20OVER%20Eu%28III%29%20BY%202%2C%2Epdf&parent=%2Fsites%2FF%2DSeparation%2FShared%20Documents%2FRelevant%20Research%20Papers%2FLANL%5FLigand%5FResearch%5FPapers&p=true&ga=1"},
+            
+         "record creation": {
+            "time": "2023-08-17:10:24:00",
+            "username": "oliviavanden",
+            "name": "Olivia Vanden Assem",
+            "email": "ovandenassem@fordham.edu",
+            "organization": "Fordham University"
+         }
+}]

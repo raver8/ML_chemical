@@ -504,7 +504,7 @@
             "organization": "Fordham University"
         }
        
-        }
+        },
        
    
  
@@ -555,8 +555,7 @@
         "organization": "Fordham University"
     }
    
-    }
-   ,
+    },
  
  {
     "organic phase": {
@@ -750,7 +749,7 @@
         "organization": "Fordham University"
     }
    
-    }
+    },
    
  {
     "organic phase": {
@@ -798,7 +797,7 @@
         "organization": "Fordham University"
     }
    
-    }
+    },
    
  {
     "organic phase": {
@@ -846,7 +845,7 @@
         "organization": "Fordham University"
     }
    
-    }
+    },
    
  
  {
@@ -895,7 +894,7 @@
         "organization": "Fordham University"
     }
    
-    }
+    },
    
  
  
@@ -1017,8 +1016,8 @@
 },
 
 "metals": [
-    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing" "unit": "M"}, "D": 0.009871, "quantification method": "gamma"},
-    {"identity": "Am(III)", "initial concentration": {"quantity:" "missing", "unit": "M"}, "D": 0.043879, "quantidication method": "gamma"}],
+    {"identity": "Eu(III)", "initial concentration": {"quantity": "missing", "unit": "M"}, "D": 0.009871, "quantification method": "gamma"},
+    {"identity": "Am(III)", "initial concentration": {"quantity":"missing", "unit": "M"}, "D": 0.043879, "quantidication method": "gamma"}],
 
 "observations": {
     "third phase": false,
@@ -1060,8 +1059,8 @@
 },
 
 "metals": [
-    {"identity": "Eu(III)", "initial concentration": {"quantity": , "unit": "M"}, "D": 0.01067, "quantification method": "gamma"},
-    {"identity": "Am(III)", "initial concentration": {"quantity": , "unit": "M"}, "D": 0.060687, "quantification method": "gamma"}],
+    {"identity": "Eu(III)", "initial concentration": {"quantity": "" , "unit": "M"}, "D": 0.01067, "quantification method": "gamma"},
+    {"identity": "Am(III)", "initial concentration": {"quantity": "" , "unit": "M"}, "D": 0.060687, "quantification method": "gamma"}],
 
 "observations": {
     "third phase": false,
@@ -1079,6 +1078,7 @@
     "email": "ovandenassem@fordham.edu",
     "organization": "Fordham University"
 }},
+
 {
     "organic phase": {
         "extractants": [
@@ -1122,7 +1122,7 @@
     "name": "Olivia Vanden Assem",
     "email": "ovandenassem@fordham.edu",
     "organization": "Fordham University"}
-}
+},
 
 {
     "organic phase": {
@@ -1261,7 +1261,7 @@
     {
     "organic phase": {
         "extractants": [
-            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"0.195", "unit": "M"}}],
+            {"identity":"5(6)-nitro-2-(2-pyridyl) benzimidazole", "concentration": {"quantity": 0.195, "unit": "M"}}],
 
         "solvents": [
             {"identity": "chlorobenzene", "volfraction": 0.6},
@@ -1350,7 +1350,7 @@
         "organization": "Fordham University"
     }
     
-    }
+    },
     
 
 {
@@ -2258,7 +2258,7 @@
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
-        "time": {"quantity": 15, "unit": "minutes"},
+        "time": {"quantity": 15, "unit": "minutes"}
     },
     
     "metals":[
@@ -2380,8 +2380,8 @@
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}
-            , "identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}],
+            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}}
+            , {"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}],
 
         "pH": 4.85,
         "volume": {"quantity": "missing", "unit": "milliliter"}
@@ -2426,8 +2426,8 @@
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}
-            ,"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}],
+            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}}
+            ,{"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}],
 
         "pH": 4.85,
         "volume": {"quantity": "missing", "unit": "milliliter"}
@@ -2472,8 +2472,8 @@
      "aqueous phase": {
        
         "solutes": [
-            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}
-            ,"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}]
+            {"identity": "NH4CN", "concentration": {"quantity": "missing", "unit": "M"}}
+            ,{"identity": "Formate", "concentration": {"quantity": 0.04, "unit": "M"}}]
 ,
         "pH": 4.85,
         "volume": {"quantity": "missing", "unit": "milliliter"}},
@@ -2589,8 +2589,6 @@
         "organization": "Fordham University"}
     },
 
-
-[
     {
         "organic phase": {
             "extractants": [
@@ -3070,8 +3068,7 @@
             "ocid": "0009-0003-1651-4751",
             "organization": "Fordham University"
         }
-    }
-]
+    },
     
     
 
@@ -3211,14 +3208,14 @@
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
             {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}],
-        "volume": {"quantity": 10.0, "unit": "milliliter"},
+        "volume": {"quantity": 10.0, "unit": "milliliter"}},
     
      "aqueous phase": {
        
         "solutes": [
             {"identity": "NaOH", "concentration": {"quantity": 0.25, "unit": "M"}}],
         "pH": 5.1,
-        "volume": {"quantity": "missing", "unit": "milliliter"},  
+        "volume": {"quantity": "missing", "unit": "milliliter"}},  
     
     "reaction conditions": {
         "temperature": {"quantity": 296, "unit": "K"},
@@ -3243,7 +3240,8 @@
         "username": "caitlinr77",
         "name": "Caitlin Reed, Bipra Dey, Ranulph Mayas",	
         "email": "creed25@fordham.edu",
-        "organization": "Fordham University"}},
+        "organization": "Fordham University"}
+    },
 
 {
     "organic phase": {
@@ -3254,7 +3252,7 @@
             {"identity": "xylene", "volfraction": 0.70},
             {"identity": "1-butanol", "volfraction": 0.30},
             {"identity": "Thenoic acid", "concentration": {"quantity": 0.50, "unit": "M"}}],
-        "volume": {"quantity": 10.0, "unit": "milliliter"},
+        "volume": {"quantity": 10.0, "unit": "milliliter"}},
 
 
      "aqueous phase": {
@@ -3464,7 +3462,7 @@
         "organization": "Fordham University"}
     },
 
-[
+
     {
         "organic phase": {
             "extractants": [
@@ -4520,7 +4518,7 @@
             "ocid": "0009-0003-1651-4751",
             "organization": "Fordham University"
         }
-    }
+    },
 {
     "organic phase": {
         "extractants": [
