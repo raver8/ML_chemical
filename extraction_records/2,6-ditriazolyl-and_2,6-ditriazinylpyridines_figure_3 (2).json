@@ -4,15 +4,15 @@
             {"identity": "2,6-di(5-alkyl-1,2,4-triazol-3-yl)pyridine","concentration": {"quantity": 0.0186, "unit": "M"}}],
         
         "solvents": [
-            {"identitiy": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5},
-            {"identitiy":"2-bromohexanoic acid", "volfraction": 0.5}
+            {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5},
+            {"identity":"2-bromohexanoic acid", "volfraction": 0.5}
         ],
         "volume": {"quantity": "missing", "unit": "milliliters"}
     },
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", "concentration": 0.05, "unit": "M"},
-            {"identitiy": "NH4NO3", "concentration": 1.0, "unit": "M"}],
+            {"identity": "HNO3", "concentration": 0.05, "unit": "M"},
+            {"identity": "NH4NO3", "concentration": 1.0, "unit": "M"}],
         "pH": "missing",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -43,15 +43,15 @@
             {"identity": "2,6-di(5-alkyl-1,2,4-triazol-3-yl)pyridine","concentration": {"quantity": 0.045, "unit": "M"}}],
         
         "solvents": [
-            {"identitiy": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5},
-            {"identitiy":"2-bromohexanoic acid", "volfraction": 0.5}
+            {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5},
+            {"identity":"2-bromohexanoic acid", "volfraction": 0.5}
         ],
         "volume": {"quantity": "missing", "unit": "milliliters"}
     },
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", "concentration": 0.05, "unit": "M"},
-            {"identitiy": "NH4NO3", "concentration": 1.0, "unit": "M"}],
+            {"identity": "HNO3", "concentration": 0.05, "unit": "M"},
+            {"identity": "NH4NO3", "concentration": 1.0, "unit": "M"}],
         "pH": "missing",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -82,15 +82,15 @@
             {"identity": "2,6-di(5-alkyl-1,2,4-triazol-3-yl)pyridine","concentration": {"quantity": 0.065, "unit": "M"}}],
         
         "solvents": [
-            {"identitiy": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5},
-            {"identitiy":"2-bromohexanoic acid", "volfraction": 0.5}
+            {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5},
+            {"identity":"2-bromohexanoic acid", "volfraction": 0.5}
         ],
         "volume": {"quantity": "missing", "unit": "milliliters"}
     },
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", "concentration": 0.05, "unit": "M"},
-            {"identitiy": "NH4NO3", "concentration": 1.0, "unit": "M"}],
+            {"identity": "HNO3", "concentration": 0.05, "unit": "M"},
+            {"identity": "NH4NO3", "concentration": 1.0, "unit": "M"}],
         "pH": "missing",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -121,15 +121,15 @@
             {"identity": "2,6-di(5-alkyl-1,2,4-triazol-3-yl)pyridine","concentration": {"quantity": 0.0852, "unit": "M"}}],
         
         "solvents": [
-            {"identitiy": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5},
-            {"identitiy":"2-bromohexanoic acid", "volfraction": 0.5}
+            {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": 0.5},
+            {"identity":"2-bromohexanoic acid", "volfraction": 0.5}
         ],
         "volume": {"quantity": "missing", "unit": "milliliters"}
     },
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", "concentration": 0.05, "unit": "M"},
-            {"identitiy": "NH4NO3", "concentration": 1.0, "unit": "M"}],
+            {"identity": "HNO3", "concentration": 0.05, "unit": "M"},
+            {"identity": "NH4NO3", "concentration": 1.0, "unit": "M"}],
         "pH": "missing",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {

@@ -4,15 +4,15 @@
             {"identity": "2,6-di(diethyl-1,2,4-triazin-3-yl)pyridine", "concentration": {"quantity": 0.0344, "unit": "M"}}],
         
         "solvents": [
-            {"identitiy": "xylene", "volfraction": 0.7},
-            {"identitiy":"1-butanol", "volfraction": 0.3}
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity":"1-butanol", "volfraction": 0.3}
         ],
         "volume": {"quantity": "missing", "unit": "milliliters"}}
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", "concentration": 1.9, "unit": "M"},
-            {"identitiy": "NH4NO3", "concentration": 1.9, "unit": "M"}],
+            {"identity": "HNO3", "concentration": 1.9, "unit": "M"},
+            {"identity": "NH4NO3", "concentration": 1.9, "unit": "M"}],
         "pH": "missing",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -43,15 +43,15 @@
             {"identity": "2,6-di(diethyl-1,2,4-triazin-3-yl)pyridine", "concentration": {"quantity": 0.0344, "unit": "M"}}],
         
         "solvents": [
-            {"identitiy": "xylene", "volfraction": 0.7},
-            {"identitiy":"1-butanol", "volfraction": 0.3}
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity":"1-butanol", "volfraction": 0.3}
         ],
         "volume": {"quantity": "missing", "unit": "milliliters"}}
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", "concentration": 1.9, "unit": "M"},
-            {"identitiy": "NH4NO3", "concentration": 1.9, "unit": "M"}],
+            {"identity": "HNO3", "concentration": 1.9, "unit": "M"},
+            {"identity": "NH4NO3", "concentration": 1.9, "unit": "M"}],
         "pH": "missing",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -82,15 +82,15 @@
             {"identity": "2,6-di(diethyl-1,2,4-triazin-3-yl)pyridine", "concentration": {"quantity": 0.0344, "unit": "M"}}],
         
         "solvents": [
-            {"identitiy": "xylene", "volfraction": 0.7},
-            {"identitiy":"1-butanol", "volfraction": 0.3}
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity":"1-butanol", "volfraction": 0.3}
         ],
         "volume": {"quantity": "missing", "unit": "milliliters"}}
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", "concentration": 1.9, "unit": "M"},
-            {"identitiy": "NH4NO3", "concentration": 1.9, "unit": "M"}],
+            {"identity": "HNO3", "concentration": 1.9, "unit": "M"},
+            {"identity": "NH4NO3", "concentration": 1.9, "unit": "M"}],
         "pH": "missing",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -121,15 +121,15 @@
             {"identity": "2,6-di(diethyl-1,2,4-triazin-3-yl)pyridine", "concentration": {"quantity": 0.0344, "unit": "M"}}],
         
         "solvents": [
-            {"identitiy": "xylene", "volfraction": 0.7},
-            {"identitiy":"1-butanol", "volfraction": 0.3}
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity":"1-butanol", "volfraction": 0.3}
         ],
         "volume": {"quantity": "missing", "unit": "milliliters"}}
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", "concentration": 1.9, "unit": "M"},
-            {"identitiy": "NH4NO3", "concentration": 1.9, "unit": "M"}],
+            {"identity": "HNO3", "concentration": 1.9, "unit": "M"},
+            {"identity": "NH4NO3", "concentration": 1.9, "unit": "M"}],
         "pH": "missing",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -160,15 +160,15 @@
             {"identity": "2,6-di(diethyl-1,2,4-triazin-3-yl)pyridine", "concentration": {"quantity": 0.0344, "unit": "M"}}]},
         
         "solvents": [
-            {"identitiy": "xylene", "volfraction": 0.7},
-            {"identitiy":"1-butanol", "volfraction": 0.3}
+            {"identity": "xylene", "volfraction": 0.7},
+            {"identity":"1-butanol", "volfraction": 0.3}
         ],
         "volume": {"quantity": "missing", "unit": "milliliters"}
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", "concentration": 1.9, "unit": "M"},
-            {"identitiy": "NH4NO3", "concentration": 1.9, "unit": "M"}],
+            {"identity": "HNO3", "concentration": 1.9, "unit": "M"},
+            {"identity": "NH4NO3", "concentration": 1.9, "unit": "M"}],
         "pH": "missing",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {

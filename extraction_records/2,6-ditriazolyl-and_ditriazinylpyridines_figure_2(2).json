@@ -4,14 +4,14 @@
             {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}]},
         
         "solvents": [
-                {"identitiy": "xylene", "volfraction": 0.7},
-                {"identitiy":"1-butanol", "vol fraction": 0.3}
+                {"identity": "xylene", "volfraction": 0.7},
+                {"identity":"1-butanol", "vol fraction": 0.3}
         ],
         "volume": {"quantity": "missing", "unit": "milliliters"}
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
+            {"identity": "HNO3", "concentration": "missing", "unit": "M"}],
         "pH": "2.41",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -42,14 +42,14 @@
             {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}]},
         
         "solvents": [
-                {"identitiy": "xylene", "volfraction": 0.7},
-                {"identitiy":"1-butanol", "vol fraction": 0.3}
+                {"identity": "xylene", "volfraction": 0.7},
+                {"identity":"1-butanol", "vol fraction": 0.3}
         ],
         "volume": {"quantity": "missing", "unit": "milliliters"}
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
+            {"identity": "HNO3", "concentration": "missing", "unit": "M"}],
         "pH": "2.51",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
@@ -80,14 +80,14 @@
             {"identity": "2,6-di(5-methyl-1,2,4-triazol-3-yl)pyridine", "concentration": {"quantity": "missing", "unit": "M"}}]},
         
         "solvents": [
-                {"identitiy": "xylene", "volfraction": 0.7},
-                {"identitiy":"1-butanol", "vol fraction": 0.3}
+                {"identity": "xylene", "volfraction": 0.7},
+                {"identity":"1-butanol", "vol fraction": 0.3}
         ],
         "volume": {"quantity": "missing", "unit": "milliliters"}
     ,
     "aqueous phase": {
         "solutes": [
-            {"identitiy": "HNO3", "concentration": "missing", "unit": "M"}],
+            {"identity": "HNO3", "concentration": "missing", "unit": "M"}],
         "pH": "2.66",
         "volume": {"quantity": "missing", "unit": "milliliters"}},
     "reaction conditions": {
