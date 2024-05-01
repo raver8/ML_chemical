@@ -1,0 +1,61 @@
+{
+"organic phase": {
+    "extractants": [
+        {"identity": "SMILES/InChI.../CAS?", "concentration": {"quantity": 0.7, "unit": "M"}},
+        {"identity": "SMILES/InChI.../CAS?", "concentration": {"quantity": 0.7, "unit": "M"}} ],
+    "phase modifier":  {"identity": "SMILES/InChI.../CAS?", "concentration": {"quantity": 0.7, "unit": "M"}},
+     "solvents": [
+        {"identity": "SMILES/InChI...", "volfraction": 1.0}],
+    "volume": {"quantity": 10.0, "unit": "milliliter"}
+},
+
+ "aqueous phase": {
+    "holdback agents": [
+        {"identity": "SMILES/InChI...", "concentration": {"quantity": 0.7, "unit": "M"}}],
+    "solutes": [
+        {"identity": "HCl--or CAS", "concentration": {"quantity": 0.2, "unit": "M"}},
+        {"identity": "KNO3--or CAS", "concentration": {"quantity": 0.7, "unit": "M"}},
+        {"identity": "H3PO4-- or CAS", "concentration": {"quantity": 0.2, "unit": "M"}}],
+    "pH": 7,
+    "volume": {"quantity": 15.0, "unit": "milliliter"}
+},   
+
+"reaction conditions": {
+    "temperature": {"quantity": 298, "unit": "K"},
+    "shake rate": {"quantity": 350, "unit": "RPM"},
+    "time": {"quantity": 1, "unit": "hours"}
+},
+
+"metals":[
+    {"identity": "Eu(IV)", "initial concentration": {"quantity": 0.1, "unit": "M"}, "D": 4.3, "quantification method":"UV/VIS"},
+    {"identity": "Eu(III)", "initial concentration": {"quantity": 0.7, "unit": "M"}, "D": 3.8, "quantification method":"ICP/MS"} ,
+    {"identity": "La(III)", "initial concentration": {"quantity": 0.1, "unit": "M", "D": 0.1}, "quantifaction method":"gamma"}],
+
+"observations":{
+    "third phase": false,
+    "comment": "plain text comment by data enterer"},
+
+ "provenance": {
+    "experimenter name": "Yufei Wang",	
+    "email": "ywang@lanl.gov",	
+    "username": "ywang",	
+    "orcid": "0000-0000-0000-0000",	
+    "organization": "LANL",	
+    "city": "Los Alamos, NM",	
+    "experiment start": "2023-03-21:24:00:00+0",
+    "doi": "10.1021/jacs8323",	
+    "patent": "USPTO717777",	
+    "publication_url": "https://whatever.com",
+    "attached_file": "PDF-FILESTORE-Reference"},
+
+"record creation": {
+    "time": "2023-03-21:24:00:00+0",
+    "username": "jschrier",	
+    "name": "Joshua Schrier",	
+    "email": "jschrier@fordham.edu",	
+    "orcid": "0000-0000-0000-0000", 	
+    "organization": "Fordham University",	
+    "details": "???"    
+}
+
+}
